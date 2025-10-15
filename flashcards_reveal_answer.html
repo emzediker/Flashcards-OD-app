@@ -1,0 +1,180 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Flashcards — Reveal Answer (Favorites Only)</title>
+<style>
+  body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 20px; background: #fff; color: #111; }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  h1 { margin: 0 0 12px; font-size: 20px; }
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
+  select, input[type=search], button { padding: 8px 10px; border: 1px solid #ddd; border-radius: 8px; }
+  .card { border: 1px solid #ddd; border-radius: 12px; padding: 18px; min-height: 160px; position: relative; background:#fff; }
+  .front { font-weight: 600; }
+  .back { margin-top: 10px; display: none; }
+  .card img { max-width: 100%; height: auto; border-radius: 8px; margin-top: 8px; }
+  .fav { position: absolute; top: 10px; right: 10px; border: 1px solid #ddd; border-radius: 999px; padding: 6px 10px; background: #fff; cursor: pointer; }
+  .fav[aria-pressed="true"] { color: #e09b00; border-color: #caa14a; }
+  .meta { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; color: #555; }
+  .nav { display: flex; gap: 8px; margin-top: 10px; }
+  .nav button { flex: 1; font-weight: 600; }
+  .note { margin-top: 10px; color: #666; font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Optometry Flashcards — Reveal Answer</h1>
+
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Show:
+      <select id="show">
+        <option value="all">All</option>
+        <option value="fav">Favorites</option>
+      </select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+    <button id="fav" class="fav" aria-pressed="false" title="Favorite">★</button>
+  </div>
+
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div id="status">Loaded…</div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
+
+  <div class="note">Tip: ←/→ to move, **R** to reveal/hide, **S** to star. Favorites are saved per device (local).</div>
+</div>
+
+<script>
+  // ---------- SAMPLE CARDS (mix of text-only and image cards) ----------
+  const CARDS = [
+    // Text ➜ Text (no image)
+    { id:"t1", deck:"Anterior Segment",
+      front:"Define pannus.",
+      back:"Superficial corneal neovascularization into the cornea (often from chronic inflammation or CL overwear)." },
+
+    // Text ➜ Image (answer has picture)
+    { id:"ti1", deck:"Posterior Segment",
+      front:"Identify this classic appearance (fundus finding).",
+      back:"<p><b>CRVO —</b> 'blood and thunder' fundus.</p><img src='https://images.unsplash.com/photo-1530023367847-a683933f417e?q=80&w=1200&auto=format&fit=crop' alt='Fundus demo'>" },
+
+    // Image ➜ Text (prompt has picture)
+    { id:"it1", deck:"Neuro-Ophthalmic",
+      front:"<p>Which palsy best matches this deficit?</p><img src='https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?q=80&w=1200&auto=format&fit=crop' alt='Eye movement demo'>",
+      back:"CN VI (abducens) palsy — failure to abduct the affected eye." },
+
+    // Image ➜ Image (both sides)
+    { id:"ii1", deck:"Contact Lens",
+      front:"<p>Lens type preferred for keratoconus?</p><img src='https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1200&auto=format&fit=crop' alt='Contact lens demo'>",
+      back:"<p><b>Scleral or RGP lens</b> for irregular corneas.</p><img src='https://images.unsplash.com/photo-1516570161787-2fd917215a3d?q=80&w=1200&auto=format&fit=crop' alt='Lens case demo'>" },
+
+    // Text-only again
+    { id:"t2", deck:"Glaucoma",
+      front:"What VF defect corresponds to RNFL damage arching from the disc?",
+      back:"Arcuate scotoma." },
+  ];
+
+  // ---------- App logic ----------
+  const els = {
+    deck: document.getElementById('deck'),
+    show: document.getElementById('show'),
+    q: document.getElementById('q'),
+    front: document.getElementById('front'),
+    back: document.getElementById('back'),
+    favBtn: document.getElementById('fav'),
+    prev: document.getElementById('prev'),
+    next: document.getElementById('next'),
+    reveal: document.getElementById('reveal'),
+    counter: document.getElementById('counter'),
+    status: document.getElementById('status'),
+  };
+
+  const APP_KEY = 'fc_favs_v1::';
+  let currentDeck = null, favs = new Set(), view = [];
+  let i = 0, showingAnswer = false;
+
+  function key(deck){ return APP_KEY + deck; }
+  function loadFavs(deck){ try { return new Set(JSON.parse(localStorage.getItem(key(deck)) || '[]')); } catch { return new Set(); } }
+  function saveFavs(deck){ localStorage.setItem(key(deck), JSON.stringify(Array.from(favs))); }
+
+  function populateDecks(){
+    const decks = Array.from(new Set(CARDS.map(c => c.deck)));
+    els.deck.innerHTML = '';
+    decks.forEach(d => { const o=document.createElement('option'); o.value=d; o.textContent=d; els.deck.appendChild(o); });
+    currentDeck = decks[0]; els.deck.value = currentDeck; favs = loadFavs(currentDeck);
+  }
+
+  function apply(){
+    const q = (els.q.value || '').toLowerCase();
+    const favOnly = els.show.value === 'fav';
+    view = CARDS.filter(c =>
+      (!currentDeck || c.deck === currentDeck) &&
+      (!q || (String(c.front)+String(c.back)).toLowerCase().includes(q)) &&
+      (!favOnly || favs.has(c.id))
+    );
+    if (i >= view.length) i = Math.max(0, view.length - 1);
+    showingAnswer = false; render();
+  }
+
+  function render(){
+    if (!view.length){
+      els.front.innerHTML = '<em>No cards match.</em>';
+      els.back.style.display = 'none'; els.back.innerHTML = '';
+      els.favBtn.setAttribute('aria-pressed','false');
+      els.counter.textContent = '0 / 0';
+      els.status.textContent = `Deck: ${currentDeck}`;
+      els.reveal.textContent = 'Reveal Answer';
+      return;
+    }
+    const c = view[i];
+    els.front.innerHTML = c.front || '';
+    els.back.innerHTML  = c.back  || '';
+    els.back.style.display = showingAnswer ? 'block' : 'none';
+    els.favBtn.setAttribute('aria-pressed', favs.has(c.id) ? 'true' : 'false');
+    els.counter.textContent = (i+1) + ' / ' + view.length;
+    els.status.textContent = `Deck: ${currentDeck}` + (els.show.value==='fav'?' (Favorites)':'');
+    els.reveal.textContent = showingAnswer ? 'Hide Answer' : 'Reveal Answer';
+  }
+
+  function next(){ if (!view.length) return; i = (i+1) % view.length; showingAnswer=false; render(); }
+  function prev(){ if (!view.length) return; i = (i-1+view.length) % view.length; showingAnswer=false; render(); }
+  function toggleReveal(){ showingAnswer = !showingAnswer; render(); }
+  function toggleFav(){ if (!view.length) return; const c=view[i]; favs.has(c.id)?favs.delete(c.id):favs.add(c.id); saveFavs(currentDeck); render(); }
+
+  // wire up
+  els.deck.onchange = () => { currentDeck = els.deck.value; favs = loadFavs(currentDeck); i=0; apply(); };
+  els.show.onchange = apply;
+  els.q.oninput = apply;
+  els.prev.onclick = prev;
+  els.next.onclick = next;
+  els.reveal.onclick = toggleReveal;
+  els.favBtn.onclick = toggleFav;
+  document.addEventListener('keydown', (e) => {
+    const k = e.key.toLowerCase();
+    if (k === 'arrowright') next();
+    else if (k === 'arrowleft') prev();
+    else if (k === 'r') toggleReveal();
+    else if (k === 's') toggleFav();
+  });
+
+  // init
+  populateDecks(); apply();
+</script>
+</body>
+</html>
