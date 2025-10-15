@@ -1,0 +1,386 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Optometry Flashcards — Multi-Deck (Reveal Answer)</title>
+<style>
+  body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 20px; background:#fff; color:#111; }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  h1 { margin: 0 0 12px; font-size: 20px; }
+  .bar { display:flex; gap:8px; flex-wrap:wrap; margin-bottom:12px; }
+  select, input[type=search], button { padding:8px 10px; border:1px solid #ddd; border-radius:8px; }
+  .card { border:1px solid #ddd; border-radius:12px; padding:18px; min-height:180px; position:relative; background:#fff; }
+  .front { font-weight:600; }
+  .back { margin-top:10px; display:none; }
+  .card img { max-width:100%; height:auto; border-radius:8px; margin-top:8px; }
+  .fav { position:absolute; top:10px; right:10px; border:1px solid #ddd; border-radius:999px; padding:6px 10px; background:#fff; cursor:pointer; }
+  .fav[aria-pressed="true"] { color:#e09b00; border-color:#caa14a; }
+  .meta { display:flex; justify-content:space-between; align-items:center; margin-top:8px; color:#555; }
+  .nav { display:flex; gap:8px; margin-top:10px; }
+  .nav button { flex:1; font-weight:600; }
+  .note { margin-top:10px; color:#666; font-size:14px; }
+  .pill { padding:2px 8px; border:1px solid #ddd; border-radius:999px; font-size:12px; background:#fff; }
+
+  .admin { margin-top:12px; padding:12px; border:1px dashed #bbb; border-radius:10px; background:#fafafa; }
+  .admin h3 { margin:0 0 8px; font-size:16px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Optometry Flashcards — Multi-Deck (Reveal Answer)</h1>
+
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+
+    <label>Show:
+      <select id="show">
+        <option value="all">All</option>
+        <option value="fav">Favorites</option>
+      </select>
+    </label>
+
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+
+    <span id="adminBadge" class="pill" style="display:none">Admin mode</span>
+    <button id="exportMap" style="margin-left:auto; display:none">Export mapping</button>
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+    <button id="fav" class="fav" aria-pressed="false" title="Favorite">★</button>
+  </div>
+
+  <div id="adminArea" class="admin" style="display:none">
+    <h3>Attach images to this card</h3>
+    <div class="controls" style="display:flex;gap:8px;flex-wrap:wrap;align-items:center">
+      <label>Front image:
+        <select id="frontImg"></select>
+      </label>
+      <label>Back image:
+        <select id="backImg"></select>
+      </label>
+      <button id="saveMap">Save for this card</button>
+      <span id="saveStatus" class="pill" style="display:none">Saved</span>
+    </div>
+    <div style="font-size:13px;color:#555;margin-top:6px">
+      Images are served from your repo’s <code>/images/</code> folder.
+    </div>
+  </div>
+
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div id="status">Choose a deck…</div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
+
+  <div class="note">Tip: ←/→ to move, R to reveal/hide, S to star. Favorites are saved per device (per deck).</div>
+</div>
+
+<script>
+  // ----------------------------------------------------------------------------
+  //  DECK LIST — add more decks here as you create them.
+  //  For each deck, set:
+  //   - id: short unique id (used for favorites & image mapping)
+  //   - title: shown in the dropdown
+  //   - dataUrl: path to the .txt in /data/
+  //   - totalHint: the "x of N" number used in your text export (parser anchor)
+  //   - imageFolder: folder where images live (usually "images")
+  //
+  //  TO ADD A NEW DECK LATER:
+  //   1) Upload its .txt to /data/ (e.g., data/digestive.txt)
+  //   2) Push images to /images/
+  //   3) Add a new object below with {id, title, dataUrl, totalHint, imageFolder}
+  // ----------------------------------------------------------------------------
+  const DECKS = [
+    {
+      id: 'systemic_basic',
+      title: 'Systemic Anatomy – Basic Body Organization & Chemistry',
+      dataUrl: 'data/systemic_basic.txt',
+      totalHint: 95,
+      imageFolder: 'images'
+    }
+    // , { id:'digestive', title:'Digestive System', dataUrl:'data/digestive.txt', totalHint: 300, imageFolder:'images' }
+    // , { id:'integumentary', title:'Integumentary System', dataUrl:'data/integumentary.txt', totalHint: 200, imageFolder:'images' }
+  ];
+
+  // ---------- STATE ----------
+  const els = {
+    deck: document.getElementById('deck'),
+    show: document.getElementById('show'),
+    q: document.getElementById('q'),
+    front: document.getElementById('front'),
+    back: document.getElementById('back'),
+    favBtn: document.getElementById('fav'),
+    prev: document.getElementById('prev'),
+    next: document.getElementById('next'),
+    reveal: document.getElementById('reveal'),
+    counter: document.getElementById('counter'),
+    status: document.getElementById('status'),
+    adminArea: document.getElementById('adminArea'),
+    adminBadge: document.getElementById('adminBadge'),
+    exportMap: document.getElementById('exportMap'),
+    frontImg: document.getElementById('frontImg'),
+    backImg: document.getElementById('backImg'),
+    saveMap: document.getElementById('saveMap'),
+    saveStatus: document.getElementById('saveStatus'),
+  };
+
+  const APP_KEY_PREFIX = 'fc_favs_v1::';
+  const MAP_KEY_PREFIX = 'fc_imgmap_v1::';
+  const IMGLIST_KEY_SUFFIX = '_IMGLIST';
+
+  let currentDeck = null;     // deck object
+  let cards = [];             // all cards for selected deck
+  let view = [];              // filtered view
+  let favs = new Set();       // favorites for deck.id
+  let imgMap = {};            // { cardId: {front:'images/a.jpg', back:'images/b.jpg'} }
+  let imageList = [];         // images available for deck.imageFolder
+  let i = 0, showingAnswer = false;
+  const admin = /[?&]admin=1/.test(location.search);
+
+  function favKey(deckId){ return APP_KEY_PREFIX + deckId; }
+  function mapKey(deckId){ return MAP_KEY_PREFIX + deckId; }
+  function imgListKey(deckId){ return mapKey(deckId) + IMGLIST_KEY_SUFFIX; }
+
+  function loadFavs(deckId){ try{ return new Set(JSON.parse(localStorage.getItem(favKey(deckId))||'[]')); }catch{ return new Set(); } }
+  function saveFavs(deckId){ localStorage.setItem(favKey(deckId), JSON.stringify(Array.from(favs))); }
+
+  function loadMap(deckId){ try{ return JSON.parse(localStorage.getItem(mapKey(deckId))||'{}'); }catch{ return {}; } }
+  function saveMap(deckId, map){ localStorage.setItem(mapKey(deckId), JSON.stringify(map)); }
+
+  function setStatus(t){ els.status.textContent = t; }
+
+  // -------- Parse .txt export (pattern: FRONT / "x of N" / BACK / optional note) --------
+  function parseTxt(txt, totalHint, deckTitle, deckId){
+    const lines = txt.replace(/\r/g,'').split(/\n/);
+    const out = [];
+    for (let idx=0; idx<lines.length; idx++){
+      const line = lines[idx].trim();
+      const m = line.match(new RegExp(String.raw`^(\d+)\s+of\s+${totalHint}$`));
+      if (!m) continue;
+
+      // front = previous non-empty line
+      let j = idx-1; while (j>=0 && !lines[j].trim()) j--;
+      const front = j>=0 ? escapeHtml(lines[j].trim()) : '';
+
+      // back = next non-empty line
+      let k = idx+1; while (k<lines.length && !lines[k].trim()) k++;
+      let back = k<lines.length ? escapeHtml(lines[k].trim()) : '';
+
+      // note = next non-empty that is not "Y of N"
+      let nidx = k+1; while (nidx<lines.length && !lines[nidx].trim()) nidx++;
+      if (nidx < lines.length && !/^\d+\s+of\s+\d+$/i.test(lines[nidx].trim())){
+        const note = lines[nidx].trim();
+        if (note) back += `<div style='margin-top:8px;color:#555;font-size:0.95em'><em>${escapeHtml(note)}</em></div>`;
+      }
+
+      out.push({
+        id: `${deckId}-${out.length+1}`,
+        deck: deckTitle,
+        front, back
+      });
+    }
+    return out;
+  }
+
+  function escapeHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;'); }
+  function imgTag(src){ return src && src !== '(none)' ? `<img src="${src}" alt="">` : ''; }
+
+  // --------------- Image list helpers ---------------
+  // Option A: manifest at images/manifest.json
+  // Option B: one-time console snippet to set localStorage list (per deck)
+  async function loadImageList(deck){
+    // Try manifest first (images/manifest.json)
+    try{
+      const resp = await fetch(`${deck.imageFolder}/manifest.json`, {cache:'no-store'});
+      if (resp.ok){
+        imageList = await resp.json();
+        return;
+      }
+    }catch(e){}
+
+    // Fallback to localStorage (set by console snippet)
+    try{
+      imageList = JSON.parse(localStorage.getItem(imgListKey(deck.id))||'[]');
+    }catch(e){
+      imageList = [];
+    }
+  }
+  function populateImageSelects(){
+    const opts = ['(none)'].concat(imageList);
+    els.frontImg.innerHTML = opts.map(x => `<option value="${x}">${x}</option>`).join('');
+    els.backImg.innerHTML  = opts.map(x => `<option value="${x}">${x}</option>`).join('');
+  }
+
+  // --------------- UI ---------------
+  function populateDeckDropdown(){
+    els.deck.innerHTML = '';
+    DECKS.forEach(d => {
+      const o = document.createElement('option');
+      o.value = d.id;
+      o.textContent = d.title;
+      els.deck.appendChild(o);
+    });
+  }
+
+  function applyFilters(){
+    const q = (els.q.value || '').toLowerCase();
+    const favOnly = els.show.value === 'fav';
+    view = cards.filter(c =>
+      (!q || (String(c.front)+String(c.back)).toLowerCase().includes(q)) &&
+      (!favOnly || favs.has(c.id))
+    );
+    if (i >= view.length) i = Math.max(0, view.length - 1);
+    showingAnswer = false; render();
+  }
+
+  function render(){
+    const isAdmin = admin;
+    els.adminArea.style.display = isAdmin ? 'block' : 'none';
+    els.adminBadge.style.display = isAdmin ? 'inline-block' : 'none';
+    els.exportMap.style.display  = isAdmin ? 'inline-block' : 'none';
+
+    if (!view.length){
+      els.front.innerHTML = '<em>No cards match.</em>';
+      els.back.style.display = 'none'; els.back.innerHTML = '';
+      els.favBtn.setAttribute('aria-pressed','false');
+      els.counter.textContent = '0 / 0';
+      els.reveal.textContent = 'Reveal Answer';
+      setStatus(currentDeck ? currentDeck.title : 'Choose a deck…');
+      return;
+    }
+
+    const c = view[i];
+    const attach = imgMap[c.id] || {};
+    els.front.innerHTML = (c.front || '') + (attach.front ? imgTag(attach.front) : '');
+    els.back.innerHTML  = (c.back  || '') + (attach.back  ? imgTag(attach.back)  : '');
+    els.back.style.display = showingAnswer ? 'block' : 'none';
+
+    els.favBtn.setAttribute('aria-pressed', favs.has(c.id) ? 'true' : 'false');
+    els.counter.textContent = (i+1) + ' / ' + view.length;
+    els.reveal.textContent = showingAnswer ? 'Hide Answer' : 'Reveal Answer';
+    setStatus(currentDeck.title + (els.show.value==='fav'?' (Favorites)':''));
+    // Admin defaults
+    if (isAdmin){
+      const f = attach.front || '(none)';
+      const b = attach.back  || '(none)';
+      els.frontImg.value = imageList.includes(f) ? f : '(none)';
+      els.backImg.value  = imageList.includes(b) ? b : '(none)';
+      els.saveStatus.style.display = 'none';
+    }
+  }
+
+  function next(){ if (!view.length) return; i = (i+1) % view.length; showingAnswer=false; render(); }
+  function prev(){ if (!view.length) return; i = (i-1+view.length) % view.length; showingAnswer=false; render(); }
+  function toggleReveal(){ showingAnswer = !showingAnswer; render(); }
+  function toggleFav(){ if (!view.length) return; const c=view[i]; favs.has(c.id)?favs.delete(c.id):favs.add(c.id); saveFavs(currentDeck.id); render(); }
+
+  function saveCurrentMap(){
+    const c = view[i];
+    const f = els.frontImg.value === '(none)' ? '' : els.frontImg.value;
+    const b = els.backImg.value  === '(none)' ? '' : els.backImg.value;
+    imgMap[c.id] = { front: f, back: b };
+    saveMap(currentDeck.id, imgMap);
+    els.saveStatus.style.display = 'inline-block';
+    setTimeout(()=> els.saveStatus.style.display='none', 1200);
+    render();
+  }
+
+  function exportMapping(){
+    const blob = new Blob([JSON.stringify(imgMap, null, 2)], {type:'application/json'});
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = `${currentDeck.id}_image_map.json`;
+    document.body.appendChild(a); a.click(); a.remove();
+  }
+
+  // --------------- LOAD DECK ---------------
+  async function loadDeckById(deckId){
+    currentDeck = DECKS.find(d => d.id === deckId);
+    if (!currentDeck){ setStatus('Deck not found.'); return; }
+
+    i = 0; showingAnswer = false;
+    setStatus('Loading deck…');
+
+    try{
+      const resp = await fetch(currentDeck.dataUrl, {cache:'no-store'});
+      if (!resp.ok) throw new Error('Deck file not found');
+      const txt = await resp.text();
+      cards = parseTxt(txt, currentDeck.totalHint, currentDeck.title, currentDeck.id);
+      favs = loadFavs(currentDeck.id);
+      imgMap = loadMap(currentDeck.id);
+      await loadImageList(currentDeck);
+      populateImageSelects();
+      applyFilters();
+      setStatus(`Loaded ${cards.length} cards`);
+    }catch(e){
+      setStatus('Error loading deck. Make sure the data file exists.');
+    }
+  }
+
+  // --------------- EVENTS ---------------
+  els.deck.onchange = () => loadDeckById(els.deck.value);
+  els.show.onchange = applyFilters;
+  els.q.oninput = applyFilters;
+  els.prev.onclick = prev;
+  els.next.onclick = next;
+  els.reveal.onclick = toggleReveal;
+  els.favBtn.onclick = toggleFav;
+  els.saveMap.onclick = saveCurrentMap;
+  els.exportMap.onclick = exportMapping;
+
+  document.addEventListener('keydown', (e) => {
+    const k = e.key.toLowerCase();
+    if (k === 'arrowright') next();
+    else if (k === 'arrowleft') prev();
+    else if (k === 'r') toggleReveal();
+    else if (k === 's') toggleFav();
+  });
+
+  // --------------- INIT ---------------
+  (async function init(){
+    // Fill deck dropdown
+    populateDeckDropdown();
+    // Pick first deck by default
+    if (DECKS.length){ els.deck.value = DECKS[0].id; await loadDeckById(DECKS[0].id); }
+    // Admin UI
+    els.adminArea.style.display = admin ? 'block' : 'none';
+    els.adminBadge.style.display = admin ? 'inline-block' : 'none';
+    els.exportMap.style.display  = admin ? 'inline-block' : 'none';
+  })();
+</script>
+
+<!--
+ONE-TIME (per deck) — If you want to auto-populate the image dropdowns without a manifest,
+open the page with ?admin=1 and paste this in the browser console (replace DECK_ID if needed):
+
+(async () => {
+  const owner = 'emzediker';
+  const repo  = 'Flashcards-OD-app';
+  const folder = 'images'; // or a subfolder like 'images/digestive'
+  const url = `https://api.github.com/repos/${owner}/${repo}/contents/${folder}`;
+  const resp = await fetch(url, {cache:'no-store'});
+  if (!resp.ok) { console.error('GitHub API error', resp.status); return; }
+  const data = await resp.json();
+  const list = (Array.isArray(data) ? data : [])
+    .filter(x => x.type === 'file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
+    .map(x => `${folder}/${x.name}`);
+  const deckId = document.getElementById('deck').value; // current deck id
+  localStorage.setItem(`fc_imgmap_v1::${deckId}_IMGLIST`, JSON.stringify(list));
+  console.log('Saved image list for', deckId, list);
+  location.reload();
+})();
+-->
+</body>
+</html>
