@@ -1,0 +1,1327 @@
+Systemic Anatomy, Physiology, & Disease — The Nervous System
+
+The (peripheral/central) nervous system consists of the brain and the spinal cord.
+1 of 326
+Peripheral
+
+The (peripheral/central) nervous system consists of the cranial and spinal nerves.
+2 of 326
+central
+
+Sensory nerves are (afferent/efferent) and motor nerves are (afferent/efferent).
+3 of 326
+afferent ; efferentSome nerves have both afferent and efferent properties.
+
+Afferent nerves carry signals (away from / toward ) the brain and efferent nerves carry signals (away from / toward) the brain.
+4 of 326
+toward ; away from
+
+The (autonomic/somatic) nervous system affects skeletal muscles and the (autonomic/somatic) nervous system affects smooth muscles, cardiac muscles, and glands.
+5 of 326
+somatic ; autonomicFor the most part skeletal muscle is voluntary.
+
+Sympathetic and parasympathetic divisions occur in the (autonomic/somatic) nervous system.
+6 of 326
+autonomicSympathetic = fight or flight ; Parasympathetic = rest and digest
+
+The (sympathetic/parasympathetic) nerves exit the (upper/middle/lower) portion of the spinal cord and are responsible for our fight or flight response.
+7 of 326
+sympathetic ; middle
+
+The (sympathetic/parasympathetic) nerves exit the (upper/middle/lower) portion of the spinal cord and are responsible for normal resting activities.
+8 of 326
+parasympathetic ; upper and lower
+
+Due to their ability to reproduce, most nervous system cancers come from (neurons/glial cells).
+9 of 326
+glial cells
+
+The five main types of glial cells are:
+10 of 326
+astrocytes, microglia, ependymal cells, oligodendrocytes, and Schwann cells.Schwann cells and oligodendrocytes both make myelin.
+
+The blood-brain barrier is made of a double layer of ____ and ___.
+11 of 326
+endothelial cells and astrocyte feetThe "BBB" separates the blood from the cerebral spinal fluid.
+
+(Astrocytes/Microglia/Ependymal cells/ Oligodendrocytes/Schwann cells) are responsible for providing glucose in the form of lactic acid to neurons as well as forming the blood brain barrier and connecting neurons to one another.
+12 of 326
+Astrocytes
+
+(Astrocytes/Microglia/Ependymal cells/Oligodendrocytes/Schwann cells) are responsible for phagocytosis in the central nervous system.
+13 of 326
+Microglia
+
+(Astrocytes/Microglia/Ependymal cells/Oligodendrocytes/Schwann cells) line the cavities of the brain and spinal cord and have cilia to circulate the fluid.
+14 of 326
+Ependymal
+
+(Astrocytes/Microglia/Ependymal cells/Oligodendrocytes/Schwann cells) hold nerve fibers together and form the myelin sheath of the central nervous system.
+15 of 326
+OligodendrocytesIn the peripheral nervous system Schwann cells fulfill this role.
+
+(Astrocytes/Microglia/Ependymal cells/Oligodendrocytes/Schwann cells) hold nerve fibers together and form the myelin sheath of the peripheral nervous system.
+16 of 326
+Schwann cellsIn the central nervous system oligodendrocytes fulfill this role.
+
+Spaces between the myelin sheath in the peripheral nervous system are called _____.
+17 of 326
+Nodes of RanvierThe nodes allow for quicker traveling potential via saltatory conduction
+
+Myelinated fibers are called (gray/white) fibers and nonmyelinated fibers are called (gray/white) fibers.
+18 of 326
+white ; gray
+
+The blood-brain barrier prevents (water/lipid) soluble molecules from penetrating via ____ junctions, however (water/lipid) soluble molecules may still cross the blood brain barrier.
+19 of 326
+water ; tight ; lipid
+In this case lipid soluble drugs can reach the CNS.
+
+Ingested dopamine is ineffective at treating ____ because it does not pass the blood-brain barrier; however, lipid soluble dopamine, called _______ can.
+20 of 326
+Parkinson's ; levodopa"L"evadopa is "L"ipid soluble.
+
+The autoimmune condition ______ is characterized by myelin loss and destruction of oligodendrocytes.
+21 of 326
+multiple sclerosisDamage to peripheral Schwann cells occurs in Guillain-Barre syndrome.
+
+Proteins that are used for the transmission of nerve signals from one neuron to another are _______.
+22 of 326
+neurotransmittersAcetylcholine epinephrine and norepinephrine are all neurotransmitters.
+
+Dendrites (transmit/receive) nerve signals and axons (transmit/receive) nerve signals.
+23 of 326
+receive ; transmit
+
+(Larger/Smaller) diameter axons have faster conduction speeds.
+24 of 326
+Larger
+
+The myelin sheath is found on (axons/dendrites/both).
+25 of 326
+both-- but primarily axons
+
+(Bipolar/multipolar/unipolar) neurons have one axon and several dendrites. (Bipolar/multipolar/unipolar) neurons have one axon and one dendrite. (Bipolar/multipolar/unipolar) neurons are always sensory neurons conducting information toward the CNS.
+26 of 326
+multipolar ; bipolar ; unipolar
+
+(Afferent/Efferent/Inter) neurons lie entirely within the CNS.
+27 of 326
+Interneurons
+
+In a basic reflex arc, a stimulus interacts with an (afferent/efferent/inter) (sensory/motor) neuron in the PNS and that neuron conducts an impulse to the CNS. In the CNS (afferent/efferent/inter) neurons process the information and then synapse with (afferent/efferent/inter)(sensory/motor) neurons to have a response via an effector in the PNS.
+28 of 326
+afferent sensory ; inter ; efferent motor
+
+The (endo/peri/epi) neurium surrounds individual nerve fibers. The (endo/peri/epi) neurium surrounds bundles of fibers called fascicles. The (endo/peri/epi) neurium surrounds bundles of fascicles.
+29 of 326
+endo ; peri ; epiA similar arrangement occurs in muscle.
+
+In the CNS, bundles of nerve fibers are called (nerves/tracts) and in the PNS bundles of nerve fibers are called (nerves/tracts).
+30 of 326
+tracts ; nervesEx. spinothalamic tract is in the CNS & trochlear nerve is in the PNS.
+
+Unmyelinated neural tissues are ______ which make up the gray matter. In the PNS gray matter is called (ganglia/nuclei) and in the CNS gray matter is called (ganglia/nuclei).
+31 of 326
+cell bodies ; ganglia ; nuclei
+
+In neurons, ______ is a protein that temporarily stores oxygen for when supply is low.
+32 of 326
+neuroglobinIn muscles, myoglobin has the same function.
+
+A resting membrane potential of a neuron has a slight (positive/negative) charge outside of the cell and a slight (positive/negative) charge inside of the cell due to differences in ion concentrations.
+33 of 326
+positive ; negative
+
+The resting membrane potential of a neuron is negative (50/70/30) mV.
+34 of 326
+-70In depolarization membrane potential becomes less negative.
+
+In resting neurons some of the (K+/Na+) channels are open and most of the (K+/Na+) channels are closed.
+35 of 326
+K+ ; Na+
+
+Na+/K+ pumps in neuron membranes pump (2/3) K+ ions (into/out of) the cell and (2/3) Na+ ions (into/out of) the cell to help maintain resting membrane potential.
+36 of 326
+2 ; into ; 3 ; out ofThis is a form of active transport.
+
+A shift away from resting membrane potential in a specific region of the plasma membrane of a neuron is called a (action/graded) potential.
+37 of 326
+gradedGraded potentials are additive and action potentials are "all or none."
+
+Depolarization of a neuron occurs when (Na+/K+)(enters/leaves) a cell through stimulus-gated channels. This causes the membrane potential to become more (negative/positive).
+38 of 326
+Na+ ; enters ; positive
+
+Hyperpolarization occurs when (Na+/K+)(enters/leaves) a cell through stimulus-gated channels. This causes the membrane potential to become more (negative/positive).
+39 of 326
+K+ ; leaves ; negative
+
+(Local/Action) potentials cause changes in polarization proportional to the magnitude of their stimulus.
+40 of 326
+LocalLocal potentials are also called graded potentials.
+
+In an action potential, voltage gated Na+ channels open when the ______potential is met."
+41 of 326
+threshold
+
+Prior to the opening of voltage gated Na+, initial depolarization occurs due to opening of ____ gated ____ channels.
+42 of 326
+ligand ; Na+The ligand acetylcholine can bind to a receptor & open Na+ channels.
+
+Na+ entering a neuron causes (depolarization/hyperpolarization/repolarization).
+43 of 326
+depolarization
+
+Voltage gated Na+ channels re-close when the magnitude of depolarization of a cell reaches (+/-) (50/70/30)mV.
+44 of 326
++ 30At a voltage of +30mV Na+ channels close.
+
+Repolarization of a neuron begins with (opening/closing) of (voltage/ligand) gated (Na+/K+) channels.
+45 of 326
+opening ; voltage ; K+Depolarization starts with opening of ligand gated Na+ channels.
+
+Repolarization occurs as (Na+/K+)(enters/leaves) a neuron.
+46 of 326
+K+ leaves
+
+Hyperpolarization is restored to resting membrane potential by the actions of _____.
+47 of 326
+The sodium-potassium pumpsThey pump 3 Na+ out of the cell and 2 K+ in.
+
+In a neuronal action potential, all of the ligand and voltage gated ion channels have rapid responses with the exemption of the (ligand/voltage)gated (Na+/K+)channel.
+48 of 326
+voltage ; K+
+
+Voltage gated Na+ channels open with a voltage of ~____mV.
+49 of 326
+- 50-60mV
+
+In order to a graded potential to become an action potential, voltage gated Na+ channels require the voltage to reach at least ___mV.
+50 of 326
+- 59mVHere, voltage gated Na+ channels open & an action potential occurs.
+
+(Resting/Action/Threshold) potential is -70mV. Peak (Resting/Action/Threshold) potential is +30mV and (resting/action/threshold) potential is -59mV.
+51 of 326
+resting ; action ; threshold.Resting membrane potential is established by Na+/K+ pumps.
+
+Immediately following an action potential is the _____ period where an area of the axon's membrane resist restimulation.
+52 of 326
+refractory
+
+During the (relative/absolute) refractory period, a neuron resists stimulation no matter the strength of the stimuli.During the (relative/absolute) refractory period a neuron will only respond to a very strong stimulus.
+53 of 326
+absolute ; relative
+
+The refractory period prevents the (action/graded) potential from moving (forward/backward).
+54 of 326
+action ; backward
+
+The jumping of action potentials to the nodes between myelin sheaths is called ________ conduction.
+55 of 326
+saltatoryThe nodes are called the "nodes of Ranvier."
+
+(Excitatory / Inhibitory ) neurotransmitters cause hyperpolarization and (excitatory/inhibitory) neurotransmitters cause depolarization.
+56 of 326
+Inhibitory ; excitatoryGABA is inhibitory and glutamate is excitatory.
+
+Electrical synapses occur in cells joined by ___ junctions such as the heart. Chemical synapses occur via _________ between presynaptic cells and postsynaptic cells.
+57 of 326
+gap ; neurotransmitters
+
+When an action potential reaches the synaptic knob of presynaptic neurons, (ligand/voltage) gated ___ channels open and intracellular levels of ___ increase.
+58 of 326
+voltage ; Ca++ ; Ca++
+
+In a presynaptic neuron ___ causes exocytosis of neurotransmitters into a synaptic cleft.
+59 of 326
+Ca++
+
+Excitatory neurotransmitters cause (Na+/K+/Ca+/Cl-) channels to open resulting in an excitatory postsynaptic potential.
+60 of 326
+Na+ and K+Na+ goes into the cell causing the initial change in voltage.
+
+Inhibitory neurotransmitters cause (Na+/K+/Ca+/Cl-) channels to open resulting in an inhibitory postsynaptic potential.
+61 of 326
+K+ and Cl-
+
+Increasing intracellular Cl- causes an (IPSP/EPSP).
+62 of 326
+IPSPInhibitory postsynaptic potential
+
+Increasing intracellular Na+ causes an (IPSP/EPSP).
+63 of 326
+EPSPExcitatory postsynaptic potential
+
+(Action/Graded) potentials can summate to reach threshold potential.
+64 of 326
+GradedOnce threshold is met, an action potential occurs.
+
+In (spatial/temporal) summation the sum of graded potentials on different areas of a neuron can change membrane potential in an additive manner. In (spatial/temporal) summation the effects of stimulation by a single presynaptic neuron can be additive with rapid succession to produce an action potential.
+65 of 326
+spatial ; temporal
+
+As a neurotransmitter, serotonin can block ___ channels of a presynaptic neuron for weeks. This results in (prolonging/shortening) an action potential.
+66 of 326
+K+ ; prolonging
+
+Many anesthetic medications reduce pain sensation by inhibiting the opening of ___ channels in neurons.
+67 of 326
+Na+They do not correct the cause of pain-- only the sensation.
+
+Some neurotransmitters produce their effects by binding to _______coupled receptors which activate second messengers in cells.
+68 of 326
+G-protein
+
+When norepinephrine binds to G-protein coupled receptors, ______ activates the enzyme adenylyl cyclase. Adenylyl cyclase removes phosphates from ___ to form ___.
+69 of 326
+G-protein ; ATP ; cAMP
+
+As a second messenger, cAMP activates ______ causing Na+ channels in postsynaptic neurons to open.
+70 of 326
+protein kinase A
+
+Which is faster: the direct action of neurotransmitters or the second messenger system?
+71 of 326
+neurotransmitters
+
+Postsynaptic membranes contain ________ which breaks down receptor-bound acetylcholine.
+72 of 326
+acetylcholinesterase
+
+Acetyl CoA + Choline =
+73 of 326
+Acetylcholine
+
+Serotonin aka _____ and histamine are ____amine neurotransmitters.
+74 of 326
+5-HT ; mono
+
+Dopamine, epinephrine, and norepinephrine are ______amine neurotransmitters.
+75 of 326
+catechol
+
+Glutamate is an (inhibitory/excitatory) neurotransmitter and GABA is an (inhibitory/excitatory) neurotransmitter.
+76 of 326
+excitatory ; inhibitory
+
+A deficiency in dopamine resulting in muscle tremors is characteristic of the disease _______.
+77 of 326
+Parkinsons
+
+Enkephalins and endorphins are both _____peptides that (transmit/block) pain.
+78 of 326
+neuro ; block
+
+Substance P is a ____peptide that (transmits/blocks) pain.
+79 of 326
+neuro ; transmits
+
+Neuro_____ regulate neuron growth. Developing neurons grow toward the cells the release them.
+80 of 326
+trophins
+
+(Convergence/Divergence) occurs when a single presynaptic axon synapses with many different postsynaptic neurons.(Convergence/Divergence) occurs when more than one presynaptic axon synapses with a single postsynaptic neuron.
+81 of 326
+Divergence ; Convergence
+
+Catechol-o-methyltransferase (COMT) inactivates _______.
+82 of 326
+norepinephrine
+
+The enzyme monoamine oxidase inactivates _____ and _______.
+83 of 326
+serotonin and dopamine
+
+Cocaine blocks the reuptake of _______.
+84 of 326
+dopamine
+
+The primary germ layer that the nervous system is derived from is the (endoderm/mesoderm/ectoderm).
+85 of 326
+ectoderm
+
+# eThe condition of multiple sclerosis is a disorder of (neurons/glia).
+86 of 326
+gliaSpecifically myelin producing cells.
+
+A ____oma is a tumor of the nervous system.
+87 of 326
+neuroma
+
+Cancer of glial cells is called a _____.
+88 of 326
+glioma
+
+An _____toma is a cancer of astrocytes. Glioblastoma ________ is a highly malignant form of an astrocyte tumor.
+89 of 326
+astrocytoma ; multiforme
+
+A tumor of the glial cells that line the ventricles of the brain and spinal cord is called an _______moma.
+90 of 326
+ependymoma
+
+An __________oma is a tumor of the glial cells that form the myelin sheath in the central nervous system.
+91 of 326
+oligodendroglioma
+
+An acoustic neuroma is a tumor of the Schwann cells surrounding cranial nerve ____.
+92 of 326
+8Cranial nerve 8 is vestibulocochlear.
+
+___________ is a group of genetic diseases characterized by fibrous neuromas and skin spots.
+93 of 326
+Neurofibromatosis
+
+The three meninges that cover the brain and spinal cord from deep to superficial are:
+94 of 326
+pia mater ; arachnoid mater ; dura mater
+
+The (falx cerebri/falx cerebelli/tentorium cerebelli) is an extension of the dura mater that projects into the longitudinal fissure between the two cerebral hemispheres.
+95 of 326
+falx cerebri
+
+The (falx cerebri/falx cerebelli/tentorium cerebelli) is an extension of the dura mater that separates the two halves of the cerebellum.
+96 of 326
+falx cerebelli
+
+The tentorium cerebelli is an extension of the (pia/arachnoid/dura) matter that separates the _______ and _______.
+97 of 326
+dura ; cerebrum ; cerebellum
+
+Dural ______ are a reservoir for (arterial/venous) blood.
+98 of 326
+sinuses ; venous
+
+The dural sinus formed by the falx cerebri is called the _______.
+99 of 326
+superior sagittal sinus
+Systemic Anatomy, Physiology, & Disease
+
+The Nervous System Deck 2 of 4
+
+99 flashcards
+
+The space between the dura mater and the bones of the spinal cord is the (epidural/subdural/subarachnoid) space.
+100 of 326
+epidural
+
+The dura of the brain and the spinal cord is continuous with the ______ of the bones.
+101 of 326
+periosteum
+
+The (epidural/subdural/subarachnoid) space is between the dura and arachnoid mater and contains (cerebrospinal/serous) fluid.
+102 of 326
+subdural ; serous
+
+The (epidural/subdural/subarachnoid) space is between the arachnoid and pia mater and is filled with (cerebrospinal/serous) fluid.
+103 of 326
+subarachnoid ; cerebrospinal
+
+Inflammation of the meninges is called _______. Symptoms include fever, lethargy, confusion, and a characteristic pain in the ________.
+104 of 326
+meningitis ; neck
+
+The four ventricles of the brain are filled with __________.
+105 of 326
+cerebrospinal fluid
+
+Cerebrospinal fluid is created from blood by the ___ ____ and secreted into the _______ space.
+106 of 326
+choroid plexuses ; subarachnoid
+
+The flow of cerebrospinal fluid starts in the (1st / 2nd / 3rd / 4th) ventricles by (astrocytes / ependymal / oligodendrocyte) cells.
+107 of 326
+3rd and 4th ; ependymalThe 1st and 2nd ventricles are the "lateral ventricles".
+
+Cerebrospinal fluid created by the lateral ventricles flows through the ________ foramen between the two ventricles and down the __________aqueduct to the 4th ventricle.
+108 of 326
+interventricular ; cerebral
+
+Cerebrospinal fluid flows in the ______ space and is eventually reabsorbed into venous blood by the ________ into the brain's venous sinus.
+109 of 326
+subarachnoid ; arachnoid villi
+
+A lumbar puncture is a withdrawal of (blood/cerebrospinal fluid) from the (subdural/subarachnoid) space in the (sacral/lumbar/thoracic) region of the vertebral column.
+110 of 326
+cerebrospinal fluid ; subarachnoid ; lumbarThis is also known as a "spinal tap."
+
+(Normal/Abnormal) cerebrospinal fluid is clear.
+111 of 326
+Normal
+
+The (ventral/dorsal) root of the spinal cord carries sensory information.
+112 of 326
+dorsalThe ventral root carries motor information.
+
+The dorsal root ganglion contains _______ of (sensory/motor)(multipolar/unipolar) neurons.
+113 of 326
+cell bodies ; sensory ; unipolar
+
+The cell bodies in the dorsal root ganglion are considered (white/gray) matter.
+114 of 326
+grayMyelin constitutes white matter.
+
+The ventral nerve root carries (sensory/motor) information.
+115 of 326
+motorThe dorsal root carries sensory information.
+
+The gray matter of the core of the spinal cord is made of (sensory/motor/inter) neurons.
+116 of 326
+inter
+
+The spinal cord ends at vertebrae ____.
+117 of 326
+L1
+
+The nerve roots that extend from the end of the spinal cord are called the _____.
+118 of 326
+cauda equinaThey have a loose appearance like an equine (horse) tail.
+
+Tracts are composed of bundles of axons. Ascending tracts are (motor/sensory) and descending tracts are (motor/sensory).
+119 of 326
+sensory ; motorAscending are afferent and descending are efferent.
+
+The _______ tract is responsible for pain, temperature, and crude touch on the opposite side.
+120 of 326
+lateral spinothalamicIt crosses over at the level of the spinal cord.
+
+The __________ tract is responsible for crude touch and pressure.
+121 of 326
+anterior spinothalamicIt crosses over at the level of the spinal cord.
+
+The fasciculi _______ and _____ are responsible for touch and pressure discrimination (ex vibration and two point discrimination) and conscious kinesthesia.
+122 of 326
+gracilis and cuneatus
+
+The fasciculi gracilis and cuneatus both terminate in the ______ of the brain.
+123 of 326
+medullaThis is also where they crossover.
+
+The _______ tract is responsible for unconscious kinesthesia.
+124 of 326
+spinocerebellar
+
+The _____ tract is related to visual reflexes and terminates in the _______ ____ of the midbrain.
+125 of 326
+spinotectal ; superior colliculus
+
+_______ is the sensation of where one's body is in space.
+126 of 326
+Kinesthesia
+
+The _________ tract is responsible for voluntary movement, especially for small muscle groups on the opposite side of the body.
+127 of 326
+lateral corticospinal
+
+The __________ tract is responsible for the voluntary contraction of muscle on the same side of the body.
+128 of 326
+anterior corticospinal
+
+The _________ tract maintains posture during movement.
+129 of 326
+reticulospinal
+
+The reticulospinal tract originates in the reticular formation formed by the _______.
+130 of 326
+midbrain, medulla, and pons
+
+The _______ tract coordinates body movement and posture.
+131 of 326
+rubrospinal
+
+The rubrospinal tract originates in the ____ nucleus of the ____.
+132 of 326
+red ; midbrain
+
+The _____ tract is responsible for head and neck movement during visual reflexes.
+133 of 326
+tectospinal
+
+The tectospinal tract originates in the _____ of the midbrain.
+134 of 326
+superior colliculus
+
+The ________ tract coordinates posture and balance.
+135 of 326
+vestibulospinalAnd the vestibulocochlear nerve is also involved in balance.
+
+The vestibulospinal tract originates in the ____ nucleus found in the ____.
+136 of 326
+vestibular ; pons and medulla
+
+The three structures that form the brain stem are the ______.
+137 of 326
+midbrain , medulla oblongata, and the pons
+
+___ of the 12 cranial nerves emerge from the brainstem.
+138 of 326
+10I and II do not emerge from the brainstem.
+
+The nuclei in the _______ of the brain contain cardiac, respiratory, and vasomotor control centers.
+139 of 326
+medulla oblongata
+
+The medulla oblongata is superior to the _____ and inferior to the ______ .
+140 of 326
+spinal cord ; pons
+
+The pyramid and olive are features of the (midbrain/pons/medulla).
+141 of 326
+medulla
+
+Superior to the pons is the _____ and inferior to the pons is the ______.
+142 of 326
+midbrain ; medulla
+
+Superior to the midbrain is the ______ and inferior to the midbrain is the _____.
+143 of 326
+cerebrum ; pons
+
+Tracts that extend from the midbrain to the cerebrum are called the ___________.
+144 of 326
+cerebral peduncles
+
+Tracts that extend from the brainstem to the cerebellum are called the _________.
+145 of 326
+cerebellar peduncles
+
+The mesencephalon is the (forebrain/midbrain/hindbrain).
+146 of 326
+Midbrain
+
+The superior and inferior colliculi of the (medulla/pons/midbrain) make up the _________.
+147 of 326
+midbrain ; corpora quadrigemina
+
+Auditory centers are found in the (inferior/superior) colliculi and visual centers are found in the (inferior/superior) colliculi.
+148 of 326
+inferior ; superior
+
+The red nucleus and substantia nigra are involved in (sensory/motor) function and are found in the (medulla/pons/midbrain/cerebellum).
+149 of 326
+motor ; midbrain
+
+The pons contains centers for cranial nerves _______ and a pneumotaxic center for ______.
+150 of 326
+5,6,7,8 ; breathingPneumo is descriptive for breathing-- ex. pneumonia.
+
+The midbrain contains centers for cranial nerves _____.
+151 of 326
+3 & 4
+
+The _____ fissure separates the cerebellum from the cerebrum.
+152 of 326
+transverse
+
+The outer portion of the brain is called the ______ and is made up of (white/gray) matter.
+153 of 326
+cortex ; grayGray matter is made up of nuclei.
+
+The tree-like white matter in the cerebellum is called the _____.
+154 of 326
+arbor vitae
+
+The two hemispheres of the cerebellum are separated by the ______.
+155 of 326
+vermis
+
+On the cerebrum and cerebellum, the grooves are called (gyri/sulci) and the raised areas are called (gyri/sulci).
+156 of 326
+sulci ; gyri
+
+The (superior/middle/inferior) cerebellar peduncles connect to the medulla and spinal. The (superior/middle/inferior) cerebellar peduncles connect to the pons. The (superior/middle/inferior) cerebellar peduncles connect to the red nucleus of the midbrain and thalamus.
+157 of 326
+inferior ; middle ; superior
+
+The dentate nuclei are found in the _______ and connect to the thalamus and cerebral cortex.
+158 of 326
+cerebellum
+
+The spinocerebellar, vestibulocerebellar, and reticulocerebellar tracts connect the cerebellum to other areas of the brain via the (superior/inferior/middle) cerebellar peduncles.
+159 of 326
+inferior
+
+The pontocerebellar tract runs through the (superior/inferior/middle) cerebellar peduncle.
+160 of 326
+middle
+
+The (cerebellum/cerebrum/brainstem) is responsible for coordinating skeletal movement and maintaining balance.
+161 of 326
+cerebellum
+
+Ataxia, hypotonia, tremor, imbalance, or irregular gate can all occur as a result of damage to the (brainstem/cerebellum/cerebrum).
+162 of 326
+cerebellum
+
+The thalamus, hypothalamus, optic chiasm, and pineal gland are all part of the (telencephalon/diencephalon/mesencephalon).
+163 of 326
+diencephalonIn order, the germinal vesicles are "Tel Di Mes Met Myelen" -cephalon.
+
+The geniculate body is found in the (cerebellum/pons/thalamus/hypothalamus) and is responsible for processing ______ input.
+164 of 326
+thalamus ; auditory and visual
+
+The (midbrain/ cerebellum/thalamus/hypothalamus) is considered a relay station for sensation prior to being processed in the cerebrum.
+165 of 326
+thalamus
+
+The supraoptic nuclei, paraventricular nuclei, and maxillary bodies are found in the (midbrain/cerebellum/thalamus/hypothalamus).
+166 of 326
+hypothalamus
+
+The _______ is the stalk that connects the hypothalamus to the posterior lobe of the _____ gland.
+167 of 326
+infundibulum ; pituitary
+
+The neurohypophysis is the _____ gland.
+168 of 326
+pituitary
+
+The maxillary bodies are involved in the sense of (touch/sight/smell/taste).
+169 of 326
+smell
+
+The (brainstem/cerebellum/cerebrum/thalamus/hypothalamus) is responsible as the regulator and coordinator of autonomic activity (such as for water balance and temperature control) as well as for emotional sensations, hunger sensation and waking state.
+170 of 326
+hypothalamus
+
+The supraoptic and paraventricular nuclei of the hypothalamus synthesize the hormones released by the (anterior/posterior) ______ gland.
+171 of 326
+posterior pituitaryThe anterior pituitary makes its own hormones.
+
+____ hormones from the hypothalamus go to the (anterior/posterior) _______ gland to stimulate further hormone release.
+172 of 326
+Releasing ; anterior ; pituitary
+
+The ______ gland is part of the epithalamus and it secretes _______ to control circadian rhythms.
+173 of 326
+pineal ; melatoninS cones in the retina influence this process.
+
+The four lobes of the brain are :
+174 of 326
+frontal , parietal , temporal and occipitalThis mimics the bones of the skull.
+
+The supposed fifth lobe of the brain is the ____ which is tucked behind the lateral fissure.
+175 of 326
+insula
+
+The (longitudinal/lateral) fissure is the groove that divides the cerebrum into two hemispheres.
+176 of 326
+longitudinal
+
+The (longitudinal/lateral) fissure is the groove between the temporal lobe and the adjacent area of the frontal or parietal lobe.
+177 of 326
+lateral
+
+The (central/parietooccipital) sulcus is the groove between the frontal and parietal lobes.
+178 of 326
+central
+
+The (central/parietooccipital) sulcus separates the parietal and occipital lobes.
+179 of 326
+parietooccipital
+
+(Association/Commissural/Projection) tracts connect the brain and extensions of the ascending spinothalamic tracts and descending corticospinal tracts.
+180 of 326
+Projection
+
+(Association/Commissural/Projection) tracts extend from one convolution to another in the same hemisphere.
+181 of 326
+Association
+
+(Association/Commissural/Projection) tracts make up the corpus callosum and connects the two hemispheres.
+182 of 326
+Commissural
+
+The gray matter in the inner part of the cerebrum is called the _____ nuclei.
+183 of 326
+basalGray matter is also in the cerebral cortex.
+
+The caudate nucleus, lentiform nucleus, and amygdaloid nucleus are all part of the (brainstem/cerebellum/diencephalon/cerebrum).
+184 of 326
+cerebrum
+
+The two structures of the lentiform nucleus of the cerebrum are the ____ and ____.
+185 of 326
+putamen and pallidus
+
+Parkinson's disease is a result of destruction of dopaminergic neurons from the ________ of the brain.
+186 of 326
+substantia nigraOne sign of Parkinson's is decreased facial expressions.
+
+The (precentral / postcentral) gyrus is the primary somatic motor area and the (precentral / postcentral) gyrus is the primary somatic sensory area.
+187 of 326
+precentral ; postcentralSimilar to the ventral root being motor and dorsal root being sensory.
+
+The ___________ is found within the brainstem and is responsible for maintaining consciousness.
+188 of 326
+reticular activating system
+
+Damage to _____ area in the (frontal/parietal/temporal/occipital) lobe of brain gives rise to aphasias.
+189 of 326
+Broca's ; frontal
+
+The cingulate gyrus and hippocampus are parts of the ______ of the brain, which is the center for emotions.
+190 of 326
+limbic system
+
+Primary sensory neurons conduct from the periphery to the _______. Secondary sensory neurons conduct from the spinal cord or brainstem to the _____. Tertiary sensory neurons conduct to the _____ gyrus of the ____ lobe.
+191 of 326
+central nervous system ; thalamus ; postcentral gyrus ; parietalThe precentral gyrus in the frontal lobe is motor.
+
+The tract that tertiary sensory neurons conduct on is called the ________ tract.
+192 of 326
+thalamocortical
+As it is named, it goes from the thalamus to the cortex.
+
+Most sensory pathways to the cerebral cortex are (crossed/uncrossed).
+193 of 326
+crossedEx. The right lobe processes sensation from the left hand.
+
+The (primary/secondary/tertiary) neuron is typically the sensory neuron that decussates during somatic perception.
+194 of 326
+secondaryTo decussate means to cross over to the contralateral side.
+
+The two sensory pathways that conduct impulses of touch and pressure are:
+195 of 326
+medial lemniscal system and spinothalamic pathway
+
+The medial lemniscal system's secondary sensory neuron crosses over at the level of the (medulla/spinal cord) and the spinothalamic pathway crosses over at the level of the (medulla/spinal cord).
+196 of 326
+medulla ; spinal cord
+
+Somatic motor nerves are found in the (anterior/posterior)(gray/white) horn of the spinal cord.
+197 of 326
+anterior grayMotor structures are often anterior or ventral to sensory structures.
+
+Most of the pyramidal motor pathways cross at the level of the (medulla/midbrain/spinal cord). The extrapyramidal pathways cross over at the (medulla/midbrain/spinal cord).
+198 of 326
+medulla ; medulla
+Systemic Anatomy, Physiology, & Disease
+
+The Nervous System Deck 3 of 4
+
+99 flashcards
+
+A hemorrhage or cessation of blood flow through the cerebral blood vessels can result in a ______.
+199 of 326
+stroke
+
+A stroke to a motor area of the brain will result in (spastic/flaccid) paralysis of the (contra/ipsi) lateral side of the body.
+200 of 326
+spastic ; contraA stroke on the left hemisphere may cause right sided paralysis.
+
+People with cerebral palsy suffer from (spastic/flaccid) paralysis due to loss of motor control areas in the brain typically at or shortly after birth.
+201 of 326
+spasticStokes cause flaccid paralysis.
+
+"Paralysis to one side of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to the lower half of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to all four extremities is (quadriplegia/hemiplegia/paraplegia)."
+202 of 326
+hemiplegia ; paraplegia ; quadriplegia
+
+_______ is an inherited disease characterized by chorea (involuntary purposeless movements) that progresses to dementia and death.
+203 of 326
+Huntington diseaseHuntington disease is autosomal dominant and exhibits "anticipation."
+
+__________ is a degenerative brain disease caused by prions converting normal proteins into abnormal variants.
+204 of 326
+Bovine spongiform encephalopathy and Creutzfeldt-Jakob diseaseBSE is also called "mad cow" disease.
+
+Chronic seizures constitute a condition called ____.
+205 of 326
+epilepsy
+
+There are ___ cervical nerve pairs and ___ cervical vertebrae.
+206 of 326
+8 ; 7
+
+There are __ thoracic nerve pairs, __ lumbar nerve pairs, and __ sacral nerve pairs.
+207 of 326
+12 ; 5 ; 5
+
+All spinal nerves are (sensory/motor/mixed).
+208 of 326
+mixed
+
+The (dorsal/ventral) root of a spinal nerve carries sensory information and the (dorsal/ventral) root of a spinal nerve carries motor information.
+209 of 326
+dorsal ; ventral
+
+The dorsal root of the spinal nerve has a ______ and the ventral root does not.
+210 of 326
+ganglia
+
+The ganglia of the dorsal root of a spinal nerve contains the _____ of sensory neurons.
+211 of 326
+cell bodies
+
+After a nerve leaves the spinal cord is split into ____.
+212 of 326
+rami
+
+The (dorsal/ventral) ramus of a spinal nerve supplies innervation to muscle and skin. The (dorsal/ventral) ramus of a spinal nerve supplies innervation to autonomic effectors.
+213 of 326
+dorsal ; ventral
+
+The cervical and brachial plexus are formed by the (cervical/thoracic/lumbar/sacral) spinal nerves.
+214 of 326
+cervical
+
+The phrenic nerve of the cervical plexus innervates the __________.
+215 of 326
+diaphragm
+
+Each skin surface supplied by sensory fibers of a given spinal nerve is called a _______.
+216 of 326
+dermatomeShingles infections fall along a dermatome.
+
+A skeletal muscle or group of muscles that receives motor axons from a given spinal nerve is called a _______.
+217 of 326
+myotome
+
+The condition shingles caused by the ______ virus typically will cause a rash that is consistent with a single dermatome.
+218 of 326
+herpes zoster
+
+_______ fibers carry information regarding tension in muscles.
+219 of 326
+ProprioceptiveThis is a sensory characteristic.
+
+The names of the twelve cranial nerves are:
+220 of 326
+olfactory , optic , oculomotor, trochlear, trigeminal, abducens , facial, vestibulocochlear, glossopharyngeal, vagus, accessory, hypoglossal.Oh, Oh, Oh to touch and feel various green vegan artificial hams.
+
+The functional classification of the cranial nerves in order are:S = sensory M = motor B = both
+221 of 326
+SSMMBMBSBBMMSome say marry money but my brother says bad boys matter more.
+
+The receptors for CNI are in the ________ and they terminate in the _______cortex.
+222 of 326
+nasal mucosa ; olfactoryCN I is olfactory. It pierces the cribriform plate of the ethmoid bone.
+
+CN I is called the _______ nerve and its function is _____.
+223 of 326
+olfactory ; smell
+
+The receptors for CN II are in the _____ and they terminate in the _____.
+224 of 326
+retina ; lateral geniculate nucleus of the thalamus and the superior colliculus of the midbrain
+The ganglion cells of the retina form the optic nerve.
+
+CN II is called ________ nerve and its function is _____.
+225 of 326
+optic ; vision
+
+The nucleus for CN III is in the _______.
+226 of 326
+midbrain
+
+CN III is called _______ and it is responsible for:
+227 of 326
+oculomotor; motor innervation to the external eye muscles except superior oblique and lateral rectus, as well as internal eye muscles such as a ciliary ganglion and the ciliary iris muscles.These control eye movements, pupil size and accommodation.
+
+CN lV comes from the ______ and innervates the ______ for ______.
+228 of 326
+midbrain ; superior oblique ; intorsion and depressing the eye
+
+CN II enters the cranial cavity through the ______- foramen.
+229 of 326
+optic
+
+From the thalamus, fibers originally from CN II go to the ______ lobe or to the _____-of the midbrain.
+230 of 326
+occipital ; superior colliculus
+
+CN V has sensory and motor nuclei in the _____ of the brain.
+231 of 326
+pons
+
+CN V is called _____ and its two main functions are:
+232 of 326
+trigeminal ; sensation in the face and movements in the chewing muscles
+
+CN VI originates in the ___ of the brain and innervates the ______.
+233 of 326
+pons ; lateral rectus
+
+CN VI is called _______ and its function is to ____.
+234 of 326
+abducens ; abduct the eyeAbduction is turning out toward the ear.
+
+CN VII is associated to the ____ of the brain.
+235 of 326
+pons
+
+CN VII is called _______ and is responsible for:
+236 of 326
+facial ; expressions, salivation, and taste sensation on the anterior 2/3 of the tongue.
+
+The three branches of the trigeminal nerve are:
+237 of 326
+ophthalmic ; maxillary ; mandibularAlso known as V1 V2 V3.
+
+The branch of the trigeminal nerve responsible for mastication is the (ophthalmic/maxillary/mandibular) branch.
+238 of 326
+mandibular
+
+Damage to the fifth cranial nerve can result in the condition ________ which comes with sharp stabbing pains in the face.
+239 of 326
+trigeminal neuralgia
+
+The efferent autonomic fibers of CN VII go to the______ glands.
+240 of 326
+submaxillary, sublingual, and lacrimal
+
+The sensory fibers of cranial nerve (VII / IX) are responsible for taste sensation on the anterior 2/3 of the tongue.
+241 of 326
+VII
+
+The two branches of CN VIII are _____ and ____ branches.
+242 of 326
+vestibular ; cochlear aka auditory
+
+The vestibular branch of CN VIII has receptors in the ________ and terminates in the ____ of the brain.
+243 of 326
+semicircular canal and vestibule of the inner ear ; ponsThis helps with balance.
+
+The cochlear branch of CN VIII has receptors in the ________ and terminates in the _____.
+244 of 326
+spiral organ of corti and cochlear duct of the inner ear ; ponsThis helps with hearing.
+
+CN VIII is called _______ and is responsible for _____.
+245 of 326
+vestibulocochlear ; hearing and balance
+
+The (vestibular/cochlear) branch of CNVII is responsible for balance and the (vestibular/cochlear) branch is responsible for hearing.
+246 of 326
+vestibular ; cochlear
+
+CN IX has receptors in the ________ and originates in the ______ of the brain.
+247 of 326
+pharynx, anterior 1/3 of the tongue, carotid body, and carotid sinus ; medulla
+
+CN IX is called _______ and is responsible for ______.
+248 of 326
+glossopharyngeal taste on the anterior 1/3 of the tongue, swallowing, salivation, blood pressure control.
+
+CN X originates in the ______ and terminates in the ______ of the brain.
+249 of 326
+pharynx, larynx, thoracic and abdominal viscera; medulla
+
+CN X is called _______ and is responsible for_____.
+250 of 326
+Vagus; sensation and movements of several organs including the heart.
+
+The 4 parasympathetic cranial nerves are:
+251 of 326
+III, VII, IX and X
+
+The 4 cranial nerves that have ganglia are:
+252 of 326
+III, VII, IX, X
+
+The ganglia for CN V is:
+253 of 326
+trigeminal
+
+The ganglia for CN VII is:
+254 of 326
+geniculate
+
+The ganglia for CN IX is:
+255 of 326
+otic
+
+The ganglia for CN X is:
+256 of 326
+jugular
+
+CN XI peripherally is associated to the ______ and is centrally associated to the ______.
+257 of 326
+trapezius and sternocleidomastoid ; spinal cord
+
+CN XI is called ________ and is responsible for _____.
+258 of 326
+accessory; shoulder movements and head turning movements
+
+CN XII is associated with _______ peripherally and the _______ centrally.
+259 of 326
+tongue muscles; medulla
+
+CN XII is called _______ and is responsible for _______.
+260 of 326
+hypoglossal ; tongue movement
+
+The somatic motor pathway of the CNS is (voluntary/nonvoluntary).
+261 of 326
+voluntary
+
+The last motor neuron of the somatic motor pathway stimulates its effector via the neurotransmitter (epinephrine/acetylcholine).
+262 of 326
+acetylcholine
+
+A ______ is a predictable motor response to a stimulus by neurons that may or may not be conscious.
+263 of 326
+reflex
+
+(Somatic/Autonomic) reflexes involve skeletal muscle and (somatic/autonomic) reflexes involve smooth muscle, cardiac muscles or glands.
+264 of 326
+Somatic ; autonomic
+
+The patellar reflex involves stimulation of a (1/2/3) neuron reflex arc resulting in a kicking motion after stimulation of muscle spindles.
+265 of 326
+2
+
+Two neuron somatic reflexes synapse in the (brain/spinal cord).
+266 of 326
+spinal cord
+
+The ______ reflex is an extension of the foot in response to stimulation of the Achilles tendon.
+267 of 326
+ankle jerk
+
+The ______reflex is curling the toes in response to stimulation of the outer sole.
+268 of 326
+plantar
+
+The ______ sign is an extension of the big toe in response to stimulation of the outer sole of the foot and is normal in babies up to ___ months.
+269 of 326
+Babinski ; 18
+
+Retained Babinski sign after about 18 months may indicate ____ damage.
+270 of 326
+pyramidalThe pyramids play a role in voluntary muscle movements.
+
+The ____ reflex is blinking in response to the front of the eye being touched.
+271 of 326
+cornealIt is mediated by CN V2 (sensory portion) and VII (motor response).
+
+The corneal reflex tests the health of CN____ and __.
+272 of 326
+V and VII
+
+The ______ reflex occurs when the umbilicus moves in response to stroking the side of the abdominal.
+273 of 326
+abdominal
+
+The autonomic nervous systemic controls (voluntary/involuntary) effectors.
+274 of 326
+involuntary
+
+The two divisions of the autonomic nervous system are :
+275 of 326
+sympathetic and parasympathetic
+
+Each autonomic pathway is made up of three elements:
+276 of 326
+nerves, ganglia, plexuses
+
+The two neuron relay in an autonomic pathway consists of ______ and ____ neurons.
+277 of 326
+preganglionic and postganglionic
+
+The two neuron relay of the autonomic effect system synapse together at ______.
+278 of 326
+gangliaBut there is no synapse in a sensory neuron ganglia.
+
+(Pre/Post)ganglionic neurons start in the brain or spinal cord and terminate in ganglia. (Pre/Post)ganglionic neurons start in ganglia and terminate in effectors.
+279 of 326
+Pre ; Post
+
+Conduction to somatic effectors requires ___ efferent neurons and conduction to autonomic effectors requires ___ efferent neurons.
+280 of 326
+1 ; 2
+
+Sympathetic preganglionic neurons begin in the lateral gray horns of the spinal cord at the level of the (cervico-thoracic / thoracolumbar) region.
+281 of 326
+thoracolumbar
+
+The ganglia of the (parasympathetic/sympathetic) nervous system are all connected and form a chain called the _______ trunk.
+282 of 326
+sympathetic ; sympathetic
+
+Sympathetic preganglionic neurons that travel through ganglia without synapsing continue through _______ nerves to other sympathetic collateral ganglia.
+283 of 326
+splanchnic
+
+In the sympathetic nervous system, preganglionic neurons are relatively (long/short) and postganglionic neurons are relatively (long/short).
+284 of 326
+short ; long
+
+The parasympathetic preganglionic neurons have their cell bodies in the brainstem or the (cervical/thoracic/sacral) division of the spinal cord.
+285 of 326
+sacralParasympathetic is craniosacral and sympathetic is thoracolumbar.
+
+In the parasympathetic nervous system, ganglions are proximal to the (effectors/spinal cord) and in the sympathetic nervous system ganglions are proximal to the (effectors/spinal cord).
+286 of 326
+effectors ; spinal cord
+
+The ganglion for CN III is (ciliary/pterygopalatine/submandibular/optic).
+287 of 326
+ciliary
+
+The ganglion for CN VII is (ciliary/pterygopalatine/submandibular/otic).
+288 of 326
+pterygopalatine
+
+The ganglion for CN IX is (ciliary/pterygopalatine/submandibular/otic).
+289 of 326
+otic
+
+The ganglion for CN X is (ciliary/pterygopalatine/submandibular/otic).
+290 of 326
+NONE of the ganglia listed. CNX ganglia are within organ walls and not typically named like the others.
+
+The two neurotransmitters that can be released from autonomic neurons are :
+291 of 326
+acetylcholine and norepinephrineAll preganglionic neurons secrete acetylcholine.
+
+Axons that release norepinephrine are called (adrenergic/cholinergic) and axons that release acetylcholine are called (adrenergic/cholinergic).
+292 of 326
+adrenergic ; cholinergic
+
+Preganglionic neurons of both the sympathetic and parasympathetic nervous system all use the neurotransmitter (acetylcholine/norepinephrine).
+293 of 326
+acetylcholine
+
+(Sympathetic/Parasympathetic) postganglionic neurons can release either acetylcholine or norepinephrine, while all preganglionic fibers only secrete acetylcholine.
+294 of 326
+Sympathetic
+
+Norepinephrine binds to (cholinergic/adrenergic) receptors.
+295 of 326
+adrenergic
+
+The two main types of adrenergic receptors are _________.
+296 of 326
+alpha and beta
+
+When norepinephrine binds to _____________ adrenergic receptors on blood vessels this causes (vasoconstriction/vasodilation).
+297 of 326
+alpha ; vasoconstriction
+Systemic Anatomy, Physiology, & Disease
+
+The Nervous System Deck 4 of 4
+
+30 flashcards
+
+Binding of norepinephrine to cardiac muscle adrenergic receptors results in (bradycardia/tachycardia) and a (weaker/stronger) heart beat.
+298 of 326
+tachycardia ; strongerIt is "chronotropic" and "inotropic" respectively.
+
+Adrenergic stimulation of the ____ gland results in the release of epinephrine.
+299 of 326
+adrenal
+
+Epinephrine and norepinephrine are broken down in the knobs of postganglionic neurons by the enzyme ____ or in the synaptic cleft by the enzyme _____.
+300 of 326
+MAO (monoamine oxidase); catechol-O-methyltransferase (COMT)
+
+The two types of cholinergic receptors that acetylcholine binds to are _____ and _____.
+301 of 326
+nicotinic and muscarinic
+
+All autonomic postganglionic cells have (nicotinic/muscarinic) receptors.
+302 of 326
+nicotinic
+
+All autonomic postganglionic cells have receptors for (norepinephrine/acetylcholine).
+303 of 326
+acetylcholine
+
+Acetylcholine released from postganglionic autonomic cells binds to (nicotinic/muscarinic) receptors in their effectors.
+304 of 326
+muscarinic
+
+The enzyme ________ is responsible for breaking down acetylcholine.
+305 of 326
+acetylcholinesterase
+
+Nitrous oxide is a potent vaso(dilator/constrictor).
+306 of 326
+dilator
+In cardiac muscle, sympathetic stimulation with norepinephrine causes (increased/decreased) rate of contractions and parasympathetic acetylcholine causes (increased/decreased) rate of contractions.
+
+10of 30
+
+increased ; decreased
+
+(Sympathetic/Parasympathetic) stimulation can cause vasoconstriction or vasodilation depending on what type of receptor it binds to.
+307 of 326
+Sympathetic
+
+In general, the binding of norepinephrine to sympathetic alpha receptors causes vaso(constriction/dilation) and binding to beta receptors causes vaso(constriction/dilation).
+308 of 326
+constriction ; dilation
+
+In the skin, norepinephrine stimulation causes vaso(constriction/dilation), and in the skeletal muscle norepinephrine stimulation causes vaso(constriction/dilation).
+309 of 326
+constriction ; dilation
+
+In the coronary blood vessels, norepinephrine stimulates vasoconstriction when bound to (alpha/beta) receptors and vasodilation when bound to (alpha/beta) receptors.
+310 of 326
+alpha ; beta
+
+In the abdominal blood vessels, norepinephrine stimulation causes vaso(constriction/dilation), and in the external genitalia norepinephrine stimulation causes vaso(constriction/dilation).
+311 of 326
+constriction ; constriction
+
+Parasympathetic stimulation of the blood vessel in the external genitalia causes vaso(constriction/dilation).
+312 of 326
+dilation
+
+Sympathetic stimulation in the bronchioles of the lungs causes broncho(constriction/dilation) and parasympathetic stimulation causes broncho(constriction/dilation).
+313 of 326
+dilation ; constriction
+
+In the digestive tract, sympathetic stimulation (increases/decreases) peristalsis and parasympathetic stimulation (increases/decreases) peristalsis.
+314 of 326
+decreases ; increases
+
+Sympathetic stimulation of the digestive sphincters causes (contraction/dilation) and parasympathetic stimulation causes (contraction/dilation).
+315 of 326
+contraction ; dilation
+
+Sympathetic stimulation of the urinary bladder causes (contraction/relaxation) and parasympathetic stimulation cases (contraction/relaxation).
+316 of 326
+relaxation ; contraction
+
+Sympathetic stimulation causes the urinary sphincters to (contract/relax) and parasympathetic stimulation causes them to (contract/relax).
+317 of 326
+contract ; relax
+
+In the eye, sympathetic stimulation causes contraction of the (radial/sphincter) muscle resulting in (miosis/mydriasis).
+318 of 326
+radial ; mydriasis
+
+In the eye parasympathetic stimulation causes contraction of the (radial/circular) muscle causing (miosis/mydriasis)
+319 of 326
+circular ; miosis
+
+In the eye, sympathetic stimulation causes the ciliary muscle to (contract/relax) and parasympathetic stimulation causes the ciliary muscle to (contract/relax).
+320 of 326
+relax ; contract
+
+(Sympathetic/Parasympathetic) stimulation causes an increase in sweating.
+321 of 326
+Sympathetic
+
+(Sympathetic/Parasympathetic) stimulation causes increased lacrimation and salivation.
+322 of 326
+Parasympathetic
+
+(Sympathetic/Parasympathetic) stimulation causes increased secretion of pancreatic juice.
+323 of 326
+Parasympathetic
+
+In the liver, sympathetic stimulation causes a (increased/decreased) level of glycogenolysis to (increase/decrease) blood sugar levels.
+324 of 326
+increased; increaseGlycogenolysis is the breakdown of glycogen into glucose.
+
+Stimulation of the adrenal medulla by the (sympathetic/parasympathetic) nervous system results in increased levels of epinephrine.
+325 of 326
+sympathetic
+
+In adipose tissue, sympathetic stimulation results in (decreased/increased) lipolysis.
+326 of 326
