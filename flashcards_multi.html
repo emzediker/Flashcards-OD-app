@@ -1,0 +1,477 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Optometry Flashcards — Multi-Deck (Reveal Answer)</title>
+<style>
+  body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 20px; background:#fff; color:#111; }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  h1 { margin: 0 0 12px; font-size: 20px; }
+  .bar { display:flex; gap:8px; flex-wrap:wrap; align-items:center; margin-bottom:12px; }
+  select, input[type=search], input[type=text], button { padding:8px 10px; border:1px solid #ddd; border-radius:8px; }
+  .card { border:1px solid #ddd; border-radius:12px; padding:18px; min-height:180px; position:relative; background:#fff; }
+  .front { font-weight:600; }
+  .back { margin-top:10px; display:none; }
+  .ans { font-weight:700; font-size:1.05rem; margin:2px 0 6px; }
+  .exp { color:#555; font-size:0.96rem; line-height:1.35; }
+  .card img { max-width:100%; height:auto; border-radius:8px; margin-top:8px; }
+  .fav { position:absolute; top:10px; right:10px; border:1px solid #ddd; border-radius:999px; padding:6px 10px; background:#fff; cursor:pointer; }
+  .fav[aria-pressed="true"] { color:#e09b00; border-color:#caa14a; }
+  .meta { display:flex; justify-content:space-between; align-items:center; margin-top:8px; color:#555; }
+  .nav { display:flex; gap:8px; margin-top:10px; }
+  .nav button { flex:1; font-weight:600; }
+  .note { margin-top:10px; color:#666; font-size:14px; }
+  .pill { padding:2px 8px; border:1px solid #ddd; border-radius:999px; font-size:12px; background:#fff; }
+  .admin { border:1px dashed #bbb; border-radius:10px; padding:12px; background:#fafafa; margin-top:12px; }
+  .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  .tiny { font-size:12px; color:#666; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Optometry Flashcards — Multi-Deck (Reveal Answer)</h1>
+
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Show:
+      <select id="show">
+        <option value="all">All</option>
+        <option value="fav">Favorites</option>
+      </select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+
+    <span id="adminBadge" class="pill" style="display:none">Admin mode</span>
+    <button id="exportMap" style="margin-left:auto; display:none">Export mapping</button>
+    <label style="display:none" id="importWrap">
+      <input id="importMap" type="file" accept="application/json">
+    </label>
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+    <button id="fav" class="fav" aria-pressed="false" title="Favorite">★</button>
+  </div>
+
+  <!-- ADMIN AREA -->
+  <div id="adminArea" class="admin" style="display:none">
+    <div class="row" style="justify-content:space-between">
+      <strong>Attach images to this card</strong>
+      <span class="tiny">Images are read from your repo’s <code>/images/</code> folder (or subfolders).</span>
+    </div>
+
+    <div class="row" style="margin-top:8px">
+      <label>Front image:
+        <select id="frontImg"></select>
+      </label>
+      <label>Back image:
+        <select id="backImg"></select>
+      </label>
+      <button id="saveMap">Save for this card</button>
+      <span id="saveStatus" class="pill" style="display:none">Saved</span>
+    </div>
+
+    <div class="row" style="margin-top:8px">
+      <button id="reloadImages">Reload image list</button>
+      <input id="customUrl" type="text" placeholder="or paste image path (e.g., images/crvo.jpg)" style="min-width:280px">
+      <button id="useAsFront">Use as Front</button>
+      <button id="useAsBack">Use as Back</button>
+    </div>
+
+    <div class="tiny" style="margin-top:6px">
+      Tip: After you upload images to <code>images/</code> in GitHub, click <strong>Reload image list</strong>.  
+      Use “Use as Front/Back” if an image isn’t listed (paste any valid path/URL).
+    </div>
+  </div>
+
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div id="status">Choose a deck…</div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
+
+  <div class="note">Tip: ←/→ to move, R to reveal/hide, S to star. Favorites are saved per device (per deck).</div>
+</div>
+
+<script>
+  // ---------------------------------------------------------------------------
+  // DECKS — add more as you create them
+  // ---------------------------------------------------------------------------
+  const DECKS = [
+    {
+      id: 'systemic_basic',
+      title: 'Systemic Anatomy – Basic Body Organization & Chemistry',
+      dataUrl: 'data/systemic_basic.txt',
+      totalHint: 95,
+      imageFolder: 'images'
+    }
+    // ,{ id:'digestive', title:'Digestive System', dataUrl:'data/digestive.txt', totalHint:300, imageFolder:'images/digestive' }
+  ];
+
+  // ---------- STATE ----------
+  const els = {
+    deck: document.getElementById('deck'),
+    show: document.getElementById('show'),
+    q: document.getElementById('q'),
+    front: document.getElementById('front'),
+    back: document.getElementById('back'),
+    favBtn: document.getElementById('fav'),
+    prev: document.getElementById('prev'),
+    next: document.getElementById('next'),
+    reveal: document.getElementById('reveal'),
+    counter: document.getElementById('counter'),
+    status: document.getElementById('status'),
+    adminArea: document.getElementById('adminArea'),
+    adminBadge: document.getElementById('adminBadge'),
+    exportMap: document.getElementById('exportMap'),
+    importWrap: document.getElementById('importWrap'),
+    importMap: document.getElementById('importMap'),
+    frontImg: document.getElementById('frontImg'),
+    backImg: document.getElementById('backImg'),
+    saveMap: document.getElementById('saveMap'),
+    saveStatus: document.getElementById('saveStatus'),
+    reloadImages: document.getElementById('reloadImages'),
+    customUrl: document.getElementById('customUrl'),
+    useAsFront: document.getElementById('useAsFront'),
+    useAsBack: document.getElementById('useAsBack'),
+  };
+
+  const APP_KEY_PREFIX = 'fc_favs_v1::';
+  const MAP_KEY_PREFIX = 'fc_imgmap_v1::';
+  const IMGLIST_KEY_SUFFIX = '_IMGLIST';
+
+  let currentDeck = null;     // deck object
+  let cards = [];             // all cards for selected deck
+  let view = [];              // filtered view
+  let favs = new Set();       // favorites for deck.id
+  let imgMap = {};            // { cardId: {front:'images/a.jpg', back:'images/b.jpg'} }
+  let imageList = [];         // dropdown list for deck.imageFolder
+  let i = 0, showingAnswer = false;
+  const admin = /[?&]admin=1/.test(location.search);
+
+  function favKey(deckId){ return APP_KEY_PREFIX + deckId; }
+  function mapKey(deckId){ return MAP_KEY_PREFIX + deckId; }
+  function imgListKey(deckId){ return mapKey(deckId) + IMGLIST_KEY_SUFFIX; }
+
+  function loadFavs(deckId){ try{ return new Set(JSON.parse(localStorage.getItem(favKey(deckId))||'[]')); }catch{ return new Set(); } }
+  function saveFavs(deckId){ localStorage.setItem(favKey(deckId), JSON.stringify(Array.from(favs))); }
+
+  function loadMap(deckId){ try{ return JSON.parse(localStorage.getItem(mapKey(deckId))||'{}'); }catch{ return {}; } }
+  function saveMap(deckId, map){ localStorage.setItem(mapKey(deckId), JSON.stringify(map)); }
+
+  function setStatus(t){ els.status.textContent = t; }
+
+  // ---------- sanitizer ----------
+  function escapeHtml(s){
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+  }
+  function cleanLine(s){
+    if (!s) return '';
+    return s
+      .replace(/\u00A0/g, ' ')       // NBSP -> space
+      .replace(/\u200B/g, '')        // zero-width space
+      .replace(/\uFFFD/g, '')        // replacement char
+      .replace(/[“”]/g, '"')         // smart quotes
+      .replace(/[‘’]/g, "'")
+      .replace(/\u2013|\u2014/g, '-')// en/em dash -> hyphen
+      .replace(/[^\S\r\n]+/g, ' ')   // collapse odd spaces
+      .trim();
+  }
+
+  // ---------- split back into Answer + optional Explanation ----------
+  function splitAnswerExplanation(line){
+    let m = line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/);
+    if (m) return {ans: m[1].trim(), expl: m[2].trim()};
+    m = line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/);
+    if (m && !/[.?!]$/.test(m[1])) return {ans: m[1].trim(), expl: m[2].trim()};
+    const firstDot = line.indexOf('. ');
+    if (firstDot > 0 && firstDot <= 80) {
+      const first = line.slice(0, firstDot).trim();
+      const rest  = line.slice(firstDot + 2).trim();
+      if (first.split(/\s+/).length <= 6) return {ans: first, expl: rest};
+    }
+    return {ans: line.trim(), expl: ''};
+  }
+
+  // ---------- parser ----------
+  function parseTxt(txt, totalHint, deckTitle, deckId){
+    const rawLines = txt.replace(/\r/g,'').split(/\n/);
+    const lines = rawLines.map(l => cleanLine(l));
+    const isAnchor = (line) => new RegExp(String.raw`^\d+\s+of\s+${totalHint}$`).test(line);
+
+    const anchors = [];
+    for (let idx=0; idx<lines.length; idx++) if (isAnchor(lines[idx])) anchors.push(idx);
+
+    const out = [];
+    for (let p=0; p<anchors.length; p++){
+      const at   = anchors[p];
+      const next = (p+1 < anchors.length) ? anchors[p+1] : lines.length;
+
+      // FRONT = nearest non-empty line above (within small window)
+      let j = at-1, front = '', up = 6;
+      while (j>=0 && up>0 && !lines[j]) { j--; up--; }
+      if (j>=0 && lines[j]) front = escapeHtml(lines[j]);
+
+      // BACK = first non-empty line after anchor (ignore lone ".")
+      let k = at+1;
+      while (k<next && (!lines[k] || lines[k]==='.')) k++;
+      let backRaw = (k<next) ? lines[k] : '';
+      const split = splitAnswerExplanation(backRaw);
+      let backAns = escapeHtml(split.ans);
+      let backExp = escapeHtml(split.expl);
+
+      // OPTIONAL NOTE only if next non-empty starts with Note:/Hint:/Comment:
+      let m = k+1; while (m<next && !lines[m]) m++;
+      if (m<next && /^(note|hint|comment)\s*:/i.test(lines[m])) {
+        backExp += (backExp ? ' ' : '') + `<em>${escapeHtml(lines[m])}</em>`;
+      }
+
+      out.push({ id: `${deckId}-${out.length+1}`, deck: deckTitle, front, backAns, backExp });
+    }
+    return out;
+  }
+
+  // ---------- image list helpers ----------
+  function populateImageSelects(){
+    const opts = ['(none)'].concat(imageList);
+    els.frontImg.innerHTML = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+    els.backImg.innerHTML  = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+  }
+  function imgTag(src){ return src && src!=='(none)' ? `<img src="${src}" alt="">` : ''; }
+
+  // Detect owner/repo from the GitHub Pages URL so we can call the API automatically
+  function detectOwnerRepo(){
+    // https://emzediker.github.io/Flashcards-OD-app/...
+    const owner = location.hostname.replace('.github.io','');
+    const parts = location.pathname.split('/').filter(Boolean);
+    const repo  = parts[0] || 'Flashcards-OD-app';
+    return {owner, repo};
+  }
+
+  async function fetchImageList(folder){
+    const {owner, repo} = detectOwnerRepo();
+    const api = `https://api.github.com/repos/${owner}/${repo}/contents/${folder}`;
+    try{
+      const resp = await fetch(api, {cache:'no-store'});
+      if (!resp.ok) throw new Error('GitHub API: '+resp.status);
+      const data = await resp.json();
+      return (Array.isArray(data) ? data : [])
+        .filter(x => x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
+        .map(x => `${folder}/${x.name}`);
+    }catch(e){
+      console.warn('Image list fetch failed', e);
+      return [];
+    }
+  }
+
+  async function loadImageList(deck){
+    // 1) Manifest (optional)
+    try{
+      const resp = await fetch(`${deck.imageFolder}/manifest.json`, {cache:'no-store'});
+      if (resp.ok){ imageList = await resp.json(); populateImageSelects(); return; }
+    }catch(e){}
+    // 2) Auto-fetch from GitHub API (no console needed)
+    imageList = await fetchImageList(deck.imageFolder);
+    // 3) Persist locally so it loads instantly next time
+    localStorage.setItem(imgListKey(deck.id), JSON.stringify(imageList));
+    populateImageSelects();
+  }
+
+  // ---------- UI ----------
+  function populateDeckDropdown(){
+    els.deck.innerHTML = '';
+    DECKS.forEach(d=>{
+      const o=document.createElement('option');
+      o.value=d.id; o.textContent=d.title;
+      els.deck.appendChild(o);
+    });
+  }
+
+  function applyFilters(){
+    const q = (els.q.value||'').toLowerCase();
+    const favOnly = els.show.value==='fav';
+    view = cards.filter(c =>
+      (!q || (String(c.front)+String(c.backAns)+String(c.backExp)).toLowerCase().includes(q)) &&
+      (!favOnly || favs.has(c.id))
+    );
+    if (i>=view.length) i = Math.max(0, view.length-1);
+    showingAnswer = false; render();
+  }
+
+  function render(){
+    const isAdmin = admin;
+    els.adminArea.style.display = isAdmin ? 'block' : 'none';
+    els.adminBadge.style.display = isAdmin ? 'inline-block' : 'none';
+    els.exportMap.style.display  = isAdmin ? 'inline-block' : 'none';
+    els.importWrap.style.display = isAdmin ? 'inline-block' : 'none';
+
+    if (!view.length){
+      els.front.innerHTML = '<em>No cards match.</em>';
+      els.back.style.display='none'; els.back.innerHTML='';
+      els.favBtn.setAttribute('aria-pressed','false');
+      els.counter.textContent = '0 / 0';
+      els.reveal.textContent = 'Reveal Answer';
+      setStatus(currentDeck ? currentDeck.title : 'Choose a deck…');
+      return;
+    }
+
+    const c = view[i];
+    const attach = imgMap[c.id] || {};
+    els.front.innerHTML = (c.front||'') + (attach.front ? imgTag(attach.front) : '');
+
+    const ansBlock = c.backAns ? `<div class="ans">${c.backAns}</div>` : '';
+    const expBlock = c.backExp ? `<div class="exp">${c.backExp}</div>` : '';
+    els.back.innerHTML  = ansBlock + expBlock + (attach.back ? imgTag(attach.back) : '');
+    els.back.style.display = showingAnswer ? 'block' : 'none';
+
+    els.favBtn.setAttribute('aria-pressed', favs.has(c.id) ? 'true':'false');
+    els.counter.textContent = (i+1)+' / '+view.length;
+    els.reveal.textContent  = showingAnswer ? 'Hide Answer' : 'Reveal Answer';
+    setStatus(currentDeck.title + (els.show.value==='fav' ? ' (Favorites)': ''));
+
+    if (isAdmin){
+      const f = attach.front || '(none)';
+      const b = attach.back  || '(none)';
+      if (!imageList.includes(f) && f) imageList.unshift(f);
+      if (!imageList.includes(b) && b) imageList.unshift(b);
+      populateImageSelects();
+      els.frontImg.value = f || '(none)';
+      els.backImg.value  = b || '(none)';
+      els.saveStatus.style.display='none';
+    }
+  }
+
+  function next(){ if (!view.length) return; i=(i+1)%view.length; showingAnswer=false; render(); }
+  function prev(){ if (!view.length) return; i=(i-1+view.length)%view.length; showingAnswer=false; render(); }
+  function toggleReveal(){ showingAnswer=!showingAnswer; render(); }
+  function toggleFav(){ if (!view.length) return; const c=view[i]; favs.has(c.id)?favs.delete(c.id):favs.add(c.id); saveFavs(currentDeck.id); render(); }
+
+  function saveCurrentMap(){
+    const c=view[i];
+    const f = els.frontImg.value==='(none)' ? '' : els.frontImg.value;
+    const b = els.backImg.value ==='(none)' ? '' : els.backImg.value;
+    imgMap[c.id] = { front:f, back:b };
+    saveMap(currentDeck.id, imgMap);
+    els.saveStatus.style.display='inline-block';
+    setTimeout(()=>els.saveStatus.style.display='none',1200);
+    render();
+  }
+
+  function exportMapping(){
+    const blob = new Blob([JSON.stringify(imgMap,null,2)],{type:'application/json'});
+    const a=document.createElement('a');
+    a.href=URL.createObjectURL(blob);
+    a.download=`${currentDeck.id}_image_map.json`;
+    document.body.appendChild(a); a.click(); a.remove();
+  }
+  function importMappingFile(file){
+    const reader = new FileReader();
+    reader.onload = () => {
+      try{
+        const obj = JSON.parse(reader.result);
+        if (obj && typeof obj === 'object'){
+          imgMap = obj;
+          saveMap(currentDeck.id, imgMap);
+          render();
+          alert('Mapping imported for deck: '+currentDeck.title);
+        }
+      }catch(e){ alert('Invalid JSON.'); }
+    };
+    reader.readAsText(file);
+  }
+
+  // ---------- LOAD DECK ----------
+  async function loadDeckById(deckId){
+    currentDeck = DECKS.find(d=>d.id===deckId);
+    if (!currentDeck){ setStatus('Deck not found.'); return; }
+
+    i=0; showingAnswer=false; setStatus('Loading deck…');
+    try{
+      const resp = await fetch(currentDeck.dataUrl, {cache:'no-store'});
+      if (!resp.ok) throw new Error('Deck file not found');
+      const txt = await resp.text();
+      cards = parseTxt(txt, currentDeck.totalHint, currentDeck.title, currentDeck.id);
+      favs  = loadFavs(currentDeck.id);
+      imgMap = loadMap(currentDeck.id);
+      // image list
+      const saved = localStorage.getItem(imgListKey(currentDeck.id));
+      imageList = saved ? JSON.parse(saved) : [];
+      if (imageList.length === 0) await loadImageList(currentDeck); else populateImageSelects();
+      applyFilters();
+      setStatus(`Loaded ${cards.length} cards`);
+    }catch(e){
+      setStatus('Error loading deck. Make sure the data file exists.');
+    }
+  }
+
+  // ---------- events ----------
+  els.deck.onchange = () => loadDeckById(els.deck.value);
+  els.show.onchange = applyFilters;
+  els.q.oninput = applyFilters;
+  els.prev.onclick = prev;
+  els.next.onclick = next;
+  els.reveal.onclick = toggleReveal;
+  els.favBtn.onclick = toggleFav;
+  els.saveMap.onclick = saveCurrentMap;
+  els.exportMap.onclick = exportMapping;
+  els.importMap.onchange = (e)=>{ if (e.target.files?.[0]) importMappingFile(e.target.files[0]); };
+
+  els.reloadImages.onclick = async () => {
+    setStatus('Refreshing image list…');
+    imageList = await fetchImageList(currentDeck.imageFolder);
+    localStorage.setItem(imgListKey(currentDeck.id), JSON.stringify(imageList));
+    populateImageSelects();
+    setStatus(`Found ${imageList.length} images in ${currentDeck.imageFolder}/`);
+  };
+  els.useAsFront.onclick = () => {
+    const v = els.customUrl.value.trim();
+    if (!v) return;
+    if (!imageList.includes(v)) imageList.unshift(v);
+    populateImageSelects();
+    els.frontImg.value = v;
+  };
+  els.useAsBack.onclick = () => {
+    const v = els.customUrl.value.trim();
+    if (!v) return;
+    if (!imageList.includes(v)) imageList.unshift(v);
+    populateImageSelects();
+    els.backImg.value = v;
+  };
+
+  document.addEventListener('keydown', (e)=>{
+    const k=e.key.toLowerCase();
+    if (k==='arrowright') next();
+    else if (k==='arrowleft') prev();
+    else if (k==='r') toggleReveal();
+    else if (k==='s') toggleFav();
+  });
+
+  // ---------- init ----------
+  (async function init(){
+    els.deck.innerHTML='';
+    DECKS.forEach(d=>{
+      const o=document.createElement('option');
+      o.value=d.id; o.textContent=d.title;
+      els.deck.appendChild(o);
+    });
+    if (DECKS.length){ els.deck.value=DECKS[0].id; await loadDeckById(DECKS[0].id); }
+    // admin UI
+    els.adminArea.style.display = admin ? 'block' : 'none';
+    els.adminBadge.style.display = admin ? 'inline-block' : 'none';
+    els.exportMap.style.display  = admin ? 'inline-block' : 'none';
+    els.importWrap.style.display = admin ? 'inline-block' : 'none';
+  })();
+</script>
+</body>
+</html>
