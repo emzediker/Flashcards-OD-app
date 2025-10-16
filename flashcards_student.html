@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>OD on the GO – Systemic A&P Flashcards</title>
+<style>
+body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
+.wrap{max-width:960px;margin:auto;}
+h1{font-size:22px;margin-bottom:12px;}
+.card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;}
+.front{font-weight:600;}
+.back{display:none;margin-top:12px;}
+.ans{font-weight:700;font-size:1.05rem;margin:2px 0 6px;}
+.exp{color:#555;font-size:0.95rem;line-height:1.35;}
+.card img{max-width:100%;height:auto;border-radius:8px;margin-top:10px;}
+.meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555;}
+.nav{display:flex;gap:8px;margin-top:10px;}
+.nav button{flex:1;padding:10px;font-weight:600;border:1px solid #ddd;border-radius:8px;background:#f8f8f8;}
+.note{margin-top:8px;font-size:13px;color:#666;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Systemic Anatomy, Physiology & Disease</h1>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+  </div>
+
+  <div class="meta">
+    <div id="counter"></div>
+    <div id="status"></div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
+
+  <div class="note">Tip: Use ← / → arrows to move, and R to reveal answers.</div>
+</div>
+
+<script>
+// --- Mapping pulled from your JSON file ---
+const imgMap = {
+"systemic_basic-12":{"back":"images/IMG_5772.jpeg"},
+"systemic_basic-13":{"back":"images/IMG_5774.jpeg"},
+"systemic_basic-14":{"back":"images/IMG_5776.jpeg"},
+"systemic_basic-15":{"back":"images/IMG_5778.jpeg"},
+"systemic_basic-16":{"back":"images/IMG_5780.jpeg"},
+"systemic_basic-17":{"back":"images/IMG_5782.jpeg"},
+"systemic_basic-19":{"back":"images/IMG_5784.jpeg"},
+"systemic_basic-23":{"back":"images/IMG_5786.jpeg"},
+"systemic_basic-25":{"back":"images/IMG_5788.jpeg"},
+"systemic_basic-26":{"back":"images/IMG_5790.jpeg"},
+"systemic_basic-27":{"back":"images/IMG_5792.jpeg"},
+"systemic_basic-28":{"back":"images/IMG_5794.jpeg"},
+"systemic_basic-29":{"back":"images/IMG_5796.jpeg"},
+"systemic_basic-30":{"back":"images/IMG_5798.jpeg"},
+"systemic_basic-43":{"back":"images/IMG_5800.jpeg"},
+"systemic_basic-47":{"back":"images/IMG_5802.jpeg"},
+"systemic_basic-56":{"back":"images/IMG_6041.jpeg"},
+"systemic_basic-70":{"back":"images/IMG_5804.jpeg"}
+};
+
+// --- Load text deck ---
+const deck = {id:'systemic_basic',title:'Systemic Anatomy – Basic Body Organization',dataUrl:'data/systemic_basic.txt',totalHint:95};
+let cards=[],i=0,showing=false;
+
+async function loadDeck(){
+  const res = await fetch(deck.dataUrl); const txt = await res.text();
+  cards=parseTxt(txt,deck.totalHint);
+  render();
+}
+
+function clean(s){return s.replace(/\r/g,'').trim();}
+function splitAnswerExplanation(line){
+  let m=line.match(/^(.{1,80}?)[\\s]*[:–—-]\\s+(.{12,})$/);
+  if(m)return{a:m[1].trim(),e:m[2].trim()};
+  const dot=line.indexOf('. ');
+  if(dot>0&&dot<80){const a=line.slice(0,dot).trim();const e=line.slice(dot+2).trim();
+  if(a.split(/\\s+/).length<=6)return{a,e};}
+  return{a:line.trim(),e:''};
+}
+function parseTxt(txt,total){
+  const lines=txt.split(/\\n/).map(clean);
+  const anchor=i=>new RegExp(`^\\d+\\s+of\\s+${total}$`).test(lines[i]);
+  const idxs=[]; for(let j=0;j<lines.length;j++) if(anchor(j)) idxs.push(j);
+  const out=[];
+  for(let k=0;k<idxs.length;k++){
+    const at=idxs[k]; const nxt=k+1<idxs.length?idxs[k+1]:lines.length;
+    let j=at-1; while(j>=0&&!lines[j])j--; const front=lines[j]||'';
+    let b=at+1; while(b<nxt&&!lines[b])b++;
+    const split=splitAnswerExplanation(lines[b]||'');
+    out.push({id:`${deck.id}-${k+1}`,front,ans:split.a,exp:split.e});
+  }
+  return out;
+}
+
+function imgTag(src){return src?`<img src="${src}" alt="">`:'';}
+function render(){
+  const c=cards[i]; if(!c)return;
+  document.getElementById('front').innerHTML=c.front;
+  const m=imgMap[c.id]||{};
+  document.getElementById('back').innerHTML=
+    `<div class='ans'>${c.ans}</div>`+
+    (c.exp?`<div class='exp'>${c.exp}</div>`:'')+
+    (m.back?imgTag(m.back):'');
+  document.getElementById('back').style.display=showing?'block':'none';
+  document.getElementById('counter').textContent=(i+1)+' / '+cards.length;
+  document.getElementById('status').textContent=deck.title;
+  document.getElementById('reveal').textContent=showing?'Hide Answer':'Reveal Answer';
+}
+
+function next(){i=(i+1)%cards.length;showing=false;render();}
+function prev(){i=(i-1+cards.length)%cards.length;showing=false;render();}
+function toggle(){showing=!showing;render();}
+document.getElementById('next').onclick=next;
+document.getElementById('prev').onclick=prev;
+document.getElementById('reveal').onclick=toggle;
+document.addEventListener('keydown',e=>{
+  if(e.key==='ArrowRight')next();
+  if(e.key==='ArrowLeft')prev();
+  if(e.key.toLowerCase()==='r')toggle();
+});
+loadDeck();
+</script>
+</body>
+</html>
