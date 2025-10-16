@@ -1,0 +1,1590 @@
+Systemic Anatomy, Physiology, & Disease — The Nervous System
+
+The nervous system coordinates body activities and allows rapid responses to stimuli.
+1 of 396
+It controls communication between body parts and integrates sensory input with motor output.
+
+The nervous system has two main anatomical divisions: the central nervous system (CNS) and the peripheral nervous system (PNS).
+2 of 396
+The CNS includes the brain and spinal cord; the PNS includes cranial and spinal nerves linking the body to the CNS.
+
+The main function of the CNS is processing information, integration, and issuing commands.
+3 of 396
+The PNS functions in communication between the CNS and the rest of the body.
+
+The nervous system is divided functionally into the somatic and autonomic systems.
+4 of 396
+The somatic system controls voluntary skeletal muscle movement; the autonomic system regulates involuntary actions such as heart rate and digestion.
+
+The autonomic system has sympathetic and parasympathetic divisions.
+5 of 396
+The sympathetic system prepares the body for “fight or flight”; the parasympathetic system promotes “rest and digest.”
+
+Neurons are the functional units of the nervous system.
+6 of 396
+Each neuron includes a cell body, dendrites, and an axon that transmits impulses.
+
+Dendrites receive input; axons carry impulses away from the cell body.
+7 of 396
+Axons may be myelinated or unmyelinated—myelin increases conduction speed.
+
+The myelin sheath in the PNS is produced by Schwann cells; in the CNS by oligodendrocytes.
+8 of 396
+Gaps between myelin segments are called nodes of Ranvier; they enable saltatory conduction.
+
+Neuroglia support and protect neurons.
+9 of 396
+Astrocytes maintain the blood-brain barrier; microglia act as phagocytes.
+
+Ependymal cells line the ventricles and produce cerebrospinal fluid (CSF).
+10 of 396
+CSF cushions and nourishes the brain and spinal cord.
+
+The resting membrane potential of a neuron is approximately –70 mV.
+11 of 396
+It is maintained by the sodium–potassium pump and membrane permeability.
+
+When threshold is reached, depolarization occurs as Na⁺ enters the neuron.
+12 of 396
+Repolarization follows when K⁺ exits, restoring resting potential.
+
+Action potentials travel along axons to synaptic terminals.
+13 of 396
+At synapses, neurotransmitters are released to transmit the signal to the next cell.
+
+Common neurotransmitters include acetylcholine, dopamine, serotonin, and GABA.
+14 of 396
+Acetylcholine stimulates skeletal muscle; dopamine is involved in reward and movement.
+
+Serotonin affects mood and sleep; GABA is the main inhibitory neurotransmitter.
+15 of 396
+Neurotransmitters bind to postsynaptic receptors to open ion channels or trigger second messengers.
+
+The spinal cord extends from the medulla to about L1–L2.
+16 of 396
+It is protected by vertebrae, meninges, and CSF.
+
+The meninges include dura mater, arachnoid mater, and pia mater.
+17 of 396
+The subarachnoid space between arachnoid and pia contains CSF.
+
+Gray matter is central and shaped like an “H”; white matter surrounds it.
+18 of 396
+Ascending tracts carry sensory information; descending tracts carry motor commands.
+
+A reflex arc is the simplest functional unit of the nervous system.
+19 of 396
+It includes a receptor, sensory neuron, integration center, motor neuron, and effector.
+
+The brain includes the cerebrum, cerebellum, diencephalon, and brainstem.
+20 of 396
+The cerebrum has two hemispheres connected by the corpus callosum.
+
+Each hemisphere has frontal, parietal, temporal, and occipital lobes.
+21 of 396
+The cerebral cortex controls voluntary movement, reasoning, and perception.
+
+The frontal lobe controls movement and speech; parietal interprets sensory input.
+22 of 396
+Temporal handles hearing and memory; occipital controls vision.
+
+The cerebellum coordinates balance and smooth motion.
+23 of 396
+The diencephalon contains thalamus and hypothalamus.
+
+The thalamus relays sensory input; the hypothalamus maintains homeostasis.
+24 of 396
+The hypothalamus regulates hunger, thirst, body temperature, and the endocrine system.
+
+The brainstem includes the midbrain, pons, and medulla oblongata.
+25 of 396
+The medulla regulates heart rate, respiration, and blood pressure.
+
+There are twelve pairs of cranial nerves.
+26 of 396
+Cranial nerves I–XII have sensory, motor, or mixed functions.
+
+The vagus nerve (X) carries parasympathetic output to thoracic and abdominal organs.
+27 of 396
+The accessory (XI) controls neck muscles; the hypoglossal (XII) moves the tongue.
+
+Spinal nerves are mixed nerves carrying both sensory and motor fibers.
+28 of 396
+There are 31 pairs of spinal nerves.
+
+The cervical plexus supplies the neck; the brachial plexus supplies the upper limb.
+29 of 396
+The lumbar plexus serves the anterior leg; the sacral plexus includes the sciatic nerve.
+
+The sympathetic division originates from thoracolumbar regions (T1–L2).
+30 of 396
+Its ganglia lie close to the spinal cord forming the sympathetic chain.
+
+Sympathetic stimulation increases heart rate and dilates pupils.
+31 of 396
+Parasympathetic fibers arise from craniosacral regions (III, VII, IX, X; S2–S4).
+
+Parasympathetic effects include slowing heart rate and promoting digestion.
+32 of 396
+Both divisions maintain homeostasis via opposing effects.
+
+Disorders include multiple sclerosis (myelin loss) and Parkinson’s disease (dopamine deficiency).
+33 of 396
+Alzheimer’s disease causes progressive cognitive decline due to neuron loss.
+
+Epilepsy involves abnormal electrical activity leading to seizures.
+34 of 396
+Meningitis is inflammation of meninges due to infection.
+
+Stroke (cerebrovascular accident) occurs when brain blood flow is interrupted.
+35 of 396
+Peripheral neuropathy involves nerve damage causing weakness or numbness.
+
+Peripheral nerves regenerate more easily than central nerves.
+36 of 396
+Schwann cells in the PNS guide axonal regrowth; oligodendrocytes in the CNS do not.
+
+The blood–brain barrier protects the brain from toxins and pathogens.
+37 of 396
+It is formed by tight junctions in capillary endothelial cells and astrocyte processes.
+
+Cerebrospinal fluid (CSF) circulates through ventricles and the subarachnoid space.
+38 of 396
+CSF provides cushioning, buoyancy, and nutrient transport for the CNS.
+
+CSF is produced by the choroid plexus within the ventricles.
+39 of 396
+It flows from lateral ventricles → third ventricle → fourth ventricle → subarachnoid space → arachnoid villi → dural venous sinuses.
+
+The brain requires a constant supply of oxygen and glucose.
+40 of 396
+Interruption of blood flow for only a few minutes can cause irreversible damage.
+
+The cerebrum’s gray matter forms the cerebral cortex.
+41 of 396
+The cortex is highly folded to increase surface area for processing.
+
+Gyri are elevated ridges; sulci are shallow grooves; fissures are deep grooves.
+42 of 396
+The longitudinal fissure separates right and left hemispheres.
+
+The precentral gyrus is the primary motor cortex.
+43 of 396
+It controls voluntary skeletal muscle movements.
+
+The postcentral gyrus is the primary somatosensory cortex.
+44 of 396
+It receives input about touch, pressure, pain, and temperature.
+
+The Broca’s area (frontal lobe) is responsible for speech production.
+45 of 396
+Damage causes expressive aphasia—difficulty forming words.
+
+The Wernicke’s area (temporal lobe) is responsible for language comprehension.
+46 of 396
+Damage causes receptive aphasia—difficulty understanding language.
+
+The basal nuclei help regulate motor activity and prevent unwanted movement.
+47 of 396
+Damage may lead to tremors and rigidity as seen in Parkinson’s disease.
+
+The limbic system governs emotion and memory.
+48 of 396
+Structures include the hippocampus, amygdala, and cingulate gyrus.
+
+The hippocampus converts short-term memory to long-term memory.
+49 of 396
+The amygdala processes fear and aggression responses.
+
+The reticular formation maintains consciousness and arousal.
+50 of 396
+Damage can result in coma.
+
+The cerebellum ensures coordinated, precise movement.
+51 of 396
+It compares intended movement with actual performance and adjusts motor output.
+
+Ataxia is loss of coordination caused by cerebellar damage.
+52 of 396
+It may result from stroke, trauma, or alcohol intoxication.
+
+The midbrain contains visual and auditory reflex centers.
+53 of 396
+The superior colliculi handle visual reflexes; the inferior colliculi handle auditory ones.
+
+The pons connects the cerebrum and cerebellum.
+54 of 396
+It assists in regulating respiration and facial movements.
+
+The medulla oblongata contains vital autonomic centers.
+55 of 396
+It controls heart rate, respiratory rhythm, and vasomotor tone.
+
+Crossing of motor tracts (decussation of pyramids) occurs in the medulla.
+56 of 396
+This explains why each cerebral hemisphere controls the opposite side of the body.
+
+The olfactory nerve (I) is purely sensory for smell.
+57 of 396
+Loss of smell is termed anosmia.
+
+The optic nerve (II) carries visual impulses from retina to brain.
+58 of 396
+Damage causes blindness in the affected eye.
+
+The oculomotor nerve (III) controls most eye movements and pupil constriction.
+59 of 396
+Lesion causes ptosis and pupil dilation.
+
+The trochlear nerve (IV) innervates the superior oblique muscle.
+60 of 396
+Damage results in diplopia when looking down and in.
+
+The trigeminal nerve (V) provides facial sensation and mastication control.
+61 of 396
+It has ophthalmic, maxillary, and mandibular divisions.
+
+The abducens nerve (VI) controls the lateral rectus muscle.
+62 of 396
+Damage results in medial deviation of the eye (inability to abduct).
+
+The facial nerve (VII) controls facial expression and taste on the anterior tongue.
+63 of 396
+Bell’s palsy is temporary paralysis of this nerve causing facial droop.
+
+The vestibulocochlear nerve (VIII) is responsible for hearing and balance.
+64 of 396
+Damage causes sensorineural hearing loss or vertigo.
+
+The glossopharyngeal nerve (IX) controls taste on posterior tongue and swallowing.
+65 of 396
+Lesion impairs gag reflex and taste sensation.
+
+The vagus nerve (X) provides parasympathetic innervation to viscera.
+66 of 396
+Damage causes hoarseness and difficulty swallowing.
+
+The accessory nerve (XI) controls the sternocleidomastoid and trapezius muscles.
+67 of 396
+Injury results in shoulder droop and head-turn weakness.
+
+The hypoglossal nerve (XII) moves the tongue.
+68 of 396
+Lesion causes tongue deviation toward the affected side.
+
+The spinal cord conducts sensory and motor information.
+69 of 396
+Ascending tracts carry sensory data to the brain; descending tracts carry motor commands.
+
+The dorsal root contains sensory fibers; the ventral root contains motor fibers.
+70 of 396
+They merge to form a mixed spinal nerve.
+
+Each spinal nerve quickly divides into rami.
+71 of 396
+The dorsal ramus serves the back; the ventral ramus serves the limbs and anterior body.
+
+Dermatomes are skin regions supplied by a single spinal nerve.
+72 of 396
+They are clinically useful for locating spinal cord or nerve root injuries.
+
+The cervical plexus arises from C1–C4.
+73 of 396
+Its phrenic nerve innervates the diaphragm—damage can stop breathing.
+
+The brachial plexus arises from C5–T1.
+74 of 396
+It supplies the shoulder and upper limb; key branches include musculocutaneous, median, ulnar, radial, and axillary nerves.
+
+The lumbar plexus arises from L1–L4.
+75 of 396
+It supplies the abdominal wall and anterior thigh; includes femoral and obturator nerves.
+
+The sacral plexus arises from L4–S4.
+76 of 396
+Its major branch is the sciatic nerve, the largest in the body.
+
+A reflex is a rapid, predictable, involuntary response to a stimulus.
+77 of 396
+It helps maintain homeostasis and posture.
+
+The stretch reflex (e.g., patellar reflex) prevents muscle overstretching.
+78 of 396
+It is monosynaptic and ipsilateral.
+
+The withdrawal (flexor) reflex removes a body part from painful stimulus.
+79 of 396
+It is polysynaptic and often accompanied by crossed extensor reflex.
+
+The autonomic nervous system (ANS) controls visceral activities.
+80 of 396
+It operates subconsciously via sympathetic and parasympathetic divisions.
+
+The sympathetic division prepares the body for emergencies.
+81 of 396
+It increases heart rate, dilates bronchioles, and releases glucose.
+
+The parasympathetic division conserves energy.
+82 of 396
+It decreases heart rate, constricts pupils, and promotes digestion.
+
+Sympathetic preganglionic neurons originate in the thoracolumbar spinal cord.
+83 of 396
+They synapse in paravertebral ganglia near the spinal cord.
+
+Parasympathetic preganglionic neurons originate in brainstem nuclei and sacral spinal cord.
+84 of 396
+They synapse in terminal ganglia near or within target organs.
+
+Sympathetic postganglionic fibers release norepinephrine (NE).
+85 of 396
+Parasympathetic postganglionic fibers release acetylcholine (ACh).
+
+Adrenergic receptors respond to norepinephrine and epinephrine.
+86 of 396
+Alpha receptors generally excite; beta receptors may excite or inhibit depending on tissue.
+
+Cholinergic receptors respond to acetylcholine.
+87 of 396
+Nicotinic receptors are excitatory; muscarinic may excite or inhibit.
+
+Autonomic tone is the balance of sympathetic and parasympathetic activity.
+88 of 396
+One division usually dominates depending on conditions.
+
+The hypothalamus is the main control center for autonomic functions.
+89 of 396
+It integrates input from limbic system and brainstem to maintain homeostasis.
+
+The medulla and pons control cardiovascular and respiratory centers.
+90 of 396
+They adjust heart rate, blood pressure, and breathing rhythm.
+
+The limbic system links emotion with autonomic responses.
+91 of 396
+For example, fear increases heart rate and sweating.
+
+The prefrontal cortex can influence autonomic output through emotion and decision-making.
+92 of 396
+This is why stress can affect physical health.
+
+Visceral reflexes resemble somatic reflexes but occur in smooth muscle, cardiac muscle, or glands.
+93 of 396
+Examples include baroreceptor and pupillary light reflexes.
+
+The baroreceptor reflex helps regulate blood pressure.
+94 of 396
+Stretch receptors in carotid sinus send signals via glossopharyngeal nerve (IX) to medulla.
+
+Pupillary light reflex constricts pupils in bright light.
+95 of 396
+Afferent limb: optic nerve (II); efferent limb: oculomotor nerve (III).
+
+Referred pain occurs when visceral pain is perceived as coming from skin.
+96 of 396
+Example: cardiac ischemia felt in left arm.
+
+The enteric nervous system is a network of neurons in the GI tract.
+97 of 396
+It can operate independently but is influenced by ANS.
+
+The resting potential of neurons is due to unequal ion distribution.
+98 of 396
+Na⁺ is higher outside; K⁺ is higher inside the cell.
+
+The sodium–potassium pump maintains resting potential.
+99 of 396
+It actively transports 3 Na⁺ out and 2 K⁺ in per ATP.
+
+Depolarization occurs when Na⁺ channels open.
+100 of 396
+Membrane potential becomes less negative.
+
+Repolarization follows as K⁺ channels open.
+101 of 396
+The membrane potential returns to –70 mV.
+
+Hyperpolarization can occur if K⁺ efflux overshoots.
+102 of 396
+This makes the neuron less likely to fire again immediately.
+
+Absolute refractory period is when no new action potential can occur.
+103 of 396
+It ensures one-way propagation of impulses.
+
+Relative refractory period follows when a stronger stimulus may trigger an impulse.
+104 of 396
+This corresponds to hyperpolarization phase.
+
+Continuous conduction occurs in unmyelinated fibers.
+105 of 396
+Saltatory conduction occurs in myelinated fibers, jumping from node to node.
+
+Action potentials are all-or-none events.
+106 of 396
+Once threshold is reached, the amplitude does not vary with stimulus strength.
+
+Stronger stimuli increase the frequency of action potentials.
+107 of 396
+This allows encoding of stimulus intensity.
+
+At the synaptic knob, calcium influx triggers neurotransmitter release.
+108 of 396
+Vesicles fuse with the presynaptic membrane and exocytose neurotransmitters.
+
+Excitatory postsynaptic potentials (EPSPs) depolarize the membrane.
+109 of 396
+They bring the neuron closer to threshold.
+
+Inhibitory postsynaptic potentials (IPSPs) hyperpolarize the membrane.
+110 of 396
+They make firing less likely.
+
+Temporal summation occurs when one presynaptic neuron fires rapidly.
+111 of 396
+Graded potentials add up over time to reach threshold.
+
+Spatial summation occurs when multiple presynaptic neurons fire simultaneously.
+112 of 396
+Their combined EPSPs can trigger an action potential.
+
+Neurotransmitters are removed from the cleft by reuptake, degradation, or diffusion.
+113 of 396
+For example, acetylcholine is broken down by acetylcholinesterase.
+
+Drugs can alter synaptic transmission.
+114 of 396
+SSRIs block serotonin reuptake; MAO inhibitors prevent neurotransmitter breakdown.
+
+Caffeine blocks adenosine receptors, promoting alertness.
+115 of 396
+Nicotine stimulates nicotinic ACh receptors.
+
+Nerve impulse speed depends on axon diameter and myelination.
+116 of 396
+Larger, myelinated fibers conduct impulses fastest.
+
+Type A fibers are large, myelinated, and fast.
+117 of 396
+They carry motor commands to skeletal muscles.
+
+Type B fibers are smaller and moderately myelinated.
+118 of 396
+They conduct autonomic preganglionic impulses.
+
+Type C fibers are small and unmyelinated.
+119 of 396
+They carry slow pain and autonomic postganglionic impulses.
+
+Gray matter consists mainly of neuron cell bodies.
+120 of 396
+White matter consists of myelinated axons.
+
+In the spinal cord, gray matter is central; in the brain, it is superficial.
+121 of 396
+This arrangement is reversed between the two structures.
+
+The dorsal horn contains sensory neurons.
+122 of 396
+The ventral horn contains motor neurons.
+
+The lateral horn (T1–L2) contains autonomic motor neurons.
+123 of 396
+It is present only in thoracic and upper lumbar segments.
+
+Ascending tracts include spinothalamic and dorsal column pathways.
+124 of 396
+They transmit pain, temperature, and touch sensations.
+
+Descending tracts include corticospinal and extrapyramidal tracts.
+125 of 396
+They control voluntary and involuntary motor functions.
+
+The corticospinal tract originates in the motor cortex.
+126 of 396
+Most fibers cross in the medulla (pyramidal decussation).
+
+The extrapyramidal system regulates posture and muscle tone.
+127 of 396
+It includes basal nuclei and cerebellar influences.
+
+The reticulospinal tract maintains muscle tone and reflexes.
+128 of 396
+It assists in posture control.
+
+The vestibulospinal tract helps maintain balance.
+129 of 396
+It originates from vestibular nuclei in the brainstem.
+
+The spinocerebellar tract carries proprioceptive information.
+130 of 396
+It provides feedback for coordination of movement.
+
+Pain receptors are called nociceptors.
+131 of 396
+They respond to tissue damage and release of inflammatory mediators.
+
+Thermoreceptors detect temperature changes.
+132 of 396
+Cold receptors are more numerous than warm receptors.
+
+Mechanoreceptors respond to touch, pressure, and vibration.
+133 of 396
+Examples include Meissner’s and Pacinian corpuscles.
+
+Photoreceptors detect light in the retina.
+134 of 396
+Rods sense dim light; cones detect color and fine detail.
+
+Chemoreceptors detect chemical stimuli such as taste and smell.
+135 of 396
+They also monitor blood CO₂ and pH levels in the medulla.
+
+Proprioceptors sense body position and movement.
+136 of 396
+They include muscle spindles and Golgi tendon organs.
+
+Muscle spindles detect muscle stretch.
+137 of 396
+They initiate the stretch reflex to resist overstretching.
+
+Golgi tendon organs detect tension in tendons.
+138 of 396
+They trigger relaxation to prevent damage from excessive force.
+
+Baroreceptors detect changes in blood pressure.
+139 of 396
+They are located in carotid sinuses and aortic arch.
+
+Chemoreceptors in carotid and aortic bodies monitor blood O₂ and CO₂.
+140 of 396
+They help regulate respiration rate via medullary centers.
+
+Sleep is an active process controlled by hypothalamus and brainstem.
+141 of 396
+REM sleep involves vivid dreaming and rapid eye movements.
+
+During NREM sleep, restorative processes occur.
+142 of 396
+Heart rate and respiration slow; energy stores are replenished.
+
+The reticular activating system (RAS) maintains wakefulness.
+143 of 396
+It receives input from sensory pathways and projects to the cortex.
+
+Coma results from dysfunction of the RAS or cerebral hemispheres.
+144 of 396
+Patients show no purposeful response to stimuli.
+
+Electroencephalogram (EEG) records brain electrical activity.
+145 of 396
+It shows alpha, beta, theta, and delta waves depending on alertness.
+
+Alpha waves occur during relaxed wakefulness.
+146 of 396
+Beta waves occur during active thinking and concentration.
+
+Theta waves appear in drowsiness or young children.
+147 of 396
+Delta waves dominate deep sleep.
+
+Seizures are abnormal, synchronous neuronal discharges.
+148 of 396
+Epilepsy is a chronic condition of recurrent seizures.
+
+The limbic system influences motivation and emotion.
+149 of 396
+It connects to hypothalamus and frontal cortex.
+
+The amygdala is crucial for fear and aggression.
+150 of 396
+Overactivity may cause anxiety or panic.
+
+The hippocampus consolidates new memories.
+151 of 396
+Damage causes anterograde amnesia—inability to form new memories.
+
+The prefrontal cortex governs judgment and personality.
+152 of 396
+Frontal lobe injury can result in impulsivity or apathy.
+
+Broca’s and Wernicke’s areas are usually in the left hemisphere.
+153 of 396
+In left-handed people, dominance may vary.
+
+Lateralization means certain functions are stronger in one hemisphere.
+154 of 396
+Right hemisphere handles spatial and artistic tasks; left handles language and logic.
+
+Corpus callosum enables communication between hemispheres.
+155 of 396
+Severing it can reduce seizures but causes “split-brain” phenomena.
+
+Short-term memory relies on electrical activity in circuits.
+156 of 396
+Long-term memory requires synaptic changes and protein synthesis.
+
+Procedural memory stores learned motor skills.
+157 of 396
+Declarative memory stores facts and events.
+
+Neurotransmitters involved in learning include glutamate and acetylcholine.
+158 of 396
+Glutamate mediates long-term potentiation (LTP) in the hippocampus.
+
+Long-term potentiation strengthens synaptic transmission.
+159 of 396
+It is thought to underlie learning and memory formation.
+
+Stress activates the hypothalamic–pituitary–adrenal (HPA) axis.
+160 of 396
+Cortisol release mobilizes energy but chronic stress impairs immunity.
+
+The autonomic system adapts to chronic stress by altering receptor sensitivity.
+161 of 396
+This can contribute to hypertension and anxiety.
+
+The spinal cord injury level determines motor and sensory loss.
+162 of 396
+Cervical lesions cause quadriplegia; thoracic cause paraplegia.
+
+Complete transection eliminates sensation and voluntary movement below the injury.
+163 of 396
+Partial lesions produce variable deficits depending on tracts affected.
+
+Brown-Séquard syndrome is hemisection of the cord.
+164 of 396
+It causes ipsilateral motor loss and contralateral pain loss.
+
+Spinal shock is transient loss of function below injury.
+165 of 396
+Reflexes return after days to weeks, often exaggerated.
+
+Autonomic dysreflexia occurs in lesions above T6.
+166 of 396
+Excessive sympathetic activity causes dangerous hypertension.
+
+Amyotrophic lateral sclerosis (ALS) affects motor neurons.
+167 of 396
+It causes progressive weakness with intact sensation.
+
+Multiple sclerosis (MS) causes demyelination in CNS.
+168 of 396
+Symptoms include vision loss, fatigue, and spasticity.
+
+Guillain-Barré syndrome is demyelination of peripheral nerves.
+169 of 396
+It usually follows infection and causes ascending paralysis.
+
+Peripheral neuropathy results from diabetes or toxins.
+170 of 396
+It causes numbness, burning, and weakness.
+
+Neural tube defects occur from failure of closure during development.
+171 of 396
+Spina bifida and anencephaly are examples.
+
+Microcephaly results from abnormal brain development.
+172 of 396
+It may be caused by Zika virus or genetic factors.
+
+Hydrocephalus is excess CSF accumulation.
+173 of 396
+It enlarges ventricles and increases intracranial pressure.
+
+Cerebral palsy is non-progressive motor impairment from early brain injury.
+174 of 396
+Causes include hypoxia, infection, or trauma before age 2.
+
+Meningitis can be bacterial, viral, or fungal.
+175 of 396
+Bacterial forms are most severe and require antibiotics.
+
+Viral meningitis is usually milder and self-limiting.
+176 of 396
+Symptoms include fever, headache, and neck stiffness.
+
+Encephalitis is inflammation of brain tissue.
+177 of 396
+It’s most often viral and can cause seizures or confusion.
+
+Brain abscess is a localized collection of pus.
+178 of 396
+It results from bacterial infection and raises intracranial pressure.
+
+Cerebrovascular accident (CVA) is another term for stroke.
+179 of 396
+It occurs when blood flow to part of the brain is blocked or a vessel ruptures.
+
+Ischemic stroke results from thrombus or embolus.
+180 of 396
+Hemorrhagic stroke results from ruptured aneurysm or hypertension.
+
+Transient ischemic attack (TIA) is a brief episode of reduced blood flow.
+181 of 396
+It causes temporary neurological deficits but no permanent damage.
+
+Aneurysm is a ballooning of a weakened arterial wall.
+182 of 396
+Rupture can lead to subarachnoid hemorrhage and sudden severe headache.
+
+Subdural hematoma is bleeding between dura and arachnoid mater.
+183 of 396
+It often follows head trauma and may cause delayed symptoms.
+
+Epidural hematoma is bleeding between skull and dura mater.
+184 of 396
+It’s typically from middle meningeal artery rupture and is a neurosurgical emergency.
+
+Concussion is transient brain dysfunction after head injury.
+185 of 396
+Loss of consciousness may occur; repeated concussions can cause chronic trauma.
+
+Contusion is bruising of brain tissue.
+186 of 396
+It may cause focal neurological deficits depending on location.
+
+Chronic traumatic encephalopathy (CTE) occurs after repeated head injuries.
+187 of 396
+It is associated with behavioral changes and dementia.
+
+Increased intracranial pressure (ICP) compresses brain tissue.
+188 of 396
+Causes include hemorrhage, tumor, or hydrocephalus.
+
+Signs of raised ICP include headache, vomiting, and papilledema.
+189 of 396
+Cushing’s triad = hypertension, bradycardia, and irregular respiration.
+
+Brain herniation occurs when increased pressure shifts brain tissue.
+190 of 396
+It can compress vital centers in the brainstem and be fatal.
+
+Parkinson’s disease involves degeneration of substantia nigra neurons.
+191 of 396
+It causes tremor, rigidity, bradykinesia, and postural instability.
+
+Dopamine deficiency in basal nuclei underlies symptoms.
+192 of 396
+Treatment includes levodopa and dopamine agonists.
+
+Huntington’s disease is an autosomal-dominant disorder.
+193 of 396
+It causes choreiform movements and cognitive decline.
+
+Alzheimer’s disease features β-amyloid plaques and neurofibrillary tangles.
+194 of 396
+It leads to progressive memory loss and disorientation.
+
+Frontotemporal dementia affects behavior and language.
+195 of 396
+Patients may show personality change and loss of empathy.
+
+Vascular dementia results from multiple small strokes.
+196 of 396
+It produces a stepwise cognitive decline.
+
+Seizure types include focal and generalized.
+197 of 396
+Focal seizures involve one hemisphere; generalized involve both.
+
+Status epilepticus is continuous seizure activity > 5 min.
+198 of 396
+It’s a medical emergency requiring IV benzodiazepines.
+
+Migraine is recurrent pulsating headache with triggers.
+199 of 396
+May include aura, photophobia, and nausea.
+
+Tension headache is bilateral and pressure-like.
+200 of 396
+It’s often related to stress or muscle tension.
+
+Cluster headache is unilateral with tearing and nasal congestion.
+201 of 396
+It occurs in cyclical clusters, more common in men.
+
+Trigeminal neuralgia causes intense facial pain.
+202 of 396
+Triggered by light touch; treated with carbamazepine.
+
+Bell’s palsy causes unilateral facial paralysis.
+203 of 396
+Most recover within weeks; eye protection is essential.
+
+Peripheral nerve injury may cause loss of sensation or movement.
+204 of 396
+Regeneration possible if cell body intact.
+
+Carpal tunnel syndrome compresses median nerve at wrist.
+205 of 396
+Symptoms = numbness, tingling, and weakness in thumb and fingers.
+
+Ulnar nerve injury causes claw hand deformity.
+206 of 396
+Radial nerve injury causes wrist drop.
+
+Sciatic nerve injury results in weakness of posterior thigh muscles.
+207 of 396
+May cause foot drop and radiating pain down the leg.
+
+Diabetic neuropathy damages peripheral nerves from chronic hyperglycemia.
+208 of 396
+It leads to numbness, burning pain, and ulcers.
+
+Post-herpetic neuralgia follows shingles infection.
+209 of 396
+It causes persistent pain along affected dermatomes.
+
+Complex regional pain syndrome (CRPS) is chronic pain after injury.
+210 of 396
+It involves sympathetic dysfunction and abnormal pain perception.
+
+Guillain-Barré syndrome often follows viral or bacterial infection.
+211 of 396
+It causes ascending paralysis and areflexia; most recover with supportive care.
+
+Myasthenia gravis is an autoimmune disorder of neuromuscular junctions.
+212 of 396
+Antibodies block acetylcholine receptors, causing fatigable muscle weakness.
+
+Symptoms of myasthenia gravis worsen with activity and improve with rest.
+213 of 396
+Ptosis and diplopia are common; treated with acetylcholinesterase inhibitors.
+
+Lambert-Eaton syndrome is caused by antibodies against presynaptic calcium channels.
+214 of 396
+It is associated with small-cell lung carcinoma and causes proximal muscle weakness.
+
+Peripheral nerve sheath tumors include schwannomas and neurofibromas.
+215 of 396
+Schwannomas arise from Schwann cells; neurofibromas contain mixed elements.
+
+Neurofibromatosis type 1 (NF1) is an inherited tumor-predisposition disorder.
+216 of 396
+It presents with café-au-lait spots, Lisch nodules, and neurofibromas.
+
+Neurofibromatosis type 2 (NF2) causes bilateral vestibular schwannomas.
+217 of 396
+Hearing loss and imbalance are common presenting symptoms.
+
+Charcot-Marie-Tooth disease is a hereditary motor-sensory neuropathy.
+218 of 396
+It causes distal muscle wasting, foot drop, and high arches (pes cavus).
+
+Peripheral nerve regeneration depends on endoneurial integrity.
+219 of 396
+If connective tissue tubes remain, axons can regrow about 1–3 mm/day.
+
+Wallerian degeneration occurs distal to a cut axon.
+220 of 396
+The distal segment degenerates while Schwann cells form regeneration tubes.
+
+Axonal transport moves materials between soma and terminals.
+221 of 396
+Anterograde uses kinesin; retrograde uses dynein.
+
+Viruses such as rabies and herpes travel via retrograde transport.
+222 of 396
+They can reach the CNS along peripheral nerves.
+
+Pain pathways involve nociceptors and spinothalamic tracts.
+223 of 396
+Substance P and glutamate transmit pain signals to the CNS.
+
+Endorphins and enkephalins inhibit pain perception.
+224 of 396
+They bind opioid receptors and reduce neurotransmitter release.
+
+The gate-control theory explains modulation of pain.
+225 of 396
+Stimulation of touch fibers can “close the gate” to pain input.
+
+Referred pain occurs when visceral and somatic afferents converge.
+226 of 396
+Example: diaphragmatic irritation felt at the shoulder.
+
+Visceral afferents travel with sympathetic or parasympathetic nerves.
+227 of 396
+They convey information about organ distension and chemical changes.
+
+Temperature sensation uses separate warm and cold receptors.
+228 of 396
+Both adapt rapidly to constant stimuli.
+
+Proprioceptors detect body position and movement.
+229 of 396
+Include muscle spindles, Golgi tendon organs, and joint receptors.
+
+Muscle spindles detect stretch and initiate the stretch reflex.
+230 of 396
+Golgi tendon organs prevent excessive tension by inhibiting contraction.
+
+Mechanoreceptors in skin detect pressure and vibration.
+231 of 396
+Pacinian corpuscles sense vibration; Meissner’s corpuscles sense light touch.
+
+Merkel discs detect sustained pressure and texture.
+232 of 396
+Ruffini endings detect skin stretch and joint movement.
+
+The sensory homunculus maps body regions in the cortex.
+233 of 396
+Larger areas correspond to more sensitive regions like hands and lips.
+
+Motor control begins in the precentral gyrus.
+234 of 396
+Signals descend through corticospinal tracts to lower motor neurons.
+
+The basal ganglia regulate initiation and termination of movement.
+235 of 396
+They inhibit unwanted motions and refine voluntary action.
+
+The cerebellum compares intended movement with feedback.
+236 of 396
+It adjusts tone and posture for smooth coordination.
+
+Lesions of the cerebellum cause ataxia and intention tremor.
+237 of 396
+Patients show poor balance and dysmetria (overshoot of targets).
+
+The vestibular system provides information about head position.
+238 of 396
+It works with visual and proprioceptive input to maintain equilibrium.
+
+Vestibulo-ocular reflex stabilizes gaze during head movement.
+239 of 396
+Eyes move opposite to head direction to maintain focus.
+
+Nystagmus is rhythmic oscillation of the eyes.
+240 of 396
+It can be physiologic or due to vestibular or cerebellar dysfunction.
+
+The auditory pathway transmits sound from cochlea to cortex.
+241 of 396
+Impulse travels via cochlear nerve → brainstem nuclei → inferior colliculus → medial geniculate body → auditory cortex.
+
+Hearing loss can be conductive or sensorineural.
+242 of 396
+Conductive = outer/middle-ear problem; sensorineural = inner ear or nerve damage.
+
+The visual pathway extends from retina to primary visual cortex.
+243 of 396
+Fibers cross partially at the optic chiasm.
+
+Lesion of optic nerve causes blindness in one eye.
+244 of 396
+Lesion at optic chiasm causes bitemporal hemianopia; lesion of optic tract causes contralateral homonymous hemianopia.
+
+The olfactory pathway bypasses the thalamus.
+245 of 396
+Smell impulses go directly to limbic system and temporal cortex.
+
+Taste buds are located on the tongue, palate, and epiglottis.
+246 of 396
+Five primary tastes are sweet, sour, salty, bitter, and umami.
+
+Taste receptor cells are replaced about every 10 days.
+247 of 396
+Cranial nerves VII, IX, and X carry taste information to the gustatory cortex.
+
+The limbic system links taste and smell with emotion and memory.
+248 of 396
+This is why certain foods evoke strong memories.
+
+Somatic motor pathways involve upper and lower motor neurons.
+249 of 396
+Upper motor neurons originate in the cortex; lower motor neurons connect to muscles.
+
+Motor units vary in size depending on precision of movement.
+250 of 396
+Small units control fine movement (fingers); large units control gross movement (legs).
+
+Muscle tone is maintained by reflex activity and descending pathways.
+251 of 396
+It ensures readiness for action and posture stability.
+
+Hypotonia means decreased tone; hypertonia means increased tone.
+252 of 396
+Spasticity and rigidity are forms of hypertonia.
+
+Decerebrate rigidity indicates brainstem lesion below the red nucleus.
+253 of 396
+Decorticate posture indicates lesion above the red nucleus.
+
+Extrapyramidal pathways include rubrospinal, vestibulospinal, and reticulospinal tracts.
+254 of 396
+They coordinate involuntary movement and posture.
+
+Corticobulbar tracts control cranial motor nuclei.
+255 of 396
+They regulate facial expression, swallowing, and speech muscles.
+
+Upper motor neuron lesions produce spastic weakness.
+256 of 396
+Lower motor neuron lesions produce flaccid weakness with atrophy.
+
+Muscle fasciculations are spontaneous contractions from LMN irritation.
+257 of 396
+Fibrillations are smaller twitches visible only on EMG.
+
+Poliomyelitis damages anterior horn motor neurons.
+258 of 396
+It causes asymmetrical flaccid paralysis.
+
+Post-polio syndrome is late recurrence of weakness.
+259 of 396
+It results from overuse of surviving motor units.
+
+Tetanus toxin blocks inhibitory neurotransmitters.
+260 of 396
+It causes sustained muscle contraction and spasms.
+
+Botulism toxin blocks acetylcholine release at neuromuscular junction.
+261 of 396
+It leads to flaccid paralysis and respiratory failure.
+
+Curare blocks nicotinic receptors on skeletal muscle.
+262 of 396
+It prevents depolarization and causes paralysis.
+
+Organophosphate poisoning inhibits acetylcholinesterase.
+263 of 396
+Accumulation of ACh causes muscle fasciculations and respiratory distress.
+
+The hypothalamus links the nervous and endocrine systems.
+264 of 396
+It controls pituitary hormone release via releasing and inhibiting factors.
+
+The pituitary gland sits in the sella turcica below the hypothalamus.
+265 of 396
+It secretes hormones regulating growth, metabolism, and reproduction.
+
+The posterior pituitary releases ADH and oxytocin.
+266 of 396
+ADH conserves water; oxytocin stimulates uterine contraction and milk ejection.
+
+The pineal gland secretes melatonin.
+267 of 396
+Melatonin regulates circadian rhythms and seasonal cycles.
+
+The limbic system integrates emotion, behavior, and memory.
+268 of 396
+Its major components are hippocampus, amygdala, and cingulate gyrus.
+
+The reward pathway involves dopamine release in the nucleus accumbens.
+269 of 396
+Drugs of abuse hijack this system, reinforcing addictive behavior.
+
+The prefrontal cortex suppresses inappropriate emotional responses.
+270 of 396
+Damage leads to impulsive or socially inappropriate behavior.
+
+Language processing involves Broca’s and Wernicke’s areas.
+271 of 396
+Broca’s = speech production; Wernicke’s = comprehension.
+
+Aphasia is loss of language ability due to brain damage.
+272 of 396
+Broca’s aphasia = expressive; Wernicke’s = receptive.
+
+Global aphasia affects both production and comprehension.
+273 of 396
+Usually due to large middle cerebral artery stroke.
+
+Alexia is inability to read; agraphia is inability to write.
+274 of 396
+Lesions of angular gyrus can cause both.
+
+Apraxia is inability to perform purposeful movements despite intact strength.
+275 of 396
+It’s due to parietal or frontal lobe dysfunction.
+
+Agnosia is inability to recognize objects or people.
+276 of 396
+It results from damage to sensory association areas.
+
+Neglect syndrome occurs with right parietal lobe lesions.
+277 of 396
+Patients ignore the left side of their body or environment.
+
+Prosopagnosia is inability to recognize faces.
+278 of 396
+It results from fusiform gyrus lesions in the temporal lobe.
+
+Split-brain patients can name objects seen by the right visual field only.
+279 of 396
+Because language centers are in the left hemisphere.
+
+Conduction aphasia results from arcuate fasciculus damage.
+280 of 396
+Speech comprehension and production are intact but repetition is impaired.
+
+The visual association cortex interprets visual input.
+281 of 396
+Lesions can cause visual agnosia—seeing without recognizing.
+
+The auditory association cortex interprets sound meaning.
+282 of 396
+Damage leads to difficulty identifying sounds despite intact hearing.
+
+The somatosensory association area integrates touch sensations.
+283 of 396
+It helps identify objects by feel (stereognosis).
+
+The prefrontal cortex handles planning and social behavior.
+284 of 396
+Damage causes disinhibition, apathy, or poor judgment.
+
+The insula is involved in taste, visceral sensation, and empathy.
+285 of 396
+It contributes to awareness of internal body states.
+
+Association fibers connect regions within the same hemisphere.
+286 of 396
+Commissural fibers connect hemispheres; projection fibers link cortex with lower centers.
+
+The internal capsule contains major projection fibers.
+287 of 396
+Lesions cause contralateral motor and sensory deficits.
+
+The basal nuclei include caudate, putamen, and globus pallidus.
+288 of 396
+They help regulate movement and muscle tone.
+
+The substantia nigra provides dopaminergic input to the basal nuclei.
+289 of 396
+Loss of these neurons causes Parkinson’s disease.
+
+The red nucleus in the midbrain contributes to motor coordination.
+290 of 396
+It receives input from cerebellum and motor cortex.
+
+The superior colliculus mediates visual tracking and reflexes.
+291 of 396
+The inferior colliculus relays auditory signals.
+
+The thalamus acts as a relay station for sensory information.
+292 of 396
+All sensory pathways except olfaction synapse here.
+
+The hypothalamus controls autonomic and endocrine functions.
+293 of 396
+It regulates hunger, thirst, and temperature.
+
+The epithalamus includes the pineal gland.
+294 of 396
+It secretes melatonin to regulate circadian rhythm.
+
+The subthalamus assists in movement modulation.
+295 of 396
+Lesions can cause hemiballismus—flinging limb movements.
+
+The cerebellar hemispheres control limb coordination.
+296 of 396
+The vermis controls posture and axial movements.
+
+The cerebellar peduncles connect the cerebellum with brainstem.
+297 of 396
+Superior = output to midbrain; middle = input from pons; inferior = input from medulla.
+
+The spinal tracts are arranged by function and location.
+298 of 396
+Anterior = motor; posterior = sensory; lateral = mixed.
+
+The dorsal column–medial lemniscus pathway carries fine touch and proprioception.
+299 of 396
+Fibers decussate in the medulla before reaching the thalamus.
+
+The spinothalamic tract carries pain and temperature.
+300 of 396
+Fibers decussate at the spinal level within a few segments.
+
+The spinocerebellar tracts carry unconscious proprioception.
+301 of 396
+They transmit information to the cerebellum for coordination.
+
+The corticobulbar tract controls cranial motor nuclei.
+302 of 396
+It influences facial, jaw, and tongue movement.
+
+The corticospinal tract controls voluntary limb movement.
+303 of 396
+Lateral tract decussates in medulla; anterior tract may cross in spinal cord.
+
+The vestibulospinal tract maintains balance and posture.
+304 of 396
+It activates extensor muscles in response to vestibular input.
+
+The reticulospinal tract regulates tone and reflex modulation.
+305 of 396
+It helps maintain posture during movement.
+
+The rubrospinal tract facilitates flexor muscle tone.
+306 of 396
+It originates from the red nucleus in the midbrain.
+
+The tectospinal tract coordinates head and eye movement.
+307 of 396
+It orients the head toward visual or auditory stimuli.
+
+The autonomic centers in medulla control vital functions.
+308 of 396
+These include cardiac, vasomotor, and respiratory centers.
+
+The pons contains pneumotaxic and apneustic centers.
+309 of 396
+They regulate breathing rhythm and transition between inspiration and expiration.
+
+The midbrain’s periaqueductal gray modulates pain.
+310 of 396
+It contains descending inhibitory pathways that suppress nociceptive input.
+
+The reticular formation extends through the brainstem.
+311 of 396
+It regulates consciousness, arousal, and muscle tone.
+
+The ascending reticular activating system (ARAS) maintains alertness.
+312 of 396
+Damage leads to coma or decreased consciousness.
+
+The limbic system connects cortical and subcortical structures.
+313 of 396
+It mediates emotion, motivation, and memory consolidation.
+
+The amygdala triggers emotional responses to sensory input.
+314 of 396
+It links fear and aggression to autonomic reactions.
+
+The hippocampus is critical for forming new memories.
+315 of 396
+It converts short-term memory to long-term storage.
+
+The fornix connects hippocampus to hypothalamus.
+316 of 396
+It is a major output tract of the limbic system.
+
+The cingulate gyrus is involved in emotional regulation.
+317 of 396
+It helps link motivation with behavior.
+
+The mammillary bodies aid memory recall.
+318 of 396
+They form part of the Papez circuit.
+
+The septal nuclei are associated with pleasure and reward.
+319 of 396
+They modulate autonomic and limbic responses.
+
+The anterior cingulate cortex processes empathy and decision-making.
+320 of 396
+Overactivity is seen in anxiety and obsessive-compulsive disorder.
+
+The default mode network (DMN) is active at rest.
+321 of 396
+It deactivates during focused tasks and may relate to self-referential thought.
+
+The amygdala connects with hypothalamus for autonomic responses.
+322 of 396
+Fear signals increase heart rate and prepare fight-or-flight response.
+
+The limbic–hypothalamic connections influence endocrine output.
+323 of 396
+Stress activates the hypothalamic–pituitary–adrenal axis.
+
+The cerebrum’s white matter consists of myelinated axons.
+324 of 396
+It transmits information between brain regions.
+
+The corpus callosum contains commissural fibers between hemispheres.
+325 of 396
+Damage can disconnect hemispheric communication.
+
+The internal capsule carries corticospinal and sensory fibers.
+326 of 396
+Lesions produce contralateral weakness and sensory loss.
+
+The corona radiata fans out fibers to and from cortex.
+327 of 396
+It merges into the internal capsule before descending.
+
+The brain’s gray matter is composed of neuron cell bodies and dendrites.
+328 of 396
+White matter consists mainly of myelinated axons.
+
+Astrocytes maintain ion balance and support neurons.
+329 of 396
+They form scar tissue after CNS injury (gliosis).
+
+Microglia are the immune cells of the CNS.
+330 of 396
+They remove debris and secrete inflammatory mediators.
+
+Oligodendrocytes myelinate multiple axons in the CNS.
+331 of 396
+Each cell can wrap segments of several neurons.
+
+Schwann cells myelinate a single axon segment in the PNS.
+332 of 396
+They promote regeneration by secreting growth factors.
+
+Ependymal cells line ventricles and central canal.
+333 of 396
+They produce and circulate cerebrospinal fluid.
+
+Satellite cells support neurons in peripheral ganglia.
+334 of 396
+They help regulate the chemical environment around cell bodies.
+
+Neurotransmitter imbalance contributes to psychiatric disorders.
+335 of 396
+Low serotonin = depression; excess dopamine = schizophrenia.
+
+Antidepressants often act by increasing serotonin or norepinephrine levels.
+336 of 396
+SSRIs block serotonin reuptake; MAOIs prevent neurotransmitter breakdown.
+
+Antipsychotics block dopamine receptors.
+337 of 396
+Side effects include movement disorders (tardive dyskinesia).
+
+Anxiolytics enhance GABA activity.
+338 of 396
+Benzodiazepines increase chloride influx and neuronal inhibition.
+
+Addiction involves dopamine release in reward pathways.
+339 of 396
+Chronic use causes tolerance and withdrawal.
+
+The blood–brain barrier limits drug entry to the CNS.
+340 of 396
+Lipid-soluble molecules cross easily; polar ones do not.
+
+Cerebral edema increases intracranial pressure.
+341 of 396
+It may result from trauma, infection, or ischemia.
+
+Vasogenic edema involves extracellular fluid accumulation.
+342 of 396
+Cytotoxic edema involves intracellular swelling of neurons and glia.
+
+CSF analysis helps diagnose CNS infections and diseases.
+343 of 396
+Elevated protein suggests inflammation; low glucose suggests bacterial infection.
+
+Electromyography (EMG) evaluates muscle and nerve function.
+344 of 396
+It records electrical activity during contraction and rest.
+
+Nerve conduction studies measure signal speed along nerves.
+345 of 396
+Slowed conduction indicates demyelination.
+
+Evoked potentials measure CNS responses to sensory stimulation.
+346 of 396
+Used to assess optic or auditory pathway function.
+
+MRI provides detailed brain and spinal imaging.
+347 of 396
+It detects tumors, demyelination, and infarction.
+
+CT scan is faster for detecting hemorrhage or fractures.
+348 of 396
+MRI is superior for soft-tissue detail and white matter lesions.
+
+PET scan measures brain metabolism and neurotransmitter activity.
+349 of 396
+It’s used in research and evaluating dementia or epilepsy.
+
+Functional MRI (fMRI) maps active brain areas during tasks.
+350 of 396
+It measures blood-oxygen-level-dependent (BOLD) signals.
+
+Electroencephalography (EEG) records brain waves via scalp electrodes.
+351 of 396
+It helps diagnose epilepsy, sleep disorders, and brain death.
+
+Alpha waves indicate relaxed wakefulness with closed eyes.
+352 of 396
+Beta waves indicate alertness and active thinking.
+
+Theta waves are seen in drowsiness or young children.
+353 of 396
+Delta waves are dominant in deep sleep or brain injury.
+
+Lumbar puncture measures cerebrospinal fluid pressure and content.
+354 of 396
+Performed below L2 to avoid spinal cord injury.
+
+Normal CSF is clear and colorless.
+355 of 396
+Presence of RBCs suggests hemorrhage; cloudy CSF indicates infection.
+
+EEG flattening suggests severe brain dysfunction.
+356 of 396
+In brain death, EEG shows complete electrical silence.
+
+Cerebral angiography visualizes blood vessels.
+357 of 396
+It detects aneurysms, stenosis, or arteriovenous malformations.
+
+Doppler ultrasound measures cerebral blood flow velocity.
+358 of 396
+Used to assess carotid stenosis and vasospasm.
+
+Spinal MRI visualizes discs, spinal cord, and nerve roots.
+359 of 396
+It’s preferred for multiple sclerosis and spinal cord tumors.
+
+Nerve biopsy may confirm peripheral neuropathy.
+360 of 396
+Findings include demyelination or axonal loss.
+
+Neural stem cells have potential for regeneration.
+361 of 396
+Research explores their role in treating CNS injuries.
+
+The brain consumes about 20% of total body oxygen.
+362 of 396
+Neurons are highly dependent on aerobic metabolism.
+
+Glial scar formation inhibits axonal regrowth.
+363 of 396
+Astrocyte proliferation forms a physical and chemical barrier.
+
+Excitotoxicity results from excessive glutamate release.
+364 of 396
+It leads to calcium overload and neuronal death.
+
+Free radicals contribute to ischemic and degenerative damage.
+365 of 396
+Antioxidants may help reduce oxidative stress.
+
+Cerebral autoregulation maintains constant blood flow.
+366 of 396
+It adjusts vessel diameter to changes in systemic pressure.
+
+The Circle of Willis provides collateral circulation.
+367 of 396
+Blockage in one artery can be compensated by others.
+
+Monro-Kellie doctrine states that cranial volume is fixed.
+368 of 396
+Increase in one component (blood, CSF, tissue) must be offset by decrease in another.
+
+Herniation syndromes occur with increased intracranial pressure.
+369 of 396
+Uncal herniation compresses CN III, causing dilated pupil and ptosis.
+
+Chiari malformation involves cerebellar tonsil herniation.
+370 of 396
+It may cause headaches and syringomyelia.
+
+Syringomyelia is a fluid-filled cavity within spinal cord.
+371 of 396
+It causes cape-like loss of pain and temperature sensation.
+
+Hydromyelia is dilation of the central canal.
+372 of 396
+It may accompany hydrocephalus or trauma.
+
+Neural crest cells form PNS structures during development.
+373 of 396
+They give rise to Schwann cells, melanocytes, and adrenal medulla.
+
+Neural tube forms CNS structures.
+374 of 396
+Failure of closure leads to spina bifida or anencephaly.
+
+The prosencephalon develops into cerebrum and diencephalon.
+375 of 396
+Mesencephalon forms midbrain; rhombencephalon forms hindbrain.
+
+Myelination begins before birth and continues into adolescence.
+376 of 396
+It enhances coordination and cognitive function.
+
+Aging causes brain atrophy and slower conduction.
+377 of 396
+Memory and processing speed decline, but vocabulary often remains stable.
+
+Neurodegenerative diseases involve progressive neuron loss.
+378 of 396
+Examples: Alzheimer’s, Parkinson’s, ALS, Huntington’s.
+
+Mild cognitive impairment (MCI) may precede dementia.
+379 of 396
+Patients show memory issues but preserved daily function.
+
+Dementia is chronic, progressive decline in cognition.
+380 of 396
+Common causes: Alzheimer’s, vascular, Lewy body, frontotemporal.
+
+Delirium is acute confusion with fluctuating attention.
+381 of 396
+Usually reversible and caused by infection, drugs, or metabolic imbalance.
+
+Psychiatric conditions overlap with neurologic disorders.
+382 of 396
+Depression, anxiety, and psychosis may accompany brain disease.
+
+Sleep–wake cycles are controlled by hypothalamus and brainstem.
+383 of 396
+Suprachiasmatic nucleus (SCN) acts as circadian clock.
+
+REM sleep is characterized by vivid dreams and muscle atonia.
+384 of 396
+NREM sleep restores energy and consolidates memory.
+
+Narcolepsy involves sudden sleep attacks and cataplexy.
+385 of 396
+Due to loss of orexin-producing neurons in hypothalamus.
+
+Obstructive sleep apnea causes intermittent airway collapse.
+386 of 396
+Results in hypoxia, snoring, and daytime sleepiness.
+
+Restless legs syndrome causes urge to move legs at rest.
+387 of 396
+Linked to dopamine dysfunction and iron deficiency.
+
+Pain perception involves spinothalamic and limbic pathways.
+388 of 396
+Chronic pain may involve maladaptive plasticity in the CNS.
+
+Neural prosthetics translate brain signals into movement.
+389 of 396
+Used in brain–computer interfaces for paralysis.
+
+Deep brain stimulation treats Parkinson’s and dystonia.
+390 of 396
+Electrodes deliver controlled impulses to modulate circuits.
+
+Transcranial magnetic stimulation (TMS) stimulates cortical neurons.
+391 of 396
+Used for depression and mapping brain function.
+
+Biofeedback trains patients to control autonomic responses.
+392 of 396
+Useful in tension headache, hypertension, and anxiety.
+
+Neuroimaging advances continue to improve diagnosis.
+393 of 396
+MRI, PET, and CT identify structural and metabolic changes.
+
+Neuropharmacology targets neurotransmitters and receptors.
+394 of 396
+Ongoing research seeks neuroprotective and regenerative therapies.
+
+Neurorehabilitation helps restore lost function.
+395 of 396
+Includes physical, occupational, and speech therapy.
+
+The nervous system integrates sensation, thought, and movement.
+396 of 396
+It enables awareness, adaptation, and interaction with the environment.
+
+
+
+
+
