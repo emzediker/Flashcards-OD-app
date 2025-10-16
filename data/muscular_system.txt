@@ -1,0 +1,473 @@
+Systemic Anatomy, Physiology, & Disease — Muscular System
+
+Systemic Anatomy, Physiology, & Disease
+The Muscular System93 flashcards
+
+(Ligaments/Tenons) connect muscles to bones.
+1 of 93
+
+TendonsLigaments connect bones to bones.
+
+Fibrous connective tissue that covers the muscle and is located outside of the epimysium is called the deep _____.This similar type of tissue under the hypodermis is called the superficial ______.
+2 of 93
+
+fascia ; fascia
+
+The (insertion/origin) of a muscle is the point of attachment that does not move when the muscle contracts and the (insertion/origin) is the point of attachment that moves when a muscle contracts.
+3 of 93
+
+origin ; insertion
+
+The term (agonist/antagonist) describes a muscle that directly performs a specific movement and the term (agonist/antagonist) describes a muscle that is relaxed during an action to allow for a movement to occur.
+4 of 93
+
+agonist ; antagonistTo abduct the eye the lateral rectus contracts and medial rectus relaxes.
+
+The __________ muscle raises the eyebrows and wrinkles the forehead horizontally. It originates in the occipital bone and inserts at the eyebrow and nose.
+5 of 93
+
+occipitofrontalis
+
+The occipitofrontalis is innervated by cranial nerve ___.
+6 of 93
+
+VIICranial nerve VII is facial. It also closes the eye.
+
+The _________ muscle wrinkles the forehead vertically.
+7 of 93
+
+    corrugator supercilii
+
+The corrugator supercilii is innervated by cranial nerve ___.
+8 of 93
+
+VIICranial nerve VII is facial nerve. It has both sensory and motor fibers.
+
+The _________ encircles the eyelid and closes the eye.
+9 of 93
+
+orbicularis oculiThis orbicularis orbits / encircles around the eye.
+
+The orbicularis oculi is innervated by cranial nerve ____.
+10 of 93
+
+VII
+
+The orbicularis oris encircles the ____ and is innervated by cranial nerve ___.
+11 of 93
+
+Mouth; VII
+This muscle orbicularis orbits / encircles around the mouth.
+
+The ______ is the muscle on the cheeks proximal to the mouth that facilitates smiling. It is innervated by cranial nerve ___.
+12 of 93
+
+buccinator ; VII
+
+The masseter, temporalis, and pterygoids are all muscles for _____ and are innervated by cranial nerve ___.
+13 of 93
+
+mastication ; VMastication is chewing. CN V is the trigeminal nerve.
+
+The sternocleidomastoid originates in the ____and ____ and inserts into the _____ of the temporal bone.
+14 of 93
+
+"sternum; clavicle; mastoid process| It is in the name... sterno-cleido-mastoid.",
+
+Cranial nerve ____ innervates the sternocleidomastoid to allow for flexing of the head and neck as well as rotation.
+15 of 93
+
+XICranial nerve XI is accessory and it is a motor nerve.
+
+The deltoid originates in the _____ and ____ and inserts into the _____.
+16 of 93
+
+clavicle ; scapula ; humerus
+
+A skeletal muscle cell is called a ____cyte.
+17 of 93
+
+myoThe suffix "myo" is typically associated with muscle.
+
+The plasma membrane of a muscle cell is called the _______, the cytoplasm is called the ______ and the endoplasmic reticulum is called the ______.
+18 of 93
+
+sarcolemma ;  sarcoplasm ; sarcoplasmic reticulum
+
+The sarcoplasmic reticulum has pumps that move the ion (Na+/Ca++/K+/H+/Cl-) (into/out of) the sarcoplasmic reticulum.
+19 of 93
+
+Ca++ ; intoThis creates a concentration gradient of high SR Ca++ and low cytoplasmic Ca++.
+
+___ tubules are tubules that extend across the sarcoplasmic reticulum at a right angle of the long axis of a muscle fiber to allow for electrical signals to travel.
+20 of 93
+
+T
+
+To allow for muscle contraction, an electrical signal opens _____-gated ___ channels in the sarcoplasmic reticulum moving ___ ions (into/out of) the sarcoplasm.
+21 of 93
+
+voltage ; Ca++ ; Ca++ ; intoAn increase in cytoplasmic Ca++ triggers a muscle contraction.
+
+In muscle cells, myofibrils are bundles of filaments called ___filaments.
+22 of 93
+
+myo
+
+The two myofilaments in muscle fibers are the ____ and ____ filaments.
+23 of 93
+
+thick and thin
+
+A sarcomere is a segment of myofibril between two ____ disks.
+24 of 93
+
+Z
+
+The ____ line is the very center of a sarcomere where thick myosin filaments are held together.
+25 of 93
+
+M
+
+The (A/H/I) band is the entire length of the thick filament. The (A/H/I) band is the area of the sarcomere that includes the Z disk and ends at the thin filaments prior to their overlap with the thick filaments. The (A/H/I) band is the middle region of the thick filaments where they do not overlap with the thin filaments.
+26 of 93
+
+A ; I ; H
+
+The protein _____ anchors the muscle to the surrounding matrix so that it does not break as it contracts.
+27 of 93
+
+dystrophin
+
+The four proteins that make up a myofilament are:
+28 of 93
+
+myosin ; actin ; tropomyosin and troponin
+
+Actin, tropomyosin, and troponin make up the (thick/thin) filament.
+29 of 93
+
+thinMyosin makes up the thick filament.
+
+At rest, the active sites of actin and myosin are covered by ________.
+30 of 93
+
+tropomyosin (which is also held in position by troponin)
+
+Myosin makes up the (thick/thin) filament.
+31 of 93
+
+thickActin, troponin and tropomyosin make up the thin filament.
+
+When ___ is available, myosin on (thick/thin) filaments will pull on actin on (thick/thin) filaments.
+32 of 93
+
+ATP ; thick ; thin
+
+For a muscle to contact, a (sensory/motor) neuron must have an impulse and release the neurotransmitter _____.
+33 of 93
+
+motor ; acetylcholineAcetylcholine binds to acetylcholine receptors on muscles.
+
+For a muscle to contract, acetylcholine must cross the _______ junction and bind to acetylcholine receptors on the motor end plate of a muscle fiber.
+34 of 93
+
+neuromuscular junction
+
+When acetylcholine binds to receptors on muscle fibers this causes ___ to be released from the sarcoplasmic reticulum into the sarcoplasm after a series of events.
+35 of 93
+
+Ca++
+
+Ca++ from (ligand/voltage) gated channels on the sarcoplasmic reticulum binds to (myosin/actin/troponin/tropomyosin) molecules on the (thick/thin) myofilaments.
+36 of 93
+
+voltage ; troponin ; thinActin, troponin and tropomyosin are all on the thin filaments.
+
+When Ca++ binds to troponin on the thin filaments of muscle fibers, this causes a shift in (myosin/actin/troponin/tropomyosin) in the (thin/thick) filament exposing (myosin/actin/troponin/tropomyosin) active site.
+37 of 93
+
+tropomyosin ; thin ; actin’s
+
+When actin's active site is exposed this allows (myosin/troponin/tropomyosin) to bind and pull the microfilaments together causing the muscle fiber to (shorten/elongate).
+38 of 93
+
+myosin ; shortenFor myosin to bind to actin, troponin & tropomyosin must be moved away.
+
+To elongate muscle fibers to their noncontracted state, the sarcoplasmic reticulum pumps ____ (into/out of) its sacs.
+39 of 93
+
+Ca++ intoThis decreases levels of cytoplasmic calcium.
+
+As Ca++ is removed from troponin molecules in a contracted muscle fiber, ____'s active site is again blocked from binding with ___ by ____.
+40 of 93
+
+Actin's ; myosin ; tropomyosin
+
+A ___ occurs at a neuromuscular junction. Here, a neurotransmitter transmits a signal.
+41 of 93
+
+synapse
+
+Acetylcholine binding to the sarcolemma of a muscle and inciting an electrical impulse is an example of excitatory/inhibitory) action.
+42 of 93
+
+excitatory
+
+Myosin binds to ATP in its (active/resting) state.
+43 of 93
+
+resting
+
+If a muscle cell has limited amount of ATP, it may use ________ from glycolysis as  energy for contracting instead.
+44 of 93
+
+creatine phosphate
+
+Some muscle fibers maintain a high supply of glucose by storing it as ____ and a high supply of oxygen by storing it as _____.
+45 of 93
+
+glycogen; myoglobinGlycogen is a polymer of glucose. Myoglobin maintains high O2 demands.
+
+Muscles high in myoglobin are called (slow/fast)(white/red) fibers and muscles with lower myoglobin concentration are called (slow/fast)(white/red) fibers.
+46 of 93
+
+slow red ; fast white
+
+Fermentation is an (aerobic/anaerobic) process that can occur in muscle cells from incomplete glucose metabolism. This results in the formation of _____acid.
+47 of 93
+
+anaerobic ; lacticRemember that glycolysis ends in pyruvate.
+
+Slow red fibers have (more/less) mitochondria than fast white fibers.
+48 of 93
+
+moreThey are also high in myoglobin to provide oxygen for the mitochondria.
+
+(Slow red/Fast white) fibers are slow to fatigue such as posture muscles and (slow red/fast white) fibers contract rapidly such as those in saccadic eye movements.
+49 of 93
+
+Slow red ; fast whiteSlow red are high in mitochondria and myoglobin.
+
+The _______ of the brain responds to a decrease in body temperature by causing muscle (relaxation/contractions).
+50 of 93
+
+hypothalamus ; contractionsThese "contractions" are shivering.
+
+The (greater/fewer) the number of fibers supplied by a skeletal muscle's individual motor unit the more precise the movements that can be produced.
+51 of 93
+
+fewerA smaller ratio of neurons to fibers results in greater precision.
+
+Recording electrical impulses from muscles as they contract is called _____graphy.
+52 of 93
+
+electromyographyElectromyography can be used in the diagnosis for myasthenia gravis.
+
+Muscle ____ occurs when repeated stimulation of a muscle in time lessens its response and the muscle does not respond to the strongest stimuli.
+53 of 93
+
+fatigue
+
+Smooth sustained muscle contractions are called ____.
+54 of 93
+
+tetanus
+55 of 93
+
+A ____ contraction is a continual , partial contraction in a muscle such as that which maintains waking posture.
+56 of 93
+
+tonic
+
+Muscles with less tone than normal are called ____ and muscles with more tone than normal are called _____.
+57 of 93
+
+flaccid ; spastic
+
+____ sensors in muscles and tendons give feedback information to the spinal cord regarding muscle tone and the nerves adjust muscle tone accordingly. This is often called a _______ reflex.
+58 of 93
+
+Stretch ; spinal
+
+In an iso(metric/tonic) contraction the tone or tension within a muscle remains the same as the length of the muscle changes.
+59 of 93
+
+tonic
+
+In an iso(metric/tonic) contraction muscle length remains the same while muscle tension increases. They do not produce movements.
+60 of 93
+
+metric
+
+Isotonic contractions may be referred to as (dynamic/static) tension and isometric contractions may be referred to as (dynamic/static) tension.
+61 of 93
+
+dynamic ; static
+
+Unlike skeletal muscle which relies on nerve impulses for contraction, _____ muscle is self-excitatory.
+62 of 93
+
+cardiacThe heart's conduction system, starting at the SA node, provides this.
+
+(Cardiac/Skeletal) muscle has T-tubules arranged in diads and (cardiac/skeletal) muscle has T-tubule arranged in triads.
+63 of 93
+
+Cardiac ; skeletal
+
+Smooth muscle is nonstriated and therefore has poorly arranged ______.
+64 of 93
+
+sarcomeres
+
+In skeletal muscles, Ca++ binds to (calmodulin/troponin) and in smooth muscles, Ca++ binds to (calmodulin/troponin) for contraction.
+65 of 93
+
+troponin ; calmodulin
+
+Smooth muscle lacks ________ which are found in skeletal and cardiac muscle and smooth muscles gets most of its calcium from the extracellular environment.
+66 of 93
+
+T-Tubules
+
+___ junctions allow smooth muscle to contract a large single unit.
+67 of 93
+
+Gap junctions
+
+_____ is the rhythmic movement of smooth muscle that can move contents through the lumen of a hallow organ– such as food in a digestive tract.
+68 of 93
+
+Peristalsis
+
+A myopathy is a disorder of the ____.
+69 of 93
+
+muscles"Myo" is associated to muscle and ""pathy"" is associated to pathology.
+
+My___ is muscle pain and my____ is muscle inflammation.
+70 of 93
+
+Myalgia ; myositis
+
+Tetanus is a condition caused by the infection of the central nervous system by the bacteria _______.
+71 of 93
+
+clostridium tetanusIt causes painful muscle spasms that can lead to death.
+
+In tetanus, the toxin from clostridium tetanus causes (over/under)activity of the nervous system causing (spastic/flaccid) muscle responses.
+72 of 93
+
+over ; spastic
+
+______ is a viral infection of the nerves that control skeletal muscle movement resulting in paralysis and death.
+73 of 93
+
+Poliomyelitis
+
+In _____ muscular dystrophy, the muscle atrophies and is replaced with fat and fibrous tissue.
+74 of 93
+
+Duchenne,
+
+Duchenne muscular dystrophy is due to a genetic mutation on chromosome ____.
+75 of 93
+
+X
+
+It is X-linked on the dystrophin gene.
+
+______ is an autoimmune reaction to acetylcholine receptors resulting in muscle weakness and respiratory failure.
+76 of 93
+
+Myasthenia gravis20% of MG patients present with ptosis due to the superior levator.
+
+Weakness in the abdominal muscles causes a _____ which is a protrusion of an abdominal organ into an opening in the abdominal wall.
+77 of 93
+
+hernia
+
+The three borders of the anterior triangle of the neck are:
+78 of 93
+
+mandible, sternocleidomastoid, and midline of the neck
+
+The four subdivisions of the anterior neck triangle are:
+79 of 93
+
+submental, submandibular, carotid, and muscular triangle
+
+The borders of the submental neck triangle are:
+80 of 93
+
+hyoid bone, anterior digastric, and the midline of the neck
+
+The borders of the submandibular neck triangle are:
+81 of 93
+
+mandible, anterior digastric, and posterior digastric
+
+The small veins in the submental neck triangle join together to form the ______ vein.
+82 of 93
+
+jugular
+
+The _____ artery and vein as well as cranial nerve ___ is found in the submandibular triangle. This also where the _____ gland can be palpated.
+83 of 93
+
+facial ; XII (hypoglossal) ; submandibular
+
+The borders of the carotid triangle are:
+84 of 93
+
+posterior digastric, sternocleidomastoid, and omohyoid
+
+The carotid triangle contains the _____ artery, _______ vein, and cranial nerves ___ and ____.
+85 of 93
+
+carotid ; internal jugular ; X (vagus) ; XII (hypoglossal)
+
+The carotid pulse can be detected in the (anterior/posterior)_______ neck triangle.
+86 of 93
+
+anterior carotid
+
+The borders of the muscular neck triangle are:
+87 of 93
+
+sternocleidomastoid ; omohyoid ; midline of the neck
+
+The muscular neck triangle contains the ____ and ____ glands.
+88 of 93
+
+thyroid ; parathyroid
+
+The two posterior neck triangles are:
+89 of 93
+
+occipital and subclavian
+
+The borders of the posterior neck triangle are:
+89of 93
+
+sternocleidomastoid, trapezius, and omohyoid
+
+The borders of the occipital neck triangle are:
+90 of 93
+
+sternocleidomastoid ; trapezius and omohyoid
+
+The occipital neck triangle contains cranial nerve ___.
+91 of 93
+
+XI (accessory)
+
+The borders of the subclavian neck triangle are:
+92 of 93
+
+omohyoid, clavicle, and sternocleidomastoid
+
+The subclavian neck triangle contains _____ vein and artery.
+93 of 93
+
+subclavian
