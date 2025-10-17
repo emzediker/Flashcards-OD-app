@@ -212,45 +212,85 @@
 
   // ---------- parser ----------
   function parseTxt(txt, totalHint, deckTitle, deckId){
-    const rawLines = txt.replace(/\r/g,'').split(/\n/);
-    const lines = rawLines.map(l => cleanLine(l));
-    // treat "x of y" as an anchor; if totalHint is known, enforce it, else accept any y
-const isAnchor = (line) =>
-  totalHint
-    ? new RegExp(String.raw`^\\d+\\s+of\\s+${totalHint}$`).test(line)
-    : /^\\d+\\s+of\\s+\\d+$/.test(line);
+  // clean and split lines
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(l =>
+    l
+      .replace(/\u00A0/g,' ')      // NBSP
+      .replace(/\u200B/g,'')       // zero-width
+      .replace(/\uFFFD/g,'')       // replacement char
+      .replace(/[“”]/g,'"')
+      .replace(/[‘’]/g,"'")
+      .replace(/\u2013|\u2014/g,'-')
+      .replace(/[^\S\r\n]+/g,' ')
+      .trim()
+  );
 
-    const anchors = [];
-    for (let idx=0; idx<lines.length; idx++) if (isAnchor(lines[idx])) anchors.push(idx);
-
-    const out = [];
-    for (let p=0; p<anchors.length; p++){
-      const at   = anchors[p];
-      const next = (p+1 < anchors.length) ? anchors[p+1] : lines.length;
-
-      // FRONT = nearest non-empty line above (within small window)
-      let j = at-1, front = '', up = 6;
-      while (j>=0 && up>0 && !lines[j]) { j--; up--; }
-      if (j>=0 && lines[j]) front = escapeHtml(lines[j]);
-
-      // BACK = first non-empty line after anchor (ignore lone ".")
-      let k = at+1;
-      while (k<next && (!lines[k] || lines[k]==='.')) k++;
-      let backRaw = (k<next) ? lines[k] : '';
-      const split = splitAnswerExplanation(backRaw);
-      let backAns = escapeHtml(split.ans);
-      let backExp = escapeHtml(split.expl);
-
-      // OPTIONAL NOTE only if next non-empty starts with Note:/Hint:/Comment:
-      let m = k+1; while (m<next && !lines[m]) m++;
-      if (m<next && /^(note|hint|comment)\s*:/i.test(lines[m])) {
-        backExp += (backExp ? ' ' : '') + `<em>${escapeHtml(lines[m])}</em>`;
-      }
-
-      out.push({ id: `${deckId}-${out.length+1}`, deck: deckTitle, front, backAns, backExp });
+  // If totalHint is known, enforce it; else accept any "x of y"
+  const isAnchor = (line) => {
+    if (Number.isFinite(totalHint)) {
+      return new RegExp(String.raw`^\d+\s+of\s+${totalHint}$`).test(line);
     }
-    return out;
+    return /^\d+\s+of\s+\d+$/.test(line);
+  };
+
+  // split back into Answer + optional Explanation
+  function splitAnswerExplanation(line){
+    let m = line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/);
+    if (m) return {ans:m[1].trim(), expl:m[2].trim()};
+    m = line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/);
+    if (m && !/[.?!]$/.test(m[1])) return {ans:m[1].trim(), expl:m[2].trim()};
+    const dot = line.indexOf('. ');
+    if (dot>0 && dot<=80){
+      const first = line.slice(0,dot).trim();
+      const rest  = line.slice(dot+2).trim();
+      if (first.split(/\s+/).length<=6) return {ans:first, expl:rest};
+    }
+    return {ans: line.trim(), expl: ''};
   }
+
+  // gather anchors
+  const anchors = [];
+  for (let i=0;i<lines.length;i++) if (isAnchor(lines[i])) anchors.push(i);
+
+  const out = [];
+  for (let p=0;p<anchors.length;p++){
+    const at   = anchors[p];
+    const next = (p+1<anchors.length) ? anchors[p+1] : lines.length;
+
+    // FRONT = nearest non-empty above (within small window)
+    let j=at-1, up=6, front='';
+    while (j>=0 && up>0 && !lines[j]) { j--; up--; }
+    if (j>=0 && lines[j]) front = lines[j]
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+
+    // BACK = first non-empty after anchor (skip lone ".")
+    let k=at+1;
+    while (k<next && (!lines[k] || lines[k]==='.')) k++;
+    const backRaw = (k<next) ? lines[k] : '';
+    const se = splitAnswerExplanation(backRaw);
+    let backAns = se.ans
+      .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+      .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+    let backExp = se.expl
+      ? se.expl
+          .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+          .replace(/"/g,'&quot;').replace(/'/g,'&#39;')
+      : '';
+
+    // Optional Note/Hint/Comment line
+    let m=k+1; while (m<next && !lines[m]) m++;
+    if (m<next && /^(note|hint|comment)\s*:/i.test(lines[m])) {
+      const note = lines[m]
+        .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+      backExp += (backExp?' ':'') + `<em>${note}</em>`;
+    }
+
+    out.push({ id:`${deckId}-${out.length+1}`, deck:deckTitle, front, backAns, backExp });
+  }
+  return out;
+}
 
   // ---------- image list helpers ----------
   function populateImageSelects(){
