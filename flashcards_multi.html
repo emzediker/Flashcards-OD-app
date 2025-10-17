@@ -213,7 +213,11 @@
   function parseTxt(txt, totalHint, deckTitle, deckId){
     const rawLines = txt.replace(/\r/g,'').split(/\n/);
     const lines = rawLines.map(l => cleanLine(l));
-    const isAnchor = (line) => new RegExp(String.raw`^\d+\s+of\s+${totalHint}$`).test(line);
+    // treat "x of y" as an anchor; if totalHint is known, enforce it, else accept any y
+const isAnchor = (line) =>
+  totalHint
+    ? new RegExp(String.raw`^\\d+\\s+of\\s+${totalHint}$`).test(line)
+    : /^\\d+\\s+of\\s+\\d+$/.test(line);
 
     const anchors = [];
     for (let idx=0; idx<lines.length; idx++) if (isAnchor(lines[idx])) anchors.push(idx);
