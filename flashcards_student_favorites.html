@@ -89,26 +89,13 @@ const DECKS = [
 /* 2) IMAGE MAP — uses your saved pairings (systemic_basic populated). */
 /*    Add similar entries for other decks later if you pair images.    */
 /* ------------------------------------------------------------------ */
-const IMAGE_MAP = {
-  "systemic_basic-12":{"back":"images/IMG_5772.jpeg"},
-  "systemic_basic-13":{"back":"images/IMG_5774.jpeg"},
-  "systemic_basic-14":{"back":"images/IMG_5776.jpeg"},
-  "systemic_basic-15":{"back":"images/IMG_5778.jpeg"},
-  "systemic_basic-16":{"back":"images/IMG_5780.jpeg"},
-  "systemic_basic-17":{"back":"images/IMG_5782.jpeg"},
-  "systemic_basic-19":{"back":"images/IMG_5784.jpeg"},
-  "systemic_basic-23":{"back":"images/IMG_5786.jpeg"},
-  "systemic_basic-25":{"back":"images/IMG_5788.jpeg"},
-  "systemic_basic-26":{"back":"images/IMG_5790.jpeg"},
-  "systemic_basic-27":{"back":"images/IMG_5792.jpeg"},
-  "systemic_basic-28":{"back":"images/IMG_5794.jpeg"},
-  "systemic_basic-29":{"back":"images/IMG_5796.jpeg"},
-  "systemic_basic-30":{"back":"images/IMG_5798.jpeg"},
-  "systemic_basic-43":{"back":"images/IMG_5800.jpeg"},
-  "systemic_basic-47":{"back":"images/IMG_5802.jpeg"},
-  "systemic_basic-56":{"back":"images/IMG_6041.jpeg"},
-  "systemic_basic-70":{"back":"images/IMG_5804.jpeg"}
-};
+// Load image map saved by admin mode (localStorage)
+const MAP_KEY_PREFIX = 'fc_imgmap_v1::';
+function loadImageMap(deckId){
+  try { return JSON.parse(localStorage.getItem(MAP_KEY_PREFIX + deckId) || '{}'); }
+  catch { return {}; }
+}
+let IMAGE_MAP = {}; // set per deck on load
 
 /* ------------------------------------------------------------------ */
 /* 3) FAVORITES (per deck)                                            */
@@ -235,6 +222,7 @@ async function loadDeckById(id){
     CARDS = [];
   }
   FAVS = loadFavs(CURRENT_DECK.id);
+ IMAGE_MAP = loadImageMap(CURRENT_DECK.id);
   applyFilters();
 }
 
