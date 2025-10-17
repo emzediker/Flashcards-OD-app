@@ -1,0 +1,722 @@
+Systemic Anatomy, Physiology, & Disease
+Endocrine System180 flashcards
+
+The endocrine system is made up of cells that secrete _____ into the bloodstream that travel to their target.
+1 of 180
+hormones
+
+_______ is the process by which a target cell has receptors to a specific chemical which respond with cellular change when stimulated.
+2 of 180
+Signal transduction
+
+(Endocrine/Exocrine) glands have ducts and (endocrine/exocrine) glands lack ducts.
+3 of 180
+Exocrine ; endocrine
+
+____ hormones stimulate endocrine gland growth and secretion.
+4 of 180
+TropicEx. Gonadotropins or adrenocorticotropic hormone
+
+____hormones target reproductive tissues.
+5 of 180
+Sex
+
+_____hormones stimulate building up of molecules in their target cells.
+6 of 180
+Anabolic
+
+(Non-steroid/Steroid) hormones are synthesized from cholesterol and (can/cannot) diffuse through the cell membrane.
+7 of 180
+Steroid; canCholesterol makes steroid hormones. They are lipid soluble.
+
+Cortisol, aldosterone, estrogen, progesterone, and testosterone are all (steroid/non-steroid) hormones.
+8 of 180
+SteroidTherefore they can travel through the cell membrane freely.
+
+The four main classes of nonsteroidal hormones are :
+9 of 180
+Proteins, glycoproteins, peptides, amino acid derivatives
+
+The nonsteroidal hormones GH, PRL, PTH, CT, ACTH, insulin, and glucagon are all (protein/glycoprotein/peptide/amino acid) hormones.
+10 of 180
+proteinProtein hormones must bind to cell membranes receptors.
+
+The nonsteroidal hormones ADH, OT, MSH, SS, TRH, GnRH, and ANH are all (protein/glycoprotein/peptide/amino acid) hormones.
+11 of 180
+peptide
+
+The nonsteroidal hormones FSH, LH, TSH, and hCG are all (protein/glycoprotein/peptide/amino acid) hormones.
+12 of 180
+glycoprotein
+
+The nonsteroidal hormones norepinephrine, epinephrine, melatonin, T4, and T3 are all (protein/glycoprotein/peptide/amino acid) hormones.
+13 of 180
+amino acid
+
+Thyroid hormones are made by adding  ____ atoms to a tyrosine molecule.
+14 of 180
+iodineTherefore iodine deficiency can result in hypothyroidism.
+
+_________ is the process of altering changes and chemical reactions in a cell. For example, this happens when a hormone binds to a receptor outside of a cell and the cell transcribes new mRNA after a chain of intercellular events.
+15 of 180
+Signal transduction
+
+In (synergism/antagonism/permissiveness) the combined effects of two hormones are greater than that of one hormone alone.
+16 of 180
+synergism
+
+In (synergism/antagonism/permissiveness) a small amount of one hormone allows a second hormone to have its full effect on a target cell.
+17 of 180
+permissiveness
+
+In (synergism/antagonism/permissiveness) one hormone produces the opposite effect of another hormone.
+18 of 180
+antagonism
+
+Steroid hormones are (water/lipid) soluble and (water/lipid) insoluble and therefore can only travel in the blood when bound to carrier proteins.
+19 of 180
+lipid ; water
+
+Steroid hormones have receptors in the ______ and nonsteroidal hormones have receptors in the _____.
+20 of 180
+nucleus ; cell membrane
+
+The response to steroid hormones is (slow/fast) due to their ability to regulate transcription for DNA into mRNA and then proteins.
+21 of 180
+slowCreation of proteins takes time.
+
+(Steroid/Non-steroid) hormones work on a second messenger system.
+22 of 180
+NonsteroidThe first step is binding to receptors followed by downstream events.
+
+An activated G-protein coupled receptor, causes the _____ to bind to the nucleotide _____. After binding to the nucleotide this activates the membrane protein ______. This activated enzyme removes 2 phosphates from ATP to form _____. The newly formed _____ activates protein kinases.
+23 of 180
+G protein; GTP; adenylyl cyclase; cAMP; cAMP.
+
+cyclic AMP, IP3 and cyclic GMP are all ________ messengers.
+24 of 180
+second
+
+In the calcium-calmodulin second messenger system, a G-protein coupled receptor activates ______ and ____ which opens ___ channels, allowing the ions to bind to ____.
+25 of 180
+G protein and PIP2 ; Ca++ ; calmodulinThis is important to smooth muscle contractions.
+
+Which has quicker resultant actions, steroid or non-steroid hormones?
+26 of 180
+NonsteroidBecause steroid hormones go to the nucleus to cause transcription without having to undergo additional pathways first.
+
+Even though it is a nonsteroid hormone, ____ still enters its target cells and binds to receptors associated to DNA by moving directly through the membrane.
+27 of 180
+thyroid hormonesIt is small enough to go through the membrane despite being hydrophilic.
+
+The hypothalamus regulates secretion in the anterior pituitary via ______ and ______ hormones.
+28 of 180
+releasing and inhibitingHypothalamus secretes TRH to cause secretion of TSH from the pituitary.
+
+TRUE or FALSE? The posterior pituitary is controlled via hormones released from the hypothalamus.
+29 of 180
+FALSEIt is controlled by direct neural input from the hypothalamus.
+
+(Up/Down) regulation results in more receptors being produced than destroyed, thus (increasing/decreasing) sensitivity to a hormone.
+30 of 180
+Up ; increasingUp regulation occurs when hormones are low.
+
+(Up/Down) regulation occurs when more receptors are destroyed than created, thus (increasing/decreasing) sensitivity to a hormone.
+31 of 180
+Down ; decreasingDown regulation occurs when circulating hormones are high.
+
+Prostaglandins are (protein/lipid) molecules made of a 20-carbon unsaturated fatty acid and 5-carbon ring. They are made from the breakdown of cell ______.
+32 of 180
+lipid ; membranes
+
+The ____ enzyme converts arachidonic acid into prostaglandins.
+33 of 180
+COX
+
+(Thromboxanes / Leukotrienes) play a role in blood clotting and (thromboxanes/leukotrienes) play a role in the inflammatory response.
+34 of 180
+Thromboxanes; leukotrienes
+
+(Endocrine/Paracrine/Autocrine) hormones travel in the blood and can affect all tissues of the body.
+35 of 180
+Endocrine
+
+(Endocrine/Paracrine/Autocrine) hormones regulate activity in nearby cells within the same tissue.
+36 of 180
+Paracrine
+
+(Endocrine/Paracrine/Autocrine) hormones regulate the activity of the same cell that secreted them.
+37 of 180
+Autocrine
+
+Prostaglandins are good examples of (endocrine/autocrine/paracrine) hormones.
+38 of 180
+paracrine
+
+(Hyper/Hypo) secretion disorders result from a level of hormones higher than their required amount.
+39 of 180
+Hyper
+
+Hyper and hypo secretion disorders are often named with the hormone being produced. For example, excess thyroid hormone is called:
+40 of 180
+hyperthyroidism
+
+Grave's disease and toxic nodular goiter result in (hyper/hypo)______.
+41 of 180
+hyperthyroidism
+
+Functional tumors of endocrine cells result in (hyper/hypo) secretion disorders.
+42 of 180
+hyperNonfunctional tumors grow in size but do not secrete extra hormones.
+
+In Grave’s disease, the cause of hypersecretion of ____ hormone is an ____ reaction to ______ receptors.
+43 of 180
+thyroid ; autoimmune ; TSHTHS usually binds to TSH receptors to stimulate release of T3/4 hormone.
+
+In hyperparathyroidism, the thyroid fails to adjust its output of PTH in response to blood ___ levels.
+44 of 180
+calcium
+
+(Hyper/Hypo)secretion disorders occur when blood levels of a specific hormone are deficient.
+45 of 180
+Hypo
+
+Autoimmune destruction of the pancreatic islet cells can result in ______.
+46 of 180
+type 1 diabetes mellitusthe damaged islets cannot secrete insulin in response to hyperglycemia.
+
+The pituitary gland sits in the bony _______.
+47 of 180
+sella turcicaSella turcica is part of the sphenoid bone.
+
+The pituitary gland connects to the hypothalamus via the ____.
+48 of 180
+infundibulum
+
+The two glands that make up the pituitary gland are the anterior _____hypophysis and the posterior ______ hypophysis.
+49 of 180
+adeno ; neuroThe adeno responds to hormones and the neuro responds to nerve impulses.
+
+The 5 types of cells in the anterior pituitary are: _____trophs.
+50 of 180
+Somatotrophs , corticotrophs , thryrotrophs, lactotrophs and gonadotrophs
+
+Somatotrophs of the (anterior/posterior) pituitary secrete:
+51 of 180
+anterior ; Growth hormone (GH)
+
+Corticotrophs of the (anterior/posterior) pituitary secrete:
+52 of 180
+anterior ; adrenocorticotropic hormone (ACTH)
+
+Thyrotrophs of the (anterior/posterior) pituitary secrete:
+53 of 180
+anterior ; thyroid stimulating hormone (TSH)
+
+Lactotrophs of the (anterior/posterior) pituitary secrete:
+54 of 180
+anterior ; prolactin (PRL)
+
+Gonadotrophs of the (anterior/posterior) pituitary secrete:
+55 of 180
+anterior ; luteinizing hormone and follicle stimulating hormone. (LH and FSH)
+
+The other name for growth hormone is ____tropin.
+56 of 180
+somato
+
+Growth hormone stimulates the liver to produce _________.
+57 of 180
+insulin-like growth factor 1 (IGF-1)
+
+Growth hormone stimulates (carbohydrate/protein/lipid) anabolism and (carbohydrate/protein/lipid) catabolism.
+58 of 180
+protein ; lipid
+
+Growth hormone and insulin are (synergists/antagonists).
+59 of 180
+antagonistInsulin decreases blood glucose & growth hormone increases blood glucose.
+
+Pituitary dwarfism occurs due to the hyposecretion of ______ hormone.
+60 of 180
+growth
+
+"The hormone that promotes protein anabolism, lipid mobilization, lipid catabolism and inhibits glucose metabolism and increases serum glucose is:"
+61 of 180
+Growth hormoneIt increases serum glucose to provide energy to protein metabolism.
+
+______ is a condition that occurs due to excess growth hormone during childhood and _____ is a condition that occurs due to excess growth hormone into adulthood.
+62 of 180
+Gigantism ; acromegaly
+
+_____ hormone generates milk during pregnancy and initiates milk secretion after childbirth.
+63 of 180
+Prolactin
+
+_____ hormones in general are hormones that stimulate an effect on other endocrine glands.
+64 of 180
+TropicSome pituitary hormones have tropic effects on other glands.
+
+_____ from the pituitary gland stimulates the thyroid to secrete thyroid hormone.
+65 of 180
+Thyroid stimulating hormone
+
+TSH is also called thyro_____ because it is a tropic hormone to the thyroid gland.
+66 of 180
+Thyrotropin
+
+ACTH from the _______ gland stimulates the _______ to synthesize and secrete its own hormones.
+67 of 180
+pituitary ; adrenal cortexACTH is a tropic hormone to cortisol.
+
+_____ from the pituitary stimulates the primary follicles in the ovary to mature and secrete estrogens in females.In males it stimulates the development of seminiferous tubules and maintains spermatogenesis.
+68 of 180
+Follicle stimulating hormone (FSH)
+
+_____ from the pituitary stimulates development of the corpus luteum and secretion of progesterone and estrogens in the luteum in females. In males the hormone stimulates interstitial cells in the testes to secrete testosterone.
+69 of 180
+Luteinizing hormone (LH)
+
+The two gonadotropins are ________.
+70 of 180
+follicle-stimulating hormone (FSH) and luteinizing hormone (LH)From the anterior pituitary.
+
+____hormone is produced in the skin as well as the pituitary.
+71 of 180
+Melanocyte stimulating hormoneIt is from the "intermediate" lobe of the pituitary.
+
+Releasing hormones from the _____ travel through the blood vessels of the _____ portal system to the pituitary.
+72 of 180
+hypothalamus ; hypophyseal
+
+Somatostatin aka _____ is secreted from the ______.
+73 of 180
+growth hormone inhibiting hormone ; hypothalamusWhen something is "static" it is still or inhibited.
+
+GHRH and GHIH are from the _____ and stimulate or inhibit the secretion of ______ from the pituitary respectively.
+74 of 180
+hypothalamus ; growth hormone
+
+____ from the hypothalamus stimulates secretion of ACTH from the ______.
+75 of 180
+Corticotropin releasing hormone (CRH) ; pituitary
+
+Thyroid releasing hormone (TRH) from the __________ stimulates secretion of ____ from the _______.
+76 of 180
+hypothalamus ; thyroid stimulating hormone (TSH) ; pituitary
+
+____ from the hypothalamus stimulates the secretion of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the ______.
+77 of 180
+Gonadotropic releasing hormone (GnRH) ; pituitary
+
+Prolactin-releasing hormone (PRH) and prolactin-inhibiting hormones (PIH) from the hypothalamus control the secretion of ______ from the _____.
+78 of 180
+prolactin (PRL) ; pituitary
+
+Decreased secretion of estrogen in response to _____ hormone occurs in menopause.
+79 of 180
+Follicle-stimulating hormone (FSH)
+
+The two hormones released from the neurohypophysis (posterior pituitary) are :
+80 of 180
+Antidiuretic hormone (ADH) and oxytocin (OT)
+
+The _______  synthesizes the hormones ADH and OT.
+81 of 180
+hypothalamusBut they are released from the posterior pituitary.
+
+Antidiuretic hormone (ADH) (stimulates/prevents) formation of urine.
+82 of 180
+prevents
+
+Antidiuretic hormone ADH (concentrates/dilutes) urine.
+83 of 180
+concentratesIt retains the water in the body rather than excreting it to the urine.
+
+Antidiuretic hormone (ADH)(increases/decreases) blood pressure.
+84 of 180
+increasesBlood pressure increases via water retention.
+
+____receptors in the brain detect osmotic pressure to control the secretion of antidiuretic hormone.
+85 of 180
+Osmo
+
+Antidiuretic (ADH) works to (increase/decrease) osmotic pressure.
+86 of 180
+decreaseIt decreases high osmotic pressure but retaining water.
+
+Vasopressin is another name for the hormone ____due to its (constriction/dilation) effects on blood vessels.
+87 of 180
+Antidiuretic hormone (ADH)This increases blood pressure when it is too low.
+
+_____ is a hormone that stimulates uterine contractions and causes milk ejection in lactating women.
+88 of 180
+OxytocinUterine stretch provides positive feedback for more oxytocin release.
+
+The action of baby _____ stimulates the release of more oxytocin hormone.
+89 of 180
+sucklingThe suckling provides positive feedback for more oxytocin release.
+
+(Prolactin/Oxytocin) stimulates milk production and (prolactin/oxytocin) stimulates milk release.
+90 of 180
+Prolactin ; oxytocinOxytocin also stimulates uterine contractions.
+
+Oxytocin is one of the only hormones that works on a (negative/positive) feedback mechanism.
+91 of 180
+positive
+
+The ____ gland secretes the hormone melatonin.
+92 of 180
+pinealS cones in the retina respond to blue light and some go to the pineal.
+
+The mental disorder ________ disorder is characterized by depression in the winter when there are fewer hours of daylight.
+93 of 180
+seasonal affective disorder
+
+The _____ gland is located in the neck adjacent to the trachea.
+94 of 180
+thyroidIf it is enlarged, it is called a "goiter."
+
+Thyroglobulins are precursors to ____ hormone.
+95 of 180
+thyroid
+
+In the thyroid, follicular cells contain (calcitonin/thyroid hormone) and parafollicular cells contain (calcitonin/thyroid) hormone.
+96 of 180
+thyroid hormone ; calcitonin
+
+Tetraiodothyronine is T(3/4) and triiodothyronine is T(3/4).
+97 of 180
+4 ; 3
+
+Thyroxine is T(3/4).
+98 of 180
+T4
+
+To circulate in the blood, thyroid hormones must bind to _________.
+99 of 180
+thyroid-binding globulin and albumin
+
+Which is more abundant, T3 or T4?Which is more potent, T3 or T4?
+100 of 180
+T4 ; T3
+
+Which thyroid hormone is a precursor to the other? T3 or T4?
+101 of 180
+T4 is a precursor to T3T4 is more abundant and T3 is more potent.
+
+_____ hormone targets most of the tissues in the body and increases the rate of metabolism.
+102 of 180
+Thyroid
+
+______ from the thyroid controls calcium content in the blood.
+103 of 180
+Calcitonin
+
+Calcitonin (decreases/increases) blood Ca++ levels.
+104 of 180
+decreases
+
+Calcitonin activates oseto(blasts/clasts) and inhibits osteo(blasts/clasts).
+105 of 180
+blasts ; clastsOsteoblasts remove Ca++ in the blood and store it in the bone.
+
+Exophthalmos can occur in ______ disease which is an autoimmune condition.
+106 of 180
+Grave's
+
+Grave’s disease is associated with weight (loss/gain), (decreased/increased) heart rate, and exophthalmos.
+107 of 180
+loss ; increasedDue to high thyroid hormone levels.
+
+Hyposecretion of thyroid hormone in childhood leads to the condition _______.
+108 of 180
+cretinismFor this reason thyroid levels are checked at birth.
+
+Hyposecretion of thyroid hormone in adulthood causes (increased/decreased) metabolism, weight (gain/loss), hair loss, and myxedema.
+109 of 180
+decreased, gain
+
+______ is swelling and firmness in the skin due to excess mucopolysaccharides.
+110 of 180
+myxedemaThis occurs in hypothyroidism.
+
+If there is not enough iodine in the diet (limited/excess) TRH and TSH can result in a goiter formation.
+111 of 180
+excessLow iodine causes T3/4 to be low & excess TRH and TSH in response.
+
+The principal action of (calcitonin/parathyroid hormone) is to increase blood Ca++ levels by activating vitamin__ in the liver, (increasing/decreasing) Ca++ storage in bones, and (increasing/decreasing) Ca++ absorption in the intestine.
+112 of 180
+parathyroid ; D ; decreasing ; increasingCalcitonin decreases blood calcium and parathyroid hormone increases it.
+
+Hyposecretion of parathyroid hormone (PTH) can lead to ______.
+113 of 180
+hypocalcemiaBecause PTH keeps calcium levels high.
+
+The adrenal glands are located on top of the ____.
+114 of 180
+kidneys
+
+The outer layer of the adrenal gland is called the (medulla/cortex) and the inner layer is called the (medulla/cortex).
+115 of 180
+cortex ; medullaThe "m"edulla is in the "m"iddle of the organ or gland."
+
+The three layers of of the adrenal cortex from outer to inner are:
+116 of 180
+zona glomerulosa, zona fasciculata, zona reticularis
+
+The zona glomerulosa of the adrenal cortex secretes (gonadocorticoids/glucocorticoids/mineralocorticoids).
+117 of 180
+mineralocorticoids
+
+The zona fasciculata of the adrenal cortex secretes (gonadocorticoids/glucocorticoids/mineralocorticoids).
+118 of 180
+glucocorticoids
+
+The zona reticularis of the adrenal cortex secretes (gonadocorticoids/glucocorticoids/mineralocorticoids).
+119 of 180
+gonadocorticoids
+
+The hormones secreted from the adrenal cortex are called ____steroids.
+120 of 180
+corticocortico hormones are secreted from the adrenal cortex.
+
+Aldosterone is a (mineralocorticoid/glucocorticoid/gonadocorticoid) secreted from the (cortex/medulla) of the adrenal gland.
+121 of 180
+mineralocorticoid ; cortex
+
+Aldosterone is important for ____ homeostasis in the blood.
+122 of 180
+sodium
+
+Aldosterone increases serum (Na+/K+/Ca+/H+) in exchange for _____ into the urine.
+123 of 180
+Na+; K+ and H+
+
+Due to its retention of Na+ aldosterone controls ____ retention and due to its loss of H+ aldosterone controls ___.
+124 of 180
+water ; pHAntidiuretic hormone also causes water retention.
+
+_____ secretion is controlled by the (renin-angiotensin-aldosterone system (RAAS) and levels of serum K+.
+125 of 180
+AldosteroneAldosterone is a mineralocorticoid from the adrenal zona glomerulosa.
+
+The renin-angiotensin-aldosterone system (RAAS) is triggered by a (decrease/increase) in blood pressure as detected by the _______ apparatus.
+126 of 180
+decrease ; juxtaglomerularThe juxtaglomerular apparatus is adjacent to the kidney.
+
+When low blood pressure is detected, the juxtaglomerular apparatus secretes _____.
+127 of 180
+reninThis is the first step of the RAAS.
+
+Renin is an enzyme involved in the ____ system that converts _____ to ____.
+128 of 180
+renin-angiotensin-aldosterone (RAAS); angiotensinogen ; angiotensin I
+
+_____ is an enzyme that is part of the renin-angiotensin-aldosterone system (RAAS) that converts angiotensin I to angiotensin II.
+129 of 180
+ACE (angiotensin converting enzyme)ACE is found in the lungs and is high in patients with sarcoidosis.
+
+Angiotensin II stimulates the adrenal (medulla/cortex) to secrete the hormone _______.
+130 of 180
+cortex ; aldosterone
+
+Aldosterone increases blood pressure via increasing (vasoconstriction / blood volume).
+131 of 180
+blood volume
+
+The two actions of angiotensin II are :
+132 of 180
+Stimulates the secretion of aldosterone from the adrenal cortex and also causes vasoconstriction.
+
+The main glucocorticoid secreted from the adrenal cortex is _____.
+133 of 180
+cortisol
+
+Gluconeogenesis is stimulated by (mineralocorticoids/glucocorticoids/gonadocorticoids).
+134 of 180
+glucocorticoidsGluconeogenesis is creation of glucose from      non-glucose sources like fats
+
+Gluconeogenesis is the production of ______ from proteins and lipids and occurs in the ____.
+135 of 180
+glucose ; liver
+
+(Hyper/Hypo)glycemia is a result of gluconeogenesis.
+136 of 180
+Hyper
+
+Glucocorticoids are (synergistic/antagonistic/permissive) to epinephrine and norepinephrine.
+137 of 180
+permissive
+
+Prolonged glucocorticoid levels at high concentrations cause (hypo/hyper)tension.
+138 of 180
+hyper
+
+Glucocorticoids (stimulate/suppress) the immune system.
+139 of 180
+suppressTheir secretion can be controlled by stress, resulting in sickness.
+
+_____ secretion is controlled by stress to increase glucose needed for the fight or flight response as well as by the hormone ACTH.
+140 of 180
+Glucocorticoids
+
+Androgens are considered male (glucocorticoids/mineralocorticoids/gonadocorticoids) secreted from the adrenal (medulla/cortex).
+141 of 180
+gonadocorticoids ; cortex
+
+The medullary cells of the adrenal gland are stimulated by the (endocrine/nervous) system to secrete _______.
+142 of 180
+nervous ; epinephrine and norepinephrine
+
+Epinephrine and norepinephrine from the adrenal (cortex/medulla) are considered (steroidal/nonsteroidal) _____.
+143 of 180
+medulla ; nonsteroidal ; catecholamines
+
+The head of the pancreas is proximal to the (duodenum/stomach/spleen), the body of the pancreas is proximal to the (duodenum/stomach/spleen) and the tail of the pancreas is proximal to the (duodenum/stomach/spleen).
+144 of 180
+duodenum ; stomach ; spleen
+
+The condition _____ is characterized by hypersecretion of cortisol and the condition _____ is characterized by hyposecretion of cortisol.
+145 of 180
+Cushing syndrome ; Addison disease
+
+Cushing syndrome is characterized by a redistribution of fat around the face known as ____face.
+146 of 180
+moon
+
+Aldosteronism occurs due to (hyper/hypo) secretion of aldosterone and results in water retention and muscle weakness due to loss of the ion ___.
+147 of 180
+hyper ; potassium
+
+In Addison’s disease, low levels of mineralocorticoids and glucocorticoids result in (increased/decreased) blood sodium, (increased/decreased) blood glucose, (increased/decreased) potassium, dehydration and weight (gain/loss).
+148 of 180
+decreased, decreased, increased, lossWeight loss is due to loss of "water weight."
+
+The pancreatic islets of Langerhans constitute the (endocrine/exocrine) portion of the pancreas.
+149 of 180
+endocrineThe exocrine portion secretes digestive hormones.
+
+From the pancreas, glucagon comes from (alpha / beta / delta) cells, insulin comes from (alpha / beta / delta) cells and somatostatin comes from (alpha /beta / delta) cells.
+150 of 180
+alpha ; beta ; delta
+
+From the pancreas, (pancreatic polypeptide / ghrelin) comes from epsilon cells.
+151 of 180
+ghrelinGhrelin plays a role in appetite.
+
+Glucagon is a hormone from the _____ that promotes the movement of glucose (into/out of) the blood.
+152 of 180
+pancreas ; intoThe goal of glucagon is to increase blood sugar when it is too low.
+
+Ghrelin from the pancreas travels to the ______ to (increase/decrease) appetite.
+153 of 180
+hypothalamus ; increaseGhrelin is from epsilon cells of the pancreas.
+
+Insulin is a hormone from the ______ that promotes movement of glucose (into/out of) the blood.
+154 of 180
+Pancreas ; out ofThe goal of insulin is to decrease blood sugar when it is too high.
+
+Glucagon is a (hyper/hypo)glycemic hormone. It (increases/decreases) gluconeogenesis and (increases/decreases) glycogenolysis.
+155 of 180
+hyper ; increases ; increases
+
+Insulin is a (hyper/hypo) glycemic hormone and is antagonistic to ___.
+156 of 180
+hypo ; glucagon
+
+______ is a hormone from the pancreas that inhibits secretion of glucagon, insulin, and pancreatic polypeptide from the _____ and also inhibits the secretion of growth hormone from the ____.
+157 of 180
+Somatostatin; pancreas ; anterior pituitarySomatostatin makes everything static.
+
+(Estrogen/Progesterone) is the pregnancy promoting hormone that maintains the uterine lining.
+158 of 180
+ProgesteroneProgesterone is prolife.
+
+Cholecalciferol is vitamin ___ and it promotes ___ absorption and regulates mineral balance in bones.
+159 of 180
+D3 ; calciumDietary calcium requires vitamin D to be absorbed into the body.
+
+Human chorionic gonadotropin (hCG) is a hormone released from the _____ that stimulates the secretion of ____and ______ during pregnancy.
+160 of 180
+ovaries ; estrogen ; progesterone
+
+Human placental lactogens (hPL) are hormones from the _____ that target the ____ to stimulate their secretion of estrogens and progesterones.
+161 of 180
+placenta ; ovary
+
+______ is a hormone from the placenta that targets the uterus and joints to inhibit contractions during pregnancy.
+162 of 180
+RelaxinOxytocin stimulates uterine contractions.
+
+Thymosin and thymopoietin are from the ____ gland and they stimulate the development of (T/B) lymphocytes.
+163 of 180
+Thymus ; T
+
+_____ from the stomach mucosa stimulates gastric juice secretion.
+164 of 180
+Gastrin
+
+Cholecystokinin (CCK) from the internal mucous stimulates the ______ to secrete ____.
+165 of 180
+The gallbladder secretes bile and the pancreas to secrete digestive enzymes
+
+Atrial natriuretic hormone (ANH) from the ___ targets the ____.Its action is to promote loss of ___into the urine to (decrease/increase) blood volume and pressure.
+166 of 180
+heart ; kidney ; sodium ; decreaseIt is antagonistic to aldosterone.
+
+____ are hormones from the ovary or testis that target the hypothalamus to regulate the secretion of GnRH and the pituitary to regulate the secretion of FSH.
+167 of 180
+Inhibins
+
+The hormone _______ from adipose and macrophages reduces insulin sensitivity and therefore increases blood glucose levels.
+168 of 180
+Resistin
+
+The _____ is a gland that is in the mediastinum. It is normally large in childhood and then atrophies into adulthood.
+169 of 180
+ThymusAn enlarged thymus can be characteristic of myasthenia gravis.
+
+The hormone secretin (increases/decreases) stomach acid secretion and causes the pancreas to release a (acidic/alkaline) fluid.
+170 of 180
+decreases ; alkaline
+
+Cells in the atrium of the heart increase the release of atrial natriuretic peptide in response to ____.
+171 of 180
+stretchStretch is an indication that blood pressure may be too high.
+
+______ is antagonistic to antidiuretic hormone and aldosterone.
+172 of 180
+Atrial natriuretic hormoneANH will decrease blood pressure and ADH & aldosterone will increase it.
+
+Diabetes (mellitus/insipidus) is a condition that occurs due to hyposecretion of the hormone _____. It is characterized by poly___ and poly____.
+173 of 180
+insipidus; antidiuretic hormone ; polyuria and polydipsiaPatients urinate often and are very thirsty.
+
+_______ disease is an autoimmune damage to the thyroid resulting in hypothyroidism.
+174 of 180
+Hashimoto diseaseGrave's is autoimmune stimulation of the thyroid causing hyperthyroidism.
+
+Hyposecretion of _____ in postmenopausal women can result in osteoporosis.
+175 of 180
+estrogenEstrogen is protective to the bones.
+
+Type ___ diabetes mellitus is characterized by hyposecretion of insulin and type ___ diabetes is characterized by insensitivity of insulin receptors on target cells.
+176 of 180
+1 ; 2
+
+(Hyper/Hypo)thyroidism is characterized by nervousness, tremor, weight loss, hunger, heat intolerance, and blood pressure.
+177 of 180
+HyperToo much thyroid hormone cause cause a "thyroid storm" with severe HTN.
+
+(Hyper/Hypo)thyroidism is characterized by dry skin, weight gain, constipation, arthritis, and sluggishness.
+178 of 180
+Hypo
+
+Hyperparathyroidism results in (hypo/hyper)calcemia.
+179 of 180
+hyper
+
+Seasonal affective disorder is due to (hyper/hypo) secretion of melatonin.
+180 of 180
+hyperMelatonin is from the pineal gland and controls circadian rhythm.
