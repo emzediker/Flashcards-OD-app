@@ -1,0 +1,918 @@
+Systemic Anatomy, Physiology, & Disease
+Blood, Immune System & Stress229 flashcards
+
+The fluid portion of blood is called ______.
+1 of 229
+plasma
+
+Thrombocytes are blood ___.
+2 of 229
+platelets
+
+The formed elements of blood are :
+3 of 229
+red blood cells , white blood cells and platelets
+
+Erythrocytes are ___ blood cells and leukocytes are ____ blood cells.
+4 of 229
+red ; white
+
+_____ is the term used to describe the volume percent of red blood cells in whole blood.
+5 of 229
+HematocritThicker more viscous blood has higher hematocrit levels.
+
+Normal hematocrit percentage in a man is ____% and ___ % in a woman.
+6 of 229
+45% (40-54%) ; 42% (38-47%)
+
+Anemias are conditions that result in decreased numbers of _____ cells.
+7 of 229
+red blood
+
+Poly_____ occurs when red blood cells and subsequent hematocrit values are high.
+8 of 229
+cythemiaPatients with polycythemia are more likely to have blood clots.
+
+The _________ is a lab value that measures the rate that certain formed elements of the blood fall n 1 hour in an anticoagulated blood sample.
+9 of 229
+Erythrocyte Sedimentation Rate (ESR)It is a general measure of inflammation.
+
+Erythrocyte sedimentation rate (ESR) is increased in inflammatory processes due to the ____ secreting large proteins in response to inflammation.
+10 of 229
+liver
+
+The mature red blood cell does not have a _____.
+11 of 229
+nucleus
+
+The primary component of a red blood cell is the red protein pigment _______globin.
+12 of 229
+hemo
+
+The enzyme carbonic anhydrase found in ___ cells catalyzes the reaction that joins carbon dioxide and ____ to form ______ acid.
+13 of 229
+red blood ; water ; carbonic
+
+Dissociation of carbonic acid forms ___ and ____ ions.
+14 of 229
+bicarbonate and hydrogen
+
+Hemoglobin is made up of (1/2/3/4) heme and (1/2/3/4) globin.
+15 of 229
+4 ; 4
+
+Each heme group is bound to an ___ ion.
+16 of 229
+Iron (Fe)Therefore if iron is deficient this can cause an anemia.
+
+Each hemoglobin can bind to ___ oxygen or ___ carbon dioxide.
+17 of 229
+4 ; 4
+
+Hemoglobin + 4 oxygen =
+18 of 229
+Oxyhemoglobin
+
+Hemoglobin + 4 carbon dioxide =
+19 of 229
+Carbaminohemoglobin
+
+Anemia is diagnosed if an adult has a hemoglobin content of less than __grams/___mL of blood.
+20 of 229
+10 grams / 100 mL of blood
+
+Erythropoiesis is the process of _____ formation.
+21 of 229
+red blood cell
+
+_____ anemia is a condition characterized by an abnormal type of hemoglobin that forms into a crystal when blood oxygen is low. This results in fragile blood cells that break and clot easily.
+22 of 229
+Sickle cell
+
+The hemocytoblast is the _______ stem cell from which all blood cells are formed.
+23 of 229
+hematopoietic
+
+The order by which hemocytoblasts become erythrocytes is:
+24 of 229
+hemocytoblast > proerythroblast >basophilic erythroblast >polychromatic erythroblast>reticulocyte> erythrocyte
+
+The order by which a hemocytoblast becomes a granulocyte is:
+25 of 229
+Hemocytoblast>myeloblast> progranulocyte>myelocyte>   band cell>granulocyte
+
+The order by which a hemocytoblast becomes a lymphocyte is:
+26 of 229
+Hemocytoblast>lymphoblast-->lymphocyte
+
+The order by which a hemocytoblast becomes a monocyte is:
+27 of 229
+Hemocytoblast>monoblast>monocyte
+
+The order by which a hemocytoblast becomes a platelet is:
+28 of 229
+Hemocytoblast>megakaryoblast>megakaryocyte>platelet
+
+The hormone _____ is secreted in response to oxygen deficiency to create more red blood cells.
+29 of 229
+erythropoietin
+
+Erythropoietin is released from the ____ in response to low levels of oxygen.
+30 of 229
+kidney
+
+The lifespan of a red blood cell circulating in the bloodstream is roughly ____ days.
+31 of 229
+120
+
+The breakdown of red blood cells results in the ion ___ being returned to the bone marrow and the pigment ____ being sent to the liver to be excreted into the ______ as bile.
+32 of 229
+Iron (Fe) ; bilirubin ; intestine
+
+Vitamin ___ is needed for the synthesis of new red blood cells.
+33 of 229
+B12A deficiency in vitamin B12 can cause an anemia.
+
+White blood cells are called ______.
+34 of 229
+leukocytes
+
+The two main categories of leukocytes are characterized by their staining characteristics. These categories are:
+35 of 229
+granulocytes and agranulocytes
+
+The three granulocytes are:
+36 of 229
+neutrophils, eosinophils, basophils
+
+The two agranulocytes are:
+37 of 229
+lymphocytes and monocytes
+
+A (neutrophil/basophil/eosinophil) is a granulocyte that is involved in phagocytosis of small microscopic organisms.
+38 of 229
+neutrophil
+
+A (neutrophil/basophil/eosinophil) is a granulocyte that secretes the anticoagulant heparin as well as histamine.
+39 of 229
+basophil
+
+Basophils secrete _____ and ____.
+40 of 229
+heparin and histamine
+
+A (neutrophil/basophil/eosinophil) is a granulocyte that chemically attacks pathogens like protozoa and worms.
+41 of 229
+eosinophil
+
+A (monocyte/lymphocyte) is an agranulocyte that secretes antibodies.
+42 of 229
+lymphocyteSpecifically mature B cells called plasma cells.
+
+A (monocyte/lymphocyte) is a granulocyte that is phagocytic to bacteria, debris, and cancer cells.
+43 of 229
+monocyte
+
+Polymorphonuclear leukocytes are another name for (monocytes/neutrophils/erythrocytes).
+44 of 229
+neutrophils
+
+_____ is the action of some immune cells whereby they can migrate out of the blood vessels and enter tissue spaces.
+45 of 229
+Diapedesis
+
+_____ is the process whereby chemicals released by damaged cells attract phagocytic cells to the site of damage.
+46 of 229
+Chemotaxis
+
+(B/T) lymphocytes function by directly attacking cells and (B/T) lymphocytes produce antibodies against antigens.
+47 of 229
+T ; B
+
+Activated (T/B) lymphocytes are called plasma cells.
+48 of 229
+BThey secrete antibodies.
+
+Leukopenia is a decreased number of _____ in the blood.
+49 of 229
+leukocytes (white blood cells)
+
+_______ is an abnormally high number of leukocytes in the blood.
+50 of 229
+LeukocytosisLeukocyte numbers may increase during infections or in leukemia.
+
+A _______ white blood cell count gives the percentage of each type of white blood cell that is within a total white blood cell count.
+51 of 229
+differential
+
+The normal percentage of (neutrophils/lymphocytes/monocytes) in the body is 25%.
+52 of 229
+lymphocytes
+
+The normal percentage of (neutrophils/lymphocytes/monocytes) in the body is 65%.
+53 of 229
+neutrophils
+
+Vaso(dilation/constriction) occurs prior to a platelet plug forming.
+54 of 229
+constriction
+
+Thrombopoiesis is the formation of ______.
+55 of 229
+platelets aka thrombocytesPlatelets are needed for blood clot formation.
+
+The hormone that stimulates the formation of platelets is _______.
+56 of 229
+thrombopoietin
+
+The antigens found on the membranes of red blood cells determine ______.
+57 of 229
+blood typeBlood types are A, B, AB, and O.
+
+A _______ reaction occurs when donor blood does not match recipient blood.
+58 of 229
+transfusionThis is why matching blood types is important.
+
+The four main blood types are:
+59 of 229
+A , B , AB , O
+
+Type A blood has antigen ___ on its red blood cells and forms antibodies to antigen ___.
+60 of 229
+A ; B
+
+Type B blood has antigen ___ on its red blood cells and forms antibodies to antigen ___.
+61 of 229
+B ; A
+
+Type AB blood has antigen ___ on its red blood cells and forms antibodies to ___.
+62 of 229
+A and B; nothing
+
+Type O blood has antigen ___ on its red blood cells and forms antibodies to antigen _____.
+63 of 229
+no antigen ; A and B
+
+Type ___ blood is the universal donor and type ___ blood is the universal acceptor.
+64 of 229
+O ; AB
+
+Rh (negative/positive) blood has an Rh antigen on its red blood cells and Rh (negative/positive) blood does not have an Rh antigen on its red blood cells.
+65 of 229
+positive ; negative
+
+In the condition ____________ an Rh-negative mother carries an Rh-positive fetus and develops antibodies to the baby’s blood.
+66 of 229
+erythroblastosis fetalis
+
+Cancer of plasma cells (B cells) is called _______ resulting in production of abnormal antibodies.
+67 of 229
+multiple myeloma
+
+The four components that are critical to coagulation of blood are:
+68 of 229
+prothrombin , thrombin , fibrinogen , fibrin
+
+The ion ____ is required for blood clot formation.
+69 of 229
+calcium
+
+The first stage of clotting is divided into the _____ and ____ pathways.
+70 of 229
+intrinsic and extrinsicThe intrinsic and extrinsic pathways of clotting formation both end with the formation of _____ .
+
+71
+71 of 229
+prothrombin activator
+
+In the (extrinsic/intrinsic) pathway of blood clotting damaged tissues trigger the cascade that eventually forms prothrombin activator.
+72 of 229
+extrinsic
+
+In the (extrinsic/intrinsic) pathway damage to the endothelial blood vessels activates coagulation.
+73 of 229
+intrinsic
+
+Prothrombin and fibrinogen involved in ______ are synthesized in the ____.
+74 of 229
+blood clotting ; liver
+
+For the liver to synthesize prothrombin, the blood must have vitamin ___.
+75 of 229
+K
+
+_____ is the dissolution of clots.
+76 of 229
+FibrinolysisThe suffix lysis usually refers to breaking down.
+
+Antithrombins are substances that oppose ____.
+77 of 229
+thrombin (clot formation)
+
+The role of thrombin is to convert ______ to _____ to form clots.
+78 of 229
+fibrinogen ; fibrin
+
+Heparin in the blood acts as an anti_____.
+79 of 229
+thrombinHeparin is a natural blood thinner and prevents clot formation.
+
+Rough blood vessel endothelium and slow blood flow both favor _______ formation.
+80 of 229
+clotSlow moving blood in the legs can be prone to deep vein thrombosis.
+
+Thrombosis is the abnormal formation of _____.
+81 of 229
+clots
+
+Clot formation follows a (negative/positive) feedback system.
+82 of 229
+Positive Breastfeeding and childbirth also follow positive feedback.
+
+_____ hydrolyzes fibrin and dissolves clots.
+83 of 229
+Plasmin
+
+(Arterial/Venous) thrombi are primarily fibrin and red blood cells and (arterial/venous) thrombi are primarily platelets.
+84 of 229
+venous ; arterial
+
+In ____ anemia, there are abnormally low amounts of red blood cells and is usually accompanied by a decrease in leukocytes and platelets.
+85 of 229
+aplastic
+
+In pernicious anemia, there is a low amount of red blood cells from a deficiency in vitamin ___.
+86 of 229
+B12
+
+The substance that allows B12 to be absorbed from the diet is _______.
+87 of 229
+intrinsic factor
+
+A patient with low intrinsic factor may have reduced absorption of vitamin ___ resulting in ____ anemia.
+88 of 229
+B12 ; pernicious
+
+In ____ deficiency anemia there is a deficiency in vitamin B9.
+89 of 229
+folatePernicious anemia is due to low B12 and folate anemia is due to low B9.
+
+Disorders where hemoglobin is abnormally high are called hyper____, and those where hemoglobin is abnormally low are called hypo____.
+90 of 229
+chromic ; chromic
+
+In ____ deficiency anemia the ion that binds to hemoglobin is low.
+91 of 229
+Iron (Fe)
+
+Sickle cell anemia and thalassemia are both ____ anemias.
+92 of 229
+hemolyticThey result in breakdown of RBC's earlier than the normal 120 day cycle.
+
+Leukocytosis is a hallmark of all ______.
+93 of 229
+leukemias
+
+In (acute/chronic)(lymphocytic/myeloid) leukemia malignant precursor B lymphocytes exist in excess. Symptoms are typically mild.
+94 of 229
+chronic lymphocyticMany chronic processes start with mild symptoms.
+
+In (acute/chronic)(lymphocytic/myeloid) leukemia cancer cells crowd out the other bone marrow cells which decreases levels or erythrocytes and platelets. This often occurs in childhood.
+95 of 229
+acute lymphocytic
+
+In (acute/chronic)(lymphocytic/myeloid) leukemia there is cancer of granulocyte precursor cells and can come with spleen enlargement.
+96 of 229
+chronic myeloid
+
+In (acute/chronic)(lymphocytic/myeloid) leukemia there is a pathologic transformation of myeloid stem cells with a sudden onset and rapid progression.
+97 of 229
+acute myeloidAcute conditions often have a sudden onset of symptoms.
+
+In infectious ______ there is leukocytosis of noncancerous origin.
+98 of 229
+mononucleosis
+
+A clot that travels is called a (embolism/thrombus) and a clot that stays where it is formed is called a (embolism/thrombus).
+99 of 229
+embolism ; thrombus
+
+Hemophilia is a (dominant/recessive/X-linked) disorder that causes abnormal excessive (clotting/bleeding).
+100 of 229
+X-linked ; bleedingDue to its inheritance pattern it is more common in males.
+
+Thrombocytopenia is a disorder of low ____ count.
+101 of 229
+plateletThis can result in abnormal heavy bleeding.
+
+The lab test called ________ time is used to assess the body’s ability to form blood clots.
+102 of 229
+prothrombin
+
+Prothrombin time greater than _____ seconds indicates reduced clotting ability.
+103 of 229
+11-12.5 seconds
+
+Molecular markers that allow the immune system to identify substances or cells are called _____.
+104 of 229
+antigens
+
+(Innate/Adaptive) immunity is nonspecific and (innate/adaptive) immunity is specific.
+105 of 229
+innate ; adaptiveInnate immunity is also called natural & adaptive is called acquired.
+
+(Innate/Adaptive) immunity is present naturally at birth.
+106 of 229
+Innate
+
+Epithelial barriers, phagocytes, and natural killer cells are part of the (innate/adaptive) immune system.
+107 of 229
+innate
+
+Lymphocytes are part of the (innate/adaptive) immune system.
+108 of 229
+adaptive
+
+The two types of lymphocytes are:
+109 of 229
+B cells and T cells
+
+Macrophages and neutrophils are both _______ of the innate immune system.
+110 of 229
+phagocytes
+
+Interleukins, leukotrienes, and interferons are all _____.
+111 of 229
+cytokines
+
+Which has a quicker onset of action, the innate or acquired immunity system?
+112 of 229
+innate
+
+The (innate/acquired) immune system shows an enhanced response to repeat exposure to the same antigens.
+113 of 229
+acquired
+
+Complement and interferons are part of the (innate/acquired) immune system and antibodies are part of the (innate/acquired) immune system.
+114 of 229
+innate ; acquired
+
+Dendritic cells are ______ cells in the ____.
+115 of 229
+phagocyte ; skin
+
+(Neutrophils/Macrophages/Natural killer cells) are usually the first to arrive at an inflammatory response and are (granular/agranular) phagocytes.
+116 of 229
+Neutrophils ; granular
+
+(Neutrophils/Macrophages/Natural killer cells) are known for their marked phagocytosis abilities.
+117 of 229
+Macrophages
+
+(Neutrophils/Macrophages/Natural killer cells) kill cancer cells and virally infected cells.
+118 of 229
+Natural Killer
+
+Interferon is a protein produced in cells that have become infected by a _____ and they stop the spread of that infection.
+119 of 229
+virus
+
+_______ is a group of plasma proteins that produce a cascade of reactions that results in lysis of a foreign cell.
+120 of 229
+Complement
+
+The first line of defense of the innate immune system is the ______.
+121 of 229
+skin and mucous membranes
+
+In the stomach _____ acid in the gastric mucous can destroy pathogens as part of the (innate/acquired) immune system.
+122 of 229
+hydrochloric ; innateGastric pH is very low.
+
+The second line of defense of the innate immune system is the ______ response.
+123 of 229
+inflammatory
+
+As part of the immune response histamine, prostaglandins, leukotriene, and interleukins can attract white blood cells to a tissue via the process of _______.
+124 of 229
+chemotaxis
+
+During chemotaxis, white blood cells move toward a (higher/lower) concentration of chemotaxins to a site of injury.
+125 of 229
+higher
+
+Heat, redness, pain and swelling are all characteristics of the ______ response and is associated with vaso(dilation/constriction).
+126 of 229
+inflammatory ; dilation
+
+The ingestion and destruction of microorganisms or other particles by immune cells is called _____.
+127 of 229
+phagocytosis
+
+During phagocytosis, an extension of the phagocyte encircles a microorganism and forms a ____some that fuses with the cellular ____some.
+128 of 229
+phagosome ; lysosome
+
+Phagocytes that display proteins specific to the substance they broke down on their membranes to be recognized by the acquired immune system are called ______-presenting cells.
+129 of 229
+antigen
+
+The movement of phagocytes from blood vessels to the site of inflammation is called _____.
+130 of 229
+diapedesis
+
+________ complexes are proteins present on all normal self-cells.
+131 of 229
+Major histocompatibilityThis protects the body from attacking itself.
+
+Dead white blood cells form ____.
+132 of 229
+pusIt is typically creamy colored.
+
+(Histiocytes/Kupffer cells/Dust cells) are phagocytes in connective tissues.  (Histiocytes/Kupffer cells/Dust cells) are phagocytes in the liver and (histiocytes/Kupffer cells/dust cells) are phagocytes in the lungs.
+133 of 229
+Histiocytes ; Kupffer cells ; dust cells
+
+Major histocompatibility complex class I (activates/inhibits) natural killer cells.
+134 of 229
+inhibitsMHC complexes protect our "self" cells from being attacked.
+
+Major histocompatibility complex class II cells are _____ cells of the immune system.
+135 of 229
+antigen-presenting cells
+
+Transplant and graft rejection is associated with differences in _________ on cell membranes.
+136 of 229
+major histocompatibility complexesDonors & recipients need common MHC's for a successful transplant.
+
+_____  is produced by virally infected cells and signals neighboring cells to produce antiviral proteins before they also become infected.
+137 of 229
+Interferon
+
+Complement enzymes mark microbes to be attacked by phagocytes in the process called _______.
+138 of 229
+opsonization
+
+____ like receptors recognize a general pattern or groups of molecules that typically would not be present on a human cell.
+139 of 229
+Toll
+
+(T/B) cells contribute to antibody-mediated immunity.
+140 of 229
+B
+
+(T/B) cells attack foreign cells and (T/B) cells do not attack foreign cells.
+141 of 229
+T ; BB cells do, however, make antibodies specific to an antigen.
+
+Immunity mediated by antibodies is called _____ immunity.
+142 of 229
+humoral
+
+Immunity mediated by T cells is ____mediated immunity.
+143 of 229
+cell
+
+Macromolecules that induce an immune response are called an ____.
+144 of 229
+antigenAntigens are often displayed on membranes.
+
+______ are molecules that must bind to a protein prior to inducing an immune response.
+145 of 229
+HaptensAlone, haptens are often too small to be detected by the immune system.
+
+Small regions on the surface of an antigen that is unique to that specific antigen's identity are called an _____.
+146 of 229
+antigenic determinant or epitope
+
+Antibodies are also known as ______.
+147 of 229
+immunoglobulins (Ig)
+
+An antigen's _____ is specific to an antibody.
+148 of 229
+epitopeSpecific antibodies only interact with specific antigen's epitope.
+
+A B or T cell that is actively producing an immune response is called an _______ cell.
+149 of 229
+effectorB and T cells can be active or at rest.
+
+A B or T cell that was previously active in an immune response but is no longer active (although it is surviving) is called a _____ cell.
+150 of 229
+memoryB or T cells can be active or at rest.
+
+A _____ T or B cells is inactive and has not yet been exposed to an antigen.
+151 of 229
+naive
+
+Development of naive B cells during fetal growth occurs in the _______ and _____.
+152 of 229
+yolk sac ; liver
+
+After development in the fetal yolk sac and liver during gestation, B cells develop in the (red/white) marrow of the bone.
+153 of 229
+red
+
+B cells are activated by an ____ and _____ binding at their specific epitope.
+154 of 229
+antigen and antibody
+
+(Plasma/Memory) B cells secrete antibodies.
+155 of 229
+Plasma
+
+(Plasma/Memory) B cells reside in the lymphatic tissue until activated by an antigen.
+156 of 229
+Memory
+
+Each antibody consists of (1/2/3/4/5/6) polypeptide chains. ___ are heavy and ___ are light.
+157 of 229
+4; 2; 2
+
+The polypeptides on antibodies are (X/Y) shaped.
+158 of 229
+Y
+
+Specific antigens bind to the (constant/variable) region on an antibody.
+159 of 229
+variable
+
+Complement binding sites are found on the (variable/constant) region of an antibody.
+160 of 229
+constant
+
+Heavy chains and light chains are bound together via ______ bonds.
+161 of 229
+disulfide
+
+The 5 classes of antibodies are Ig:
+162 of 229
+A, D , E , G , M
+
+Ig____ is made by immature B cells.
+163 of 229
+M
+
+Ig___ is the most predominant antibody after initial contact with an antigen.
+164 of 229
+M
+
+The most abundant circulating antibody is ig___.
+165 of 229
+G
+
+Ig___ antibodies can cross the placenta from maternal to fetal circulation.
+166 of 229
+G
+
+The most prominent antibody of a secondary immune response (a subsequent encounter of an already identified antigen) is Ig___.
+167 of 229
+G
+
+The antibody prominent in mucous membranes, saliva, and tears is Ig__.
+168 of 229
+A
+
+Ig__ is associated with allergic reactions.
+169 of 229
+E
+
+(Natural/Artificial)(passive/active) immunity occurs when a child catches a virus and is immune to a later infection of that same virus.
+170 of 229
+Natural active
+
+(Natural/Artificial)(passive/active) immunity occurs when a fetus is protected by maternal IgGs that cross the placenta.
+171 of 229
+Natural passive
+
+(Natural/Artificial)(active/passive) immunity occurs when a vaccination confers immunity.
+172 of 229
+Artificial active
+
+(Natural/Artificial)(active/passive) immunity occurs when IV antibodies used as a medication are infused into a patient to fight an infection.
+173 of 229
+Artificial passive
+
+A (antibody/antigen) epitope binds to an (antibody/antigen) binding site.
+174 of 229
+antigen ; antibody
+
+When an antibody-antigen complex binds to the blood enzyme complement, a cascade of events form a _________ complex.
+175 of 229
+membrane attack
+
+In the process of ______ a membrane attack complex formed by complement activation creates a hole in a foreign cell membrane causing the foreign cell to become full of ions and water, and to swell and burst.
+176 of 229
+cytolysisThe suffix lysis means to break.
+
+The (classical/alternate) pathways of immunity involves antibodies and the (classical/alternate) pathways of immunity involves complement.
+177 of 229
+classical ; alternate
+
+Which is quicker, the primary or secondary response of B cells?
+178 of 229
+secondary
+
+The secondary response of the immune system involves activation of ______ cells.
+179 of 229
+memory B
+
+Attenuated vaccinations are created by using (dead/living) viruses.
+180 of 229
+livingAlthough they are alive, the virus is not strong enough to cause disease
+
+A virulent virus is (able/unable) to cause disease.
+181 of 229
+ableAn attenuated vaccine is made with a virus that is not virulent.
+
+An antibody ____ is the amount of antibodies in a person’s blood that are produced in response to a vaccination or infection.
+182 of 229
+titer
+
+Which has a greater antibody titer, an initial vaccine or a booster vaccine?
+183 of 229
+boosterA booster activates memory B cells.
+
+_____ are precursor cells to T cells that develop in the thymus.
+184 of 229
+Thymocytes
+
+From the thymus, thymocytes go to the spleen and lymph nodes to develop into ____ cells.
+185 of 229
+T cells
+
+(B/T) cells do not produce antibodies.
+186 of 229
+TT cells attack foreign cells or antigens directly.
+
+In order to be activated antigens, must be presented to receptors on T cells by ________ cells or already infected cells.
+187 of 229
+antigen-presenting
+
+(T/B) cells respond to free-floating antigens and (T/B) cells respond to antigens that are on the surface of antigen-presenting cells or already infected cells.
+188 of 229
+B ; T
+
+Cytotoxic T cells and Killer T cells are both (effector/memory) T cells.
+189 of 229
+effector
+
+Memory T cells remain in the _____ and proliferate when needed.
+190 of 229
+bone marrow
+
+____ released from T cells attract other leukocytes via chemotaxis.
+191 of 229
+Cytokines and chemotactic factors
+
+(Suppressor/Helper) T cells secrete cytokines to stimulate other lymphocytes and (suppressor/helper) T cells are antagonistic to the immune system and play a role in self tolerance.
+192 of 229
+Helper; suppressor
+
+Carcinoembryonic antigen, alpha-fetoprotein, CA-125, and prostate-specific antigen are all examples of _____ markers that can be detected by the immune system.
+193 of 229
+tumor
+
+The three antibodies found in maternal breast milk are:
+194 of 229
+IgG IgM and IgAMy mom's milk has: "G"ot       "M"y         "A"ntibodies.
+
+The immune cells that make up the mucosal immune system are located near _____. Their main purpose is to prevent the colonization of pathogens and permit absorption of their antigens into the body.
+195 of 229
+MALT (mucosal-associated lymphoid tissue)
+
+The main antibody in MALT is Ig__.
+196 of 229
+A
+
+______ is the excessive inappropriate response of the immune system to an antigen.
+197 of 229
+Hypersensitivity
+
+The life threatening hypersensitivity reaction anaphylactic shock is characterized by vaso(constriction/dilation), broncho(constriction/dilation) and arrythmia.
+198 of 229
+dilation ; constrictionAnaphylaxis is a type I hypersensitivity and is treated with an EpiPen.
+
+Contact dermatitis is a (sudden/delayed) allergic reaction mediated by (IgE/T Cells).
+199 of 229
+delayed ; T cellsContact dermatitis is a type 4 hypersensitivity reaction.
+
+The inappropriate or excessive response to self-antigens is called an _____ disease.
+200 of 229
+autoimmune
+
+Systemic lupus erythematosus is an autoimmune condition resulting from the production of Ig__ against ____.
+201 of 229
+IgG ; DNA
+
+The antigens commonly involved in transplant rejections are major _____ complexes or ______ antigens.
+202 of 229
+major histocompatibility ; human leukocyteHistocompatibility allows for transplant compatibility.
+
+In a host-versus-graft rejection, the (recipient/donor) immune system destroys the (recipient/donor) tissue. In graft-versus-host rejection the (recipient/donor) tissue attacks the (donor/recipient) tissue.
+203 of 229
+recipient; donor ; donor ; recipientA graft-v-host rejection causes more harm than good.
+
+Addison’s disease is an autoimmune disease against antigens on _____ cells.
+204 of 229
+adrenalThis results in low levels or cortisol and aldosterone.
+
+In __________ blood antigens form immune complexes that deposit in the kidney resulting in kidney dysfunction.
+205 of 229
+glomerulonephritis
+
+Graves disease is an autoimmune disease against ____ receptors on the ____.
+206 of 229
+TSH ; thyroidGraves is a type II hypersensitivity &  activates the TSH receptors.
+
+Hemolytic anemia is an autoimmune disease against the surface antigens on _____.
+207 of 229
+red blood cells
+
+Multiple sclerosis is an autoimmune condition against antigens on the _______ of the nervous system cells.
+208 of 229
+myelin sheathThis is seen as plaques often near the ventricles on a brain MRI.
+
+______ anemia is an autoimmune condition against antigens on the parietal cells of the stomach decreasing their ability to absorb B12.
+209 of 229
+Pernicious
+
+________ is a result of an autoimmune reaction on cardiac cell membranes due to a cross reaction with group A streptococcal antigen.
+210 of 229
+Rheumatic feverThe reaction is often to the heart valves.
+
+Severe combined immune deficiency is  (congenital/acquired) immune deficiency where humoral and / or cell mediated immunity is defective.
+211 of 229
+congenital
+
+Acquired immune deficiency syndrome is caused by the _____ virus.
+212 of 229
+human immunodeficiency virusSexually and blood transmitted HIV causes AIDS.
+
+A _____ virus has RNA that produces its own DNA inside of an infected cell.
+213 of 229
+retroHIV is a retrovirus.
+
+The DNA of the HIV virus becomes incorporated into the DNA of the infected _____ cell, thereby using the infected cells resources to reproduce.
+214 of 229
+CD4 helper T
+
+_____________ is a protozoal infection of the lungs often associated with AIDS patients due to their impaired immunity.
+215 of 229
+pneumocystis jiroveci pneumonia
+
+________ sarcoma is a skin cancer characterized by purple lesions that is often associated to AIDS patients due to their impaired immunity.
+216 of 229
+Kaposi
+
+HAART (highly active antiretroviral therapy) is a combination of at least three medications used to treat ____.
+217 of 229
+HIV infection
+
+The two main blood components to track in patients with HIV are:
+218 of 229
+Viral load and T cell countHIV causes viral load to increase and T cell count to drop.
+
+Normal T cell count is greater than_____. T cell count in HIV is _____ and T cell count in AIDS is less than____.
+219 of 229
+600 ; 400-600 ; 200
+
+The stress triad is:
+220 of 229
+enlarged adrenals, shrunken lymphatics, and bleeding gastrointestinal ulcersHigh stress hormones, impaired immunity and stress ulcers.
+
+During a stress reaction, the adrenal cortex will increase the secretion of (mineralocorticoids/glucocorticoids) and the number of lymphocytes will (increase/decrease).
+221 of 229
+glucocorticoids ; decreaseThis increases blood sugar and decreases immunity.
+
+During a stress reaction, the amount of ______ from the adrenal medulla is increased.
+222 of 229
+epinephrine
+
+Stress is the stimulus for the hypothalamus to release _____hormone.
+223 of 229
+corticotropin-releasingCRH causes a increase of pituitary ACTH which increases adrenal cortisol.
+
+The ____ system is the emotional center of the brain.
+224 of 229
+limbic
+
+CRH from the hypothalamus stimulates the ______ to secrete _____.
+225 of 229
+anterior pituitary ; ACTH (adrenocorticotropic hormone)
+
+ACTH from the ______ stimulates the _____ to release _____.
+226 of 229
+anterior pituitary ; adrenal cortex ; cortisol and aldosterone
+
+The fight-or-flight reaction is a (cholinergic/adrenergic) response to stress.
+227 of 229
+adrenergic
+
+Neuropeptide ___ is a stress hormone from the adrenal medulla and sympathetic nervous system that causes vasoconstriction, platelet aggregation and hypertrophy of the smooth muscle in blood vessels.
+228 of 229
+Y
+
+Stress (increases/decreases) heart rate, (increases/decreases) force of contraction of the heart, (increases/decreases) systolic blood pressure, (increases/decreases) sweating and (increases/decreases) pupil size.
+229 of 229
+Increases all!
