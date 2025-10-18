@@ -222,8 +222,19 @@ async function loadDeckById(id){
     CARDS = [];
   }
   FAVS = loadFavs(CURRENT_DECK.id);
- IMAGE_MAP = loadImageMap(CURRENT_DECK.id);
-  applyFilters();
+
+// 🔄 Load shared JSON mapping from your repo (visible to all devices)
+async function fetchSharedImageMap(deckId){
+  const url = `images/${deckId}_image_map.json`;
+  try {
+    const r = await fetch(url, {cache:'no-store'});
+    if (r.ok) return await r.json();
+  } catch(e) {}
+  return {};
+}
+
+IMAGE_MAP = await fetchSharedImageMap(CURRENT_DECK.id);
+applyFilters();
 }
 
 /* populate deck dropdown */
