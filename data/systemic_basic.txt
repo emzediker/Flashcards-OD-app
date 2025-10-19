@@ -293,7 +293,7 @@ ElectrolytesNaCl breaks down into Na+ and Cl- ions.
 (Cations/Anions) are negative electrolytes and (cations/anions) are positive electrolytes.
 56 of 95
 
-Anions ; cationscations are "P"ositive and cats have "P"aws.
+Anions ; cations - cations are "P"ositive and cats have "P"aws.
 
 
 An acid is a hydrogen (proton) (donor/acceptor) when dissociated in water.
@@ -355,7 +355,7 @@ Palmitic ; linolenicUnsaturated fat has double bonds and saturated fat does no
 (Saturated/Unsaturated) fats are solid and (contain/lack) double bonds.
 68 of 95
 
-Saturated ; lack"S"aturated fats have "S"ingle bonds only and are "S"olid.
+Saturated ; lack - "S"aturated fats have "S"ingle bonds only and are "S"olid.
 
 A phospholipid is composed of 2______ , 1______, and 1 _____.
 69 of 95
@@ -380,7 +380,7 @@ lipoproteinsA lipid must bind to a protein to travel because lipids are hydrop
 (LDLs/HDLs) carry cholesterol from cells to the liver and (LDLs/HDLs) carry cholesterol to cells.
 73 of 95
 
-HDLs ; LDLsHigh density lipoproteins are commonly called the "good" cholesterol.
+HDLs ; LDLs - High density lipoproteins are commonly called the "good" cholesterol.
 
 A ______ is a common pattern of alpha helices and/or beta pleated sheets in a secondary structure of a protein.
 74 of 95
@@ -395,7 +395,7 @@ domainsOften these are called "functional domains."
 ________ inside of cells direct the folding of proteins into their necessary final structures.
 76 of 95
 
-Chaperones aka chaperoninsThey keep protein folding in line-- like chaperones at a party.
+Chaperones aka chaperonins - They keep protein folding in line, like chaperones at a party.
 
 The native states of (structural/functional) proteins are often globular and soluble. The native states of (structural/functional) proteins are often fibrous, insoluble and stable.
 77 of 95
@@ -467,7 +467,7 @@ creatine phosphateThere is also a build up of lactic acid in the muscle when t
 The energy from creatine phosphate can create ____ from ___.
 90 of 95
 
-ATP from ADPThis pathway is used at times of prolonged exercise.
+ATP from ADP - This pathway is used at times of prolonged exercise.
 
 ATP can be used to form _____ which is used as an intracellular signal / second messenger.
 91 of 95
