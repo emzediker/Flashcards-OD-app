@@ -777,7 +777,7 @@ The superior orbital fissure transmits cranial nerves ______.
 The foramen ______ in the (greater/lesser) wing of the sphenoid bone transmits the maxillary division of cranial nerve ____.
 154 of 211
 
-rotundum ; greater ; VV1 is ophthalmic. V2 is the maxillary division. V3 is mandibular.
+rotundum ; greater ; V - V1 is ophthalmic. V2 is the maxillary division. V3 is mandibular.
 
 The foramen _______ in the (greater/lesser) wing of the sphenoid bone transmits the mandibular branch of cranial nerve ____.
 155 of 211
@@ -1047,7 +1047,7 @@ middle ear infection
 (Kyphosis/Lordosis/Scoliosis) is condition that commonly occurs in pregnant women where the lower middle back becomes abnormally curved anteriorly. (Kyphosis/Lordosis/Scoliosis) is a hump that occurs in osteoporosis the juvenile disease Scheuermann disease. (Kyphosis/Lordosis/Scoliosis) is abnormal side to side curvature of the spine.
 207 of 211
 
-Lordosis, Kyphosis, Scoliosis
+Lordosis Kyphosis Scoliosis
 
 Osteoarthritis is a (inflammatory/noninflammatory) degenerative joint disease characterized by degeneration of cartilage and abnormal formation of new bone at joint surfaces.
 208 of 211
