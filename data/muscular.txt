@@ -67,12 +67,12 @@ buccinator ; VII
 The masseter, temporalis, and pterygoids are all muscles for _____ and are innervated by cranial nerve ___.
 13 of 93
 
-mastication ; VMastication is chewing. CN V is the trigeminal nerve.
+mastication ; V - Mastication is chewing. CN V is the trigeminal nerve.
 
 The sternocleidomastoid originates in the ____and ____ and inserts into the _____ of the temporal bone.
 14 of 93
 
-"sternum; clavicle; mastoid process| It is in the name... sterno-cleido-mastoid.",
+sternum; clavicle; mastoid process It is in the name... sterno-cleido-mastoid.
 
 Cranial nerve ____ innervates the sternocleidomastoid to allow for flexing of the head and neck as well as rotation.
 15 of 93
@@ -107,7 +107,7 @@ T
 To allow for muscle contraction, an electrical signal opens _____-gated ___ channels in the sarcoplasmic reticulum moving ___ ions (into/out of) the sarcoplasm.
 21 of 93
 
-voltage ; Ca++ ; Ca++ ; intoAn increase in cytoplasmic Ca++ triggers a muscle contraction.
+voltage ; Ca++ ; Ca++ ; into - An increase in cytoplasmic Ca++ triggers a muscle contraction.
 
 In muscle cells, myofibrils are bundles of filaments called ___filaments.
 22 of 93
@@ -184,10 +184,10 @@ Ca++ from (ligand/voltage) gated channels on the sarcoplasmic reticulum binds to
 
 voltage ; troponin ; thinActin, troponin and tropomyosin are all on the thin filaments.
 
-When Ca++ binds to troponin on the thin filaments of muscle fibers, this causes a shift in (myosin/actin/troponin/tropomyosin) in the (thin/thick) filament exposing (myosin/actin/troponin/tropomyosin) active site.
+When Ca++ binds to troponin on the thin filaments of muscle fibers, this causes a shift in (myosin/actin/troponin/tropomyosin) in the (thin/thick) filament exposing (myosin/actin/troponin/tropomyosin)'s active site.
 37 of 93
 
-tropomyosin ; thin ; actin’s
+tropomyosin ; thin ; actin
 
 When actin's active site is exposed this allows (myosin/troponin/tropomyosin) to bind and pull the microfilaments together causing the muscle fiber to (shorten/elongate).
 38 of 93
@@ -273,10 +273,9 @@ Smooth sustained muscle contractions are called ____.
 54 of 93
 
 tetanus
-55 of 93
 
 A ____ contraction is a continual , partial contraction in a muscle such as that which maintains waking posture.
-56 of 93
+55 of 93
 
 tonic
 
@@ -333,7 +332,7 @@ T-Tubules
 ___ junctions allow smooth muscle to contract a large single unit.
 67 of 93
 
-Gap junctions
+Gap
 
 _____ is the rhythmic movement of smooth muscle that can move contents through the lumen of a hallow organ– such as food in a digestive tract.
 68 of 93
@@ -343,7 +342,7 @@ Peristalsis
 A myopathy is a disorder of the ____.
 69 of 93
 
-muscles"Myo" is associated to muscle and ""pathy"" is associated to pathology.
+muscles - "Myo" is associated to muscle and "pathy" is associated to pathology.
 
 My___ is muscle pain and my____ is muscle inflammation.
 70 of 93
@@ -368,7 +367,7 @@ Poliomyelitis
 In _____ muscular dystrophy, the muscle atrophies and is replaced with fat and fibrous tissue.
 74 of 93
 
-Duchenne,
+Duchenne
 
 Duchenne muscular dystrophy is due to a genetic mutation on chromosome ____.
 75 of 93
@@ -380,7 +379,7 @@ It is X-linked on the dystrophin gene.
 ______ is an autoimmune reaction to acetylcholine receptors resulting in muscle weakness and respiratory failure.
 76 of 93
 
-Myasthenia gravis20% of MG patients present with ptosis due to the superior levator.
+Myasthenia gravis - 20% of MG patients present with ptosis due to the superior levator.
 
 Weakness in the abdominal muscles causes a _____ which is a protrusion of an abdominal organ into an opening in the abdominal wall.
 77 of 93
@@ -415,7 +414,7 @@ jugular
 The _____ artery and vein as well as cranial nerve ___ is found in the submandibular triangle. This also where the _____ gland can be palpated.
 83 of 93
 
-facial ; XII (hypoglossal) ; submandibular
+facial ; XII hypoglossal ; submandibular
 
 The borders of the carotid triangle are:
 84 of 93
@@ -425,7 +424,7 @@ posterior digastric, sternocleidomastoid, and omohyoid
 The carotid triangle contains the _____ artery, _______ vein, and cranial nerves ___ and ____.
 85 of 93
 
-carotid ; internal jugular ; X (vagus) ; XII (hypoglossal)
+carotid ; internal jugular ; X vagus ; XII hypoglossal
 
 The carotid pulse can be detected in the (anterior/posterior)_______ neck triangle.
 86 of 93
