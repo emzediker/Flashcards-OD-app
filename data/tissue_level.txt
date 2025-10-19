@@ -613,7 +613,7 @@ mitosis
 The four phases of mitosis are:
 117 of 248
 
-prophase, metaphase, anaphase, telophase - P-MAT
+prophase, metaphase, anaphase, telophase - P MAT
 
 _____phase is the phase in a cell life cycle where there is growth, but no active cell division.
 118 of 248
