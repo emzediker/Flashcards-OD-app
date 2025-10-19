@@ -568,7 +568,7 @@ ProteomeDifferent combinations of the same genes can form different proteins.
 True or False: Only cells are able to replicate themselves.
 108 of 248
 
-False, mitochondria which are organelles are also capable of replicating themselves. - It is thought that mitochondria were primitive bacteria long ago.
+False. Mitochondria which are organelles are also capable of replicating themselves. - It is thought that mitochondria were primitive bacteria long ago.
 
 ________ are extra nucleotides that can be lost without affecting coding regions of a chromosome.
 109 of 248
