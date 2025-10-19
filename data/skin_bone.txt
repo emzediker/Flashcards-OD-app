@@ -25,7 +25,7 @@ keratinocytes ; corneocytes
 _____cytes in the skin are pigmented to absorb UV light.
 5 of 211
 
-MelanocytesMelanocytes make melanin NOT melatonin.
+MelanocytesMelanocytes make melanin, NOT melatonin.
 
 ______ cells are immune cells that can be found in the skin. They act as antigen presenting cells.
 6 of 211
@@ -45,7 +45,7 @@ Vitiligo
 The layers of the epidermis from outermost to innermost are:
 9 of 211
 
-stratum corneum, stratum lucidum, stratum granulosum, stratum spinosum, stratum basalCLGSB Clara likes green string beans.",,
+stratum corneum, stratum lucidum, stratum granulosum, stratum spinosum, stratum basal - CLGSB Clara likes green string beans.
 
 The innermost layer of the skin called the stratum basal is made of (squamous/cuboidal/columnar) cells that undergo mitosis.
 10 of 211
@@ -105,7 +105,7 @@ dermis
 During wound healing in the dermis, cells called _______ quickly reproduce and form connective tissue fibers that may become a scar.
 21 of 211
 
-fibroblasts"B"last cells "B"uild structures and make substances.
+fibroblasts - "B"last cells "B"uild structures and make substances.
 
 Meissner corpuscles in the skin detect (deep pressure/light touch) and Pacini corpuscles in the skin detect (deep pressure/light touch).
 22 of 211
@@ -120,7 +120,7 @@ subcutaneous
 The (epidermis/hypodermis/dermis) is composed of mostly adipose tissue and loose fibrous tissue.
 24 of 211
 
-hypodermis| The dermis is rich in structures like nervous tissue and blood vessels.
+hypodermis The dermis is rich in structures like nervous tissue and blood vessels.
 
 (Interdermal/Subcutaneous) injections are into the dermis and (interdermal/subcutaneous) injections are into the hypodermis.
 25 of 211
@@ -175,7 +175,7 @@ lipofuscinThe presence of lipofuscin in a nevus may be a malignant factor.
 Blood contains the red pigments ______ that carry oxygen or carbon dioxide.
 35 of 211
 
-hemoglobinCarbon monoxide can also bind irreversibly to hemoglobin-- being fatal.
+hemoglobinCarbon monoxide can also bind irreversibly to hemoglobin, being fatal.
 
 If hemoglobin is low in oxygen the skin may appear the color ____.
 36 of 211
@@ -187,7 +187,7 @@ After injury, macrophages convert clotted hemoglobin into ________ which is an i
 
 hemosiderin ; bile
 
-The condition of ____ occurs when bile pigments cause a yellow coloration in the skin and sclera and may be associated to liver or digestive diseases.,,
+The condition of ____ occurs when bile pigments cause a yellow coloration in the skin and sclera and may be associated to liver or digestive diseases.
 38 of 211
 
 jaundice
@@ -195,7 +195,7 @@ jaundice
 In the skin, UV light converts 7-dehydrocholesterol into ________ which is converted into vitamin ___ by the liver and kidneys.
 39 of 211
 
-cholecalciferol ; DVitamin D requires UV light to be activated.
+cholecalciferol ; D - Vitamin D requires UV light to be activated.
 
 Heat loss is regulated by altering ____ in the skin.
 40 of 211
@@ -225,7 +225,7 @@ germinal
 Hair becomes white as _______ ____ ______ damage the stem cells as we age.
 45 of 211
 
-oxidative free radicalsOxidative free radicals are high energy molecules with unpaired electron
+oxidative free radicalsOxidative free radicals are high energy molecules with unpaired electron.
 
 Androgenic alopecia is simply ________ due to decreased androgens.
 46 of 211
@@ -242,7 +242,7 @@ vascular ; bed
 
 ApocrineApocrine glands pinch off their cell membranes rather than rupturing.
 
-_____blueness appears under the nails first and gives information of oxygenation of blood.
+_____ is that blueness appears under the nails first and gives information of oxygenation of blood.
 49 of 211
 
 Cyanosis
@@ -338,7 +338,7 @@ A febrile state means a patient has a _____.
 
 fever
 
-____gens are chemicals from infections that cause fever.
+____ are chemicals from infections that cause fever.
 68 of 211
 
 Pyrogens
@@ -401,7 +401,7 @@ Hyaline
 The ______ is the layer that covers bones that muscle tendons connect to. It is also rich in osteocytes and blood vessels.
 80 of 211
 
-periosteumCoverings often have the prefix "peri-"" Ex. Pericardium covers the heart
+periosteumCoverings often have the prefix "peri-" Ex. Pericardium covers the heart
 
 The marrow cavity in the shaft of long bones contains (red/yellow) marrow and the marrow cavity in the ends of long bones contain (red/yellow) marrow.
 81 of 211
@@ -411,7 +411,7 @@ yellow ; red
 The (periosteum/endosteum) lines the inside of bones.
 82 of 211
 
-endosteumInner lining often has the suffix "endo" ex Endometrium lines the uterus
+endosteumInner lining often has the suffix "endo" Ex. Endometrium lines the uterus.
 
 Osseous tissue is _____ tissue.
 83 of 211
@@ -451,9 +451,9 @@ osteoblast, osteoclast, and osteocytes
 Osteo_____ are bone forming cells, osteo_____ are bone-resorbing cells, and osteo_____ are mature bone cells.
 90 of 211
 
-blast ; clast ; cytes"B"last "B"uild bone.
+blast ; clast ; cytes - "B"last "B"uild bone.
 
-Blood levels of calcium are maintained by remodeling of ____. tissue.
+Blood levels of calcium are maintained by remodeling of ____ tissue.
 91 of 211
 
 boneCalcium is very important for cell secretion and muscle contractions.
@@ -476,8 +476,7 @@ parathyroid ; thyroid
 The actions of parathyroid hormone are : (increased/decreased) calcium reabsorption via bones, (increase/decreased) renal absorption of calcium from urine and vitamin ___ synthesis. Over all this (increases/decreases) blood calcium levels.
 95 of 211
 
-decreased ; increased ; D ; increases
-Calcitonin is antagonistic to parathyroid hormone.
+decreased ; increased ; D ; increases - Calcitonin is antagonistic to parathyroid hormone.
 
 Parathyroid hormone increases the action of osteo(blast/clast).
 96 of 211
