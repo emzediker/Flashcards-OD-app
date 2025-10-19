@@ -49,7 +49,7 @@ In the (smooth endoplasmic reticulum / Golgi apparatus), enzymes make lipids (ex
 
 smooth endoplasmic reticulum
 
-The (Na+/K+/Ca+/Cl-) ion is moved into the smooth endoplasmic reticulum to keep intracellular levels low.
+The (Na+/K+/Ca++/Cl-) ion is moved into the smooth endoplasmic reticulum to keep intracellular levels low.
 10 of 248
 
 Calcium (Ca++)
@@ -116,7 +116,7 @@ It is thought that mitochondria were a bacteria in ancient anatomy.
 Nuclear ____ on a nucleus transport (and prevent the transport of) molecules into and out of the nucleus.
 22 of 248
 
-poresExample: mRNA may move out of a pore and transcription factors may go in.
+pores -Example. mRNA may move out of a pore and transcription factors may go in.
 
 The nucleus is surrounded by a nuclear _______ which can extend to be continuous with the endoplasmic reticulum.
 23 of 248
@@ -147,12 +147,12 @@ rRNA is ribosomal RNA which is used to make ribosomes.
 _____ are molecules that carry vRNA to and from the nucleus often on microtubules.
 28 of 248
 
-VaultsvRNA controls apoptosis, detoxification process & proliferation.
+Vaults - vRNA controls apoptosis, detoxification process & proliferation.
 
 (Mircofilaments / Intermediate filaments) slide past each other to cause cell shortening and (mircofilaments / intermediate filaments) are a supportive framework that holds a cell as it is pushed or pulled.
 29 of 248
 
-Microfilaments ; intermediate
+Microfilaments ; intermediate filaments
 
 _______ are part of the cytoskeleton and are involved in moving things around within a cell, or they cause movement of an entire cell itself.
 30 of 248
@@ -205,7 +205,7 @@ DyneinMyosin is found muscle & kinesin is related to intracellular transport.
 
 CiliaCilia are common in the respiratory system.
 
-"Primary cilia are unable to move, however they do have (sensory/motor) abilities.",,,,
+Priimary cilia are unable to move, however they do have (sensory/motor) abilities.
 40 of 248
 
 sensory
@@ -417,12 +417,12 @@ KinaseKinases add phosphate to molecules and phosphatases remove phosphate.
 The process that breaks down glucose into water and carbon dioxide in cells is called _________.
 80 of 248
 
-"cellular respiration| Glucose is broken down to create energy in the form of ATP."
+cellular respiration Glucose is broken down to create energy in the form of ATP.
 
 The three pathways of cellular respiration are :
 81 of 248
 
-Glycolysis, citric acid cycle (aka Krebs or TCA), and electron transport system
+Glycolysis, citric acid cycle(aka Krebs or TCA, and electron transport system
 
 In glycolysis, glucose is turned into two 3-carbon molecules of ______.
 82 of 248
@@ -511,7 +511,7 @@ Single
 (snRNP/dsRNA/siRNA) is a component of a spliceosome which edits mRNA.
 98 of 248
 
-snRNPsnRNP is often pronounced "snerp."
+snRNP - snRNP is often pronounced "snerp."
 
 (snRNP/dsRNA/siRNA) is involved in RNA interference.
 99 of 248
@@ -568,7 +568,7 @@ ProteomeDifferent combinations of the same genes can form different proteins.
 True or False: Only cells are able to replicate themselves.
 108 of 248
 
-False, mitochondria which are organelles are also capable of replicating themselves.It is thought that mitochondria were primitive bacteria long ago.
+False, mitochondria which are organelles are also capable of replicating themselves. - It is thought that mitochondria were primitive bacteria long ago.
 
 ________ are extra nucleotides that can be lost without affecting coding regions of a chromosome.
 109 of 248
@@ -613,12 +613,12 @@ mitosis
 The four phases of mitosis are:
 117 of 248
 
-prophase, metaphase, anaphase, telophaseP-MAT
+prophase, metaphase, anaphase, telophase - P-MAT
 
 _____phase is the phase in a cell life cycle where there is growth, but no active cell division.
 118 of 248
 
-Interphaseinterphase is like an intermission from division.
+Interphase - interphase is like an intermission from division.
 
 During _____phase of cell division, the nuclear envelope disappears and chromatids condense into chromosomes that move toward opposite ends of the cell. Also microtubules, centrioles and asters begin to organize.
 119 of 248
@@ -700,18 +700,18 @@ fertilization ; haploid ; diploidFertilization is unification of egg and sperm
 _______ are proteins that regulate the cell cycle.
 134 of 248
 
-Cyclin
+Cyclins
 Dysregulated cyclins can cause unchecked divisions and cancer.
 
 (Hypertrophy/Hyperplasia) is an increase in cell size, and (hypertrophy/hyperplasia) is an increase in cell numbers.
 135 of 248
 
-Hypertrophy ; hyperplasiaMuscles tend to hypertrophy with exercise
+Hypertrophy ; hyperplasiaMuscles tend to hypertrophy with exercise.
 
 A ______ is a new mass of cells and can be malignant or benign.
 136 of 248
 
-neoplasm"Neo" typically means "new."
+neoplasm - "Neo" typically means "new."
 
 A malignant neoplasm has the ability to travel in the ______.
 137 of 248
@@ -923,7 +923,7 @@ MicrovilliThey increase surface area to allow for more absorption.
 ____ are projections from pseudostratified columnar epithelium and columnar epithelium that move in a common direction to move mucous.
 177 of 248
 
-CiliaDamage to cilia as in smoking can lead to mucus build up."
+CiliaDamage to cilia as in smoking can lead to mucus build up.
 
 ___________ epithelium are found in the respiratory tract and urethra.
 178 of 248
@@ -1044,7 +1044,7 @@ regular
 (Tendons/Ligaments) connect bones to bones and (tendons/ligaments) connect muscles to bones.
 200 of 248
 
-Ligaments; tendons"L"igaments connect "L"ike structures such as bone to bone. Tendons = muscle to bone.
+Ligaments; tendons - "L"igaments connect "L"ike structures such as bone to bone. Tendons = muscle to bone.
 
 Dense (regular/irregular) fibrous tissue can be elastic or collagen.
 201 of 248
@@ -1069,7 +1069,7 @@ cartilage; endochondral ossification.
 (Osteoblasts/Osteoclasts) are bone destroying cells and (osteoblasts/osteoclasts) are bone building cells.
 205 of 248
 
-Osteoclasts ; osteoblasts"B"last "B"uild bonds.
+Osteoclasts ; osteoblast - "B"last "B"uild bones.
 
 In bones, osteocytes are in spaces called ___ connected by ______.
 206 of 248
