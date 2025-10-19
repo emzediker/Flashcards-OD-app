@@ -38,7 +38,7 @@ glial cells
 
 The five main types of glial cells are:
 10 of 326
-astrocytes, microglia, ependymal cells, oligodendrocytes, and Schwann cells.Schwann cells and oligodendrocytes both make myelin.
+astrocytes, microglia, ependymal cells, oligodendrocytes, and Schwann cells. - Schwann cells and oligodendrocytes both make myelin.
 
 The blood-brain barrier is made of a double layer of ____ and ___.
 11 of 326
@@ -66,7 +66,7 @@ Schwann cellsIn the central nervous system oligodendrocytes fulfill this role.
 
 Spaces between the myelin sheath in the peripheral nervous system are called _____.
 17 of 326
-Nodes of RanvierThe nodes allow for quicker traveling potential via saltatory conduction
+Nodes of Ranvier - The nodes allow for quicker traveling potential via saltatory conduction.
 
 Myelinated fibers are called (gray/white) fibers and nonmyelinated fibers are called (gray/white) fibers.
 18 of 326
@@ -79,7 +79,7 @@ In this case lipid soluble drugs can reach the CNS.
 
 Ingested dopamine is ineffective at treating ____ because it does not pass the blood-brain barrier; however, lipid soluble dopamine, called _______ can.
 20 of 326
-Parkinson's ; levodopa"L"evadopa is "L"ipid soluble.
+Parkinson's ; levodopa - "L"evadopa is "L"ipid soluble.
 
 The autoimmune condition ______ is characterized by myelin loss and destruction of oligodendrocytes.
 21 of 326
@@ -161,13 +161,13 @@ K+ ; leaves ; negative
 40 of 326
 LocalLocal potentials are also called graded potentials.
 
-In an action potential, voltage gated Na+ channels open when the ______potential is met."
+In an action potential, voltage gated Na+ channels open when the ______potential is met.
 41 of 326
 threshold
 
 Prior to the opening of voltage gated Na+, initial depolarization occurs due to opening of ____ gated ____ channels.
 42 of 326
-ligand ; Na+The ligand acetylcholine can bind to a receptor & open Na+ channels.
+ligand ; Na+ - The ligand acetylcholine can bind to a receptor & open Na+ channels.
 
 Na+ entering a neuron causes (depolarization/hyperpolarization/repolarization).
 43 of 326
@@ -179,7 +179,7 @@ Voltage gated Na+ channels re-close when the magnitude of depolarization of a ce
 
 Repolarization of a neuron begins with (opening/closing) of (voltage/ligand) gated (Na+/K+) channels.
 45 of 326
-opening ; voltage ; K+Depolarization starts with opening of ligand gated Na+ channels.
+opening ; voltage ; K+ - Depolarization starts with opening of ligand gated Na+ channels.
 
 Repolarization occurs as (Na+/K+)(enters/leaves) a neuron.
 46 of 326
@@ -239,7 +239,7 @@ Ca++
 
 Excitatory neurotransmitters cause (Na+/K+/Ca+/Cl-) channels to open resulting in an excitatory postsynaptic potential.
 60 of 326
-Na+ and K+Na+ goes into the cell causing the initial change in voltage.
+Na+ and K+ - Na+ goes into the cell causing the initial change in voltage.
 
 Inhibitory neurotransmitters cause (Na+/K+/Ca+/Cl-) channels to open resulting in an inhibitory postsynaptic potential.
 61 of 326
@@ -323,7 +323,7 @@ trophins
 
 (Convergence/Divergence) occurs when a single presynaptic axon synapses with many different postsynaptic neurons.(Convergence/Divergence) occurs when more than one presynaptic axon synapses with a single postsynaptic neuron.
 81 of 326
-Divergence ; Convergence
+Divergence, Convergence
 
 Catechol-o-methyltransferase (COMT) inactivates _______.
 82 of 326
@@ -768,7 +768,7 @@ limbic system
 
 Primary sensory neurons conduct from the periphery to the _______. Secondary sensory neurons conduct from the spinal cord or brainstem to the _____. Tertiary sensory neurons conduct to the _____ gyrus of the ____ lobe.
 191 of 326
-central nervous system ; thalamus ; postcentral gyrus ; parietalThe precentral gyrus in the frontal lobe is motor.
+central nervous system ; thalamus ; postcentral gyrus ; parietal - The precentral gyrus in the frontal lobe is motor.
 
 The tract that tertiary sensory neurons conduct on is called the ________ tract.
 192 of 326
@@ -816,7 +816,7 @@ People with cerebral palsy suffer from (spastic/flaccid) paralysis due to loss o
 201 of 326
 spasticStokes cause flaccid paralysis.
 
-"Paralysis to one side of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to the lower half of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to all four extremities is (quadriplegia/hemiplegia/paraplegia)."
+Paralysis to one side of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to the lower half of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to all four extremities is (quadriplegia/hemiplegia/paraplegia).
 202 of 326
 hemiplegia ; paraplegia ; quadriplegia
 
@@ -890,7 +890,7 @@ ProprioceptiveThis is a sensory characteristic.
 
 The names of the twelve cranial nerves are:
 220 of 326
-olfactory , optic , oculomotor, trochlear, trigeminal, abducens , facial, vestibulocochlear, glossopharyngeal, vagus, accessory, hypoglossal.Oh, Oh, Oh to touch and feel various green vegan artificial hams.
+olfactory , optic , oculomotor, trochlear, trigeminal, abducens , facial, vestibulocochlear, glossopharyngeal, vagus, accessory, hypoglossal. - Oh, Oh, Oh to touch and feel various green vegan artificial hams.
 
 The functional classification of the cranial nerves in order are:S = sensory M = motor B = both
 221 of 326
@@ -919,7 +919,7 @@ midbrain
 
 CN III is called _______ and it is responsible for:
 227 of 326
-oculomotor; motor innervation to the external eye muscles except superior oblique and lateral rectus, as well as internal eye muscles such as a ciliary ganglion and the ciliary iris muscles.These control eye movements, pupil size and accommodation.
+oculomotor; motor innervation to the external eye muscles except superior oblique and lateral rectus, as well as internal eye muscles such as a ciliary ganglion and the ciliary iris muscles. - These control eye movements, pupil size and accommodation.
 
 CN lV comes from the ______ and innervates the ______ for ______.
 228 of 326
@@ -987,7 +987,7 @@ semicircular canal and vestibule of the inner ear ; ponsThis helps with balanc
 
 The cochlear branch of CN VIII has receptors in the ________ and terminates in the _____.
 244 of 326
-spiral organ of corti and cochlear duct of the inner ear ; ponsThis helps with hearing.
+spiral organ of corti and cochlear duct of the inner ear ; pons - This helps with hearing.
 
 CN VIII is called _______ and is responsible for _____.
 245 of 326
@@ -1015,7 +1015,7 @@ Vagus; sensation and movements of several organs including the heart.
 
 The 4 parasympathetic cranial nerves are:
 251 of 326
-III, VII, IX and X
+III, VII, IX, X
 
 The 4 cranial nerves that have ganglia are:
 252 of 326
@@ -1325,4 +1325,4 @@ sympathetic
 
 In adipose tissue, sympathetic stimulation results in (decreased/increased) lipolysis.
 326 of 326
-increased  ; Lipolysis is the breakdown of fat tissue.
+increased   Lipolysis is the breakdown of fat tissue.
