@@ -236,7 +236,7 @@ protons ; neutronsElements are identified by their number of protons.
 "Chemical bonds formed from the transfer of an electron from one element to another are (covalent/ionic) bonds.Chemical bonds formed from the sharing of electrons between two elements are (covalent/ionic)."
 45 of 95
 
-ionic ; covalent - ex. The ions Na+ and Cl- ionic bond to form NaCl.ionic bonds are formed from ionS."
+ionic ; covalent - ex. The ions Na+ and Cl- ionic bond to form NaCl.ionic bonds are formed from ions.
 
 Hydrogen bonds are weak individually and are (nonpolar/polar).
 46 of 95
