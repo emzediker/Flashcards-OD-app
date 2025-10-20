@@ -99,7 +99,7 @@ second
 
 In the calcium-calmodulin second messenger system, a G-protein coupled receptor activates ______ and ____ which opens ___ channels, allowing the ions to bind to ____.
 25 of 180
-G protein and PIP2 ; Ca++ ; calmodulinThis is important to smooth muscle contractions.
+G protein and PIP2 ; Ca++ ; calmodulin - This is important to smooth muscle contractions.
 
 Which has quicker resultant actions, steroid or non-steroid hormones?
 26 of 180
@@ -171,7 +171,7 @@ hyperNonfunctional tumors grow in size but do not secrete extra hormones.
 
 In Grave’s disease, the cause of hypersecretion of ____ hormone is an ____ reaction to ______ receptors.
 43 of 180
-thyroid ; autoimmune ; TSHTHS usually binds to TSH receptors to stimulate release of T3/4 hormone.
+thyroid ; autoimmune ; TSH - THS usually binds to TSH receptors to stimulate release of T3/4 hormone.
 
 In hyperparathyroidism, the thyroid fails to adjust its output of PTH in response to blood ___ levels.
 44 of 180
@@ -183,7 +183,7 @@ Hypo
 
 Autoimmune destruction of the pancreatic islet cells can result in ______.
 46 of 180
-type 1 diabetes mellitusthe damaged islets cannot secrete insulin in response to hyperglycemia.
+type 1 diabetes mellitus - The damaged islets cannot secrete insulin in response to hyperglycemia.
 
 The pituitary gland sits in the bony _______.
 47 of 180
@@ -203,7 +203,7 @@ Somatotrophs , corticotrophs , thryrotrophs, lactotrophs and gonadotrophs
 
 Somatotrophs of the (anterior/posterior) pituitary secrete:
 51 of 180
-anterior ; Growth hormone (GH)
+anterior,  Growth hormone GH
 
 Corticotrophs of the (anterior/posterior) pituitary secrete:
 52 of 180
@@ -241,7 +241,7 @@ Pituitary dwarfism occurs due to the hyposecretion of ______ hormone.
 60 of 180
 growth
 
-"The hormone that promotes protein anabolism, lipid mobilization, lipid catabolism and inhibits glucose metabolism and increases serum glucose is:"
+The hormone that promotes protein anabolism, lipid mobilization, lipid catabolism and inhibits glucose metabolism and increases serum glucose is:
 61 of 180
 Growth hormoneIt increases serum glucose to provide energy to protein metabolism.
 
@@ -279,7 +279,7 @@ Luteinizing hormone (LH)
 
 The two gonadotropins are ________.
 70 of 180
-follicle-stimulating hormone (FSH) and luteinizing hormone (LH)From the anterior pituitary.
+follicle-stimulating hormone (FSH) and luteinizing hormone (LH) - From the anterior pituitary.
 
 ____hormone is produced in the skin as well as the pituitary.
 71 of 180
@@ -403,7 +403,7 @@ T4 ; T3
 
 Which thyroid hormone is a precursor to the other? T3 or T4?
 101 of 180
-T4 is a precursor to T3T4 is more abundant and T3 is more potent.
+T4 is a precursor to T3 - T4 is more abundant and T3 is more potent.
 
 _____ hormone targets most of the tissues in the body and increases the rate of metabolism.
 102 of 180
@@ -447,7 +447,7 @@ excessLow iodine causes T3/4 to be low & excess TRH and TSH in response.
 
 The principal action of (calcitonin/parathyroid hormone) is to increase blood Ca++ levels by activating vitamin__ in the liver, (increasing/decreasing) Ca++ storage in bones, and (increasing/decreasing) Ca++ absorption in the intestine.
 112 of 180
-parathyroid ; D ; decreasing ; increasingCalcitonin decreases blood calcium and parathyroid hormone increases it.
+parathyroid ; D ; decreasing ; increasing - Calcitonin decreases blood calcium and parathyroid hormone increases it.
 
 Hyposecretion of parathyroid hormone (PTH) can lead to ______.
 113 of 180
@@ -459,7 +459,7 @@ kidneys
 
 The outer layer of the adrenal gland is called the (medulla/cortex) and the inner layer is called the (medulla/cortex).
 115 of 180
-cortex ; medullaThe "m"edulla is in the "m"iddle of the organ or gland."
+cortex ; medullaThe "m"edulla is in the "m"iddle of the organ or gland.
 
 The three layers of of the adrenal cortex from outer to inner are:
 116 of 180
@@ -579,7 +579,7 @@ duodenum ; stomach ; spleen
 
 The condition _____ is characterized by hypersecretion of cortisol and the condition _____ is characterized by hyposecretion of cortisol.
 145 of 180
-Cushing syndrome ; Addison disease
+Cushing syndrome Addison disease
 
 Cushing syndrome is characterized by a redistribution of fat around the face known as ____face.
 146 of 180
