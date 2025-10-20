@@ -279,9 +279,9 @@ calcium
 
 The first stage of clotting is divided into the _____ and ____ pathways.
 70 of 229
-intrinsic and extrinsicThe intrinsic and extrinsic pathways of clotting formation both end with the formation of _____ .
+intrinsic and extrinsic
 
-71
+The intrinsic and extrinsic pathways of clotting formation both end with the formation of _____ .
 71 of 229
 prothrombin activator
 
@@ -563,7 +563,7 @@ B
 
 (T/B) cells attack foreign cells and (T/B) cells do not attack foreign cells.
 141 of 229
-T ; BB cells do, however, make antibodies specific to an antigen.
+T ; B - B cells do, however, make antibodies specific to an antigen.
 
 Immunity mediated by antibodies is called _____ immunity.
 142 of 229
@@ -775,7 +775,7 @@ tumor
 
 The three antibodies found in maternal breast milk are:
 194 of 229
-IgG IgM and IgAMy mom's milk has: "G"ot       "M"y         "A"ntibodies.
+IgG IgM and IgA - My mom's milk has "G"ot "M"y "A"ntibodies.
 
 The immune cells that make up the mucosal immune system are located near _____. Their main purpose is to prevent the colonization of pathogens and permit absorption of their antigens into the body.
 195 of 229
@@ -879,7 +879,7 @@ Normal T cell count is greater than_____. T cell count in HIV is _____ and T cel
 
 The stress triad is:
 220 of 229
-enlarged adrenals, shrunken lymphatics, and bleeding gastrointestinal ulcersHigh stress hormones, impaired immunity and stress ulcers.
+enlarged adrenals, shrunken lymphatics, and bleeding gastrointestinal ulcers - High stress hormones, impaired immunity and stress ulcers.
 
 During a stress reaction, the adrenal cortex will increase the secretion of (mineralocorticoids/glucocorticoids) and the number of lymphocytes will (increase/decrease).
 221 of 229
