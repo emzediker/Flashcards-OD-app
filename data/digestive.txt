@@ -167,7 +167,7 @@ Endocrine
 
 Intrinsic factor binds to _______ and facilitates its absorption by the intestine.
 42 of 250
-vitamin B12B12 is used for red blood cell formation. Without IF or B12 RBCs are low.
+vitamin B12 - B12 is used for red blood cell formation. Without IF or B12 RBCs are low.
 
 The three divisions of the small intestine are:
 43 of 250
@@ -179,7 +179,7 @@ arteriole, venule, and lacteal (lymph vessel).This allows to absorption of food
 
 ______ cells on the surface of villi in the intestine have a role in absorption.
 45 of 250
-Enterocytesenterocytes allow nutrients to enter the body.
+Enterocytes - enterocytes allow nutrients to enter the body.
 
 _____ cells on the villi in the intestine secrete mucus.
 46 of 250
@@ -243,7 +243,7 @@ liver
 
 The three main components of bile are bile salts, bile pigments, and ________.
 61 of 250
-cholesterolCholesterol can be made into hormones or provide cell membrane rigidity
+cholesterol - Cholesterol can be made into hormones or provide cell membrane rigidity.
 
 Bile aids in the digestion and processing of (carbohydrates/fats/proteins) to then be absorbed in the (duodenum/jejunum/ileum).
 62 of 250
@@ -391,7 +391,7 @@ gapThe heart also has many gap junctions.
 
 The hormone _____ secreted by the duodenum triggers a wave of rhythmic contractions every 1.5-2 hours in the small intestine.
 98 of 250
-motilinmotilin stimulates motility in the small intestine.
+motilin - motilin stimulates motility in the small intestine.
 
 In the GI tract (peristalsis/segmentation) is rapid movements of contraction and (peristalsis/segmentation) is progressive movement of contractions.
 99 of 250
@@ -427,7 +427,7 @@ inhibitory ; decreaseGIP slows down stomach emptying to give the intestine tim
 
 The cranial nerve that controls gastric motility is ____.
 107 of 250
-Vegus (CN X)
+Vagus (CN X)
 
 The hormone _____ is secreted by endocrine cells of the intestine when chyme is present.
 108 of 250
@@ -531,11 +531,11 @@ pancreasIf the pancreatic enzymes were active it may digest itself apart!
 
 The pancreas secretes the proenzyme ______ which is converted into trypsin by the enzyme ______.
 133 of 250
-trypsinogen ; enterokinasetrypsinogen takes a “tryp” to the GI tract and is activated by enterokinase when it enters.
+trypsinogen ; enterokinase - trypsinogen takes a “tryp” to the GI tract and is activated by enterokinase when it enters.
 
 Enterokinase is an enzyme in the intestine that (activates/suppresses)(proenzymes/coenzymes).
 134 of 250
-activates ; proenzymesenterokinase is the enzyme that activates others when they enter the GI.
+activates ; proenzymes - enterokinase is the enzyme that activates others when they enter the GI.
 
 Nucleases are enzymes that digest ______.
 135 of 250
@@ -555,7 +555,7 @@ acidic ; basicTheir specific pH levels activate the enzymes in their specific 
 
 During the (cephalic/gastric/intestinal) phase of gastric secretion sight or taste of food activates the (medulla/pons/midbrain) to stimulate gastric secretion via cranial nerve ___.
 139 of 250
-cephalic ; medulla ; XThe letters "cephal" often refers to the brain. Ex. Diencephalon.
+cephalic ; medulla ; X - The letters "cephal" often refers to the brain. Ex. Diencephalon.
 
 Stimulation of gastric secretion by cranial nerve X is an example of (sympathetic/parasympathetic) stimulation.
 140 of 250
@@ -679,7 +679,7 @@ oxaloacetateAKA oxaloacetic acid
 
 The other two names of the citric acid cycle are:
 170 of 250
-Tricarboxylic acid cycle (TCA) and Krebs cycle.
+Tricarboxylic acid cycle (TCA) & Krebs cycle.
 
 The electron transport chain is found in the (inner/outer) membrane of the (nucleus/mitochondria).
 171 of 250
@@ -687,7 +687,7 @@ inner ; mitochondria
 
 High energy electrons and their accompanying (sodium/calcium/hydrogen/potassium) are transported to the electron transport chain via ____ and ____.
 172 of 250
-hydrogen; FAD and NAD
+hydrogen, FAD & NAD
 
 The energy from electrons transports hydrogen to the ____ space between the inner and outer membranes of the mitochondria to create a _____ gradient.
 173 of 250
@@ -863,7 +863,7 @@ essential
 
 The essential amino acids are:
 216 of 250
-Histidine, Isoleucine, Leucine, Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, and Valine
+Histidine Isoleucine Leucine Lysine Methionine Phenylalanine Threonine Tryptophan Valine
 
 During protein catabolism, proteins are _____ in the liver.
 217 of 250
@@ -911,7 +911,7 @@ B1 (thiamine)
 
 Vitamin __, __, and __help enzymes of the citric acid cycle.
 228 of 250
-B1 (thiamine) B2 (riboflavin) B3 (niacin)
+B1 thiamine B2 riboflavin B3 niacin
 
 Vitamin ___ deficiency is characterized by pellagra (dermatitis and mental disturbances).
 229 of 250
@@ -919,7 +919,7 @@ B3 (niacin)
 
 Deficiency in vitamin __, ___ or ___ can all cause anemia.
 230 of 250
-B6 (pyridoxine), B9 (folic acid), B12(cyanocobalamin)
+B6 pyridoxine B9 folic acid B12 cyanocobalamin
 
 deficiency in vitamin ___ results in scurvy.
 231 of 250
@@ -967,7 +967,7 @@ Anorexia nervosa
 
 Hormonal disorders from anorexia nervosa can result in ________ in patients.
 242 of 250
-Amenorrhea
+amenorrhea
 
 _______ is characterized by a pattern of eating and vomiting or purging.
 243 of 250
