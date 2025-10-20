@@ -383,7 +383,7 @@ seminiferous
 
 Primary oocytes form before birth and develop to _____ of meiosis. Until just before ovulation meiosis is halted at ____.
 96 of 184
-prophase I ; metaphase II
+prophase I metaphase II
 
 Meiosis II completes its cycle at (ovulation/fertilization).
 97 of 184
@@ -605,11 +605,11 @@ In the case of a dominant trait, a person with a heterozygous dominant and reces
 151 of 184
 will
 
-In the case of a dominant trait, a person with a homozygous recessive gene, one on each allele, (will/will not) express that trait
+In the case of a dominant trait, a person with a homozygous recessive gene, one on each allele, (will/will not) express that trait.
 152 of 184
 will not
 
-In the case of a recessive trait, one who has one dominant allele and one recessive allele is said to be a ____ of that condition or trait
+In the case of a recessive trait, one who has one dominant allele and one recessive allele is said to be a ____ of that condition or trait.
 153 of 184
 carrier
 
@@ -667,7 +667,7 @@ The chromosomes that may have a trisomy that is not initially fatal are:
 
 Inheritance of mitochondrial DNA is (paternal/maternal).
 167 of 184
-maternal"M"itochondial DNA comes from ""M""om."
+maternal - "M"itochondial DNA comes from "M"om.
 
 Lebar's hereditary optic neuropathy is a (sex-linked/autosomal/mitochondrial) inherited disease.
 168 of 184
@@ -679,15 +679,15 @@ recessive
 
 The gene at fault for cystic fibrosis is on chromosome __.
 170 of 184
-7q| q means it is the long arm of chromosome 7.
+7q - q means it is the long arm of chromosome 7.
 
 ____ is characterized by failure of the lipid processing enzyme hexosaminidase, causing lipids to accumulate in the brain
 171 of 184
 Tay-Sachs
 
-Tay-Sachs disease is due to an abnormality on chromosome ___ and phenylketonuria is due to an abnormality on chromosome.
+Tay-Sachs disease is due to an abnormality on chromosome ___ and phenylketonuria is due to an abnormality on chromosome __.
 172 of 184
-15q ; 12q| q means it is on the long arm of the chromosome.
+15q ; 12q - q means it is on the long arm of the chromosome.
 
 (Sickle cell/ Tay Sachs / Cystic Fibrosis) carriers may have resistance to cholera.(Sickle cell / Tay Sachs / Cystic Fibrosis) carriers may have resistance to malaria.(Sickle cell / Tay Sachs / Cystic Fibrosis) carriers may have resistance to tuberculosis
 173 of 184
@@ -703,7 +703,7 @@ XXY
 
 Turner syndrome is characterized by a __ genotype
 176 of 184
-XO (single X and no pair )
+XO - single X and no pair
 
 ______ genes regulate cell division so that it proceeds normally without endless overproduction of cells.
 177 of 184
@@ -719,13 +719,9 @@ square ; circles
 
 In a pedigree half shaded shapes represent ____.
 180 of 184
-
-
 carriers
-181 of 184
 
-
-In a pedigree, those in a sexual relationship are connected by (vertical/horizontal) lines, and their offspring are represented by a (vertical/horizontal) line
+In a pedigree, those in a sexual relationship are connected by (vertical/horizontal) lines, and their offspring are represented by a (vertical/horizontal) line.
 182 of 184
 horizontal ; vertical
 
@@ -735,4 +731,4 @@ karyotype
 
 Rings of bacterial DNA are called _____.
 184 of 184
-plasmids| It is thought mitochondria may have primitive bacterial origin
+plasmids It is thought mitochondria may have primitive bacterial origin
