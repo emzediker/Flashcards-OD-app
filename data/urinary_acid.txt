@@ -67,11 +67,11 @@ corpuscle
 
 The renal corpuscle of the nephron is made up of the following two structures:
 17 of 170
-glomerulus andBowman's capsule
+glomerulus and Bowman's capsule
 
 The three main regions of the renal tubule are the:
 18 of 170
-proximal convoluted tubule, Henle loop, and distal convoluted tubule
+proximal convoluted tubule Henle loop and distal convoluted tubule
 
 The double layer of the renal corpuscle is filled with _____.
 19 of 170
@@ -223,7 +223,7 @@ hypo
 
 The countercurrent multiplier mechanism is a characteristic of the (loop of Henle / vasa recta) and the countercurrent exchange mechanism is characteristic of the (loop of Henle / vasa recta).
 56 of 170
-loop of Henle ; vasa recta
+loop of henle ; vasa recta
 
 Antidiuretic hormone from the (anterior/posterior) pituitary increases the number of _______ in the distal convoluted tubule and collecting duct.
 57 of 170
@@ -309,7 +309,7 @@ Dysuria is (painful/slow) urination.
 77 of 170
 painful
 
-(Poly/Olig)uria is limited urination and (poly/olig)uria is large amounts of urination."
+(Poly/Olig)uria is limited urination and (poly/olig)uria is large amounts of urination.
 78 of 170
 Oliguria ; polyuria
 
@@ -415,9 +415,9 @@ intracellular
 
 Positive ions are called (anions/cations) and negative ions are called (anions/cations).
 104 of 170
-cations ; anionsCations are positive because "cats have paws.""
+cations ; anionsCations are positive because "cats have paws."
 
-"Which is more abundant in anions, blood, or interstitial fluid?"
+Which is more abundant in anions, blood, or interstitial fluid?
 105 of 170
 blood
 
@@ -435,7 +435,7 @@ sodium ; potassiumThis arrangement is maintained by the Na/K ATPase.
 
 Which has more chloride ions, the intracellular fluid or extracellular fluid?
 109 of 170
-extracellularBecause Cl- likes to follow the (+) voltage established by Na/K ATPase.
+extracellular - Because Cl- likes to follow the (+) voltage established by Na/K ATPase.
 
 Hypervolemia is an excessive ____.
 110 of 170
@@ -459,7 +459,7 @@ Renin ; aldosterone
 
 The RAAS increases reabsorption of ____ and ____.
 115 of 170
-"sodium and water| This increases blood volume and increases blood pressure."
+sodium and water This increases blood volume and increases blood pressure.
 
 The RAAS system (decreases/increases) urine output.
 116 of 170
@@ -467,7 +467,7 @@ decreases
 
 The RAAS system is triggered by increased levels of (Na+/K+).
 117 of 170
-"K+| But it controls the movement of Na+."
+K+ But it controls the movement of Na+.
 
 Renin acts on ______ in the blood to form angiotensin I.
 118 of 170
@@ -475,7 +475,7 @@ angiotensinogen
 
 Angiotensin I is converted to angiotensin II in the ____. Angiotensin II increases the secretion of ______.
 119 of 170
-"lungs ; aldosteroneAngiotensin I is converted to angiotensin II by ACE."
+lungs ; aldosteroneAngiotensin I is converted to angiotensin II by ACE.
 
 Urine output is controlled most by (glomerular filtration rate / tubular reabsorption).
 120 of 170
@@ -507,7 +507,7 @@ osmoticIt is due to increased interstitial fluid.
 
 (Na+/K+) is more abundant in the intracellular environment and (Na+/K+) is more abundant in the extracellular environment.
 127 of 170
-K+ ; Na+This arrangement is due to the action of Na/K ATPase active transport.
+K+ ; Na+ - This arrangement is due to the action of Na/K ATPase active transport.
 
 Acetazolamide works on the (proximal/distal) convoluted tubule and chlorothiazide works on the (proximal/distal) convoluted tubule. Both are diuretics and (increase/decrease) urine output.
 128 of 170
