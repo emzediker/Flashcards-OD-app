@@ -379,7 +379,7 @@ Eupnea ; Hyperpnea
 
 Hyper(nea/ventilation) is an increase in breathing more than what is needed for the oxygen demand of the body.
 94 of 138
-Hyperventilation
+ventilation
 
 (Apnea/Hypoventilation) is a decrease in breathing that results in elevated levels of carbon dioxide.
 95 of 138
