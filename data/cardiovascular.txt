@@ -27,7 +27,7 @@ epicardium
 
 The (epicardium/myocardium/endocardium) is the middle layer of the heart made of ____.
 7 of 272
-myocardium ; muscleThe suffix ""myo"" refers to muscles.
+myocardium ; muscleThe suffix "myo" refers to muscles.
 
 Cardiac muscles have _____ junctions that allow it to act as a single functional unit aka a syncytium.
 8 of 272
@@ -179,7 +179,7 @@ sino-atrial (SA)
 
 The parasympathetic cranial nerve that regulates the heart is cranial nerve ____.
 45 of 272
-X VegusIt slows the heart.
+X Vagus - It slows the heart.
 
 The (sympathetic/parasympathetic) nerve system decreases the heart rate and the (sympathetic/parasympathetic) nervous system increases the heart rate.
 46 of 272
@@ -439,7 +439,7 @@ pulmonary
 
 (Digitalis/Nitroglycerin/Tissue plasminogen activator) slows and increases the strength of cardiac contractions.(Digitalis/Nitroglycerin/Tissue plasminogen activator) dilates the coronary blood vessels.(Digitalis/Nitroglycerin/Tissue plasminogen activator) helps dissolve clots.
 110 of 272
-Digitalis ; Nitroglycerin, Tissue plasminogen activator
+Digitalis, Nitroglycerin, Tissue plasminogen activator
 
 (Beta-adrenergic blockers / Calcium channel blockers) reduce heart contractions by preventing the flow of ions into cardiac muscle and (beta-adrenergic blockers / calcium channel blockers) block the action of norepinephrine on the heart.
 111 of 272
@@ -663,7 +663,7 @@ IXIX is glossopharyngeal and it has a ganglia called "otic."
 
 The two cranial nerves involved in the carotid sinus reflex are:
 166 of 272
-IX and X (glossopharyngeal and vagus)The reflex communicates with the brain to control blood pressure.
+IX and X glossopharyngeal and vagus - The reflex communicates with the brain to control blood pressure.
 
 Information in the aortic baroreceptors is sent to the medulla via sensory fibers on CN ___.
 167 of 272
@@ -803,7 +803,7 @@ Korotkoff
 
 The initial sounds detected during a blood pressure measurement is the (diastolic/systolic) blood pressure and the cessation of sounds during blood pressure measurement is the (diastolic/systolic) blood pressure.
 201 of 272
-systolic ; diastolicBlood pressure is reported as: systolic mmHg / diastolic mmHg.
+systolic ; diastolic - Blood pressure is reported as: systolic mmHg / diastolic mmHg.
 
 Systolic blood pressure occurs during the (ejection/ventricular relaxation) phase and diastolic blood pressure occurs during the (ejection/ventricular relaxation) phase.
 202 of 272
@@ -931,7 +931,7 @@ Septic
 
 The range of stage 1 hypertension is ________. Stage 2 hypertension is greater than ____ and Stage 3 hypertension is greater than ___.
 233 of 272
-130-139 and/or 80-89 ; 140 and/or 90 ; 180 and/or 120.The 1st number is the systolic pressure and the 2nd is the diastolic.
+130-139 and/or 80-89 ; 140 and/or 90 ; 180 and/or 120. - The 1st number is the systolic pressure and the 2nd is the diastolic.
 
 The three main functions of the lymphatic system are:
 234 of 272
