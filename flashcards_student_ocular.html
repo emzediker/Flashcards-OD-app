@@ -213,11 +213,11 @@ function render(){
   }
   const c = VIEW[idx];
   const map = IMAGE_MAP[c.id] || {};
-  els.front.innerHTML = (c.front||'');
-  els.back.innerHTML  =
-    (c.backAns?`<div class="ans">${c.backAns}</div>`:'') +
-    (c.backExp?`<div class="exp">${c.backExp}</div>`:'') +
-    (map.back?imgTag(map.back):'');
+els.front.innerHTML = (c.front || '') + (map.front ? imgTag(map.front) : '');
+els.back.innerHTML  =
+  (c.backAns ? `<div class="ans">${c.backAns}</div>` : '') +
+  (c.backExp ? `<div class="exp">${c.backExp}</div>` : '') +
+  (map.back ? imgTag(map.back) : '');
   els.back.style.display = showing?'block':'none';
   els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id)?'true':'false');
   els.counter.textContent = (idx+1)+' / '+VIEW.length;
