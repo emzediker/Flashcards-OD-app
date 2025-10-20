@@ -37,7 +37,7 @@
   },
   "respiratory-69": {
     "front": "",
-    "back": "images/respiratory/IMG_5961.jpeg"
+    "back": ""
   },
   "respiratory-79": {
     "front": "",
@@ -82,5 +82,9 @@
   "respiratory-91": {
     "front": "",
     "back": "images/respiratory/IMG_5969.jpeg"
-  }
+  }, 
+  "respiratory-139": { 
+    "front": "", 
+    "back": "images/respiratory/IMG_5961.jpeg"
+  },
 }
