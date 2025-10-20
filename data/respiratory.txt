@@ -273,10 +273,6 @@ According to Boyle's law, gas volume is (directly/inversely) proportional to its
 68 of 138
 inverselyAs the space a gas can occupy decreases, its pressure increases.
 
-According to Charles's law, the volume of a gas is (directly/inversely) proportional to its temperature.
-68b of 138
-directly — Cold temperature decreases pressure and warm temperature increases it.
-
 According to Dalton’s law, the total pressure of a mixture is the (sum/multiple) of all the individual substances in the mixture.
 69 of 138
 sumTotal Pressure = P1 + P2 + P3
@@ -556,3 +552,7 @@ Asthma
 Asthma is an (obstructive/restrictive) lung disease.
 138 of 138
 obstructive
+
+According to Charles's law, the volume of a gas is (directly/inversely) proportional to its temperature.
+139 of 139
+directly — Cold temperature decreases pressure and warm temperature increases it.
