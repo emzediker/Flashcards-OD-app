@@ -2,12 +2,12 @@ Ocular Anatomy
 Orbit • Eyelid • EOM
 90 flashcards
 
-Name 7 bones of orbit:
+Name the 7 bones of the orbit:
 1 of 90
 
 Palatine *Lacrimal *Zygomatic *Maxillary *Ethmoid *Sphenoid *Frontal
 
-Name 3 bones of orbit that are shared by both orbits.
+Name the 3 bones of the orbit that are shared by both orbits.
 2 of 90
 
 ethmoid, sphenoid, frontal
@@ -20,17 +20,17 @@ Every *Friend *Shares - Ethmoid Frontal Sphenoid
 Two bones that make the orbital roof:
 4 of 90
 
-Frontal & Lesser wing of sphenoid
+Frontal *Lesser wing of sphenoid
 
 Mnemonic for the bones of orbital roof:
 5 of 90
 
-Let water stop flowing
+Let water stop flowing - lesser wing sphenoid *frontal
 
 The meaning of FOSSA 
 6 of 90
 
-pit or ditch
+pit or ditch that is not round
 
 The lacrimal fossa is…
 7 of 90
@@ -50,7 +50,7 @@ An actual through and through hole
 The trochlear fossa is…
 10 of 90
 
-… a bony depression that sits nasal to hold the trochlea of the superior oblique.
+… a bony depression that sits superior nasal to hold the trochlea of the superior oblique.
 
 What bone holds optic foramen, through which the optic nerve and ophthalmic artery travel.
 11 of 90
@@ -127,7 +127,7 @@ Aponeurosis splits the orbicularis oculi into sections
 CNIII palsy causes a lid droop. What muscle is implicated in this presentation?
 25 of 90
 
-The levator palpebrae superioris is blown. - Remember “LR6SO4 (all others 3)”: meaning the MR (medial rectus), and SR (superior rectus) are blown too. Hence why in a full CNIII palsy the eye is sitting down and out with ptosis.
+The levator palpebrae superioris is blown. - Remember “LR6SO4 (all others 3)”: meaning the MR (medial rectus), and SR (superior rectus) are blown too. Hence why in a full CNIII palsy the eye is sitting down and out with ptosis and a dilated pupil with no accommodative ability.
 
 The fear-activated sympathetic pathway lifts what eyelid muscle?
 26 of 90
@@ -172,24 +172,24 @@ Goblet cells
 Where are goblet cells found?
 34 of 90
 
-In conjunctiva: high concentration at cornea limbal junction on the conjunctival side to produce mucin for cornea.
+In conjunctiva: There is a high concentration at conjunctival/corneal junction, where the conjunctival just meets the corrnea, to produce mucin for cornea.
 
 Goblet cells release wetting agents. Do they increase or decrease surface tension?
 35 of 90
 
-Think surface tension is like a gate to let other things in. If mucin and cornea have high surface tension they will not let others in their gate. Wetting agents decrease surface tension so the tears and cornea can bind.
+Decrease - Think of surface tension as a gate to let other things in. If mucin and cornea have high surface tension they will not let others in their gate. Wetting agents decrease surface tension so the tears and cornea can bind.
 
 The main producer of the aqueous portion tear layer is:
 36 of 90
 
 Lacrimal gland
 
-Accessory glands that help make the aqueous tear layer
+Accessory glands that help make the aqueous tear layer are:
 37 of 90
 
-Palpebral accessory gland of Wolfring and glands of Krause
+Palpebral accessory glands - These are the glands of  Wolfring and Krause.
 
-Where are the accessory glands of wolfring and Krause located.
+Where are the accessory glands of Wolfring and Krause located?
 38 of 90
 
 Superior fornix (meeting spot) of the sclera and palpebral plate
@@ -197,44 +197,32 @@ Superior fornix (meeting spot) of the sclera and palpebral plate
 Mnemonic for meibum secretion vs aqueous secretion of tears:
 39 of 90
 
-Meibum & Sebum= Zeiss and Meibomian 
-
-Aqueous= Lacrimal gland, Krause and Wolfring
+Meibum and Sebum= Zeiss and Meibomian *Aqueous= Lacrimal gland, Krause and Wolfring
 
 3 layers tears
 40 of 90
 
-Mucin (inner)
-Aqueous (middle) 
-Meibum (outer)
+Mucin (inner) *Aqueous (middle) *Meibum (outer)
 
-Goblet cells vs glands of Moll cells: 
-
-Which are holocrine vs apocrine?
+Goblet cells vs glands of Moll cells. Which are holocrine vs apocrine?
 41 of 90
 
-Goblets are holocrine (excrete all of their contents) 
-
-Moll are apocrine (apex or tip is exerted)
-Mnemonic: Molly is sweating in apocalypse
+Goblets are holocrine (excrete all of their contents) Moll are apocrine (apex or tip is exerted) - Mnemonic: Molly is sweating in apocalypse
 
 Eyes and eyelids drain to what lymphatic nodal system?
 42 of 90
 
-1. Lateral drains to the superior parotid system (by ear) 
-2.  Medial drains to submandibular nodes
+Lateral drains to the superior parotid system (by ear) *Medial drains to submandibular nodes
 
 Sensory innervation of eyelid
 43 of 90
 
-V1 (Ophthalmic division) innervates UPPER eyelid 
-V2 (Maxillary division) innervates LOWER eyelid
+V1 (Ophthalmic division) innervates UPPER eyelid *V2 (Maxillary division) innervates LOWER eyelid
 
 Motor innervation of eyelid
 44 of 90
 
-CNIII: Superior portion innervates the levator.  CNVII: Innervates striated muscles of lid.
-Sympathetic: innervates the non-striated smooth tarsal muscle of muller.
+CNIII: Superior portion innervates the levator.  CNVII: Innervates striated muscles of lid. Sympathetic: innervates the non-striated smooth tarsal muscle of muller.
 
 True or false: The aponeurosis of the levator splits the lacrimal gland into two portions, but they still function as one gland
 45 of 90
@@ -249,14 +237,12 @@ The orbital portion is more superior and it feeds to palpebral portion by 12 duc
 Autonomic innervation of the lacrimal gland:
 47 of 90
 
-CN VII:  pterygopalatine ganglion
+CN VII with the pterygopalatine ganglion
 
 lacrimal sac vs lacrimal gland
 48 of 90
 
-Lacrimal gland is superior temporal and makes tears. 
-
-   Lacrimal sac is inferior nasal and drains tears.
+Lacrimal gland is superior temporal and makes tears. Lacrimal sac is inferior nasal and drains tears.
 
 True or false: Tears have no horizontal motion.
 49 of 90
@@ -266,7 +252,7 @@ False. Tears have to move from temporal to nasal to drain at the punctum.
 How many puncta per eye does a human have?
 50 of 90
 
-Two total (one upper and one lower)
+Two total (one upper and one lower) 
 
 Canaliculi definition
 51 of 90
@@ -278,36 +264,30 @@ Vertical below puncta, hits elbow to turn called ampulla, then turns horizontal 
 Location of nasolacrimal duct:
 52 of 90
 
-Located AFTER the lacrimal sac to continue towards nose.
+Located *after* the lacrimal sac to continue towards the nose nose.
 
 plica semilunaris vs caruncle
 53 of 90
 
-Plica is outer and a remnant of an eyelid membrane that allows eyes to stretch.
-
-Caruncle is more nasal and contains sweat glands and hair.
+Plica is outer and a remnant of an eyelid membrane that allows eyes to stretch. Caruncle is more nasal and contains sweat glands and hair.
 
 Location of valve of Hasner
 54 of 90
 
-AFTER lacrimal sac and nasolacrimal duct.
+AFTER the lacrimal sac and nasolacrimal duct.
 
 The valve of Hasner occurs just prior to tear drainage to the nose.
 
 Name layers of the eyelid from outside to inner:
 55 of 90
 
-* Skin
-* Subcutaneous layer
-* Muscles
-* Submuscular areolar layer
-* Fibrous layer
-* Palpebral conjunctiva
+* Skin * Subcutaneous layer * Muscles * Submuscular areolar layer * Fibrous layer * Palpebral conjunctiva
 
 Two purposes of the eyebrow:
 56 of 90
 
 Communicate emotions and keep debris or sweat out of the eye.
+
 Most extraocular muscles are striated, except:
 57 of 90
 
@@ -316,45 +296,32 @@ Inferior and superior tarsal muscles are smooth (muscles of Muller).
 Mnemonic for smooth extraocular muscle:
 58 of 90
 
-Tar in the road is smooth
- 
-(The tarsal muscle of muller is smooth)
+Tar in the road is smooth - The tarsal muscle of Muller is smooth
 
-Levator palpebrae superioris
+Function of the levator palpebrae superioris
 59 of 90
 
-Raises the upper lid (CN III)
+Raises the upper lid via CN III
 
-Orbicularis oculi
+Function of the orbicularis oculi
 60 of 90
 
-Shuts the lids (CN VII)
+Shuts the lids via CN VII
 
-Mnemonic for CN7 closes
+Mnemonic for CN7 closeing the lid
 61 of 90
 
-7 looks like hook and
- pulls the lid down.
+7 looks like hook and pulls the lid down like a hook would.
 
 Trick to remember where the CN nuclei originate in the brain:
 62 of 90
 
-Cerebrum: “Drum of alarm goes off at 2 am”
-
-Midbrain: up to 4 (middle class working until 4pm)
-
-Pons: 5-8 (going fishing at the pond from 5-8 o'clock)
-
-Medulla: 9 on (sleep from 9pm and on)
+"Cerebrum drum of alarm goes off at 2 am.”
 
 What is the only EOM that does not originate at the orbital apex?
 63 of 90
 
-Inferior oblique does not originate at the apex.
-
-The inferior oblique originates from surface of maxilla.
-
-The superior oblique muscle originates from the periosteum of the sphenoid body (superior and medial to the annulus of Zinn).
+Inferior oblique does not originate at the apex. The inferior oblique originates from surface of maxilla. - The superior oblique muscle originates from the periosteum of the sphenoid body (superior and medial to the annulus of Zinn).
 
 How are all of the EOMs structured?
 64 of 90
@@ -379,43 +346,37 @@ adduction
 The primary function of the lateral rectus is:
 68 of 90
 
-Abduction
+abduction
 
 The primary function of superior oblique is:
 69 of 90
 
-Intorsion
+intorsion
 
 The primary function of the inferior oblique is:
 70 of 90
 
-Extorsion
+extorsion
 
 Mnemonic for cranial nerves that innervate EOMs:
 71 of 90
 
-LR6	 SO4    (all others 3)
+"LR6	SO4 (all others 3)"
 
 Mnemonic for action of adduction:
 72 of 90
 
-        “Add it to your nose!”
-
-      Turning the eye inward.
+“Add it to your nose!” -Adduction is turning the eye inward.
 
 Mnemonic for action of abduction is:
 73 of 90
 
-“Look at my abs”
-
-Turn the eye outward like opening a shirt open.
+“Look at my abs” - Turn the eye outward like ripping a shirt open.
 
 Trick to remembering the actions of EOMS
 74 of 90
 
-RECTI= REGULAR movement (what it sounds like it is ex. medial rectus moves eye medially)
- 
-OBLIQUE = OPPOSITE (ex. superior oblique will move eye inferiorly)
+RECTI= REGULAR movement (what it sounds like it is ex. medial rectus moves eye medially) * OBLIQUE = OPPOSITE (ex. superior oblique will move eye inferiorly)
 
 The meaning of torsion:
 75 of 90
@@ -425,15 +386,14 @@ twisting or turning like a door knob
 True or false: Medial and lateral recti have more than one function.
 76 of 90
 
-False
-
-Lateral and medial recti only have one primary function.
+False - Lateral and medial recti only have one primary function.
 
 Test yourself
 
- Job chart primary, secondary, tertiary actions of EOMS.
+Job chart primary, secondary, tertiary actions of EOMS.
 77 of 90
 
+See chart below
 
 3 jobs of superior recti
 78 of 90
@@ -458,18 +418,13 @@ extorsion, elevation, abduction
 Tricks to figuring out jobs of EOMs on test:
 82 of 90
 
-All inferiors do extortions 
-(inferior people extort)
-
-All obliques are abs 
-(so they abduct)
-
-All recti do regular movements, and all obliques do opposite
+All inferiors do extortions (inferior people extort)*All obliques are abs 
+(so they abduct) *All recti do regular movements, and all obliques do opposite
 
 Versions
 83 of 90
 
-Both eyes work together as a team
+Both eyes work together and move the same direction as a team
 
 Ductions
 84 of 90
@@ -479,43 +434,29 @@ One eye movement tested
 Tropia vs Phoria
 85 of 90
 
-Tropia is always there / just glance at them and can tell 
-
-Phoria need to break fusion to find it / cover test
+Tropia eyeurn is always there / just glance at them and you can tell *Phoria you need to break fusion to find it / cover test
 
 Tropia mnemonic
 86 of 90
 
-Tropia= tropical always wish we were in tropical.
-
-Tropia is there without breaking fusion
+Tropia= tropical always wish we were in tropical. Tropia is always there without breaking fusion
 
 Phoria Mnemonic
 87 of 90
 
-Phoria:  Fearful it will come out from hiding
-
-Phoric eye turns hide under a cover with cover test.
+Fearful it will come out from hiding. Phoric eye turns hide under a cover with cover test.
 
 At 54 degrees nasally adducted, what muscles are isolated?
 88 of 90
 
-Only obliques remain in 54 degree position
-
-DEPRESSION = SUPERIOR OBLIQUE 
-
-ELEVATION= INFERIOR OBLIQUE
+Only obliques remain in 54 degree position - DEPRESSION = SUPERIOR OBLIQUE *ELEVATION= INFERIOR OBLIQUE
 
 At 23 degrees temporally abducted, what muscles are isolated?
 89 of 90
 
-Only recti remain 23 degree position
+Only recti remain 23 degree position - SUPERIOR RECTI = ELEVATE *INFERIOR RECTI =  DEPRESS
 
-SUPERIOR RECTI = ELEVATE
-
-INFERIOR RECTI =  DEPRESS
-
-        spiral of tillaux
+Spiral of Tillaux
 90 of 90
 
 The insertions of the recti muscles start closer to the limbus, with the medial muscle inserting first at 5.5 mm, followed by the inferior at 6.3 mm, then the lateral at 6.9 mm, and finally the superior at 7.7 mm behind the limbus.
