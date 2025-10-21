@@ -6,16 +6,12 @@ Collagen • Vitreous • Retina
 Type I collagen in eye
 1 of 65
 
-corneal stroma
-sclera
-trabecular meshwork
-iris stroma
-choroid/ bruch's membrane
+corneal stroma, sclera, trabecular meshwork, iris stroma, choroid/ bruch's membrane
 
 Mnemonic for Type I collagen in the eye
 2 of 65
 
-Think: number 1 is the GOAT! So all the major tissues have type 1!
+Number 1 is the GOAT! - So all the major tissues have type 1!
 
 Type II collagen in the eye
 3 of 65
@@ -25,7 +21,7 @@ Vitreous
 Mnemonic for type II collagen in eye:
 4 of 65
 
-Hold two fingers up to make a V for vitreous.
+Hold two fingers up - to make a V for vitreous.
 
 Type III collagen of eye:
 5 of 65
@@ -35,14 +31,12 @@ Scattered throughout (especially in blood vessels), no major structures.
 Type IV collagen in eye:
 6 of 65
 
-Basement membranes: corneal basement membrane, lens capsule
-
-Anchoring plaques are type VII collagen
+Basement membranes: As in the corneal basement membrane and lens capsule. Anchoring plaques are type VII collagen.
 
 Mnemonic for type IV collagen in eye:
 7 of 65
 
-“FOUR IS THE FLOOR”/BASEMENT
+Four is the floor/basement.
 
 Type VII collagen in the eye
 8 of 65
@@ -52,7 +46,7 @@ Fibrils to help anchor the basement membrane down
 Mnemonic for type VII collagen in the eye:
 9 of 65
 
-7 is the hook! It reaches down and hooks it to the basement membrane.
+7 is the hook! It reaches down and hooks to the basement membrane.
 
 
 True or False: The vitreous absorbs UVA but not UVB.
@@ -68,13 +62,7 @@ The refractive index of vitreous is:
 4 main structural supports found in the vitreous are:
 12 of 65
 
-1. Water
-
-2.Hyaluronic acid
-
-3.Collagen
-
-4.Other small ingredients are chondroitin and heparan sulfate
+Water, hyaluronic acid, collagen, other small ingredients are chondroitin and heparan sulfate
 
 Where does the hyaloid artery travel through in the vitreous to feed the lens and optic nerve?
 13 of 65
@@ -104,9 +92,7 @@ Retrolental ligament (of Wieger)-- found at the posterior lenticular surface.
 Name the 3rd and 4th strongest attachment of the vitreous
 18 of 65
 
-3rd is at the optic nerve, 4th is at the fovea
-
-3rd rhymes with nerve
+3rd is at the optic nerve, 4th is at the fovea - 3rd rhymes with nerve
 
 The volume of the vitreous is:
 19 of 65
@@ -122,21 +108,12 @@ patellar fossa
 Name 10 layers of the retina (from inner to outer)
 21 of 65
 
-ILM, RNFL, GCC, IPL, INL, OPL, ONL, ELM, PIL, POL, RPE
+Starting at the most inner - ILM, RNFL, GCC, IPL, INL, OPL, ONL, ELM, PIL, POL, RPE
 
 Mnemonic for 11 layers of retina
 22 of 65
 
-Pigmented
-Segmented (outer, inner)
-Elm Leaves
-Open naturally 
-Open partially
-IN
-It’s Perineal 
-Gorgeous
-Noteworthy 
-Intro to Light
+Pigmented segmented elm leaves open naturally, open partially, in its perineal gorgeous noteworthy intro to light.
 
 Name two pigments important to the RPE.
 23 of 65
@@ -146,9 +123,7 @@ melanin and lipofuscin
 Name 3 functions of RPE
 24 of 65
 
-1. Draw water out of the retina.
-2. Phagocytize discs from rods and cones
-3. Send nutrients to the outer retina from the outer blood retinal barrier with Bruch’s.
+1.Draw water out of the retina. 2.Phagocytize discs from rods and cones 3.Send nutrients to the outer retina from the outer blood retinal barrier with Bruch’s.
 
 Cones make up about ___ %of the photoreceptors, while rods make up the other ___%
 25 of 65
@@ -193,17 +168,12 @@ Muller cell connections to photoreceptors
  The outer nuclear layer is made of:
 33 of 65
 
-nuclei of photoreceptors
-
-
-Think: nuclear layer means nucleus of something
+nuclei of photoreceptors - "nuclear" layer means "nucleus" of something
 
 The outer plexiform layer is made of:
 34 of 65
 
-synapses of photoreceptors
-
-When in doubt, know plexiform means synapses.
+synapses of photoreceptors - When in doubt, know plexiform means synapses.
 
 Plexiform in the retina means:
 35 of 65
@@ -213,14 +183,12 @@ Synaptic layer
 The outer plexiform is made of:
 36 of 65
 
-Remember plexiform means synapse so you know it has to be two sets of cells communicating.
-
-Outer plexiform is a synapse between photoreceptor and bipolar/ horizontal cells
+Remember plexiform means synapse so you know it has to be two sets of cells communicating. - Outer plexiform is a synapse between photoreceptor and bipolar/ horizontal cells.
 
 The inner nuclear layer is made of:
 37 of 65
 
-Horizontal cells, Muller cells, bipolar cells, inner plexiform cells, and amacrine cells all have their nuclei in this layer.
+Many cells! - Horizontal cells, Muller cells, bipolar cells, inner plexiform cells, and amacrine cells all have their nuclei in this layer.
 
 The inner plexiform layer is made of:
 38 of 65
@@ -250,9 +218,7 @@ They receive input (via “on” or “off” midget bipolar cells) primarily fr
 Functions of the midget ganglion cells: are involved in high-acuity vision in.
 43 of 65
 
-They are involved in high acuity vision associated to the central retina and color vision. 
-
-They transmit signals from single cones to the brain. 
+They are involved in high acuity vision associated to the central retina and color vision. - They transmit signals from single cones to the brain. 
 
 Midget cells project to:
 44 of 65
@@ -272,7 +238,7 @@ The magnocellular lateral geniculate nucleus
 The retinal nerve fiber layer is unmyelinated. When does it become myelinated?
 47 of 65
 
-After passing through lamina cribrosa?
+After passing through lamina cribrosa
 
 Is there an inner limiting membrane at the optic nerve?
 48 of 65
@@ -282,9 +248,7 @@ No. The ILM is absent at the optic nerve.
  What cells secrete the inner limiting membrane?
 49 of 65
 
-Muller cells
-
-Muller cells are absent at the nerve so ILM is absent too.
+Muller cells - Muller cells are absent at the nerve so ILM is absent too.
 
 Name the phagocytes in the retina.
 50 of 65
@@ -330,17 +294,17 @@ non-pigmented ciliary body epithelium
 The outer retina receives blood via the choroid. What layers of retina are considered outer retina?
 58 of 65
 
-Outer plexiform and down (OPL, ONL, ELM, photoreceptors, RPE)
+Outer plexiform and down - (OPL, ONL, ELM, photoreceptors, RPE)
 
 The inner retina is fed by retinal circulation (central retinal artery). What layers are considered inner?
 59 of 65
 
-layers inner to the outer plexiform layer (INL, IPL, GCC, RFNL, ILM)
+layers inner to the outer plexiform layer - (INL, IPL, GCC, RFNL, ILM)
 
 True or false? Both the central retinal artery and the choriocapillaris are fenestrated.
 60 of 65
 
-FALSE– only the choriocapillaris is fenestrated in this example
+FALSE– only the choriocapillaris is fenestrated in this example.
 
 Which is more fenestrated: the choriocapillaris or the central retinal artery?
 61 of 65
@@ -365,6 +329,4 @@ True or false? The RPE becomes the pigmented epithelium of the ciliary body.
 How are Bruch’s membrane and the retinal pigment epithelium attached?
 65 of 65
 
-!NO microvilli or tight junctions!
-
-The connection only has a combination of hydrostatic forces, osmotic forces and hemidesmosomes.
+!NO microvilli or tight junctions! - The connection only has a combination of hydrostatic forces, osmotic forces and hemidesmosomes.
