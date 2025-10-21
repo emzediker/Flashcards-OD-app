@@ -88,19 +88,19 @@ The refractive power of the crystalline lens
 True or false: The entire crystalline lens is coated by epithelium.
 17 of 69
 
-False. Only the equator up to the anterior has epithelium with nuclei.
+False. Only the equator up to the anterior lens has epithelium with nuclei.
 
-When is all infantile nucleus laid (by what age)?
+When is all of the infantile nucleus laid (by what age)?
 18 of 69
 
 4 years old
 
-Epithelial cells at the equator called the ________ zone is the only zone on the epithelium that proliferates to make new cells.
+The area of epithelial cells at the equator called the ________ zone is the only zone on the epithelium that proliferates to make new cells.
 19 of 69
 
-Germinative zone at the equator (more anterior zones do not proliferate)
+Germinative zone - More anterior zones do not proliferate.
 
-Lenticular yellowing of the nucleus from lifelong absorption of UV 315-400 nm is:
+Lenticular yellowing of the nucleus from lifelong absorption of UV 315-400 nm light is:
 20 of 69
 
 cataract
@@ -123,12 +123,12 @@ Oxygen and glucose come from the aqueous.
 Is the lens is aerobic or anaerobic?
 24 of 69
 
-anaerobic (where would it really get enough oxygen from to be aerobic anyway?)
+anaerobic - Where would it really get enough oxygen from to be aerobic anyway?
 
 Is the lens is LOW or HIGH in Na+?
 25 of 69
 
-Low (compared to vitreous and aqueous): Think: It has to be low salt because if it were high compared to the water sources it would continually suck in fluid and swell.
+Low (compared to vitreous and aqueous): Think: It has to be low in sodium because if it were high compared to the water sources it would continually suck in fluid and swell.
 
 Is the lens is low or high in K+?
 26 of 69
@@ -139,14 +139,12 @@ The lens capsule is a type of basement membrane.
 What kind of collagen makes up the basement membrane?
 27 of 69
 
-Type 4 (FOUR IS THE BASEMENT FLOOR)
-
-There are tight junctions (zonula adherens) that are the barrier of the lens in the capsule. 
+Type 4 - FOUR IS THE BASEMENT FLOOR. There are tight junctions (zonula adherens) that are the barrier of the lens in the capsule. 
 
 What connections are inside the nucleus and cortical fibers?
 28 of 69
 
-Gap junctions (to allow flow of glucose)
+Gap junctions (to allow the flow of glucose)
 
 At birth, there are 16D if accommodation of the lens. At 50 years old how many diopters of accommodation are remaining?
 29 of 69
@@ -172,11 +170,7 @@ When the ciliary body contracts for accommodation, what happens to lens zonules?
 Name the 3 sheaths of trabecular meshwork:
 33 of 69
 
-1. Uveal (inner, cords, large pores)
-
-2. Corneal scleral (flattened sheets, medium pores, less resistance)
-
-3. Juxtacanalicular (next to Schlemm's canal, most resistance, small cramped pores, inner wall of Schlemm's Canal)
+1*Uveal (inner, cords, large pores) 2*Corneal scleral (flattened sheets, medium pores, less resistance) 3*Juxtacanalicular (next to Schlemm's canal, most resistance, small cramped pores, inner wall of Schlemm's Canal)
 
 The trabecular meshwork sheath with the highest resistance to flow is:
 34 of 69
@@ -186,45 +180,28 @@ juxtacanalicular
 On gonioscopy, what structures can you see from posterior to anterior?
 35 of 69
 
-I Can’t See This Stuff
-
-Iris
-Ciliary Body
-Scleral spur
-Trabecular Meshwork
-Schwalbe's line
+I/Can’t/See/This/Stuff - Iris,Ciliary Body,Scleral spur,Trabecular meshwork,Schwalbe's line
 
 What does Schwalbe's line represent?
 36 of 69
 
-The ending of the corneal Descemet's layer
+The ending of the corneal descemet's layer
 
 Name 3 ways the aqueous can be drained:
 37 of 69
 
-1. Canal of Schlemm adjacent to the trabecular meshwork 
-
-2. Uveoscleral
- 
-3. Trans-scleral
+1/Canal of Schlemm adjacent to the trabecular meshwork 2/Uveoscleral 3/Trans-scleral
 
 Name the pathway of aqueous humour formation to the anterior chamber:
 38 of 69
 
-*ciliary body leaks aqueous from fenestrated pores
-* goes into posterior chamber
-* behind iris
-* up through pupil
-* up and over iris to top of cornea 
-* then down in convection current to TM to be drained
+*ciliary body leaks aqueous from fenestrated pores *goes into posterior chamber *behind iris *up through pupil *up and over iris to top of cornea *then down in convection current to trabecular meshwork to be drained
 
 
 The average anterior chamber volume is::
 39 of 69
 
-220 umL
-
-Average anterior chamber depth is 2.6-3.5mm
+220 umL - Average anterior chamber depth is 2.6-3.5mm
 
 The average posterior chamber volume is:
 40 of 69
@@ -245,8 +222,7 @@ The iris diaphragm and sphincter are both smooth muscles.
 Iris diaphragm functions vs sphincter function
 43 of 69
 
-1. Diaphragm is dilation 
-2. Sphincter is constriction
+Diaphragm is dilation and sphincter is constriction
 
 What is the iris collarette?
 44 of 69
@@ -266,28 +242,22 @@ anterior stroma
 Iris Fuchs crypts are:
 47 of 69
 
-remnants of vessels that fed the fetal pupillary membrane.
+remnants of vessels that fed the fetal pupillary membrane
 
 The pupillary ruff is:
 48 of 69
 
-The posterior epithelial cells of the iris that are rolled forward at the pupil margin.
+the posterior epithelial cells of the iris that are rolled forward at the pupil margin.
 
 Layers of the iris:
 49 of 69
 
-1. anterior border layer (connective tissue)
-
-2. stroma with sphincter,
-
-3. pigmented anterior epithelium and dilator
-
-4. nonpigmented epithelium
+1. anterior border layer (connective tissue) 2. stroma with sphincter, 3. pigmented anterior epithelium and dilator 4. nonpigmented epithelium
 
 True or false? The anterior epithelial layer is more connected to the dilator muscle than it is where the muscles runs through it.
 50 of 69
 
-True. The dilator muscle cannot be separated from the anterior pigment layer
+True. The dilator muscle cannot be separated from the anterior pigment layer.
 
 What innervates the dilator muscles to make it contract and dilate the eye?
 51 of 69
@@ -302,9 +272,7 @@ CNIII - Parasympathetic Nervous System
 The arrangement of iris vasculature:
 53 of 69
 
-Inside collarette: minor circle
-
-Outside collarette: major circle: both anterior and posterior ciliary arteries feed.
+Inside collarette: minor circle. Outside collarette: major circle: both anterior and posterior ciliary arteries feed.
 
 Name 3 functions of the ciliary body:
 54 of 69
@@ -314,8 +282,7 @@ aqueous production, accommodation, absorption of light
 Name the anterior vs posterior sections of the ciliary body
 55 of 69
 
-1. Anterior is pars plicata
-2. Posterior is pars plana
+1.Anterior is pars plicata 2.Posterior is pars plana
 
 Which portion of the ciliary body houses the ciliary processes important for the constriction of ciliary muscle?
 56 of 69
@@ -325,8 +292,7 @@ Pars plicata
 fenestration: iris capillaries vs ciliary body capillaries
 57 of 69
 
-1. Iris capillaries are NONfenestrated.
-2. Ciliary body capillaries are FENESTRATED.
+1.Iris capillaries are NONfenestrated. 2.Ciliary body capillaries are FENESTRATED.
 
 The interface between the ciliary body and retina:
 58 of 69
@@ -336,16 +302,12 @@ ora serrata (composed of oral bays and dentate processes)
 The 3 orientations of the smooth ciliary muscle:
 59 of 69
 
-1. Longitudinal (Straight down- Outer)
-
-2. Radial (medial)
-
-3. Circular (inner)
+1.Longitudinal (Straight down- Outer) 2.Radial (medial) 3.Circular (inner)
 
 Innervation of the ciliary body:
 60 of 69
 
-Mainly parasympathetic from CNIII.
+Mainly parasympathetic from CNIII
 
 Is aqueous produced by the pigmented or nonpigmented epithelium of the ciliary body?
 61 of 69
@@ -355,59 +317,39 @@ Aqueous is made by non-pigmented epithelial cells.
 Describe the blood aqueous barrier.
 62 of 69
 
-Selectively permeable cells allow blood to feed the ciliary body from nonfenestrated iris blood vessels and not leak blood out. 
-
-They also selectively leak out aquetous from the fenestrated nonpigmented epithelium of the ciliary body.
+Selectively permeable cells allow blood to feed the ciliary body from nonfenestrated iris blood vessels and not leak blood out. - They also selectively leak out aquetous from the fenestrated nonpigmented epithelium of the ciliary body.
 
 Name the three layers of choroid:
 63 of 69
 
-1. Suprachoroid
-
-2. Inner vasculature (i.e. Haller’s , Sattler’s , Choriocapillaris)
-
-3. Bruch's membrane/ basal lamina
+1.Suprachoroid 2.Inner vasculature (i.e. Haller’s , Sattler’s , Choriocapillaris) 3.Bruch's membrane/ basal lamina
 
 Name the 3 layers of the inner vasculature of the choroid:
 64 of 69
 
-1. Large vessel (Haller)
-
-2. Small vessel (Sattler)
-
-3. Choriocapillaris
+1.Large vessel (Haller) 2.Small vessel (Sattler) 3.Choriocapillaris
 
 2 locations of the blood retinal barrier:
 65 of 69
 
-1. Inner: inside the retina via retinal blood vessels tight junctions.
-
-2. Outer: Where the the RPE meets Bruch’s via RPE tight junctions. 
+1.Inner is inside the retina via retinal blood vessels tight junctions. 2.Outer is where the the RPE meets Bruch’s via RPE tight junctions. 
 
 Fenestrated  vs nonfenestrated
 66 of 69
 
-1. Fenestrated: Holey, leaky (think: liquid can leak through the slots in the fence)
-
-2. Nonfenestrated: Nonleaky, Nonholey, due to tight junctions
+Fenestrated is Holey, leaky (think: liquid can leak through the slots in the fence) - Nonfenestrated: Nonleaky, Nonholey, due to tight junctions
 
 What areas are nonfenestrated in the blood aqueous VS blood retina barrier?
 67 of 69
 
-1. Blood-Aqueous: Iris (blood cannot leak inside the iris)
-
-2. Blood-Retina: Inner Retina (blood cannot leak to inner retina)
+Blood-Aqueous = Iris (blood cannot leak inside the iris) - Blood-Retina= Inner Retina (blood cannot leak to inner retina)
 
 What areas adjacent to the blood-aqueous and blood-retina barrier are fenestrated?
 68 of 69
 
-1. Blood-Aqueous: Ciliary body capillaries. 
-
-2. Blood-Retina: Nearby choriocapillaris is fenestrated (to leak blood to the outer retinal layers).
+1. Blood-Aqueous: Ciliary body capillaries. 2. Blood-Retina: Nearby choriocapillaris is fenestrated (to leak blood to the outer retinal layers).
 
 Name the two vascular systems of retina and what they feed:
 69 of 69
 
- 1. Central retinal artery supplies the inner retina.
-
-2. Choriocapillaris supplies the retinal pigment epithelium and outer retina.
+1. Central retinal artery supplies the inner retina. 2. Choriocapillaris supplies the retinal pigment epithelium and outer retina.
