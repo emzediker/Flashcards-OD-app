@@ -222,7 +222,7 @@ V1 (Ophthalmic division) innervates upper eyelid *V2 (Maxillary division) innerv
 Motor innervation of eyelid
 44 of 90
 
-CNIII: Superior portion innervates the levator.  CNVII: Innervates striated muscles of lid. Sympathetic: innervates the non-striated smooth tarsal muscle of muller.
+cranial nerve 3 *cranial nerve 7 - III: Superior portion innervates the levator.  VII: Innervates striated muscles of lid. Sympathetic: innervates the non-striated smooth tarsal muscle of Muller.
 
 True or false: The aponeurosis of the levator splits the lacrimal gland into two portions, but they still function as one gland
 45 of 90
