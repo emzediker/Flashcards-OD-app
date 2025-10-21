@@ -5,13 +5,7 @@ Orbit • Eyelid • EOM
 Name 7 bones of orbit:
 1 of 90
 
-1. Palatine
-2. Lacrimal
-3. Zygomatic
-4. Maxillary
-5. Ethmoid
-6. Sphenoid
-7. Frontal
+Palatine *Lacrimal *Zygomatic *Maxillary *Ethmoid *Sphenoid *Frontal
 
 Name 3 bones of orbit that are shared by both orbits.
 2 of 90
@@ -21,41 +15,27 @@ ethmoid, sphenoid, frontal
 Mnemonic for shared orbital bones between both eyes:
 3 of 90
 
-Every Friend Shares
-
-Ethmoid
-Frontal
-Sphenoid
+Every *Friend *Shares - Ethmoid Frontal Sphenoid
 
 Two bones that make the orbital roof:
 4 of 90
 
-1. Frontal
-
-2. Lesser wing of sphenoid
+Frontal & Lesser wing of sphenoid
 
 Mnemonic for the bones of orbital roof:
 5 of 90
 
-Let 
-Water 
-Stop 
-Flowing
-
-Lesser 
-Wing
-Sphenoid
-Frontal
+Let water stop flowing
 
 The meaning of FOSSA 
 6 of 90
 
-pit or ditch (non-round)
+pit or ditch
 
 The lacrimal fossa is…
 7 of 90
 
-…on roof of orbit where lacrimal gland sits.
+…on roof of the orbit where the lacrimal gland sits.
 
 The meaning of fossa vs fovea:
 8 of 90
@@ -92,41 +72,27 @@ GooGles sit on the lateral wall:
 The superior orbital fissure allows passage of the following:
 14 of 90
 
-CNIII
-IV
-VI
-V (ophthalmic division branches)
-Sympathetic fibers
-Superior ophthalmic vein
+CNIII *IV *VI *V (ophthalmic division branches) *Sympathetic fibers *Superior ophthalmic vein
 
 Three bones that make the floor of the orbit:
 15 of 90
 
-Zygomatic
-Maxillary
-Palatine
+Zygomatic *Maxillary *Palatine
 
 Mnemonic for orbital floor bones:
 16 of 90
 
-Zip 
-My 
-Pants
+Zip *My *Pants
 
 Inferior orbital fissure includes transmits the following:
 17 of 90
 
-Infraorbital artery and vein
-Branches from inferior ophthalmic vein
-Infraorbital and zygomatic nerves
+Infraorbital artery and vein *Branches from inferior ophthalmic vein *Infraorbital and zygomatic nerves
 
 Bones of orbital medial wall:
 18 of 90
 
-Sphenoid
-Maxilla
-Ethmoid
-Lacrimal
+Sphenoid *Maxilla *Ethmoid *Lacrimal
 
 Mnemonic for the bones of the medial wall of the orbit:
 19 of 90
@@ -141,7 +107,8 @@ Medial at the lamina papyracea of the ethmoid bone
 Test yourself. Name the bones of all four walls of orbit.
 21 of 90
 
-See Table below
+See table below
+
 Portion of the the orbicularis oculi muscle that holds the lid tightly to the globe:
 22 of 90
 
@@ -160,12 +127,7 @@ Aponeurosis splits the orbicularis oculi into sections
 CNIII palsy causes a lid droop. What muscle is implicated in this presentation?
 25 of 90
 
-The levator palpebrae superioris is blown in a CNIII palsy.
-
-Remember “LR6SO4 (all others 3)”: meaning the MR (medial rectus), and SR (superior rectus) are blown too.
-
-
-Hence why in a full CNIII palsy the eye is sitting down and out with ptosis.
+The levator palpebrae superioris is blown. - Remember “LR6SO4 (all others 3)”: meaning the MR (medial rectus), and SR (superior rectus) are blown too. Hence why in a full CNIII palsy the eye is sitting down and out with ptosis.
 
 The fear-activated sympathetic pathway lifts what eyelid muscle?
 26 of 90
@@ -215,9 +177,7 @@ In conjunctiva: high concentration at cornea limbal junction on the conjunctival
 Goblet cells release wetting agents. Do they increase or decrease surface tension?
 35 of 90
 
-Think surface tension is like a gate to let other things in.
-
-If mucin and cornea have high surface tension they will not let others in their gate. Wetting agents decrease surface tension so the tears and cornea can bind.
+Think surface tension is like a gate to let other things in. If mucin and cornea have high surface tension they will not let others in their gate. Wetting agents decrease surface tension so the tears and cornea can bind.
 
 The main producer of the aqueous portion tear layer is:
 36 of 90
