@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Pharm Advanced — merge A + B → one deck</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:20px;max-width:900px}
+  h1{font-size:20px;margin:0 0 12px}
+  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  input[type=file]{padding:10px;border:1px solid #ccc;border-radius:8px;background:#fff}
+  button{padding:10px 14px;border:1px solid #888;border-radius:8px;background:#f4f4f4;font-weight:600}
+  #log{margin-top:12px;color:#333}
+  #links a{display:block;margin-top:10px}
+  .box{border:1px dashed #bbb;border-radius:10px;padding:14px;background:#fafafa}
+</style>
+</head>
+<body>
+<h1>Pharmacology — Advanced (merge A + B to one deck)</h1>
+
+<div class="box">
+  <div class="row">
+    <input id="files" type="file" accept=".txt" multiple />
+    <button id="go">Process</button>
+  </div>
+  <div id="log">Select exactly the 2 TXT files — pick <b>A</b> first, then <b>B</b> — and click Process.</div>
+  <div id="links"></div>
+</div>
+
+<script>
+const log = (m)=>{ document.getElementById('log').innerHTML = m; };
+
+async function readTxt(file){
+  const text = await file.text();
+  return text.replace(/\r/g,'');  // normalize
+}
+
+function renumberAnchors(text){
+  const lines = text.split('\n');
+  const anchorRe = /^\s*\d+\s+of\s+\d+\s*$/;
+  const idxs = [];
+  lines.forEach((ln,i)=>{ if(anchorRe.test(ln)) idxs.push(i); });
+  const total = idxs.length;
+  idxs.forEach((i, n)=>{ lines[i] = `${n+1} of ${total}`; });
+  return { text: lines.join('\n'), total };
+}
+
+document.getElementById('go').onclick = async ()=>{
+  const files = Array.from(document.getElementById('files').files || []);
+  if(files.length !== 2){ log('Please select exactly <b>2</b> TXT files: A then B.'); return; }
+
+  // Keep the chosen order (A then B)
+  const parts = [];
+  for (const f of files) parts.push(await readTxt(f));
+
+  // Join with a blank line between files
+  const joined = parts.join('\n\n');
+
+  // Renumber anchors across the whole merged deck
+  const { text: outText, total } = renumberAnchors(joined);
+
+  // Download
+  const blob = new Blob([outText], {type:'text/plain'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'pharm_advanced_combined.txt';
+  a.textContent = `⬇ Download pharm_advanced_combined.txt  (${total} cards)`;
+  const links = document.getElementById('links'); links.innerHTML = ''; links.appendChild(a);
+
+  log(`OK! Merged A + B and renumbered ${total} cards. Click the download link below, then upload that single TXT to your repo’s <code>/data/</code> folder and point your advanced deck at it.`);
+};
+</script>
+</body>
+</html>
