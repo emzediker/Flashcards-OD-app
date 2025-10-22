@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pharmacology – Intermediate Splitter (2 decks)</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:20px;line-height:1.4}
+  .box{border:1px solid #ddd;border-radius:10px;padding:14px;max-width:860px}
+  button,input[type=file]{padding:10px 12px;border:1px solid #ccc;border-radius:8px;background:#fff}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .muted{color:#555;font-size:14px}
+  .out{margin-top:12px}
+  .ok{color:#0a7}
+  .warn{color:#b40}
+  .err{color:#c00}
+</style>
+</head>
+<body>
+<h2>Pharmacology – Intermediate Splitter (2 decks, restart numbering)</h2>
+<div class="box">
+  <p>Select your 5 Intermediate TXT files in order (1A → 1B → 2A → 2B → 2C). All processing is local on your device.</p>
+  <div class="row">
+    <input id="files" type="file" multiple accept=".txt">
+    <button id="go">Process</button>
+  </div>
+  <p class="muted">Anchor format detected: lines like <code>23 of 100</code>. We’ll split cards ~50/50 and renumber to <code>1 of N</code> per deck.</p>
+  <div id="status" class="out"></div>
+  <div id="downloads" class="out"></div>
+</div>
+
+<script>
+const anchorRE = /^\s*(\d+)\s+of\s+(\d+)\s*$/;
+
+async function readFile(f){
+  return await f.text();
+}
+function findAnchors(lines){
+  const idxs=[];
+  for(let i=0;i<lines.length;i++){
+    if(anchorRE.test(lines[i])) idxs.push(i);
+  }
+  return idxs;
+}
+function renumberAnchors(lines){
+  const idxs = findAnchors(lines);
+  const N = idxs.length;
+  idxs.forEach((lineIndex, k)=>{
+    lines[lineIndex] = `${k+1} of ${N}`;
+  });
+  return N;
+}
+function dl(name, text){
+  const blob = new Blob([text], {type:'text/plain;charset=utf-8'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = name;
+  a.textContent = `Download ${name}`;
+  a.style.display='inline-block';
+  a.style.marginRight='12px';
+  return a;
+}
+
+document.getElementById('go').onclick = async () => {
+  const status = document.getElementById('status');
+  const area   = document.getElementById('downloads');
+  status.textContent = '';
+  area.innerHTML = '';
+
+  const inp = document.getElementById('files');
+  if(!inp.files || inp.files.length===0){
+    status.innerHTML = '<span class="err">Please select your Intermediate TXT files.</span>';
+    return;
+  }
+
+  // Read files in the order user selected
+  const fileList = Array.from(inp.files);
+  const texts = [];
+  for(const f of fileList){
+    texts.push(await readFile(f));
+  }
+
+  // Merge with file markers (markers are harmless comments for your reference)
+  let combined = [];
+  fileList.forEach((f, i)=>{
+    combined.push(`\n# --- BEGIN ${f.name} ---`);
+    combined.push(...texts[i].replace(/\r/g,'').split('\n'));
+    combined.push(`# --- END ${f.name} ---\n`);
+  });
+
+  // Find anchor indices on the merged array
+  const allAnchors = [];
+  for(let i=0;i<combined.length;i++){
+    if(anchorRE.test(combined[i])) allAnchors.push(i);
+  }
+  const totalCards = allAnchors.length;
+  if(totalCards===0){
+    status.innerHTML = '<span class="err">No anchors like “x of y” were found. Check your inputs.</span>';
+    return;
+  }
+
+  // Split near half
+  const half = Math.floor(totalCards/2);
+  const splitLineIndex = allAnchors[half] ?? combined.length;
+
+  const deck1 = combined.slice(0, splitLineIndex);
+  const deck2 = combined.slice(splitLineIndex);
+
+  const n1 = renumberAnchors(deck1);
+  const n2 = renumberAnchors(deck2);
+
+  const out1 = deck1.join('\n');
+  const out2 = deck2.join('\n');
+
+  status.innerHTML = `<span class="ok">OK!</span> Found <b>${totalCards}</b> cards → `+
+                     `<b>${n1}</b> in Deck 1 and <b>${n2}</b> in Deck 2.`;
+  const a1 = dl('Pharm_INT_Deck1.txt', out1);
+  const a2 = dl('Pharm_INT_Deck2.txt', out2);
+  area.appendChild(a1);
+  area.appendChild(a2);
+};
+</script>
+</body>
+</html>
