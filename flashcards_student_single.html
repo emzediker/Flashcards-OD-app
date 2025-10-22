@@ -1,0 +1,193 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title><!-- Segment Name --> Flashcards</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
+  .wrap{max-width:980px;margin:0 auto;}
+  h1{margin:0 0 12px;font-size:22px;}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff}
+  .card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;position:relative}
+  .front{font-weight:600}
+  .back{display:none;margin-top:12px}
+  .ans{font-weight:700;font-size:1.06rem;margin:2px 0 6px}
+  .exp{color:#555;font-size:0.96rem;line-height:1.35}
+  .card img{max-width:100%;height:auto;border-radius:8px;margin-top:10px}
+  .fav{position:absolute;top:10px;right:10px;border:1px solid #ddd;border-radius:999px;padding:6px 10px;background:#fff;cursor:pointer}
+  .fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
+  .meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
+  .nav{display:flex;gap:8px;margin-top:10px}
+  .nav button{flex:1;font-weight:600}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><!-- Segment Name --> Flashcards</h1>
+
+  <div class="bar">
+    <label>Show:
+      <select id="show">
+        <option value="all">All</option>
+        <option value="fav">Favorites</option>
+      </select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+    <button id="fav" class="fav" aria-pressed="false" title="Favorite">★</button>
+  </div>
+
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div id="status"></div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
+</div>
+
+<script>
+/* ====== CONFIG (edit these 3 lines) =============================== */
+const DECK_ID      = 'segment_single';                         // short id (letters/numbers/_)
+const DECK_TITLE   = 'Your Segment Name';                      // visible title
+const DATA_URL     = 'data/segment_single.txt';                // where you put the TXT
+const IMAGE_MAP_URL= `images/${DECK_ID}_image_map.json`;       // shared mapping JSON (export from Admin)
+/* ================================================================== */
+
+const els = {
+  show: document.getElementById('show'),
+  q:    document.getElementById('q'),
+  front:document.getElementById('front'),
+  back: document.getElementById('back'),
+  favBtn:document.getElementById('fav'),
+  counter:document.getElementById('counter'),
+  status: document.getElementById('status'),
+  prev: document.getElementById('prev'),
+  next: document.getElementById('next'),
+  reveal: document.getElementById('reveal')
+};
+
+let CARDS=[], VIEW=[], FAVS=new Set(), IMAGE_MAP={}, idx=0, showing=false;
+
+function escapeHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
+function cleanLine(s){
+  if(!s) return '';
+  return s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').replace(/\uFFFD/g,'')
+          .replace(/[“”]/g,'"').replace(/[‘’]/g,"'").replace(/\u2013|\u2014/g,'-')
+          .replace(/[^\S\r\n]+/g,' ').trim();
+}
+function splitAnsExpl(line){
+  let m=line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/); if(m) return {a:m[1].trim(),e:m[2].trim()};
+  m=line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/); if(m && !/[.?!]$/.test(m[1])) return {a:m[1].trim(),e:m[2].trim()};
+  const dot=line.indexOf('. '); if(dot>0 && dot<=80){ const first=line.slice(0,dot).trim(); const rest=line.slice(dot+2).trim(); if(first.split(/\s+/).length<=6) return {a:first,e:rest}; }
+  return {a:line.trim(),e:''};
+}
+function parseTxt(txt){
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor = (s)=> /^\d+\s+of\s+\d+$/.test(s);
+  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
+  const out=[];
+  for(let p=0;p<anchors.length;p++){
+    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
+    let j=at-1, up=6, front=''; while(j>=0 && up>0 && !lines[j]){ j--; up--; } if(j>=0 && lines[j]) front = escapeHtml(lines[j]);
+    let k=at+1; while(k<next && (!lines[k] || lines[k]==='.')) k++;
+    const raw = (k<next?lines[k]:''); const se = splitAnsExpl(raw);
+    let backAns=escapeHtml(se.a), backExp=escapeHtml(se.e);
+    let m=k+1; while(m<next && !lines[m]) m++; if(m<next && /^(note|hint|comment)\s*:/i.test(lines[m])) backExp += (backExp?' ':'')+`<em>${escapeHtml(lines[m])}</em>`;
+    out.push({ id:`${DECK_ID}-${out.length+1}`, front, backAns, backExp });
+  }
+  return out;
+}
+
+const FAV_KEY = `fc_favs_student_v1::${DECK_ID}`;
+function loadFavs(){ try{return new Set(JSON.parse(localStorage.getItem(FAV_KEY)||'[]'));}catch{return new Set();} }
+function saveFavs(){ localStorage.setItem(FAV_KEY, JSON.stringify([...FAVS])); }
+
+function imgTag(src){ return src ? `<img src="${src}" alt="">` : ''; }
+
+function applyFilters(){
+  const q=(els.q.value||'').toLowerCase(), favOnly = els.show.value==='fav';
+  VIEW = CARDS.filter(c =>
+    (!q || (c.front + c.backAns + c.backExp).toLowerCase().includes(q)) &&
+    (!favOnly || FAVS.has(c.id))
+  );
+  if(idx>=VIEW.length) idx = Math.max(0, VIEW.length-1);
+  showing=false; render();
+}
+function render(){
+  if(!VIEW.length){
+    els.front.innerHTML = '<em>No cards match.</em>';
+    els.back.style.display='none'; els.back.innerHTML='';
+    els.favBtn.setAttribute('aria-pressed','false');
+    els.counter.textContent='0 / 0';
+    els.reveal.textContent='Reveal Answer';
+    els.status.textContent = DECK_TITLE;
+    return;
+  }
+  const c = VIEW[idx];
+  const map = IMAGE_MAP[c.id] || {};
+  els.front.innerHTML = (c.front||'') + (map.front?imgTag(map.front):'');
+  els.back.innerHTML  =
+    (c.backAns?`<div class="ans">${c.backAns}</div>`:'') +
+    (c.backExp?`<div class="exp">${c.backExp}</div>`:'') +
+    (map.back?imgTag(map.back):'');
+  els.back.style.display = showing?'block':'none';
+  els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id)?'true':'false');
+  els.counter.textContent = (idx+1)+' / '+VIEW.length;
+  els.reveal.textContent = showing?'Hide Answer':'Reveal Answer';
+  els.status.textContent = DECK_TITLE + (els.show.value==='fav' ? ' (Favorites)' : '');
+}
+function next(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; showing=false; render(); }
+function prev(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render(); }
+function toggle(){ showing=!showing; render(); }
+function toggleFav(){ if(!VIEW.length) return; const c=VIEW[idx]; if(FAVS.has(c.id)) FAVS.delete(c.id); else FAVS.add(c.id); saveFavs(); render(); }
+
+async function fetchSharedImageMap(){
+  try{
+    const r = await fetch(IMAGE_MAP_URL, {cache:'no-store'});
+    if (r.ok) return await r.json();
+  }catch(e){}
+  return {};
+}
+
+(async function init(){
+  document.title = DECK_TITLE + ' Flashcards';
+  try{
+    const res = await fetch(DATA_URL, {cache:'no-store'});
+    if(!res.ok) throw new Error('Deck file not found');
+    const txt = await res.text();
+    CARDS = parseTxt(txt);
+  }catch(e){ CARDS=[]; }
+
+  FAVS = loadFavs();
+  IMAGE_MAP = await fetchSharedImageMap();
+  applyFilters();
+
+  els.show.onchange = applyFilters;
+  els.q.oninput     = applyFilters;
+  els.prev.onclick  = prev;
+  els.next.onclick  = next;
+  els.reveal.onclick= toggle;
+  els.favBtn.onclick= toggleFav;
+  document.addEventListener('keydown', e=>{
+    const k=e.key.toLowerCase();
+    if(k==='arrowright') next();
+    else if(k==='arrowleft') prev();
+    else if(k==='r') toggle();
+    else if(k==='s') toggleFav();
+  });
+})();
+</script>
+</body>
+</html>
