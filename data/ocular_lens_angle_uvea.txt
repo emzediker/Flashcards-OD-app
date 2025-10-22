@@ -190,7 +190,7 @@ The ending of the corneal descemet's layer
 Name 3 ways the aqueous can be drained:
 37 of 69
 
-1/Canal of Schlemm adjacent to the trabecular meshwork 2/Uveoscleral 3/Trans-scleral
+1/Canal of schlenn adjacent to the trabecular meshwork 2/Uveoscleral 3/Trans-scleral
 
 Name the pathway of aqueous humour formation to the anterior chamber:
 38 of 69
@@ -252,7 +252,7 @@ the posterior epithelial cells of the iris that are rolled forward at the pupil 
 Layers of the iris:
 49 of 69
 
-1. anterior border layer (connective tissue) 2. stroma with sphincter, 3. pigmented anterior epithelium and dilator 4. nonpigmented epithelium
+1*anterior border layer (connective tissue) 2*stroma with sphincter, 3*pigmented anterior epithelium and dilator 4*nonpigmented epithelium
 
 True or false? The anterior epithelial layer is more connected to the dilator muscle than it is where the muscles runs through it.
 50 of 69
@@ -272,7 +272,7 @@ CNIII - Parasympathetic Nervous System
 The arrangement of iris vasculature:
 53 of 69
 
-Inside collarette: minor circle. Outside collarette: major circle: both anterior and posterior ciliary arteries feed.
+Inside collarette=minor circle. Outside collarette=major circle: both anterior and posterior ciliary arteries feed.
 
 Name 3 functions of the ciliary body:
 54 of 69
@@ -292,7 +292,7 @@ Pars plicata
 fenestration: iris capillaries vs ciliary body capillaries
 57 of 69
 
-1.Iris capillaries are NONfenestrated. 2.Ciliary body capillaries are FENESTRATED.
+1.Iris capillaries are nonfenestrated. 2.Ciliary body capillaries are fenestrated.
 
 The interface between the ciliary body and retina:
 58 of 69
@@ -302,7 +302,7 @@ ora serrata (composed of oral bays and dentate processes)
 The 3 orientations of the smooth ciliary muscle:
 59 of 69
 
-1.Longitudinal (Straight down- Outer) 2.Radial (medial) 3.Circular (inner)
+1.Longitudinal (Straight down/outer) 2.Radial (medial) 3.Circular (inner)
 
 Innervation of the ciliary body:
 60 of 69
@@ -322,7 +322,7 @@ Selectively permeable cells allow blood to feed the ciliary body from nonfenestr
 Name the three layers of choroid:
 63 of 69
 
-1.Suprachoroid 2.Inner vasculature (i.e. Haller’s , Sattler’s , Choriocapillaris) 3.Bruch's membrane/ basal lamina
+1.Suprachoroid 2.Inner vasculature (Haller’s , Sattler’s , Choriocapillaris) 3.Bruch's membrane/ basal lamina
 
 Name the 3 layers of the inner vasculature of the choroid:
 64 of 69
@@ -337,7 +337,7 @@ Name the 3 layers of the inner vasculature of the choroid:
 Fenestrated  vs nonfenestrated
 66 of 69
 
-Fenestrated is Holey, leaky (think: liquid can leak through the slots in the fence) - Nonfenestrated: Nonleaky, Nonholey, due to tight junctions
+Fenestrated is holey, leaky (liquid can leak through the slots in the fence). Nonfenestrated is nonleaky, nonholey, due to tight junctions.
 
 What areas are nonfenestrated in the blood aqueous VS blood retina barrier?
 67 of 69
@@ -347,9 +347,9 @@ Blood-Aqueous = Iris (blood cannot leak inside the iris) - Blood-Retina= Inner R
 What areas adjacent to the blood-aqueous and blood-retina barrier are fenestrated?
 68 of 69
 
-1. Blood-Aqueous: Ciliary body capillaries. 2. Blood-Retina: Nearby choriocapillaris is fenestrated (to leak blood to the outer retinal layers).
+1.Blood-Aqueous: Ciliary body capillaries. 2.Blood-Retina: Nearby choriocapillaris is fenestrated (to leak blood to the outer retinal layers).
 
 Name the two vascular systems of retina and what they feed:
 69 of 69
 
-1. Central retinal artery supplies the inner retina. 2. Choriocapillaris supplies the retinal pigment epithelium and outer retina.
+1.Central retinal artery supplies the inner retina. 2.Choriocapillaris supplies the retinal pigment epithelium and outer retina.
