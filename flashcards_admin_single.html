@@ -1,0 +1,232 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title><!-- Segment Name --> Flashcards — Admin</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
+  .wrap{max-width:980px;margin:0 auto;}
+  h1{margin:0 0 12px;font-size:20px}
+  .pill{padding:2px 8px;border:1px solid #ddd;border-radius:999px;font-size:12px;background:#fff}
+  .admin{border:1px dashed #bbb;border-radius:10px;padding:12px;background:#fafafa;margin-top:12px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  select,input[type=text],button{padding:8px 10px;border:1px solid #ddd;border-radius:8px}
+  .card{border:1px solid #ddd;border-radius:12px;padding:18px;min-height:160px;background:#fff;margin-top:10px}
+  .front{font-weight:600}
+  .back{margin-top:10px}
+  .ans{font-weight:700}
+  .card img{max-width:100%;height:auto;border-radius:8px;margin-top:8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1><!-- Segment Name --> Flashcards — Admin</h1>
+  <span class="pill">Admin mode</span>
+
+  <div class="row" style="margin-top:10px">
+    <label>Search: <input id="q" type="text" placeholder="Find text..."></label>
+    <button id="prev">◀ Prev</button>
+    <button id="next">Next ▶</button>
+    <span id="counter" class="pill">0 / 0</span>
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+  </div>
+
+  <div class="admin">
+    <strong>Attach images to this card</strong>
+    <div class="row" style="margin-top:8px">
+      <label>Front image:
+        <select id="frontImg"></select>
+      </label>
+      <label>Back image:
+        <select id="backImg"></select>
+      </label>
+      <button id="saveMap">Save for this card</button>
+      <span id="saveStatus" class="pill" style="display:none">Saved</span>
+    </div>
+    <div class="row" style="margin-top:8px">
+      <button id="reloadImages">Reload image list</button>
+      <input id="customUrl" type="text" placeholder="or paste path (e.g., images/segment_single/fig1.jpg)" style="min-width:300px">
+      <button id="useAsFront">Use as Front</button>
+      <button id="useAsBack">Use as Back</button>
+    </div>
+    <div class="row" style="margin-top:8px">
+      <button id="exportMap">Export mapping</button>
+      <label class="pill" style="display:inline-flex;align-items:center;gap:6px">
+        Import: <input id="importMap" type="file" accept="application/json">
+      </label>
+    </div>
+    <div style="margin-top:6px;color:#666;font-size:12px">
+      Upload your images to <code>/images/segment_single/</code>, click <b>Reload image list</b>, select images, <b>Save</b> → when done, click <b>Export mapping</b> and save as <code>images/segment_single_image_map.json</code> in GitHub.
+    </div>
+  </div>
+</div>
+
+<script>
+/* ====== CONFIG (match student page) ================================ */
+const DECK_ID      = 'segment_single';
+const DATA_URL     = 'data/segment_single.txt';
+const IMAGE_FOLDER = 'images/segment_single';
+/* ================================================================== */
+
+const IMGLIST_KEY = `fc_imglist_v1::${DECK_ID}`;
+const MAP_KEY     = `fc_imgmap_v1::${DECK_ID}`;
+
+const els = {
+  q:document.getElementById('q'),
+  front:document.getElementById('front'),
+  back:document.getElementById('back'),
+  counter:document.getElementById('counter'),
+  prev:document.getElementById('prev'),
+  next:document.getElementById('next'),
+  frontImg:document.getElementById('frontImg'),
+  backImg:document.getElementById('backImg'),
+  saveMap:document.getElementById('saveMap'),
+  saveStatus:document.getElementById('saveStatus'),
+  reloadImages:document.getElementById('reloadImages'),
+  customUrl:document.getElementById('customUrl'),
+  useAsFront:document.getElementById('useAsFront'),
+  useAsBack:document.getElementById('useAsBack'),
+  exportMap:document.getElementById('exportMap'),
+  importMap:document.getElementById('importMap'),
+};
+
+let CARDS=[], VIEW=[], idx=0, imageList=[], imgMap={};
+
+function escapeHtml(s){return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
+function cleanLine(s){
+  if(!s) return '';
+  return s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').replace(/\uFFFD/g,'')
+    .replace(/[“”]/g,'"').replace(/[‘’]/g,"'").replace(/\u2013|\u2014/g,'-')
+    .replace(/[^\S\r\n]+/g,' ').trim();
+}
+function splitAnsExpl(line){
+  let m=line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/); if(m) return {a:m[1].trim(),e:m[2].trim()};
+  m=line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/); if(m && !/[.?!]$/.test(m[1])) return {a:m[1].trim(),e:m[2].trim()};
+  const dot=line.indexOf('. '); if(dot>0 && dot<=80){ const first=line.slice(0,dot).trim(); const rest=line.slice(dot+2).trim(); if(first.split(/\s+/).length<=6) return {a:first,e:rest}; }
+  return {a:line.trim(),e:''};
+}
+function parseTxt(txt){
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor = (s)=> /^\d+\s+of\s+\d+$/.test(s);
+  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
+  const out=[];
+  for(let p=0;p<anchors.length;p++){
+    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
+    let j=at-1, up=6, front=''; while(j>=0 && up>0 && !lines[j]){ j--; up--; } if(j>=0 && lines[j]) front = escapeHtml(lines[j]);
+    let k=at+1; while(k<next && (!lines[k] || lines[k]==='.')) k++;
+    const raw = (k<next?lines[k]:''); const se = splitAnsExpl(raw);
+    let backAns=escapeHtml(se.a), backExp=escapeHtml(se.e);
+    let m=k+1; while(m<next && !lines[m]) m++; if(m<next && /^(note|hint|comment)\s*:/i.test(lines[m])) backExp += (backExp?' ':'')+`<em>${escapeHtml(lines[m])}</em>`;
+    out.push({ id:`${DECK_ID}-${out.length+1}`, front, backAns, backExp });
+  }
+  return out;
+}
+
+function imgTag(src){ return src ? `<img src="${src}" alt="">` : ''; }
+function render(){
+  if(!VIEW.length){ els.front.innerHTML='<em>No cards</em>'; els.back.innerHTML=''; els.counter.textContent='0/0'; return; }
+  const c = VIEW[idx], a = imgMap[c.id]||{};
+  els.front.innerHTML = (c.front||'') + (a.front?imgTag(a.front):'');
+  els.back.innerHTML  = (c.backAns?`<div class="ans">${c.backAns}</div>`:'') + (c.backExp?`<div class="exp">${c.backExp}</div>`:'') + (a.back?imgTag(a.back):'');
+  els.counter.textContent = `${idx+1} / ${VIEW.length}`;
+
+  // keep dropdowns in sync
+  if (a.front && !imageList.includes(a.front)) imageList.unshift(a.front);
+  if (a.back  && !imageList.includes(a.back))  imageList.unshift(a.back);
+  populateSelects();
+  els.frontImg.value = a.front || '(none)';
+  els.backImg.value  = a.back  || '(none)';
+  els.saveStatus.style.display='none';
+}
+
+function applyFilters(){
+  const q=(els.q.value||'').toLowerCase();
+  VIEW = CARDS.filter(c => !q || (c.front+c.backAns+c.backExp).toLowerCase().includes(q));
+  if(idx>=VIEW.length) idx=Math.max(0, VIEW.length-1);
+  render();
+}
+
+function populateSelects(){
+  const opts = ['(none)'].concat(imageList);
+  els.frontImg.innerHTML = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+  els.backImg.innerHTML  = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+}
+
+async function fetchImageList(){
+  // Try GitHub API directory listing: images/segment_single
+  try{
+    const host = location.hostname.replace('.github.io','');
+    const repo = location.pathname.split('/').filter(Boolean)[0];
+    const api  = `https://api.github.com/repos/${host}/${repo}/contents/${IMAGE_FOLDER}`;
+    const r = await fetch(api,{cache:'no-store'});
+    if(!r.ok) throw 0;
+    const data = await r.json();
+    return (Array.isArray(data)?data:[])
+      .filter(x=>x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
+      .map(x=>`${IMAGE_FOLDER}/${x.name}`);
+  }catch(e){ return []; }
+}
+
+function saveMap(){
+  const c = VIEW[idx];
+  const f = els.frontImg.value==='(none)' ? '' : els.frontImg.value;
+  const b = els.backImg.value ==='(none)' ? '' : els.backImg.value;
+  imgMap[c.id] = {front:f, back:b};
+  localStorage.setItem(MAP_KEY, JSON.stringify(imgMap));
+  els.saveStatus.style.display='inline-block';
+  setTimeout(()=>els.saveStatus.style.display='none',1000);
+  render();
+}
+
+function exportMap(){
+  const blob = new Blob([JSON.stringify(imgMap,null,2)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download=`${DECK_ID}_image_map.json`; // upload this to /images/
+  document.body.appendChild(a); a.click(); a.remove();
+}
+
+function importMap(file){
+  const rd = new FileReader();
+  rd.onload = ()=>{ try{ imgMap = JSON.parse(rd.result); localStorage.setItem(MAP_KEY, rd.result); render(); alert('Imported!'); }catch(e){ alert('Invalid JSON'); } };
+  rd.readAsText(file);
+}
+
+(async function init(){
+  try{
+    const r = await fetch(DATA_URL,{cache:'no-store'});
+    if(!r.ok) throw 0;
+    const txt = await r.text();
+    CARDS = parseTxt(txt);
+  }catch(e){ CARDS=[]; }
+  VIEW = CARDS.slice();
+
+  // image list
+  const saved = localStorage.getItem(IMGLIST_KEY);
+  imageList = saved? JSON.parse(saved): [];
+  if(imageList.length===0){ imageList = await fetchImageList(); localStorage.setItem(IMGLIST_KEY, JSON.stringify(imageList)); }
+  populateSelects();
+
+  // map
+  try{ imgMap = JSON.parse(localStorage.getItem(MAP_KEY)||'{}'); }catch{ imgMap = {}; }
+
+  render();
+
+  els.q.oninput = applyFilters;
+  els.prev.onclick = ()=>{ if(!VIEW.length)return; idx=(idx-1+VIEW.length)%VIEW.length; render(); }
+  els.next.onclick = ()=>{ if(!VIEW.length)return; idx=(idx+1)%VIEW.length; render(); }
+  els.reloadImages.onclick = async ()=>{ imageList = await fetchImageList(); localStorage.setItem(IMGLIST_KEY, JSON.stringify(imageList)); populateSelects(); };
+  els.useAsFront.onclick = ()=>{ const v=els.customUrl.value.trim(); if(!v) return; if(!imageList.includes(v)) imageList.unshift(v); populateSelects(); els.frontImg.value=v; };
+  els.useAsBack.onclick  = ()=>{ const v=els.customUrl.value.trim(); if(!v) return; if(!imageList.includes(v)) imageList.unshift(v); populateSelects(); els.backImg.value=v; };
+  els.saveMap.onclick = saveMap;
+  els.exportMap.onclick = exportMap;
+  els.importMap.onchange = e=>{ if(e.target.files?.[0]) importMap(e.target.files[0]); };
+})();
+</script>
+</body>
+</html>
