@@ -1,0 +1,1077 @@
+
+# --- BEGIN ZPharmINt1A cefnu.txt ---
+Pharmacology
+  Intermediate Level       Deck 1 of 5		
+100 flashcards
+
+A good pain reliever ("analgesic") for a pregnant patient is:
+1 of 210
+
+Tylenol (acetaminophen)
+
+The generic name of Diamox is:
+2 of 210
+
+acetazolamide
+
+Carbonic anhydrase inhibitors block the enzyme carbonic anhydrase in the kidney at the level of the ____________ .
+3 of 210
+
+proximal convoluted tubule
+
+Carbonic anhydrase inhibitors decrease (sodium/potassium/calcium/hydrogen/bicarbonate) in the lumen of the proximal tubule of the kidney, eventually resulting in blockage of sodium and hydrogen exchange.
+4 of 210
+
+hydrogen
+
+The following are excreted due to the mechanism of action of diuretics:
+5 of 210
+
+sodium, potassium, bicarbonate, water
+Diuretics are sometimes called ""water pills."
+
+Patients with sulfa allergies, who have COPD, are pregnant, or have renal/liver disease are contraindicated for the following class of IOP lowering medications:
+6 of 210
+
+carbonic anhydrase inhibitorsPatients with COPD also can't take timolol.
+
+By decreasing the availability of H+ due to its action on carbonic anhydrase, carbonic anhydrase inhibitors such as acetazolamide block the exchange of __ and __ resulting in urinary excretion of __ , __ , __ and __
+7 of 210
+
+block the exchange of sodium (Na+) and hydrogen (H+) ; urinary excretion of sodium (Na+), potassium (K+), bicarbonate and water
+
+Oral acetazolamide can result in a ___% reduction in IOP.
+8 of 210
+
+30%
+
+Topical acetazolamide can achieve a ___% reduction in IOP.
+9 of 210
+
+15-20%
+
+A potential side effect of acetazolamide is hypo______.
+10 of 210
+
+kalemiaHypokalemia is low blood potassium (elemental symbol of potassium is K).
+
+The branded inhaled form of acetylcysteine which dissolves mucus is called _____.
+11 of 210
+
+mucomystMUCOmyst dissolves mucus. Sometimes brand names give clues to action.
+
+The generic of Zovirax is:
+12 of 210
+
+acyclovir
+
+Valacyclovir is an anti______ medication that is converted to _______ when metabolized.
+13 of 210
+
+antiviral ; acyclovirValacyclovir can be dosed TID instead of 5x's a day.
+
+Ventolin is the name brand for:
+14 of 210
+
+albuterol
+
+Adverse side effects such as headache, nausea, tremor, increased blood pressure (followed by hypotension) and heartburn associated with albuterol may be due to unintended interaction with ___ receptors.
+15 of 210
+
+Beta-1. Albuterol is intended to act on beta-2 receptors of the lungs; however, it also has some limited action on beta-1 receptors resulting in side effects.Beta-1 receptors are on the heart and blood vessels.
+
+Generic Zyloprim is called:
+16 of 210
+
+allopurinol
+
+The generic of Symmetrel is called:
+17 of 210
+
+amantadineUniquely, amantadine can be an antiviral and treat Parkinson's.
+
+A potential ocular side effect of amantadine is:
+18 of 210
+
+corneal edemaCorneal edema would result in an increased pachymetry reading.
+
+The generic for Cordarone is:
+19 of 210
+
+amiodarone
+
+The generic name of Elavil is:
+20 of 210
+
+amitriptyline
+
+The generic name of Principen is:
+21 of 210
+
+ampicillin
+
+Amoxicillin, an antibiotic that is used to treat ear, respiratory, skin and urinary infections, has good coverage for gram ___ bacteria.
+22 of 210
+
+negative and positiveSkin and soft tissue infections are often gram positive.
+
+True or false: Amoxicillin is safe for young children.
+23 of 210
+
+TRUE
+
+Amoxicillin is a bacterio(cidal/static) antibiotic.
+24 of 210
+
+cidal"cidal" means its kills the bacteria. Similar to the word homi"cide."
+
+The generic of Amphocin is:
+25 of 210
+
+amphotericin B
+
+The generic of Iopidine is:
+26 of 210
+
+apraclonidine
+
+Apraclonidine decreases the production of the second messenger:
+27 of 210
+
+cAMPcAMP is derived from ATP.
+
+Two glaucoma medications that can have a "crossover" effect to the fellow eye are:
+28 of 210
+
+apraclonidine and timololIt will have an effect on both eyes even when dosed in one alone.
+
+In pediatric patients, if a glaucoma specialist is going treat with an alpha-2 agonist, the medication of choice would be (apraclonidine/brimonidine).
+29 of 210
+
+apraclonidine
+
+The generic for Tenormin is:
+30 of 210
+
+atenolol
+
+The generic of Lipitor is:
+31 of 210
+
+atorvastatin
+
+The generic of Imuran is:
+32 of 210
+
+azathioprine
+
+The generic of Optivar is:
+33 of 210
+
+azelastine
+
+Topical antihistamines work (faster/slower) and with (greater/lesser) relief than systemic antihistamines.
+34 of 210
+
+faster ; greater
+
+The generic of Zithromax or AzaSite is:
+35 of 210
+
+azithromycin
+
+Azithromycin has gram (positive/negative) effectivity.
+36 of 210
+
+positive and negative (it is broad spectrum: although more effective against positive than negative).Broad spectrum means it treats the majority of bacteria.
+
+Oral azithromycin is _______ and topical azithromycin is _______.
+37 of 210
+
+Zithromax ; Azasite
+
+Azithromycin is bacterio(cidal/static).
+38 of 210
+
+staticBacteriostatic means it stops growth/replication but does not kill.
+
+Vehicle of Azasite (topical azithromycin) is:
+39 of 210
+
+DuraSite
+
+Due to its ability to inhibit lipase production and nonspecific MMPs, the antibiotic azithromycin may be used to treat the following lipid associated, noninfective condition:
+40 of 210
+
+meibomian gland dysfunctionMeibomian glands contain lipids (oils).
+
+The traditional dosage of azithromycin for soft tissue infections is:
+41 of 210
+
+2-250 mg doses (500 mg) for one day and then 1-250 mg dosages for the next 4 days.This is often called a ZPAK.
+
+The dosage of azithromycin used to treat adult inclusion conjunctivitis is:
+42 of 210
+
+1 gram orally as a single doseAdult inclusion conjunctivitis is chlamydia.
+
+The generic of Lotensin is:
+43 of 210
+
+benazepril
+
+Systemic side effects if ACE inhibitors include _______and ocular side effects of ACE inhibitors include _________.
+44 of 210
+
+cough & hypersensitivity reactions ; angioedema & lid edema (swollen lids)ACE inhibitors treat hypertension.
+
+The generic of Bepreve is:
+45 of 210
+
+bepotastine
+
+Bepotastine is preserved in:
+46 of 210
+
+BAKBAK is a common preservative & patients can be allergic.
+
+The generic of Besivance is:
+47 of 210
+
+besifloxacin
+
+DNA gyrase (one of the enzymes that is inhibited by fluoroquinolone antibiotics) typically acts by:
+48 of 210
+
+supercoiling DNA in bacteria.The other enzyme inhibited by fluoroquinolones is topoisomerase IV.
+
+"Bacterial topoisomerase II" is also known as:
+49 of 210
+
+DNA gyraseIt is inhibited by fluoroquinolones like moxifloxacin.
+
+Fluoroquinolones are bacterio(static/cidal).
+50 of 210
+
+cidalBactericidal means it directly kills bacteria.
+
+True or False: Fluoroquinolones and Penicillins are well known to have crossover hypersensitivities.
+51 of 210
+
+FALSE
+
+True or False: Fluoroquinolones are broad spectrum.
+52 of 210
+
+True, with generation 4 having better effectiveness to gram positive bacteria than previous generations.
+
+Fluoroquinolones are not safe in:
+53 of 210
+
+kids, pregnancies and breastfeeding
+
+The systemic side effect of fluoroquinolones that may have a patient saying, "it hurts to move" is:
+54 of 210
+
+tendinitisThis is inflammation of the tendons. "Itis" usually means inflammation.
+
+The generic is of Betoptic S is:
+55 of 210
+
+betaxololBetaxolol is specific to beta-1 blocking.
+
+The suggested mechanism of action associated to neuroprotection provided by betaxolol is inhibition of ____ channels to ________.
+56 of 210
+
+calcium ; increase optic nerve blood supplyIt is also thought brimonidine offers neuroprotection.
+
+The generic of Lumigan is:
+57 of 210
+
+bimatoprost
+
+Prostaglandins are category ____.
+58 of 210
+
+CAlthough this category system is no longer used it is important to know that it is not safe to use in pregnancies.
+
+Prostaglandins have a reported IOP decrease of ~____%
+59 of 210
+
+30-35%
+
+Latanoprost and bimatoprost are both preserved in:
+60 of 210
+
+BAK (benzalkonium chloride)
+
+The class of topical glaucoma medications has many ocular side effects and very few systemic side effects is:
+61 of 210
+
+Prostaglandin analoguesThis is why prostaglandins are not not dosed monocularly.
+
+True are false: Ocular side effects of orbital fat atrophy and change in iris coloration induced by prostaglandins use are reversible by stopping the drop.
+62 of 210
+
+FALSE
+
+Prostaglandins cause an increase in ________ in cells called ________, resulting in the unique side effect of changes in iris color from light to dark.
+63 of 210
+
+melanosomes ; melanocytesMelanosomes contain melanin.
+
+Botulinum toxin is also known as:
+64 of 210
+
+botox
+
+Botox is considered a (somatic/autonomic) drug.
+65 of 210
+
+somatic
+It is somatic because it acts on skeletal muscle.
+
+The duration of action of Botox is (hours / days / weeks / months / years).
+66 of 210
+
+MonthsIts effects are not permanent and wear off after a couple months.
+
+The generic of Alphagan P is:
+67 of 210
+
+brimonidine
+
+Brimonidine is a category ____ medication.
+68 of 210
+
+B
+Although the category system is no longer used, it is important to know it is safe to use in pregnancy.
+
+The two topical medications thought to have neuroprotective effects in the treatment of glaucoma are:
+69 of 210
+
+brimonidine and betaxolol
+
+Alphagan P is preserved in:
+70 of 210
+
+PuriteThis is  good for patients who are allergic to BAK.
+
+True or false: Brimonidine is a safe medication for pregnant patients and kids.
+71 of 210
+
+False, while brimonidine is category B and safe for pregnant patients, it is not safe for kids due to the side effect of central nervous system depression.Category B means safe in pregnant patients.
+
+Brimonidine (NOT Alphagan P) is preserved in:
+72 of 210
+
+BAK (benzalkonium chloride)
+
+Brimonidine is expected to decrease IOP by approximately ___%.
+73 of 210
+
+~26%
+
+Apraclonidine is contraindicated in patients with:
+74 of 210
+
+cardiovascular diseaseDue to its action on alpha receptors of blood vessels.
+
+The following two IOP lowering medications are derivatives of clonidine:
+75 of 210
+
+apraclonidine and brimonidineBoth drops end in "onidine" which is also in "clonidine."
+
+The generic of Azopt is:
+76 of 210
+
+brinzolamide
+
+The side effect unique to carbonic anhydrase inhibitors is:
+77 of 210
+
+bitter tasteAlso tingling in the extremities and possible aplastic anemia.
+
+A potential ocular side effect unique to carbonic anhydrase inhibitors is:
+78 of 210
+
+corneal decompensation due to interference with the action of endothelial cells in maintaining corneal deturgescence.Endothelial cells rely on ions to pump fluid out of the cornea.
+
+Carbonic anhydrase inhibitors decrease IOP by approximately ___%.
+79 of 210
+
+25%
+
+Which as the greater IOP lowering effect?  topical prostaglandins or topical carbonic anhydrase inhibitors?
+80 of 210
+
+prostaglandinsCAI's have a quicker onset of action.
+
+Brinzolamide is a category (A/B/C/D/X) medication.
+81 of 210
+
+CCategory C should be avoided in pregnant patients.
+
+The generic of Xibrom is:
+82 of 210
+
+bromfenac
+
+The generic of Parlodel is:
+83 of 210
+
+bromocriptine
+
+The generic of Dimetane is:
+84 of 210
+
+brompheniramine
+
+A common potential side effect of antihistamines, especially first generation is:
+85 of 210
+
+antagonism of the central nervous system- drowsiness in adults and sometimes paradoxical excitement in kids.Especially 1st generations that can cross the blood brain barrier.
+
+The generic of Capoten is:
+86 of 210
+
+captopril
+
+A patient complaining of cough and angioedema may have recently started the medication ______________ and are dealing with the side effects.
+87 of 210
+
+Captopril or other ACE inhibitorsACE inhibitors treat hypertension and often end in "pril."
+
+The generic of Ocupress is:
+88 of 210
+
+carteolol
+
+Carteolol is a category (A/B/C/D/X) medication.
+89 of 210
+
+CCategory C medications should not be used in pregnancy.
+
+Carteolol is a (topical/oral) medication.
+90 of 210
+
+topical
+
+The generic of Rocephin is:
+91 of 210
+
+ceftriaxone
+
+Two medications that can decrease the excretion of cephalosporins are:
+92 of 210
+
+gout drugs like probenecid and sulfinpyrazone.
+
+The ____________ class of antibiotics should be used with caution in patients who are take birth control, as it can decrease the absorption of estrogen.
+93 of 210
+
+cephalosporinThis is true for ORAL estrogen based birth control.
+
+Cephalosporins can decrease absorption of _____ and decrease the excretion of _____and ______.
+94 of 210
+
+estrogen ; probenecid and sulfinpyrazone
+
+Cephalosporin antibiotics may change the intestinal flora causing a change in the absorption of vitamin ___.This results in blood thinning side effects especially for patients taking ____.
+95 of 210
+
+K ; warfarin.
+
+The generic of Celebrex is:
+96 of 210
+
+celecoxibCeleCOXib is an NSAID SPECIFIC to COX-2.
+
+The generic of Keflex is:
+97 of 210
+
+cephalexinThis is an antibiotic.
+
+Cephalexin has good gram (negative/positive) coverage and is good to use for soft tissue infections such as:
+98 of 210
+
+Gram + ; internal hordeolum, dacryocystitis, preseptal cellulitis, dacryoadenitis, respiratory infections, GI, skin, bone and ear infections.
+
+The generic of Zyrtec is:
+99 of 210
+
+cetirizine
+
+The generic of Claritin is:
+100 of 210
+
+loratadine
+
+# --- END ZPharmINt1A cefnu.txt ---
+
+
+# --- BEGIN Z PharmINT2A cefnu.txt ---
+Pharmacology
+  Intermediate Level       Deck 3 of 5		
+100 flashcards
+
+The generic of Famvir is:
+101 of 210
+
+famciclovir
+
+Famciclovir must be ___________ to be active.
+102 of 210
+
+phosphorylatedKinases phosphorylate substrates.
+
+The generic of Pepcid is:
+103 of 210
+
+famotidine
+
+The generic of Allegra is:
+104 of 210
+
+fexofenadine
+
+The generic of Diflucan is:
+105 of 210
+
+fluconazoleFluconazole is an antifungal.
+
+Fluconazole belongs to the following class of medications:
+106 of 210
+
+synthetic triazoleFluconazole is an antifungal.
+
+The generic of Prozac is:
+107 of 210
+
+fluoxetine
+
+________ medications have less side effects than TCAs and are less dangerous than MAIO's in the treatment of mental health disorders.
+108 of 210
+
+Selective Serotonin Reuptake Inhibitors
+
+_____ antidepressants such as fluoxetine have anti-_________ side effects
+109 of 210
+
+SSRI ; anticholinergicANTIhistamines are also ANTIcholinergic
+
+"__________ syndrome" occurs with mental health medications such as TCAs and MAOIs resulting in symptoms such as high pulse, tremor, and anxiety.
+110 of 210
+
+Serotonin syndrome
+
+The generic of Ocufen is:
+111 of 210
+
+flurbiprofen
+
+The generic of Flonase/Flovent is:
+112 of 210
+
+fluticasoneFluticasone is a steroid.
+
+The nasal spray _______ is used to treat allergic rhinitis and also may be used to prevent asthma attacks.
+113 of 210
+
+fluticasone
+
+The generic of Foscavir is:
+114 of 210
+
+foscarnet
+
+Unlike other antiviral medications such as famciclovir, foscarnet does not require _________ for activation.
+115 of 210
+
+phosphorylationFoscarnet treats both cytomegalovirus and herpetic infections.
+
+Antivirals such as acyclovir are ________ or _____ analogs, while foscarnet is a ________.
+116 of 210
+
+Purine or pyrimidine (nucleoside) analogs, while Foscarnet is a phosphonoformate.
+
+The generic of Lasix is:
+117 of 210
+
+furosemide
+
+Furosemide is a _________ medication used to treat _______.
+118 of 210
+
+Loop diuretic mediation ; chronic heart failure and hypertension.Diuretics do not act on blood vessels, but do decrease blood volume.
+
+Dry eye syndrome, myopic shift and band keratopathy are all potential ocular side effects of the anti-hypertensive drug __________.
+119 of 210
+
+furosemide
+
+Furosemide works in the following area of the nephron:
+120 of 210
+
+ascending loop of Henle
+
+A potential adverse effect of furosemide is hypo(natremia/calcemia/kalemia).
+121 of 210
+
+kalemiaKalemia refers to potassium in the blood.
+
+Ototoxicity is toxicity to the ____ and is a possible adverse effect of the hypertension medication ____.
+122 of 210
+
+ear and furosemideAminoglycoside antibiotics can also be ototoxic.
+
+Loop diuretics inhibit Na/Cl/and water reabsorption in the ________ of the kidney.
+123 of 210
+
+proximal tubule of the nephron
+
+The mechanism of action of loop diuretics is inhibition of cotransporters of _____ in the _________.
+124 of 210
+
+Na/Cl/K cotransporters in the thick ascending loop of Henle
+
+The generic of Zirgan is:
+125 of 210
+
+ganciclovir
+
+__________ is metabolized into ganciclovir in the intestine and liver.
+126 of 210
+
+Valacyclovir
+
+To be activated, ganciclovir is ________ into ganciclovir ________.
+127 of 210
+
+phosphorylated into ganciclovir triphosphateKinases phosphorylate substrates.
+
+Topical ganciclovir is dosed:
+128 of 210
+
+5x's a day until the dendritic ulcer resolves and then TID x 1 week.Topical ophthalmic ganciclovir is a gel.
+
+The generic of Zymar is:
+129 of 210
+
+gatifloxacin
+
+__________ is the predecessor of fluoroquinolones.
+130 of 210
+
+Nalidixic acidNalidixic acid is used to treat urinary tract infections.
+
+Due to their potential effect on cartilage and bone growth, _________ are contraindicated in ____________.
+131 of 210
+
+Oral fluoroquinolone antibiotics are contraindicated in pregnancy and kids.It can also cause tendinitis.
+
+The generic of Lopid is:
+132 of 210
+
+gemfibrozil
+
+The generic of Garamycin is:
+133 of 210
+
+gentamicin
+
+Aminoglycoside antibiotics can be ________toxic and ______ toxic.
+134 of 210
+
+nephrotoxic and ototoxicNephrotoxic means toxic to the kidney and ototoxic means to the ear.
+
+Ocular side effect of topical aminoglycosides include:
+135 of 210
+
+corneal toxicity causing delayed epithelial growth and SPK.
+Patients may need to supplement with artificial tears ~10 minutes after use.
+
+The generic of Glucotrol is:
+136 of 210
+
+glipizideThe brand name gives a clue that it controls glucose levels.
+
+A potential side effect of glipizide is hypo______.
+137 of 210
+
+glycemiaIt is meant to lower blood sugars but can ""go too far.
+
+The generic of Micronase or Diabeta is:
+138 of 210
+
+glyburide or glibenclamideThe brand name gives a clue that it treats diabetes.
+
+A potential side effect of glyburide/glibenclamide is _____glycemia.
+139 of 210
+
+hypoThis is not a potential side effect of metformin.
+
+The generic of Osmoglyn is:
+140 of 210
+
+glycerinIt is a hyperosmotic agent as the brand name suggests.
+
+The generic of Grifulvin V is:
+141 of 210
+
+griseofulvin
+
+The generic of apresoline is:
+142 of 210
+
+hydralazine
+
+The generic of Hydrodiuril is:
+143 of 210
+
+hydrochlorothiazide
+
+Potential side effects of hydrochlorothiazide are hypo ______ and hyper_____.
+144 of 210
+
+Hypokalemia, and hypercalcemia/uricemia/glycemia
+
+Hydrochlorothiazide is a medication used to treat_________.
+145 of 210
+
+hypertension, edema, kidney stones, heart failure.
+
+Hydrochlorothiazide blocks ______ pumps, resulting in retention of _____ in the ______ tubule to be _______ in the _____.
+146 of 210
+
+Blocks chloride pumps, resulting in retention of chloride and sodium in the distal convoluted tubule tubule to be excreted in the urine.
+
+Overall, hydrochlorothiazide can result in the following adverse side effect:
+147 of 210
+
+electrolyte imbalances
+
+The generic of Cortef is:
+148 of 210
+
+hydrocortisone
+
+Hydrocortisone is a (oral/topical) medication.
+149 of 210
+
+topical ointment or cream.
+
+The generic of Plaquenil is:
+150 of 210
+
+hydroxychloroquine
+
+The generic of Advil / Motrin is:
+151 of 210
+
+ibuprofen
+
+Ibuprofen can be taken with ______ to treat pain.
+152 of 210
+
+acetaminophen
+
+The generic of Tofranil is:
+153 of 210
+
+imipramine
+
+The generic of Indocin is:
+154 of 210
+
+indomethacin
+
+The mechanism of action of Indomethacin is:
+155 of 210
+
+reversible inhibition of COX-1 and COX-2.Inhibition of COX enzymes is the mechanism of action of all NSAIDs.
+
+The generic of Atrovent is:
+156 of 210
+
+ipratropium
+
+Potential ocular side effects of ipratropium include:
+157 of 210
+
+dry eye, mydriasis, cycloplegia, narrow angle glaucomaIpraTROPIum has similar effects as TROPIcamide.
+
+The generic of Nydrazid is:
+158 of 210
+
+isoniazid
+
+Latent tuberculosis is treated with ____ OR ____.
+159 of 210
+
+rifampin OR isoniazidTuberculosis is a mycobacterium.
+
+The generic of Isuprel is:
+160 of 210
+
+isoproterenol / isoprenaline
+
+The generic of Accutane is:
+161 of 210
+
+isotretinoin
+
+Pseudotumor cerebri, optic neuritis, nyctalopia, retinal toxicity and abnormal lipid tear layer composition due to meibomian gland deficiency are all ocular side effects of this skin medication:
+162 of 210
+
+isotretinoinIsotretinoin is derived from Vitamin A and the retina requires Vitamin A.
+
+The medication ________ alters activity and structure of sebaceous glands.
+163 of 210
+
+isotretinoinGlands of Zeiss in the lid are sebaceous.
+
+The generic if Nizoral is:
+164 of 210
+
+ketoconazoleKetoconazole is an antifungal.
+
+The generic of Toradol or Acular is:
+165 of 210
+
+ketorolacKetorolac is a topical NSAID.
+
+The generic of Zaditor is:
+166 of 210
+
+ketotifen
+
+The generic of Trandate is:
+167 of 210
+
+labetalol
+
+Labetalol belongs to the following class of medications:
+168 of 210
+
+beta-blockerIt is a beta-blocker that ends in ""alol"" instead of “olol” like atenolol.
+
+Labetalol is a (selective/nonselective) beta blocker.
+169 of 210
+
+nonselectiveIt will block beta-1 and beta-2.
+
+In the kidney, the medication ________ prevents the release of renin.
+170 of 210
+
+lebetalolRenin is part of the RAAS system that controls blood pressure and volume.
+
+The peak action of latanoprost occurs _____ after use.
+171 of 210
+
+8-12 hoursIf dosed at night, the peak time action matches peak diurnal IOP.
+
+Latanoprost and other medications like it are expected to decrease intraocular pressure by roughly ______%
+172 of 210
+
+25-33%
+
+The generic of Xopenex is:
+173 of 210
+
+Levalbuterol / Levosalbutamol
+
+The generic of Quixin is:
+174 of 210
+
+LevofloxacinLevofloxacin is a fluoroquinolone antibiotic
+
+The predecessor for all fluoroquinolones is:
+175 of 210
+
+nalidixic acidNalidixic acid treats urinary tract infections.
+
+The generic of Synthroid is:
+176 of 210
+
+levothyroxine
+
+Adverse effects of too much levothyroxine is:
+177 of 210
+
+Increase heart rate, hypertension, high blood sugar, insomnia, heat intolerance, "thyrotoxicosis"It is as if a patient is experiencing hyperthyroidism.
+
+T4 has (fast/slow) onset at T3 has (fast/slow) onset.
+178 of 210
+
+T4 has slow onset and T3 has fast onset."It's quicker to count to three than to count to four."
+
+A potential systemic/ocular side effect of levothyroxine in kids is:
+179 of 210
+
+pseudotumor cerebriOtherwise IIH is more common in overweight fertile females.
+
+The generic of Xylocaine is:
+180 of 210
+
+lidocaine
+
+The generic of Kwell is:
+181 of 210
+
+lindaneLindane treats lice.
+
+The generic of Zestril and Prinivil is:
+182 of 210
+
+lisinoprilLisinopril treats hypertension.
+
+The generic of Alomide is:
+183 of 210
+
+lodoxamide
+
+The generic of Claritin is:
+184 of 210
+
+loratadine
+
+Loratadine has fewer central nervous system side effects because it is less (water/lipid) soluble than other antihistamines.
+185 of 210
+
+lipidLipid soluble molecules move through the blood aqueous barrier easier.
+
+The generic of Cozaar is:
+186 of 210
+
+losartanLosartan treats blood pressure.
+
+Loteprednol has (fewer/more) adverse ocular effects than other medications in its class due to the action of naturally occurring ____ enzymes that inactivate the medication when in the eye.
+187 of 210
+
+fewer ; esteraseThe loteprednol is deactivated by esterases before side effects can occur.
+
+The generic of Mevacor is:
+188 of 210
+
+lovastatin
+
+The generic of Osmitrol is:
+189 of 210
+
+mannitolThe brand name gives a clue that this is an hyperosmotic agent.
+
+The onset of action of mannitol is (gradual/rapid).
+190 of 210
+
+rapidIt can very quickly lower IOP.
+
+The generic of Demerol is:
+191 of 210
+
+meperidine
+
+To combat the potential side effects of opioids, patients may be prescribed the medication:
+192 of 210
+
+promethazine
+
+Opiate receptors responsible for analgesia, respiratory depression, gastrointestinal motility and miosis are (mu/delta/kappa).
+193 of 210
+
+mudelta and kappa are also opioid receptors with other effects.
+
+The (mu/delta/kappa) opiate receptor is responsible for the side effect of sedation and pinpoint miotic pupils.
+194 of 210
+
+KappaMu and delta receptors are also opiate receptors with other effects.
+
+The generic of Alupent is:
+195 of 210
+
+metaproterenol
+
+The generic of Glucophage is:
+196 of 210
+
+metformin
+
+The generic of Neptazane is:
+197 of 210
+
+methazolamide
+
+The generic of Rheumatrex is:
+198 of 210
+
+methotrexateThe name brand gives a hint that it could treat rheumatoid arthritis.
+
+Methotrexate is an anti_______  _____ acid analog.
+199 of 210
+
+metabolite folic acid analogAnother way to write folic acid is "folate."
+
+The generic of Ritalin is:
+200 of 210
+
+methylphenidate
+
+# --- END Z PharmINT2A cefnu.txt ---
+
+
+# --- BEGIN ZPharmINT2B cefnu.txt ---
+Pharmacology
+  Intermediate Level       Deck 4 of 5		
+100 flashcards
+
+Systemic side effects of methylphenidate include:
+201 of 210
+
+insomnia and appetite loss
+
+The generic of Optipranolol is:
+202 of 210
+
+metipranolol
+
+Metipranolol lowers IOP approximately ___%
+203 of 210
+
+20-30%
+
+The generic of Lopressor is:
+204 of 210
+
+metoprololIt is a antihypertensive medication.
+
+The generic of Metrocream / Metrogel is:
+205 of 210
+
+metronidazole
+
+The antimicrobial medication ______ is also used to treat acne rosacea.
+206 of 210
+
+metronidazole
+
+The generic of Zeasorb is:
+207 of 210
+
+miconazole
+
+The generic of Singular is:
+208 of 210
+
+montelukast
+
+The generic of Avelox/Vigamox is:
+209 of 210
+
+moxifloxacinFluoroquinolone antibiotics end in the suffix -floxacin.
+
+Fluoroquinolones are bacterio(static/cidal).
+210 of 210
+
+cidal
+
+Moxifloxacin is bacterio(static/cidal).
