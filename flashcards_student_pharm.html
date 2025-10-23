@@ -131,7 +131,7 @@ function splitAnsExpl(line){
     const first = line.slice(0, dot).trim();
     const rest  = line.slice(dot + 2).trim();
     const words = first.split(/\s+/).length;
-    if (words <= 30 || first.length <= 250) {
+    if (words <= 40 || first.length <= 400) {
       return { a: first, e: rest };
     }
   }
