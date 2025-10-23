@@ -134,7 +134,6 @@ function splitAnsExpl(line){
   // 3️⃣ Otherwise treat the whole thing as one answer
   return {a:line.trim(), e:''};
 }
-}
 function parseTxt(txt, totalHint){
   const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
   const isAnchor = (s)=> totalHint ? new RegExp(String.raw`^\d+\s+of\s+${totalHint}$`).test(s) : /^\d+\s+of\s+\d+$/.test(s);
