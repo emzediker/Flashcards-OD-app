@@ -108,10 +108,32 @@ function cleanLine(s){
           .replace(/[^\S\r\n]+/g,' ').trim();
 }
 function splitAnsExpl(line){
-  let m=line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/); if(m) return {a:m[1].trim(),e:m[2].trim()};
-  m=line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/); if(m && !/[.?!]$/.test(m[1])) return {a:m[1].trim(),e:m[2].trim()};
-  const dot=line.indexOf('. '); if(dot>0 && dot<=80){ const first=line.slice(0,dot).trim(); const rest=line.slice(dot+2).trim(); if(first.split(/\s+/).length<=6) return {a:first,e:rest}; }
-  return {a:line.trim(),e:''};
+  if(!line) return {a:'', e:''};
+
+  // Normalize characters
+  line = line
+    .replace(/\u00A0/g,' ')
+    .replace(/\u200B/g,'')
+    .replace(/\u2013|\u2014/g,'-')
+    .replace(/[“”]/g,'"')
+    .replace(/[‘’]/g,"'")
+    .trim();
+
+  // 1️⃣ If colon, semicolon, or dash clearly divides short answer from longer explanation
+  let m = line.match(/^(.{3,80}?)([:;–—-])\s+(.{10,})$/);
+  if (m && m[1].split(/\s+/).length <= 12) return {a:m[1].trim(), e:m[3].trim()};
+
+  // 2️⃣ If sentence break after short phrase (e.g. "Porphyria. Tinnitus ...")
+  let dot = line.indexOf('. ');
+  if (dot > 0 && dot < 90) {
+    let first = line.slice(0, dot).trim();
+    let rest = line.slice(dot + 2).trim();
+    if (first.split(/\s+/).length <= 10) return {a:first, e:rest};
+  }
+
+  // 3️⃣ Otherwise treat the whole thing as one answer
+  return {a:line.trim(), e:''};
+}
 }
 function parseTxt(txt, totalHint){
   const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
