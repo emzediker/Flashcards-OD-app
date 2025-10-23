@@ -15,7 +15,7 @@ carbonic anhydrase inhibitors - "--zolamide" is a common suffix for CAI medicati
 In addition to lowering intraocular pressure, the oral medications ________ and ___________ are also used to treat epilepsy, idiopathic intracranial hypertension and mountain sickness
 3 of 262
 
-acetazolamide and methazolamideBoth are CAI's that decrease aqueous & cerebral spinal fluid production
+acetazolamide and methazolamideBoth are CAI's that decrease aqueous & cerebral spinal fluid production.
 
 Acetazolamide and other medications in its class block the enzyme called _____________.
 
@@ -33,16 +33,16 @@ carbonic anhydraseCA controls change of carbon dioxide & water to bicarbonate 
 All carbonic anhydrase inhibitors are in the following class of medications:
 5 of 262
 
-diureticOther diuretic classes are thiazides, loop, potassium-sparing & osmotic
+diureticOther diuretic classes are thiazides, loop, potassium-sparing & osmotic.
 
 Acetazolamide, dichlorphenamide, and methazolamide are all ___________ medications
 
 diureticOther diuretic classes are thiazides, loop, potassium-sparing & osmotics.
 
-Acetazolamide, dichlorphenamide, and methazolamide are all ___________ medications
+Acetazolamide, dichlorphenamide, and methazolamide are all ___________ medications.
 6 of 262
 
-carbonic anhydrase inhibitor all three end in "amide"
+carbonic anhydrase inhibitor -  all three end in "amide.”
 
 In the eye, carbonic anhydrase inhibitors act to lower eye pressure by altering
 
@@ -51,7 +51,7 @@ carbonic anhydrase inhibitor - all three end in "amide.”
 In the eye, carbonic anhydrase inhibitors act to lower eye pressure by altering:
 7 of 262
 
-aqueous humor production by the ciliary body epitheliumExamples are dorzolamide, brinzolamide, acetazolamide & methazolamide
+aqueous humor production by the ciliary body epitheliumExamples are dorzolamide, brinzolamide, acetazolamide & methazolamide.
 
 The specific area of the eye carbonic anhydrase inhibitors act on is the _________________.
 
@@ -69,7 +69,7 @@ pigmented and nonpigmented ciliary body epitheliumThis is where aqueous humor 
 The actions of acetazolamide and other medications in its class prevent the enzyme ________ from forming _______ from _______ and ________.
 9 of 262
 
-prevent the enzyme carbonic anhydrase from forming bicarbonate from carbon dioxide and water.This decreases aqueous humor production
+prevent the enzyme carbonic anhydrase from forming bicarbonate from carbon dioxide and water. - This decreases aqueous humor production.
 
 Carbonic anhydrase typically creates _________ from water and carbon dioxide to aid in aqueous humor production.
 
@@ -87,7 +87,7 @@ bicarbonateThis action is inhibited by carbonic anhydrase inhibitors
 Bicarbonate increases aqueous humor production by increasing the flux of ________ and ______ into the posterior chamber.
 11 of 262
 
-Cl (chloride) and Na+(Sodium)Decreasing bicarbonate with carbonic anhydrase inhibitors lowers IOP
+Cl (chloride) and na+(Sodium) - Decreasing bicarbonate with carbonic anhydrase inhibitors lowers IOP.
 
 Carbonic anhydrase inhibitors are contraindicated for patients with allergy to ______.
 
@@ -240,7 +240,7 @@ Acyclovir, Valacyclovir, and FamciclovirThese are all antivirals and end in "v
 True or False: Acyclovir is used only in active cases of herpetic keratitis.
 28 of 262
 
-False, the medication can be used as prophylaxis. - Prophylaxis is simply a medication used for preventative means
+False, the medication can be used as prophylaxis. - Prophylaxis is simply a medication used for preventative means.
 
 Albuterol is a (short/long) acting Beta(1/2)(agonist/antagonist).
 
@@ -312,7 +312,7 @@ Beta-2 agonist that induces cAMP to result in bronchial smooth muscle relaxation
 Medication used to treat bronchospasm in conditions such as asthma, bronchitis, emphysema, or COPD
 36 of 262
 
-Albuterol - "—-terol" is often a suffix for beta agonist
+Albuterol - "—-terol" is often a suffix for beta agonist.
 
 If a patient is taking albuterol longterm for a systemic condition, which topical glaucoma medication may be contraindicated?
 
@@ -377,7 +377,7 @@ Prevent Influenza A and treat Parkinson's diseaseAmantadine & trifluridine are
 Amantadine's dual mechanisms of action are:
 43 of 262
 
-Blocks reuptake of dopamine & increases the release of dopamine.Reuptake inhibitors block the reuptake to increase free dopamine.
+Blocks reuptake of dopamine & increases the release of dopamine. - Reuptake inhibitors block the reuptake to increase free dopamine.
 
 Mechanism of action for amiodarone:
 
@@ -386,11 +386,11 @@ Blocks reuptake of dopamine AND increases the release of dopamine.Reuptake inh
 Mechanism of action for amiodarone:
 44 of 262
 
-Blocks potassium channels (as well as some Na+ and Ca++ channels) resulting in the prolongation of action potentials in the heart. - Recall: in an action potential K+ leaves the cell after Na+ enters.
+Blocks potassium channels (as well as some sodium and calcium channels) resulting in the prolongation of action potentials in the heart. - Recall: in an action potential K+ leaves the cell after Na+ enters.
 
 The medication that treats supraventricular and ventricular tachyarrhythmia:
 
-Blocks K+ channels (as well as some Na+ and Ca++ channels) resulting in the prolongation of action potentials in the heart.Recall: in an action potential K+ leaves the cell after Na+ enters
+Blocks K+ channels (as well as some sodium and calcium channels) resulting in the prolongation of action potentials in the heart.Recall: in an action potential K+ leaves the cell after Na+ enters
 
 The medication that treats supraventricular and ventricular tachyarrhythmia:
 45 of 262
@@ -404,7 +404,7 @@ amiodaroneAmiodarone effects action potentials in cardiac muscle cells
 Three potential ocular side effects of amiodarone are:
 46 of 262
 
-NAION (nonarteritic anterior ischemic optic neuropathy), whorl keratopathy (aka vortex keratopathy, corneal verticillata or  Fleischer vortex) and anterior subcapsular lens deposits. - X-linked Fabry's disease also can cause whorl keratopathy.
+NAION (nonarteritic anterior ischemic optic neuropathy), whorl keratopathy (aka vortex keratopathy, corneal verticillata or  Fleischer vortex) and anterior subcapsular lens deposits. - X-linked Fabry's disease also can cause whorl keratopathy.
 
 The most COMMON ocular side effect of amiodarone is _________.
 
@@ -503,7 +503,7 @@ Augmentin ; Penicillinase (a form of beta-lactamase)Enzymes that end in "ase" 
 The mechanism of action of amoxicillin and other medications in its class is inhibition of ________.
 57 of 262
 
-bacterial cell wall synthesisRemember, human cells do not have cell walls— only cell membranes.
+bacterial cell wall synthesis - Remember, human cells do not have cell walls, only cell membranes.
 
 Allopurinol and probenecid both treat:
 
@@ -621,7 +621,7 @@ apraclonidine and brimonidine - In this case it is a good idea to use a differen
 True or False: Apraclonidine is commonly used in the longterm treatment of glaucoma.
 70 of 262
 
-False, it is usually dosed short term due to tachyphylaxis.It may be used in IOP spikes that may occur after Yag-capsulotomy laser.
+False, it is usually dosed short term due to tachyphylaxis. - It may be used in IOP spikes that may occur after Yag-capsulotomy laser.
 
 This IOP lowering medication is often used after LPI / SLT / Yag capsulotomy / cataract surgery in the event of an IOP spike.
 
@@ -729,7 +729,7 @@ statin (ex. Atorvastatin, fluvastatin, lovastatin, pravastatin, rosuvastatin, si
 The mechanism of action of the "statin" medications is:
 82 of 262
 
-They all inhibit the enzyme HMG-CoA reductase (3-hydroxy-3-methylglutaryl coenzyme A reductase) - HMG-CoA usually controls the rate limiting step of cholesterol creation.
+They all inhibit the same enzyme. - HMG-CoA reductase (3-hydroxy-3-methylglutaryl coenzyme A reductase). HMG-CoA usually controls the rate limiting step of cholesterol creation.
 
 HMG-CoA reductase inhibitors often end in the suffix:
 
@@ -828,7 +828,7 @@ allergiesOcular allergy symptoms include red, watery and itchy eyes
 Azithromycin is a(n) ________ medication.
 93 of 262
 
-antibioticAntibiotics treat bacterial infections
+antibioticAntibiotics treat bacterial infections.
 
 Class of antibiotic for azithromycin:
 
@@ -968,11 +968,10 @@ ACE inhibitors ("prils") prevent these three downstream effects of ACE via angio
 
 Blocks ACE and prevents the formation of angiotensin II from angiotensin I.Therefore angiotensin II is not available to bind to a-1 receptors
 
-ACE inhibitors ("prils") prevent these three downstream effects of ACE via angiotensin II
+ACE inhibitors ("prils") prevent these three downstream effects of ACE via angiotensin II:
 107 of 262
 
-
-1/prevents activation of a-1 / vasoconstriction 2/prevents aldosterone secretion / blood volume regulation 3/prevents metabolism of bradykinins - ACE inhibitors have 3 major effects to decrease blood pressure.
+ACE inhibitors have 3 major effects to decrease blood pressure. - 1/prevents activation of a-1 / vasoconstriction 2/prevents aldosterone secretion / blood volume regulation 3/prevents metabolism of bradykinins
 
 Bradykinins typically cause vaso(dilation/constriction). Their metabolism can be stopped by _______.
 
@@ -1093,7 +1092,7 @@ The topical fluoroquinolone is thought to have the least bacterial resistance, a
 118 of 262
 
 
-Besifloxacin (because it is used less due to not having a systemic counterpart) - Fluoroquinolones often end in "-floxacin"
+Besifloxacin (because it is used less due to not having a systemic counterpart) - Fluoroquinolones often end in "-floxacin."
 
 Class of medication of besifloxacin:
 
@@ -1203,7 +1202,7 @@ Due to its selectivity to Beta-1 receptors over Beta-2 receptors, it is thought 
 128 of 262
 
 
-Better than timolol in the treatment of glaucoma in respiratory insufficient patients. - Examples of respiratory diseases are asthma or COPD
+Better than timolol in the treatment of glaucoma in respiratory insufficient patients. - Examples of respiratory diseases are asthma or COPD.
 
 Suspension topical medications should be __________.
 
@@ -1379,7 +1378,7 @@ Which glaucoma medication would be the least successful at a fast acting IOP dec
 144 of 262
 
 
-ProstaglandinsProstaglandins can take weeks to be effective
+ProstaglandinsProstaglandins can take weeks to be effective.
 
 The class of medications that can be dosed once nightly because they provide good 24 hour IOP control are:
 
@@ -1949,11 +1948,11 @@ Brompheniramine binds to (alpha-1/alpha-2/beta-1/beta-2/histamine-1/histamine-2)
 
 increasePerhaps due to pupillary dilation
 
-Brompheniramine binds to (alpha-1/alpha-2/beta-1/beta-2/histamine-1/histamine-2) receptors
+Brompheniramine binds to (alpha-1/alpha-2/beta-1/beta-2/histamine-1/histamine-2) receptors.
 196 of 262
 
 
-histamine-1It will be important to note that they do not bind to histamine-2's
+histamine-1It will be important to note that they do not bind to histamine-2's.
 
 
 Due to the ocular side effect of ________, anticholinergic medications such as antihistamines should be used with caution in patients with _________.
@@ -2042,15 +2041,13 @@ ACE inhibitor (angiotensin converting enzyme inhibitor)Off topic, ACE can be h
 The two mechanisms of action of captopril and other medications in its class are:
 205 of 262
 
-1/Preventing angiotensin II from being formed from
-angiotensin I by directly preventing the action of the enzyme ACE 2/Blocking the metabolism of bradykinins - Another medication in the class of ACE inhibitors is lisinoPRIL.
+1/Preventing angiotensin II from being formed from angiotensin I by directly preventing the action of the enzyme ACE 2/Blocking the metabolism of bradykinins - Another medication in the class of ACE inhibitors is lisinoPRIL.
 
 When Captopril and other medications in its class prevent the formation of angiotensin II from angiotensin I, this results in _________
 
 
 
-1. Preventing angiotensin II from being formed from
-angiotensin I by directly preventing the action of the enzyme ACE. 2. Blocking the metabolism of bradykininsAnother medication in the class of ACE inhibitors is lisinoPRIL
+1. Preventing angiotensin II from being formed from angiotensin I by directly preventing the action of the enzyme ACE. 2. Blocking the metabolism of bradykininsAnother medication in the class of ACE inhibitors is lisinoPRIL
 
 When Captopril and other medications in its class prevent the formation of angiotensin II from angiotensin I, this results in _________.
 206 of 262
@@ -2327,7 +2324,7 @@ ZyrtecOculogyric crisis is spasm in the extraocular muscles
 Chloramphenicol is a ______ medication.
 236 of 262
 
-antibioticAntibiotics treat bacterial infections
+antibioticAntibiotics treat bacterial infections.
 
 The antibiotic with the potential side effects of hemolytic and aplastic anemia is:
 
