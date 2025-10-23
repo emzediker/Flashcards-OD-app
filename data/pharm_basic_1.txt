@@ -96,7 +96,7 @@ Cl (chloride) and Na+(Sodium) - Decreasing bicarbonate with carbonic anhydrase i
 Carbonic anhydrase inhibitors are contraindicated for patients with allergy to ______.
 12 of 262
 
-sulfaAsk about sulfa allergies when treating with dorzolamide or brinzolamide.
+sulfa - Ask about sulfa allergies when treating with dorzolamide or brinzolamide.
 
 Due to its potent decrease in intraocular pressure, the following oral medication is indicated for patients in acute angle closure
 
@@ -105,7 +105,7 @@ sulfaAsk about sulfa allergies when treating with dorzolamide or brinzolamide
 Due to its potent decrease in intraocular pressure, the following oral medication is indicated for patients in acute angle closure:
 13 of 262
 
-acetazolamideDorzolamide and brinzolamide are topical carbonic anhydrase inhibitors.
+acetazolamide - Dorzolamide and brinzolamide are topical carbonic anhydrase inhibitors.
 
 The following intraocular pressure lowering medications have the potential for serum (blood) associated changes such as thrombocytopenia, agranulocytosis, and aplastic anemia
 
@@ -114,7 +114,7 @@ acetazolamideDorzolamide and brinzolamide are topical carbonic anhydrase inhib
 The following intraocular pressure lowering medications have the potential for serum (blood) associated changes such as thrombocytopenia, agranulocytosis, and aplastic anemia:
 14 of 262
 
-carbonic anhydrase inhibitorsExamples include acetazolamide or methazolamide.
+carbonic anhydrase inhibitors - Examples include acetazolamide or methazolamide.
 
 The following intraocular pressure lowering medication can cause a myopic shift:
 
@@ -123,7 +123,7 @@ carbonic anhydrase inhibitorsExamples include acetazolamide or methazolamide
 The following intraocular pressure lowering medication can cause a myopic shift:
 15 of 262
 
-acetazolamideFor example, a patient's Rx may change from -1.50 SPH to -3.50 SPH.
+acetazolamide - For example, a patient's Rx may change from -1.50 SPH to -3.50 SPH.
 
 The following intraocular pressure lowering medication is known for its side effects of metallic taste, and tingling in the extremities
 
@@ -132,7 +132,7 @@ acetazolamideFor example, a patient's Rx may change from -1.50 SPH to -3.50 SP
 The following intraocular pressure lowering medication is known for its side effects of metallic taste, and tingling in the extremities:
 16 of 262
 
-acetazolamide and other carbonic anhydrase inhibitorsThe condition multiple sclerosis also causes tingling in the extremities.
+acetazolamide and other carbonic anhydrase inhibitors - The condition multiple sclerosis also causes tingling in the extremities.
 
 Compared to 2- 250 mg tablets of acetazolamide, the 500 mg sequel has a _____ release
 
@@ -141,7 +141,7 @@ acetazolamide and other carbonic anhydrase inhibitorsThe condition multiple sc
 Compared to 2- 250 mg tablets of acetazolamide, the 500 mg sequel has a _____ release.
 17 of 262
 
-slow and sustainedSequels take longer to be active than tablets.
+slow and sustained - Sequels take longer to be active than tablets.
 
 Acetazolamide (tablets/sequels) are the most appropriate for patients with acute angle closure.
 
@@ -150,7 +150,7 @@ slow and sustainedSequels take longer to be active than tablets
 Acetazolamide (tablets/sequels) are the most appropriate for patients with acute angle closure.
 18 of 262
 
-tablets (NOT the sequel)Acute angle closure needs fast acting relief. Sequels are slower onset.
+tablets (NOT the sequel) - Acute angle closure needs fast acting relief. Sequels are slower onset.
 
 A mucolytic medication dissolves:
 
@@ -163,12 +163,12 @@ mucous - “lytic"or "lysis" often refers to splitting or breaking.
 
 In the eye, a mucolytic medication may be used to treat the eye condition ____________
 
-mucous“lytic"or "lysis" often refers to splitting or breaking
+mucous“Lytic"or "lysis" often refers to splitting or breaking
 
 In the eye, a mucolytic medication may be used to treat the eye condition ____________.
 20 of 262
 
-filamentary keratitisIn filamentary keratitis, mucous adheres to the cornea.
+filamentary keratitis - In filamentary keratitis, mucous adheres to the cornea.
 
 In addition to its applications to treat filamentary keratitis, _____________ also treats cystic fibrosis
 
@@ -177,7 +177,7 @@ filamentary keratitisIn filamentary keratitis, mucous adheres to the cornea
 In addition to its applications to treat filamentary keratitis, _____________ also treats cystic fibrosis.
 21 of 262
 
-acetylcysteineIn cystic fibrosis mucus builds up in the lungs and digestive ducts.
+acetylcysteine - In cystic fibrosis mucus builds up in the lungs and digestive ducts.
 
 Acetylcysteine breaks down ________ ______ in the proteins of mucous.
 
@@ -186,7 +186,7 @@ acetylcysteineIn cystic fibrosis mucus builds up in the lungs and digestive du
 Acetylcysteine breaks down ________ ______ in the proteins of mucous.
 22 of 262
 
-disulfide bondsBreaking these bonds thins out the mucous.
+disulfide bonds - Breaking these bonds thins out the mucous.
 
 Acyclovir is an anti______.
 
@@ -195,7 +195,7 @@ disulfide bondsBreaking these bonds thins out the mucous
 Acyclovir is an anti______.
 23 of 262
 
-viralMedications that end in "vir" are usually antivirals.
+viral - Medications that end in "vir" are usually antivirals.
 
 Acyclovir is in the following class of medications:
 
@@ -204,7 +204,7 @@ viralMedications that end in "vir" are usually antivirals
 Acyclovir is in the following class of medications:
 24 of 262
 
-synthetic nucleoside (works as an antiviral)NUCLEic acids are a part of DNA and NUCLEOsides interact with DNA.
+synthetic nucleoside (works as an antiviral) - NUCLEic acids are a part of DNA and NUCLEOsides interact with DNA.
 
 ___________ is a medication that competitively inhibits DNA polymerase, terminates DNA elongation, and irreversibly binds to viral polymerase
 
@@ -213,7 +213,7 @@ synthetic nucleoside (works as an antiviral)NUCLEic acids are a part of DNA an
 ___________ is a medication that competitively inhibits DNA polymerase, terminates DNA elongation, and irreversibly binds to viral polymerase.
 25 of 262
 
-Acyclovir and other nucleoside analogs in its classOther nucleoside analogs are valacyclovir & famciclovir antivirals.
+Acyclovir and other nucleoside analogs in its class - Other nucleoside analogs are valacyclovir & famciclovir antivirals.
 
 The medications used to treat HSV-1 (cold sores), HSV-2 (genital sores), and VZV (shingles) systemically are
 
@@ -258,7 +258,7 @@ Albuterol is a short acting beta-2 agonist.Beta-2 receptors are on the lungs a
 Albuterol and Ipratropium both cause broncho(dilation/constriction).
 30 of 262
 
-bronchodilationThese medications can treat bronchoconstriction seen in asthma.
+bronchodilation - These medications can treat bronchoconstriction seen in asthma.
 
 Beta-2 agonists affect the lungs by causing broncho(dilation/constriction).
 
@@ -267,7 +267,7 @@ bronchodilationThese medications can treat bronchoconstriction seen in asthma
 Beta-2 agonists affect the lungs by causing broncho(dilation/constriction).
 31 of 262
 
-bronchodilationMedications that cause bronchodilation can treat asthma.
+bronchodilation - Medications that cause bronchodilation can treat asthma.
 
 Beta-2 agonist are (sympatho/parasympathetic)mimetic.
 
@@ -276,7 +276,7 @@ bronchodilationMedications that cause bronchodilation can treat asthma
 Beta-2 agonist are (sympatho/parasympathetic)mimetic.
 32 of 262
 
-sympathomimeticIn the "fight" sympathetic response more oxygen is needed in the lungs.
+sympathomimetic - In the "fight" sympathetic response more oxygen is needed in the lungs.
 
 Ipratropium is an anti(cholinergic/muscarinic) broncho(dilator/constrictor).
 
@@ -330,7 +330,7 @@ Timolol. Timolol is contraindicated in patients with certain lung diseases due t
 Albuterol can ____ IOP as a potential side effect.
 38 of 262
 
-increaseActivating beta receptors increases aqueous humor production.
+increase - Activating beta receptors increases aqueous humor production.
 
 Sympathomimetic medications can cause pupil________.
 
@@ -339,7 +339,7 @@ increaseActivating beta receptors increases aqueous humor production
 Sympathomimetic medications can cause pupil________.
 39 of 262
 
-dilationMore light into the pupil to see well is part of the "fight" response.
+dilation - More light into the pupil to see well is part of the "fight" response.
 
 _______ is a medication used to treat gout
 
@@ -348,7 +348,7 @@ dilationMore light into the pupil to see well is part of the "fight" response
 _______ is a medication used to treat gout.
 40 of 262
 
-AllopurinolGout is caused by uric acid build up. (allop"URI"nol)
+Allopurinol - Gout is caused by uric acid build up. (allop"URI"nol)
 
 Mechanism of action of allopurinol is to (increase/decrease) ________ formation in the body
 
@@ -357,7 +357,7 @@ AllopurinolGout is caused by uric acid build up. (allop""URI""nol)
 Mechanism of action of allopurinol is to (increase/decrease) ________ formation in the body.
 41 of 262
 
-decrease uric acid formationGout is painful & often occurs in the big toe. 
+decrease uric acid formation - Gout is painful & often occurs in the big toe. 
 "Urate" is uric acid
 
 The two possible uses of amantadine are:
@@ -395,7 +395,7 @@ Blocks K+ channels (as well as some sodium and calcium channels) resulting in th
 The medication that treats supraventricular and ventricular tachyarrhythmia:
 45 of 262
 
-amiodaroneAmiodarone effects action potentials in cardiac muscle cells.
+amiodarone - Amiodarone effects action potentials in cardiac muscle cells.
 
 Three potential ocular side effects of amiodarone are:
 
@@ -422,7 +422,7 @@ Whorl keratopathy aka vortex keratopathy aka corneal verticillata aka Fleischer 
 The most vision threatening ocular side effect of amiodarone is _________.
 48 of 262
 
-NAION (nonarteritic anterior ischemic optic neuropathy)Whirl keratopathy has little visual consequence.
+NAION (nonarteritic anterior ischemic optic neuropathy) - Whirl keratopathy has little visual consequence.
 
 Class of medication of amitriptyline:
 
@@ -431,7 +431,7 @@ NAION (nonarteritic anterior ischemic optic neuropathy)Whirl keratopathy has l
 Class of medication of amitriptyline:
 49 of 262
 
-tricyclic antidepressant (TCA)They are called "tricyclic" due to the three rings in their structure.
+tricyclic antidepressant (TCA) - They are called "tricyclic" due to the three rings in their structure.
 
 Mechanism of action of amitriptyline and other medications in its class:
 
@@ -440,7 +440,7 @@ tricyclic antidepressant (TCA)They are called "tricyclic" due to the three rin
 Mechanism of action of amitriptyline and other medications in its class:
 50 of 262
 
-norepinephrine and serotonin reuptake inhibitorThe tricyclic antidepressants often end in "triptyline" or "pramine.”
+norepinephrine and serotonin reuptake inhibitor - The tricyclic antidepressants often end in "triptyline" or "pramine.”
 
 Ocular side effects of amitriptyline:
 
