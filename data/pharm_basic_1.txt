@@ -1401,7 +1401,7 @@ IOP spikes accompanied by signs of inflammation (cells in the anterior chamber) 
 146 of 262
 
 
-prostaglandinEx: trauma, Fuch's iridocyclitis, Posner Schlossman, HZO, UGH & post-op
+prostaglandin - Ex: trauma, Fuch's iridocyclitis, Posner Schlossman, HZO, UGH & post-op
 
 In patients with a history of macular edema, the following class of IOP lowering medications should be avoided:
 
@@ -1412,7 +1412,7 @@ In patients with a history of macular edema, the following class of IOP lowering
 147 of 262
 
 
-ProstaglandinsMacular edema is a form of inflammation and PGs are inflammatory
+ProstaglandinsMacular edema is a form of inflammation and PGs are inflammatory.
 
 Peak effectivity of prostaglandins occurs in a time frame of ________.
 
@@ -1423,7 +1423,7 @@ Peak effectivity of prostaglandins occurs in a time frame of ________.
 148 of 262
 
 
-about 4 weeksProstaglandins do NOT given immediate results
+about 4 weeksProstaglandins do NOT give immediate results.
 
 Prostaglandins interact with PGF2a receptors which are _________ receptors.
 
@@ -1434,7 +1434,7 @@ Prostaglandins interact with PGF2a receptors which are _________ receptors.
 149 of 262
 
 
-G-protein coupled receptorsThis will start a cascade of mediators for effectiveness
+G-protein coupled receptorsThis will start a cascade of mediators for effectiveness.
 
 In the body, prostaglandins are naturally made at sites of injury or infection from ___ by ___
 
@@ -1445,7 +1445,7 @@ In the body, prostaglandins are naturally made at sites of injury or infection f
 150 of 262
 
 
-Arachidonic Acid by PLA2Prostaglandins are therefore part of the arachidonic acid cascade
+arachidonic acid by PLA2 - Prostaglandins are therefore part of the arachidonic acid cascade.
 
 Prostaglandin analogs usually have the suffix "________" in their name
 
@@ -1456,7 +1456,7 @@ Prostaglandin analogs usually have the suffix "________" in their name
 151 of 262
 
 
-“prost”examples are bimatoprost or latanoprost
+“prost” - Examples are bimatoprost or latanoprost.
 
 Beta-blocking glaucoma treatments usually have the suffix _____ in their name.
 
@@ -1467,7 +1467,7 @@ Beta-blocking glaucoma treatments usually have the suffix _____ in their name.
 152 of 262
 
 
-"olol"Example: timolol, betaxolol, atenolol
+"olol" - Example: timolol, betaxolol, atenolol
 
 True or false: Prostaglandins are a first line medication for unilateral glaucoma.
 
@@ -1478,7 +1478,7 @@ True or false: Prostaglandins are a first line medication for unilateral glaucom
 153 of 262
 
 
-FALSEProstaglandins are high in "local" side effects like eye color change
+FALSEProstaglandins are high in "local" side effects like eye color change.
 
 The most common side effect of any ophthalmic topical medications is:
 
@@ -1489,7 +1489,7 @@ The most common side effect of any ophthalmic topical medications is:
 154 of 262
 
 
-burning ... it is a chemical going into the eye afterall
+burning..... it is a chemical going into the eye afterall.
 
 Common ocular side effects of prostaglandins are:
 
@@ -1500,7 +1500,7 @@ Common ocular side effects of prostaglandins are:
 155 of 262
 
 
-Burning, redness, change in iris coloration, lash growth, and orbital fat reductionIris coloration effects light eyes such as blue and darkens them
+Burning, redness, change in iris coloration, lash growth, and orbital fat reduction. - Iris coloration effects light eyes such as blue and darkens them.
 
 In a patient with a history of herpetic eye disease, the following topical glaucoma medication should be avoided:
 
@@ -1522,7 +1522,7 @@ Botox is proteins that are ____-toxins naturally created by _______________.
 157 of 262
 
 
-Neurotoxins created by the bacterium Clostridium botulinumThey essentially paralyze muscles
+Neurotoxins created by the bacterium clostridium botulinum - They essentially paralyze muscles.
 
 Mechanism of action of botox:
 
@@ -1533,7 +1533,7 @@ Mechanism of action of botox:
 158 of 262
 
 
-Prevents the RELEASE of acetylcholine at the neuromuscular junction from nerve cells.This prevents muscle contraction
+Prevents the release of acetylcholine at the neuromuscular junction from nerve cells. - This prevents muscle contraction.
 
 ________ is used to treat unwanted muscle contractions such as blepharospasm.
 
@@ -1544,7 +1544,7 @@ ________ is used to treat unwanted muscle contractions such as blepharospasm.
 159 of 262
 
 
-BotoxBotox essentially paralyzes the muscle to relax the spam
+BotoxBotox essentially paralyzes the muscle to relax the spasm.
 
 Due to its mechanism of action of decreasing the availability of acetylcholine, botox is contraindicated in the following systemic autoimmune condition:
 
@@ -1555,18 +1555,18 @@ Due to its mechanism of action of decreasing the availability of acetylcholine, 
 160 of 262
 
 
-Myasthenia GravisDamaged AcH receptors cause nerve-muscle interaction to already be poor
+Myasthenia GravisDamaged AcH receptors cause nerve-muscle interaction to already be poor.
 
 _______ can be used to treat unwanted muscle contraction, wrinkle prevention, sweating, migraine, and some forms of cerebral palsy related complications
 
 
 Myasthenia GravisDamaged AcH receptors cause nerve-muscle interaction to already be poor
 
-_______ can be used to treat unwanted muscle contraction, wrinkle prevention, sweating, migraine, and some forms of cerebral palsy related complications
+_______ can be used to treat unwanted muscle contraction, wrinkle prevention, sweating, migraine, and some forms of cerebral palsy related complications.
 161 of 262
 
 
-BotoxCommercially, botox is known for its use in wrinkle maintenance
+BotoxCommercially, botox is known for its use in wrinkle maintenance.
 
 Brimonidine binds to ___________ receptors.
 
@@ -1577,7 +1577,7 @@ Brimonidine binds to ___________ receptors.
 162 of 262
 
 
-Alpha-2A side effect is constriction of conjunctival blood vessels-- whitening
+Alpha-2A side effect is constriction of conjunctival blood vessels-- whitening.
 
 Brimonidine is a (oral/topical/IV) medication used to treat ________.
 
@@ -1588,7 +1588,7 @@ Brimonidine is a (oral/topical/IV) medication used to treat ________.
 163 of 262
 
 
-topical medication used to treat ocular hypertension / glaucomaApraclONIDINE is another glaucoma medication in its class
+topical medication used to treat ocular hypertension / glaucoma. - ApraclONIDINE is another glaucoma medication in its class.
 
 Brimonidine acts on the _______________ of the eye.
 
@@ -1599,7 +1599,7 @@ Brimonidine acts on the _______________ of the eye.
 164 of 262
 
 
-Nonpigmented epithelium of the ciliary bodyYou will need to know that it is NONpigmented
+Nonpigmented epithelium of the ciliary bodyYou will need to know that it is NONpigmented.
 
 Brimonidine is a(n) (alpha-1/alpha-2/beta-1/beta-2)(adrenergic/cholinergic/muscarinic) (antagonist/agonist).
 
@@ -1610,18 +1610,18 @@ Brimonidine is a(n) (alpha-1/alpha-2/beta-1/beta-2)(adrenergic/cholinergic/musca
 165 of 262
 
 
-alpha-2 adrenergic agonistAlpha and beta receptors are adrenergic and they respond to epinephrine
+alpha-2 adrenergic agonistAlpha and beta receptors are adrenergic and they respond to epinephrine.
 
 The IOP lowering medication __________________ has a potential side effect of decreased pupil size and elimination of glare, without brow ache
 
 
 alpha-2 adrenergic agonistAlpha and beta receptors are adrenergic and they respond to epinephrine
 
-The IOP lowering medication __________________ has a potential side effect of decreased pupil size and elimination of glare, without brow ache
+The IOP lowering medication __________________ has a potential side effect of decreased pupil size and elimination of glare, without brow ache.
 166 of 262
 
 
-BrimonidinePilocarpine also can decrease pupil size but it causes brow ache
+BrimonidinePilocarpine also can decrease pupil size but it causes brow ache.
 
 brimonidine + timolol =
 
@@ -1632,7 +1632,7 @@ brimonidine + timolol =
 167 of 262
 
 
-combiganCOMBI-GAN a COMBInation of alphaGAN (name brand) and timolol
+combiganCOMBI-GAN a COMBInation of alphaGAN (name brand) and timolol.
 
 brimonidine + brinzolamide =
 
@@ -1643,18 +1643,18 @@ brimonidine + brinzolamide =
 168 of 262
 
 
-SimbrinzasIM-BRINZa is a combination of brIMonidine and BRINZolamide
+Simbrinza - sIM-BRINZa is a combination of brIMonidine and BRINZolamide.
 
 Which medication is more selective to alpha-2 receptors, apraclonidine or brimonidine?
 
 
-SimbrinzasIM-BRINZa is a combination of brIMonidine and BRINZolamide
+SimbrinzasIM-BRINZa is a combination of brIMonidine &BRINZolamide.
 
 Which medication is more selective to alpha-2 receptors, apraclonidine or brimonidine?
 169 of 262
 
 
-brimonidineThere are 2 drops that interact with alpha 2 and both have idine (2 i's)
+brimonidineThere are 2 drops that interact with alpha 2 and both have idine (2 i's).
 
 Brimonidine PRIMARILY affects this region of the eye, and may have SOME effect on:
 
@@ -1665,18 +1665,18 @@ Brimonidine PRIMARILY affects this region of the eye, and may have SOME effect o
 170 of 262
 
 
-Primarily affects the ciliary body epithelium to decrease aqueous humor productions but it MAY have SOME effect on Uveoscleral outflow.Brimonidine may relax the ciliary smooth muscle, increasing outflow
+Primarily affects the ciliary body epithelium to decrease aqueous humor productions but it MAY have SOME effect on uveoscleral outflow. - Brimonidine may relax the ciliary smooth muscle, increasing outflow.
 
 Brimonidine primarily decreases IOP by (decreasing the production of aqueous / increasing aqueous humor outflow)
 
 
 Primarily affects the ciliary body epithelium to decrease aqueous humor productions but it MAY have SOME effect on Uveoscleral outflow.Brimonidine may relax the ciliary smooth muscle, increasing outflow
 
-Brimonidine primarily decreases IOP by (decreasing the production of aqueous / increasing aqueous humor outflow)
+Brimonidine primarily decreases IOP by (decreasing the production of aqueous / increasing aqueous humor outflow).
 171 of 262
 
 
-decreasing aqueous humor production.This occurs in the ciliary body epithelium
+decreasing aqueous humor production.This occurs in the ciliary body epithelium.
 
 Although they are both alpha-1 agonist topical medications used to treat ocular hypertension through the same mechanism of action ______ is less prone to tachyphylaxis is and allergy than ________.
 
@@ -1687,7 +1687,7 @@ Although they are both alpha-1 agonist topical medications used to treat ocular 
 172 of 262
 
 
-Brimonidine has less tachyphylaxis and allergy than apraclonidine.Both can cause a follicular reaction as an allergic response!
+Brimonidine has less tachyphylaxis and allergy than apraclonidine. - Both can cause a follicular reaction as an allergic response!
 
 Of the two alpha agonists, which has the greater IOP lowering effect, apraclonidine or brimonidine?
 
@@ -1698,7 +1698,7 @@ Of the two alpha agonists, which has the greater IOP lowering effect, apraclonid
 173 of 262
 
 
-apraclonidineThis is more likely to be used for example in a spike after surgery
+apraclonidineThis is more likely to be used for example in a spike after surgery.
 
 Brinzolamide is in the following class of IOP lowering medications:
 
@@ -1720,7 +1720,7 @@ Carbonic anhydrase inhibitors decrease IOP by:
 175 of 262
 
 
-decreasing aqueous humor production.They act on the enzyme carbonic anhydrase to effect production
+decreasing aqueous humor production. - They act on the enzyme carbonic anhydrase to effect production.
 
 Brinzolamide is a (oral/topical/IV) medication used to treat _______.
 
@@ -1731,7 +1731,7 @@ Brinzolamide is a (oral/topical/IV) medication used to treat _______.
 176 of 262
 
 
-Topical medication used to treat glaucoma / ocular hypertension.An oral CAI is acetazolamide or methazolamide
+Topical medication used to treat glaucoma / ocular hypertension. - An oral CAI is acetazolamide or methazolamide.
 
 The class of medications with potential side effects of tingling in fingers / toes and taste disturbances is ______________.
 
@@ -1742,7 +1742,7 @@ The class of medications with potential side effects of tingling in fingers / to
 177 of 262
 
 
-carbonic anhydrase inhibitorsThe condition multiple sclerosis also causes tingling sensations
+carbonic anhydrase inhibitorsThe condition multiple sclerosis also causes tingling sensations.
 
 Simbrinza =
 
@@ -1764,7 +1764,7 @@ brinzolamide + brimonidine =
 179 of 262
 
 
-SimbrinzaSIMBRINZa is SIMultaneous BRINZolamide and brimonidine
+SimbrinzaSIMBRINZa is SIMultaneous BRINZolamide and brimonidine.
 
 Mechanism of action of carbonic anhydrase inhibitors on the eye:
 
@@ -1775,7 +1775,7 @@ Mechanism of action of carbonic anhydrase inhibitors on the eye:
 180 of 262
 
 
-Blocks the formation of bicarbonate by the enzyme carbonic anhydrase in cells of the ciliary body.This prevents the osmotic pressure needed in the posterior chamber
+Blocks the formation of bicarbonate by the enzyme carbonic anhydrase in cells of the ciliary body.- This prevents the osmotic pressure needed in the posterior chamber.
 
 Carbonic anhydrase inhibitor medications (prevent/enhance) the formation of ___________ by the enzyme ___________ in cells of the ciliary body, preventing the _______ pressure needed to create aqueous humor in the posterior chamber of the eye.
 
@@ -1786,7 +1786,7 @@ Carbonic anhydrase inhibitor medications (prevent/enhance) the formation of ____
 181 of 262
 
 
-Prevents the formation of bicarbonate by the enzyme carbonic anhydrase preventing the osmotic pressure needed to create aqueous humor.Overall it decreases IOP by decreasing aqueous humor formation.
+Prevents the formation of bicarbonate by the enzyme carbonic anhydrase preventing the osmotic pressure needed to create aqueous humor. - Overall it decreases IOP by decreasing aqueous humor formation.
 
 Bromfenac is in the following class of medications:
 
@@ -1797,9 +1797,7 @@ Bromfenac is in the following class of medications:
 182 of 262
 
 
-Anti-inflammatoryMedications that end in the suffix ‘fenac’
- are often NSAIDs. 
-Ex diclofenac
+Anti-inflammatoryMedications that end in the suffix ‘fenac’ are often NSAIDs. Ex. diclofenac
 
 Mechanism of action of bromfenac:
 
@@ -1812,7 +1810,7 @@ Mechanism of action of bromfenac:
 183 of 262
 
 
-Inhibits production of prostaglandins, competes for inflammatory receptors, and blocks COX enzymes.COX enzymes are also inhibited by aspirin
+Inhibits production of prostaglandins, competes for inflammatory receptors, and blocks COX enzymes. - COX enzymes are also inhibited by aspirin.
 
 The two actions of bromfenac are:
 
@@ -1823,7 +1821,7 @@ The two actions of bromfenac are:
 184 of 262
 
 
-anti-inflammatory and pain relief (analgesic)NSAIDs like bromfenac may treat inflammation after surgery for cataracts
+anti-inflammatory and pain relief (analgesic)NSAIDs like bromfenac may treat inflammation after surgery for cataracts.
 
 An analgesic medication treats ______.
 
@@ -1834,7 +1832,7 @@ An analgesic medication treats ______.
 185 of 262
 
 
-painAnalgesic is a general term used for any pain medication
+painAnalgesic is a general term used for any pain medication.
 
 Potential ocular side effects of bromfenac are delayed ________ and corneal _____.
 
@@ -1845,7 +1843,7 @@ Potential ocular side effects of bromfenac are delayed ________ and corneal ____
 186 of 262
 
 
-wound healing and corneal meltIt can be controversial to use NSAIDs on abrasions due to this delay
+wound healing and corneal meltIt can be controversial to use NSAIDs on abrasions due to this delay.
 
 Anti-inflammatory medications such as ______ may be used after cataract surgery, refractive surgery, or to treat pingeculitis
 
@@ -1856,14 +1854,14 @@ Anti-inflammatory medications such as ______ may be used after cataract surgery,
 187 of 262
 
 
-Bromfenac or other topical NSAIDSAll three conditions are associated to inflammation
+Bromfenac or other topical NSAIDSAll three conditions are associated to inflammation.
 
 Topical (NSAIDs/steroids) are used to treat post-cataract surgery associated cystic macular edema
 
 
 Bromfenac or other topical NSAIDSAll three conditions are associated to inflammation
 
-Topical (NSAIDs/steroids) are used to treat post-cataract surgery associated cystic macular edema
+Topical (NSAIDs/steroids) are used to treat post-cataract surgery associated cystic macular edema.
 188 of 262
 
 
@@ -1878,7 +1876,7 @@ Topical NSAIDs often end in the suffix ______.
 189 of 262
 
 
-"fenac"Ex. diclofenac is an NSAID
+"fenac"Ex. diclofenac is an NSAID.
 
 Bromocriptine is a medication that is used to treat ____________ and _________.
 
@@ -1889,7 +1887,7 @@ Bromocriptine is a medication that is used to treat ____________ and _________.
 190 of 262
 
 
-Parkinson's disease and functional adenomas that secrete prolactin.Adenomas (cancers) that secrete prolactin are called prolactinomas
+Parkinson's disease and functional adenomas that secrete prolactin. - Adenomas (cancers) that secrete prolactin are called prolactinomas.
 
 Bromocriptine increases levels of _____.
 
@@ -1900,7 +1898,7 @@ Bromocriptine increases levels of _____.
 191 of 262
 
 
-dopamineIn Parkinson's disease, dopamine levels are low
+dopamineIn Parkinson's disease, dopamine levels are low.
 
 Brompheniramine is in the following class of medications:
 
@@ -1911,7 +1909,7 @@ Brompheniramine is in the following class of medications:
 192 of 262
 
 
-antihistamineOften times medications associated to allergies have "phen" in the name
+antihistamineOften times medications associated to allergies have "phen" in the name.
 
 Brompheniramine is used to treat _________.
 
@@ -1929,22 +1927,22 @@ Brompheniramine is a(n) (anticholinergic/cholinergic) class of antihistamine
 
 allergiesItchy eye, redness, and watery eyes suggest allergies. Especially OU
 
-Brompheniramine is a(n) (anticholinergic/cholinergic) class of antihistamine
+Brompheniramine is a(n) (anticholinergic/cholinergic) class of antihistamine.
 194 of 262
 
 
-anticholinergicAnticholinergic medications have drying effects on the eye
+anticholinergicAnticholinergic medications have drying effects on the eye.
 
 Antihistamines like brompheniramine can cause a(n) (decrease/increase) in IOP
 
 
 anticholinergicAnticholinergic medications have drying effects on the eye
 
-Antihistamines like brompheniramine can cause a(n) (decrease/increase) in IOP
+Antihistamines like brompheniramine can cause a(n) (decrease/increase) in IOP.
 195 of 262
 
 
-increasePerhaps due to pupillary dilation
+increasePerhaps due to pupillary dilation.
 
 Brompheniramine binds to (alpha-1/alpha-2/beta-1/beta-2/histamine-1/histamine-2) receptors
 
@@ -1958,18 +1956,16 @@ Brompheniramine binds to (alpha-1/alpha-2/beta-1/beta-2/histamine-1/histamine-2)
 histamine-1It will be important to note that they do not bind to histamine-2's
 
 
-histamine-1It will be important to note that they do not bind to histamine-2's
+Due to the ocular side effect of ________, anticholinergic medications such as antihistamines should be used with caution in patients with _________.
 197 of 262
 
-
-Due to the ocular side effect of ________, anticholinergic medications such as antihistamines should be used with caution in patients with _________.
-
+pupillary dilation ; narrow angles.Those with primary open angle glaucoma may be fine.
 
 Due to the ocular side effect of ________, anticholinergic medications such as antihistamines should be used with caution in patients with _________.
 198 of 262
 
 
-pupillary dilation ; narrow angles.Those with primary open angle glaucoma may be fine
+pupillary dilation ; narrow angles.Those with primary open angle glaucoma may be fine.
 
 Central nervous system side effects associated with antihistamines, especially first generation, occur due to their ability to ______________.
 
@@ -1984,28 +1980,31 @@ cross the blood brain barrierThis is why Benadryl makes you so tired!
 
 
 cross the blood brain barrierThis is why Benadryl makes you so tired!
-200 of 262
+
 
 
 The anticholinergic side effect of antihistamines that may decrease contact lens tolerance is ______________.
+200 of 262
+
+decreased lacrimation / dry eye These patients may due best in a LOW water daily soft lens OR an RGP.
+
 
 
 The anticholinergic side effect of antihistamines that may decrease contact lens tolerance is ______________.
 201 of 262
 
+decreased lacrimation / dry eye These patients may due best in a LOW water daily soft lens OR an RGP.
+
+The histamine(1/2) receptor in the eye is responsible for itching, tearing, chemosis, and blood vessels dilation
+
 
 decreased lacrimation / dry eye| These patients may due best in a LOW water daily soft lens OR an RGP
 
-The histamine(1/2) receptor in the eye is responsible for itching, tearing, chemosis, and blood vessels dilation
-
-
-decreased lacrimation / dry eye| These patients may due best in a LOW water daily soft lens OR an RGP
-
-The histamine(1/2) receptor in the eye is responsible for itching, tearing, chemosis, and blood vessels dilation
+The histamine(1/2) receptor in the eye is responsible for itching, tearing, chemosis, and blood vessels dilation.
 202 of 262
 
 
-histamine 1These symptoms are hallmark for allergy, especially in both eyes
+histamine 1These symptoms are hallmark for allergy, especially in both eyes.
 
 Captopril is a medication used to treat:
 
@@ -2034,7 +2033,7 @@ Basic Level Deck 3 of 11
 Class of medication of Captopril:
 204 of 262
 
-ACE inhibitor (angiotensin converting enzyme inhibitor)Off topic, ACE can be high in bloodwork of patients with sarcoidosis
+ACE inhibitor (angiotensin converting enzyme inhibitor)Off topic, ACE can be high in bloodwork of patients with sarcoidosis.
 
 The two mechanisms of action of captopril and other medications in its class are:
 
@@ -2043,10 +2042,8 @@ ACE inhibitor (angiotensin converting enzyme inhibitor)Off topic, ACE can be h
 The two mechanisms of action of captopril and other medications in its class are:
 205 of 262
 
-
-
-1. Preventing angiotensin II from being formed from
-angiotensin I by directly preventing the action of the enzyme ACE. 2. Blocking the metabolism of bradykininsAnother medication in the class of ACE inhibitors is lisinoPRIL
+1/Preventing angiotensin II from being formed from
+angiotensin I by directly preventing the action of the enzyme ACE 2/Blocking the metabolism of bradykinins - Another medication in the class of ACE inhibitors is lisinoPRIL.
 
 When Captopril and other medications in its class prevent the formation of angiotensin II from angiotensin I, this results in _________
 
@@ -2055,10 +2052,10 @@ When Captopril and other medications in its class prevent the formation of angio
 1. Preventing angiotensin II from being formed from
 angiotensin I by directly preventing the action of the enzyme ACE. 2. Blocking the metabolism of bradykininsAnother medication in the class of ACE inhibitors is lisinoPRIL
 
-When Captopril and other medications in its class prevent the formation of angiotensin II from angiotensin I, this results in _________
+When Captopril and other medications in its class prevent the formation of angiotensin II from angiotensin I, this results in _________.
 206 of 262
 
-The inability of angiotensin II to active alpha-1 receptors on blood vessels AND prevents angiotensin II from stimulating the secretion of aldosterone.Both of these actions results in a decrease in blood pressure
+The inability of angiotensin-II to active alpha-1 receptors on blood vessels AND prevents angiotensin-II from stimulating the secretion of aldosterone. - Both of these actions results in a decrease in blood pressure.
 
 The normal action of angiotensin II on blood vessels is:
 
@@ -2067,7 +2064,7 @@ The inability of angiotensin II to active alpha-1 receptors on blood vessels AND
 The normal action of angiotensin II on blood vessels is:
 207 of 262
 
-binding to alpha-1 receptors resulting in vasoconstriction.So angiotensin II usually regulates blood pressure by increasing it
+binding to alpha-1 receptors resulting in vasoconstriction. - So angiotensin II usually regulates blood pressure by increasing it.
 
 ACE inhibitors cause a decrease in angiotensin (I/II) which causes a decrease in the hormone  ________ resulting in an (increase/decrease) to blood volume.
 
@@ -2076,7 +2073,7 @@ binding to alpha-1 receptors resulting in vasoconstriction.So angiotensin II u
 ACE inhibitors cause a decrease in angiotensin (I/II) which causes a decrease in the hormone  ________ resulting in an (increase/decrease) to blood volume.
 208 of 262
 
-angiotensin II,  aldosterone, decreaseAldosterone usually came from the zona glomerulosa of the adrenal cortex
+angiotensin II,  aldosterone, decreaseAldosterone usually came from the zona glomerulosa of the adrenal cortex.
 
 What is the action of bradykinins and what class of medication blocks their metabolism?
 
@@ -2085,7 +2082,7 @@ angiotensin II,  aldosterone, decreaseAldosterone usually came from the zona g
 What is the action of bradykinins and what class of medication blocks their metabolism?
 209 of 262
 
-Bradykinins act to cause vasodilation. ACE inhibitors block their metabolism.If bradykinins are allowed to stay elevated, vasodilation / low BP stays
+Bradykinins act to cause vasodilation. - ACE inhibitors block their metabolism.If bradykinins are allowed to stay elevated, vasodilation / low BP remains as well. 
 
 Carteolol is a medication used to treat:
 
@@ -2094,16 +2091,16 @@ Bradykinins act to cause vasodilation. ACE inhibitors block their metabolism.I
 Carteolol is a medication used to treat:
 210 of 262
 
-Ocular hypertension / glaucomaThis medication is rarely used
+Ocular hypertension / glaucomaThis medication is rarely used.
 
 Class of medication of Carteolol
 
-Ocular hypertension / glaucomaThis medication is rarely used
+Ocular hypertension / glaucomaThis medication is rarely used.
 
 Class of medication of Carteolol
 211 of 262
 
-Beta-blockerYou know it is a beta-blocker because it ends in "olol"
+Beta-blockerYou know it is a beta-blocker because it ends in "olol.”
 
 Potential side effects of respiratory depression, bradycardia, and fatigue may occur in this type of glaucoma medication
 
@@ -2112,7 +2109,7 @@ Beta-blockerYou know it is a beta-blocker because it ends in "olol"
 Potential side effects of respiratory depression, bradycardia, and fatigue may occur in this type of glaucoma medication
 212 of 262
 
-Beta-blockers such as timolol and carteolol.This is due to the antagonism of beta receptors on the lungs and heart
+Beta-blockers such as timolol and carteolol.This is due to the antagonism of beta receptors on the lungs and heart.
 
 Class of medication of ceftriaxone:
 
@@ -2121,18 +2118,17 @@ Beta-blockers such as timolol and carteolol.This is due to the antagonism of b
 Class of medication of ceftriaxone:
 213 of 262
 
-cephalosporin antibioticOther cephalosporins are cefaclor and cephalexin
+cephalosporin antibioticOther cephalosporins are cefaclor and cephalexin.
 
 Ceftriaxone is a medication that
  can be used to treat:
 
 cephalosporin antibioticOther cephalosporins are cefaclor and cephalexin
 
-Ceftriaxone is a medication that
- can be used to treat:
+Ceftriaxone is a medication that can be used to treat:
 214 of 262
 
-bacterial infectionsIt is a cephalosporin antibiotic
+bacterial infectionsIt is a cephalosporin antibiotic. 
 
 The molecular structure of ceftriaxone and other medications in its class include a _____ structure
 
@@ -2141,16 +2137,16 @@ bacterial infectionsIt is a cephalosporin antibiotic
 The molecular structure of ceftriaxone and other medications in its class include a _____ structure
 215 of 262
 
-beta-lactamBeta-lactam can be a target of resistance by bacteria
+beta-lactamBeta-lactam can be a target of resistance by bacteria.
 
 Due to its molecular structure of having a beta-lactam ring, these two particular classes of antibiotics may be susceptible to inactivation by the enzyme beta-lactamase
 
 beta-lactamBeta-lactam can be a target of resistance by bacteria
 
-Due to its molecular structure of having a beta-lactam ring, these two particular classes of antibiotics may be susceptible to inactivation by the enzyme beta-lactamase
+Due to its molecular structure of having a beta-lactam ring, these two particular classes of antibiotics may be susceptible to inactivation by the enzyme beta-lactamase:
 216 of 262
 
-cephalosporins and penicillinsRemember that enzymes that end in "ase" tend to break things down
+cephalosporins and penicillinsRemember that enzymes that end in "ase" tend to break things down.
 
 These two classes of antibiotics both have beta-lactam structures:
 
@@ -2159,7 +2155,7 @@ cephalosporins and penicillinsRemember that enzymes that end in "ase" tend to 
 These two classes of antibiotics both have beta-lactam structures:
 217 of 262
 
-cephalosporins and penicillinsBeta-lactam can be a target of resistance by bacteria
+cephalosporins and penicillinsBeta-lactam can be a target of resistance by bacteria.
 
 The medication used to treat a systemic gonorrheal infection is ______.
 
@@ -2168,7 +2164,7 @@ cephalosporins and penicillinsBeta-lactam can be a target of resistance by bac
 The medication used to treat a systemic gonorrheal infection is ______.
 218 of 262
 
-IM ceftriaxoneGonorrhea is bacteria
+IM ceftriaxoneGonorrhea is bacteria.
 
 The mechanism of action of cephalosporins is:
 
@@ -2177,7 +2173,7 @@ IM ceftriaxoneGonorrhea is bacteria
 The mechanism of action of cephalosporins is:
 219 of 262
 
-Inhibition of bacterial cell wall synthesis.Recall that humans do not have cell walls
+Inhibition of bacterial cell wall synthesis.Recall that humans do not have cell walls.
 
 True or False: Cephalosporins inhibit bacterial cell membrane synthesis
 
@@ -2186,25 +2182,25 @@ Inhibition of bacterial cell wall synthesis.Recall that humans do not have cel
 True or False: Cephalosporins inhibit bacterial cell membrane synthesis
 220 of 262
 
-FALSE. They inhibit bacterial cell WALL synthesis.Recall, humans do not have cell walls
+FALSE. They inhibit bacterial cell WALL synthesis.Recall, humans do not have cell walls.
 
 Penicillins and Cephalosporins both have ring structures; however, penicillins have a ___ member ring, and cephalosporins have a ___ member ring
 
 FALSE. They inhibit bacterial cell WALL synthesis.Recall, humans do not have cell walls
 
-Penicillins and Cephalosporins both have ring structures; however, penicillins have a ___ member ring, and cephalosporins have a ___ member ring
+Penicillins and Cephalosporins both have ring structures; however, penicillins have a ___ member ring, and cephalosporins have a ___ member ring.
 221 of 262
 
-Penicillins have a 5-member ring and cephalosporins have a 6-member ringCephalosporin is a longer word so its not surprise it has a larger ring
+Penicillins have a 5-member ring and cephalosporins have a 6-member ring - Cephalosporin is a longer word so it is no surprise it has a larger ring.
 
 Cephalosporin antibiotics such as ceftriaxone, inhibit the bacterial enzyme
 
 Penicillins have a 5-member ring and cephalosporins have a 6-member ringCephalosporin is a longer word so its not surprise it has a larger ring
 
-Cephalosporin antibiotics such as ceftriaxone, inhibit the bacterial enzyme
+Cephalosporin antibiotics such as ceftriaxone, inhibit the bacterial enzyme:
 222 of 262
 
-transpeptidaseTranspeptidase TRANSFERS residues to help build bacterial cell walls
+transpeptidaseTranspeptidase TRANSFERS residues to help build bacterial cell walls.
 
 Class of medication of celecoxib:
 
@@ -2213,7 +2209,7 @@ transpeptidaseTranspeptidase TRANSFERS residues to help build bacterial cell w
 Class of medication of celecoxib:
 223 of 262
 
-NSAID"COX" enzymes are involved in the inflammatory pathways targeted
+NSAID - "COX" enzymes are involved in the inflammatory pathways targeted.
 
 Unlike other NSAIDs, Celebrex is selective to _____
 
@@ -2222,7 +2218,7 @@ NSAID"COX" enzymes are involved in the inflammatory pathways targeted
 Unlike other NSAIDs, Celebrex is selective to _____
 224 of 262
 
-COX-2This is a very unique feature. Aspirin effects COX-1 and COX-2
+COX-2This is a very unique feature. Aspirin effects COX-1 and COX-2.
 
 The specific NSAID that is antipyretic, analgesic, and anti-inflammatory but it does NOT interfere with platelet aggregation is
 
@@ -2231,7 +2227,7 @@ COX-2This is a very unique feature. Aspirin effects COX-1 and COX-2
 The specific NSAID that is antipyretic, analgesic, and anti-inflammatory but it does NOT interfere with platelet aggregation is
 225 of 262
 
-Celebrex / celecoxibAntipyretic = fever, analgesic = pain. This med does NOT thin blood
+Celebrex / celecoxibAntipyretic = fever, analgesic = pain. This med does NOT thin blood.
 
 Celebrex does not inhibit:
 
@@ -2240,7 +2236,7 @@ Celebrex / celecoxibAntipyretic = fever, analgesic = pain. This med does NOT t
 Celebrex does not inhibit:
 226 of 262
 
-COX-1Due to this Celebrex does not thin the blood like other medications
+COX-1Due to this Celebrex does not thin the blood like other medications.
 
 COX(1/2) is responsible for platelet aggregation, pain, GI protection, and renal function, and COX(1/2) is responsible for pain, inflammation, fever, and renal function
 
@@ -2249,16 +2245,16 @@ COX-1Due to this Celebrex does not thin the blood like other medications
 COX(1/2) is responsible for platelet aggregation, pain, GI protection, and renal function, and COX(1/2) is responsible for pain, inflammation, fever, and renal function
 227 of 262
 
-COX-1 ; COX-2MOST NSAIDs block COX-1 and COX-2
+COX-1 ; cox-2- MOST NSAIDs block COX-1 and COX-2.
 
 Cephalexin is a ____ generation _______
 
 COX-1 ; COX-2MOST NSAIDs block COX-1 and COX-2
 
-Cephalexin is a ____ generation _______
+Cephalexin is a ____ generation _______.
 228 of 262
 
-1st generation cephalosporinCephalosporins can have cross allergic sensitivity with penicillins
+1st generation cephalosporinCephalosporins can have cross allergic sensitivity with penicillins.
 
 Cephalexin is a medication used to treat______.
 
@@ -2267,7 +2263,7 @@ Cephalexin is a medication used to treat______.
 Cephalexin is a medication used to treat______.
 229 of 262
 
-bacterial infectionsIt is an antibiotic
+bacterial infectionsIt is an antibiotic.
 
 The antibiotic cephalexin and other medications in its class inhibit the enzyme _______.
 
@@ -2276,7 +2272,7 @@ bacterial infectionsIt is an antibiotic
 The antibiotic cephalexin and other medications in its class inhibit the enzyme _______.
 230 of 262
 
-transpeptidase.Transpeptidase is involved in cell wall synthesis
+transpeptidase.Transpeptidase is involved in cell wall synthesis.
 
 The antibiotic cephalexin and other medications in its class inhibit bacterial ___________ synthesis.
 
@@ -2285,15 +2281,14 @@ transpeptidase.Transpeptidase is involved in cell wall synthesis
 The antibiotic cephalexin and other medications in its class inhibit bacterial ___________ synthesis.
 231 of 262
 
-cell wallHuman cells do not have cell walls
+cell wallHuman cells do not have cell walls.
 
 Cetirizine is a _________ medication 
 used to treat _______
 
 cell wallHuman cells do not have cell walls
 
-Cetirizine is a _________ medication 
-used to treat _______
+Cetirizine is a _________ medication used to treat _______.
 232 of 262
 
 antihistamine used to treat allergies.
@@ -2305,7 +2300,7 @@ antihistamine used to treat allergies.
 Cetirizine blocks ________.
 233 of 262
 
-H1 (histamine)Histamine is released from mast cells & the medication just blocks it
+H1 (histamine)Histamine is released from mast cells & the medication just blocks it.
 
 Which antihistamines would have fewer anticholinergic side effects, 1st or 2nd generation?
 
@@ -2314,7 +2309,7 @@ H1 (histamine)Histamine is released from mast cells & the medication just bloc
 Which antihistamines would have fewer anticholinergic side effects, 1st or 2nd generation?
 234 of 262
 
-Second generation has fewer anticholinergic side effects.Anticholinergic effects are dry eye, dry mouth, decreased urination etc."
+Second generation has fewer anticholinergic side effects. - Anticholinergic effects are dry eye, dry mouth, decreased urination etc.
 
 Which antihistamine can cause oculogyric crisis?
 
@@ -2323,7 +2318,7 @@ Second generation has fewer anticholinergic side effects.Anticholinergic effec
 Which antihistamine can cause oculogyric crisis?
 235 of 262
 
-ZyrtecOculogyric crisis is spasm in the extraocular muscles
+ZyrtecOculogyric crisis is spasm in the extraocular muscles.
 
 Chloramphenicol is a ______ medication.
 
@@ -2336,12 +2331,12 @@ antibioticAntibiotics treat bacterial infections
 
 The antibiotic with the potential side effects of hemolytic and aplastic anemia is:
 
-antibioticAntibiotics treat bacterial infections
+antibioticAntibiotics treat bacterial infections.
 
 The antibiotic with the potential side effects of hemolytic and aplastic anemia is:
 237 of 262
 
-chloramphenicolAnemias are decreased blood cell components and can be fatal
+chloramphenicolAnemias are decreased blood cell components and can be fatal.
 
 The mechanism of action of chloramphenicol is:
 
@@ -2350,16 +2345,16 @@ chloramphenicolAnemias are decreased blood cell components and can be fatal
 The mechanism of action of chloramphenicol is:
 238 of 262
 
-inhibition of bacterial protein synthesisIt binds to the 50S subunit of the 70S ribosome
+inhibition of bacterial protein synthesisIt binds to the 50S subunit of the 70S ribosome.
 
 The antibiotic with potential side effect of "gray baby" syndrome 
 
 inhibition of bacterial protein synthesisIt binds to the 50S subunit of the 70S ribosome
 
-The antibiotic with potential side effect of "gray baby" syndrome 
+The antibiotic with potential side effect of "gray baby" syndrome .
 239 of 262
 
-chloramphenicolIn the syndrome there is a sudden decrease in blood pressure
+chloramphenicolIn the syndrome there is a sudden decrease in blood pressure.
 
 Chloramphenicol inhibits protein synthesis by binding to the ________.
 
@@ -2368,7 +2363,7 @@ chloramphenicolIn the syndrome there is a sudden decrease in blood pressure
 Chloramphenicol inhibits protein synthesis by binding to the ________.
 240 of 262
 
-50S ribosomal subunit.Ribosomes make proteins from amino acids
+50S ribosomal subunit.Ribosomes make proteins from amino acids.
 
 A potential ocular side effect of chloroquine is:
 
@@ -2377,7 +2372,7 @@ A potential ocular side effect of chloroquine is:
 A potential ocular side effect of chloroquine is:
 241 of 262
 
-MaculopathyThis can be seen fundoscopically as a bullseye, or seen early on OCT
+MaculopathyThis can be seen fundoscopically as a bullseye, or seen early on OCT.
 
 The _____ layer of the retina can be affected by chloroquine as a potential side effect.
 
@@ -2386,7 +2381,7 @@ MaculopathyThis can be seen fundoscopically as a bullseye, or seen early on OC
 The _____ layer of the retina can be affected by chloroquine as a potential side effect.
 242 of 262
 
-RPE (retinal pigmented epithelium)The RPE is the outermost layer of the retina
+RPE (retinal pigmented epithelium)The RPE is the outermost layer of the retina.
 
 The retinal signs associated with chloroquine maculopathy are:
 
@@ -2395,7 +2390,7 @@ RPE (retinal pigmented epithelium)The RPE is the outermost layer of the retina
 The retinal signs associated with chloroquine maculopathy are:
 243 of 262
 
-Bull's eye maculopathy: a ring of atrophy surrounding an island of healthy retina at the fovea.A ring of atrophy around an area of healthy retina centered at the fovea
+Bull's eye maculopathy: Seen as a ring of atrophy surrounding an island of healthy retina at the fovea.A ring of atrophy around an area of healthy retina centered at the fovea.
 
 True or false: The primary area of the retina affected by chloroquine maculopathy is the fovea.
 
@@ -2404,7 +2399,7 @@ Bull's eye maculopathy: a ring of atrophy surrounding an island of healthy retin
 True or false: The primary area of the retina affected by chloroquine maculopathy is the fovea.
 244 of 262
 
-FalseTypically atrophy first occurs surrounding the fovea
+FalseTypically atrophy first occurs surrounding the fovea.
 
 Similar to amiodarone, chloroquine can also cause the ocular side effect of ___________
 
@@ -2413,7 +2408,7 @@ FalseTypically atrophy first occurs surrounding the fovea
 Similar to amiodarone, chloroquine can also cause the ocular side effect of ___________
 245 of 262
 
-Whorl keratopathy aka corneal verticillataThis is a lesser known side effect
+Whorl keratopathy aka corneal verticillataThis is a lesser known side effect.
 
 The mechanisms of action of chloroquine are:
 
@@ -2422,22 +2417,22 @@ Whorl keratopathy aka corneal verticillataThis is a lesser known side effect
 The mechanisms of action of chloroquine are:
 246 of 262
 
-1. Increases levels of heme in red blood cells to create a toxic environment for the parasite that causes malaria.2. Inhibits PLA to decrease inflammation.The malaria parasite is plasmodium
+1/Increases levels of heme in red blood cells to create a toxic environment for the parasite that causes malaria. 2/Inhibits PLA to decrease inflammation. - The malaria parasite is plasmodium.
 
 Two conditions that chloroquine treats:
 
-1. Increases levels of heme in red blood cells to create a toxic environment for the parasite that causes malaria.2. Inhibits PLA to decrease inflammation.The malaria parasite is plasmodium
+1/Increases levels of heme in red blood cells to create a toxic environment for the parasite that causes malaria. 2/Inhibits PLA to decrease inflammation. - The malaria parasite is plasmodium.
 
 Two conditions that chloroquine treats:
 247 of 262
 
-malaria and inflammationEx: lupus, rheumatoid arthritis, Sjogrens & antiphospholipid antibody
+malaria and inflammation - Ex: lupus, rheumatoid arthritis, Sjogrens & antiphospholipid antibody syndrome
 
 Chloroquine can bind to _______ in the RPE layer of the retina, causing its damaging side effects
 
 malaria and inflammationEx: lupus, rheumatoid arthritis, Sjogrens & antiphospholipid antibody
 
-Chloroquine can bind to _______ in the RPE layer of the retina, causing its damaging side effects
+Chloroquine can bind to _______ in the RPE layer of the retina, causing its damaging side effects.
 248 of 262
 
 melaninNOT to be confused with the sleep hormone melatonin!
@@ -2449,7 +2444,7 @@ melaninNOT to be confused with the sleep hormone melatonin!
 Visual field defects associated with chloroquine retinopathy are:
 249 of 262
 
-Central or paracentral scotomasGlaucoma defects are usually peripheral initially
+Central or paracentral scotomasGlaucoma defects are usually peripheral initially.
 
 Four tests commonly used in the management of patients taking chloroquine are:
 
@@ -2458,16 +2453,16 @@ Central or paracentral scotomasGlaucoma defects are usually peripheral initial
 Four tests commonly used in the management of patients taking chloroquine are:
 250 of 262
 
-Macular OCT, 10-2 visual field, fundus photos with fundus autofluorescence, and less pertinently color vision.It is important to do a 10-2 rather than a 24-2 as used in glaucomad
+MacularOCT, 10-2 visual field, fundus photos with fundus autofluorescence, and less pertinently color vision.- It is important to do a 10-2 rather than a 24-2 as used in glaucoma.
 
 Chlorothiazide is used to treat:
 
-Macular OCT, 10-2 visual field, fundus photos with fundus autofluorescence, and less pertinently color vision.It is important to do a 10-2 rather than a 24-2 as used in glaucomad
+Macular-OCT, 10-2 visual field, fundus photos with fundus autofluorescence, and less pertinently color vision.It is important to do a 10-2 rather than a 24-2 as used in glaucomad
 
 Chlorothiazide is used to treat:
 251 of 262
 
-hypertensionDo NOT confuse with chloroquine (the antimalarial and anti- inflammatory)"
+hypertension- Do NOT confuse with chloroquine (the antimalarial and anti-inflammatory)
 
 Chlorothiazide is in the following class of medications:
 
@@ -2476,7 +2471,7 @@ hypertensionDo NOT confuse with chloroquine (the antimalarial and anti- inflam
 Chlorothiazide is in the following class of medications:
 252 of 262
 
-thiazide diureticsIt is in the name: chloroTHIAZIDE"
+thiazide diuretics - It is in the name: chloroTHIAZIDE
 
 Thiazide diuretics target the ______ of the nephron in the kidneys.
 
@@ -2485,13 +2480,13 @@ thiazide diureticsIt is in the name: chloroTHIAZIDE"
 Thiazide diuretics target the ______ of the nephron in the kidneys.
 253 of 262
 
-distal convoluted tubuleIt keeps ions in the urine to be secreted with water
+distal convoluted tubuleIt keeps ions in the urine to be secreted with water.
 
 at the kidney,  chlorothiazide targets the____________?
 
 distal convoluted tubuleIt keeps ions in the urine to be secreted with water
 
-at the kidney,  chlorothiazide targets the____________?
+In the kidney, chlorothiazide targets the____________.
 254 of 262
 
 distal convoluted tubule
@@ -2503,7 +2498,7 @@ distal convoluted tubule
 The mechanism of action of chlorothiazide is:
 255 of 262
 
-Chlorothiazide is a thiazide diuretic and works by blocking Cl- pumps in the distal tubule.
+Chlorothiazide is a thiazide diuretic and works by blocking chloride pumps in the distal tubule.
 
 Chlorothiazide promotes excretion of ____ by preventing reabsorption of __ in the kidneys.
 
@@ -2512,7 +2507,7 @@ Chlorothiazide is a thiazide diuretic and works by blocking Cl- pumps in the dis
 Chlorothiazide promotes excretion of ____ by preventing reabsorption of __ in the kidneys.
 256 of 262
 
-water by preventing reabsorption of Na+Generally water follows where Na+ goes
+water by preventing reabsorption of sodium - Generally water follows where Na+ goes.
 
 The ion (Na+/K+/Ca++/Fe/H-) often controls the movement of water.
 
@@ -2527,10 +2522,10 @@ In addition to preventing the reabsorption of water by the kidneys, chlorothiazi
 
 Na+
 
-In addition to preventing the reabsorption of water by the kidneys, chlorothiazide also increases the secretion of __ , ___, ___
+In addition to preventing the reabsorption of water by the kidneys, chlorothiazide also increases the secretion of __ , ___, ___.
 258 of 262
 
-Cl-, K+, and bicarbonate
+chloride, potassium and bicarbonate
 
 Due to its effect on ions, a potential side effect of chlorothiazide if used in excess is hypo____ and hyper____
 
@@ -2539,7 +2534,7 @@ Cl-, K+, and bicarbonate
 Due to its effect on ions, a potential side effect of chlorothiazide if used in excess is hypo____ and hyper____
 259 of 262
 
-Hypo-kalemia and hypo-natremia, hyper-calcemiaThis is due to the excretion of K+ and Na+
+Hypo-kalemia and hypo-natremia, hyper-calcemiaThis is due to the excretion of K+ and Na+.
 
 Potential ocular side effects of chlorothiazide include:
 
@@ -2555,19 +2550,18 @@ that can treat ______.
 
 transient myopia and acute angle closure
 
-Chlorpheniramine is a medication 
-that can treat ______.
+Chlorpheniramine is a medication that can treat ______.
 261 of 262
 
-allergiesMany allergy medications have "phen" in their name
+allergiesMany allergy medications have "phen" in their name.
 
 Chlorpheniramine is in the following class of medications.:
 
 allergiesMany allergy medications have "phen" in their name
 
-Chlorpheniramine is in the following class of medications.:
+Chlorpheniramine is in the following class of medications:
 262 of 262
 
-antihistamineThey block the action of histamine that is already in circulation
+antihistamineThey block the action of histamine that is already in circulation.
 
 Chlorpheniramine and other medications in its class can cause a(n) (increase/decrease) in aqueous tear secretion resulting in _____.
