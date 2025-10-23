@@ -110,29 +110,34 @@ function cleanLine(s){
 function splitAnsExpl(line){
   if(!line) return {a:'', e:''};
 
-  // Normalize characters
+  // normalize weird characters/spaces
   line = line
     .replace(/\u00A0/g,' ')
     .replace(/\u200B/g,'')
-    .replace(/\u2013|\u2014/g,'-')
+    .replace(/\u2013|\u2014/g,'-')   // en/em dash -> hyphen
     .replace(/[“”]/g,'"')
     .replace(/[‘’]/g,"'")
+    .replace(/\s+/g,' ')
     .trim();
 
-  // 1️⃣ If colon, semicolon, or dash clearly divides short answer from longer explanation
-  let m = line.match(/^(.{3,80}?)([:;–—-])\s+(.{10,})$/);
-  if (m && m[1].split(/\s+/).length <= 12) return {a:m[1].trim(), e:m[3].trim()};
+  // 1) Delimiter-based split (colon/semicolon/dash) — more forgiving on length
+  //    Require at least one space AFTER the delimiter to avoid hyphenated words.
+  let m = line.match(/^(.{1,140}?)(?:\s*[:;\-]\s+)(.{5,})$/);
+  if (m) return { a: m[1].trim(), e: m[2].trim() };
 
-  // 2️⃣ If sentence break after short phrase (e.g. "Porphyria. Tinnitus ...")
-  let dot = line.indexOf('. ');
-  if (dot > 0 && dot < 90) {
-    let first = line.slice(0, dot).trim();
-    let rest = line.slice(dot + 2).trim();
-    if (first.split(/\s+/).length <= 10) return {a:first, e:rest};
+  // 2) Sentence break rule: period+space after a short-ish phrase
+  const dot = line.indexOf('. ');
+  if (dot > 0) {
+    const first = line.slice(0, dot).trim();
+    const rest  = line.slice(dot + 2).trim();
+    const words = first.split(/\s+/).length;
+    if (words <= 15 || first.length <= 140) {
+      return { a: first, e: rest };
+    }
   }
 
-  // 3️⃣ Otherwise treat the whole thing as one answer
-  return {a:line.trim(), e:''};
+  // 3) Fallback: no split
+  return { a: line, e: '' };
 }
 function parseTxt(txt, totalHint){
   const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
