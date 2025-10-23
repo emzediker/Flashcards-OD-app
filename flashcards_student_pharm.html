@@ -108,45 +108,10 @@ function cleanLine(s){
           .replace(/[^\S\r\n]+/g,' ').trim();
 }
 function splitAnsExpl(line){
-  if(!line) return {a:'', e:''};
-  // normalize spaces & dashes
-  let s = line.replace(/\u00A0/g,' ')
-              .replace(/\u200B/g,'')
-              .replace(/[“”]/g,'"')
-              .replace(/[‘’]/g,"'")
-              .replace(/\u2013|\u2014/g,'—')  // en/em -> em
-              .replace(/[^\S\r\n]+/g,' ')
-              .trim();
-
-  // 1) Strong divider: colon or spaced dash (—/–/-) like "Answer — explanation" or "Answer - explanation"
-  //    Hyphen must be surrounded by spaces so we don't split chemical names etc.
-  let m = s.match(/^(.{1,80}?)(?:\s*[:：]|\s[—-]\s)\s+(.{6,})$/);
-  if (m) return { a: m[1].trim(), e: m[2].trim() };
-
-  // 2) Semicolon as divider: "Answer; explanation"
-  m = s.match(/^(.{1,80}?)\s*;\s+(.{6,})$/);
-  if (m) return { a: m[1].trim(), e: m[2].trim() };
-
-  // 3) Safe ". " split: only if first piece is short and NOT an abbreviation
-  //    Works for your case: "Porphyria. tinnitus ...": answer="Porphyria", explanation="tinnitus ..."
-  const abbrevTail = /\b(?:vs|etc|e\.g|i\.e|mg|mcg|kg|g|hr|hrs|min|mins|no|ca|approx)\.$/i;
-  const dot = s.indexOf('. ');
-  if (dot > 0 && dot <= 80) {
-    const first = s.slice(0, dot).trim();
-    const rest  = s.slice(dot + 2).trim();
-    const shortAnswer = first.split(/\s+/).length <= 6;
-    if (shortAnswer && !abbrevTail.test(first)) {
-      return { a: first, e: rest };
-    }
-  }
-
-  // 4) Space-gap heuristic: "Answer   Explanation" (multiple spaces then capital/number)
-  m = s.match(/^(.{1,60}?)[ ]{2,}([A-Za-z0-9].{8,})$/);
-  if (m) return { a: m[1].trim(), e: m[2].trim() };
-
-  // Fallback: everything is the answer, no explanation
-  return { a: s, e: '' };
-}
+  let m=line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/); if(m) return {a:m[1].trim(),e:m[2].trim()};
+  m=line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/); if(m && !/[.?!]$/.test(m[1])) return {a:m[1].trim(),e:m[2].trim()};
+  const dot=line.indexOf('. '); if(dot>0 && dot<=80){ const first=line.slice(0,dot).trim(); const rest=line.slice(dot+2).trim(); if(first.split(/\s+/).length<=6) return {a:first,e:rest}; }
+  return {a:line.trim(),e:''};
 }
 function parseTxt(txt, totalHint){
   const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
