@@ -13,7 +13,7 @@ decrease ; dry eyeThis is an anticholinergic side effect
 Chlorpromazine is a medication used to treat:
 2 of 262
 
-Psychosis (it is an antipsychotic in schizophrenia) as well as tinnitus, severe nausea, and blood disorders like porphyria. - Explaination: Tinnitus is ringing in the ear and can happen in pseudotumor/IIH.
+Psychosis (it is an antipsychotic in schizophrenia) as well as tinnitus, severe nausea, and blood disorders like porphyria. : Tinnitus is ringing in the ear and can happen in pseudotumor/IIH.
 
 As an ocular side effect, chlorpromazine may cause ________ changes to _______
 
