@@ -1499,7 +1499,7 @@ liver
 In the liver, metformin decreases __________ and in the intestine, metformin slows ______.
 160 of 262
 
-gluconeogenesis, absorption of sugarGluconeogenesis is create of glucose from nonglucose macromolecules.
+gluconeogenesis, absorption of sugar - Gluconeogenesis is create of glucose from nonglucose macromolecules.
 
 Carbonic anhydrase inhibitors typically end with the suffix:
 
@@ -1821,8 +1821,7 @@ antagonistic to lung b-2 receptors
 The act of _____ occlusion can decrease systemic absorption of an ocular topical medication.
 193 of 262
 
-punctal occlusionPunctal occlusion blocks nasal duct 
-drainage and absorption
+punctal occlusion- Punctal occlusion blocks nasal duct drainage and absorption.
 
 Depression, lightheadedness, weight gain, syncope, impotence, and decreased heart rate can all be associated with the following class of hypertension medications:
 
@@ -1832,7 +1831,7 @@ drainage and absorption
 Depression, lightheadedness, weight gain, syncope, impotence, and decreased heart rate can all be associated with the following class of hypertension medications:
 194 of 262
 
-beta-blockersThey can also mask the symptoms of low blood sugar such as tremor
+beta-blockers - They can also mask the symptoms of low blood sugar such as tremor.
 
 Metoprolol is a medication used to treat:
 
@@ -1841,8 +1840,7 @@ beta-blockersThey can also mask the symptoms of low blood sugar such as tremor
 Metoprolol is a medication used to treat:
 195 of 262
 
-blood pressure and heart failureIt is a beta-blocker. 
-"Hypertension" is high blood pressure
+blood pressure and heart failureIt is a beta-blocker. - "Hypertension" is high blood pressure.
 
 Metoprolol belongs to the following class of medications:
 
@@ -1852,7 +1850,7 @@ blood pressure and heart failureIt is a beta-blocker.
 Metoprolol belongs to the following class of medications:
 196 of 262
 
-beta-blockerBeta-blockers end in the suffix -olol
+beta-blocker - Beta-blockers end in the suffix -olol.
 
 Metoprolol is a medication that is selective to beta (1/2/both) receptors.
 
@@ -1861,8 +1859,7 @@ beta-blockerBeta-blockers end in the suffix -olol
 Metoprolol is a medication that is selective to beta (1/2/both) receptors.
 197 of 262
 
-beta-1Betaxolol is also a beta-1 selective 
-beta-blocker
+beta-1 - Betaxolol is also a beta-1 selective beta-blocker.
 
 Medications that target beta-1 receptors have more effects on the (heart/lungs) and medications that target beta-2 receptors have more effects on the (heart/lungs).
 
@@ -1872,7 +1869,7 @@ beta-blocker
 Medications that target beta-1 receptors have more effects on the (heart/lungs) and medications that target beta-2 receptors have more effects on the (heart/lungs).
 198 of 262
 
-beta-1 have more effects on the heart and beta-2 have more effects on the lungs.Side effects will mirror over/under activation of receptors accordingly
+beta-1 have more effects on the heart and beta-2 have more effects on the lungs. -  Side effects will mirror over/under activation of receptors accordingly.
 
 Metronidazole is a _________ medication.
 
@@ -1881,8 +1878,7 @@ beta-1 have more effects on the heart and beta-2 have more effects on the lungs.
 Metronidazole is a _________ medication.
 199 of 262
 
-antibiotic in the nitroimidazole class that also 
-treats protozoal infections.!! It ends in azole but IS NOT an antifungal like ketoconazole !!
+antibiotic in the nitroimidazole class that also treats protozoal infections. -- !! It ends in azole but IS NOT an antifungal like ketoconazole !!
 
 The mechanism of action of metronidazole is:
 
@@ -1892,8 +1888,7 @@ treats protozoal infections.!! It ends in azole but IS NOT an antifungal like 
 The mechanism of action of metronidazole is:
 200 of 262
 
-inhibition of nucleic acid synthesisMetronidazole is NOT in the 
-same family of ketoconazole
+inhibition of nucleic acid synthesis - Metronidazole is NOT in the same family of ketoconazole.
 
 Metronidazole has an effect on (aerobic/anaerobic) bacteria and protozoa.
 
@@ -1903,19 +1898,17 @@ same family of ketoconazole
 Metronidazole has an effect on (aerobic/anaerobic) bacteria and protozoa.
 201 of 262
 
-anaerobicAerobic bacteria need oxygen to survive, 
-Anaerobic do not need oxygen
+anaerobic - Aerobic bacteria need oxygen to survive. Anaerobic do not need oxygen.
 
 Miconazole is a(n )_____ medication.
 
 anaerobicAerobic bacteria need oxygen to survive, 
 Anaerobic do not need oxygen
 
-Miconazole is a(n )_____ medication.
+Miconazole is a(n)_____ medication.
 202 of 262
 
-antifungal Antifungals often end in "conazole" 
-Ex ketoconazole
+antifungal - Antifungals often end in "conazole." Ex. ketoconazole
 
 The enzyme inhibited by miconazole is _______.
 
@@ -1925,8 +1918,7 @@ Ex ketoconazole
 The enzyme inhibited by miconazole is _______.
 203 of 262
 
-CYP450 14a-lanosterol demethylaseCYP450 is also an enzyme present in the 
-human liver
+CYP450 14a-lanosterol demethylase - CYP450 is also an enzyme present in the human liver.
 
 The mechanism of action of miconazole and other medications in its class is:
 
@@ -1936,9 +1928,7 @@ human liver
 The mechanism of action of miconazole and other medications in its class is:
 204 of 262
 
-inhibition the synthesis of ergosterol in the 
-cell membranes of fungiAchieved by inhibiting the enzyme CYP450 
-14a-lanosterol demethylase
+inhibition the synthesis of ergosterol in the cell membranes of fungi - Achieved by inhibiting the enzyme CYP450 14a-lanosterol demethylase.
 
 Montelukast is a medication that treats:
 
@@ -1949,7 +1939,7 @@ cell membranes of fungiAchieved by inhibiting the enzyme CYP450
 Montelukast is a medication that treats:
 205 of 262
 
-allergies and asthmaIt is NOT a steroid, antihistamine, mast stabilizer or beta-2 agonist!
+allergies and asthma - It is NOT a steroid, antihistamine, mast stabilizer or beta-2 agonist!
 
 Montelukast is a _______ receptor (agonist/antagonist).
 
@@ -1958,16 +1948,16 @@ allergies and asthmaIt is NOT a steroid, antihistamine, mast stabilizer or bet
 Montelukast is a _______ receptor (agonist/antagonist).
 206 of 262
 
-leukotriene receptor antagonistLeukotrienes are mediators of inflammation
+leukotriene receptor antagonist - Leukotrienes are mediators of inflammation.
 
 Montelukast blocks the action of (histamine/leukotriene), a (cannabinoid/eicosanoid) which is typically released from ____ cells
 
 leukotriene receptor antagonistLeukotrienes are mediators of inflammation
 
-Montelukast blocks the action of (histamine/leukotriene), a (cannabinoid/eicosanoid) which is typically released from ____ cells
+Montelukast blocks the action of (histamine/leukotriene), a (cannabinoid/eicosanoid) which is typically released from ____ cells.
 207 of 262
 
-leukotriene; eicosanoid; mast cellsHistamine also comes from mast cells
+leukotriene, eicosanoid, mast cells - Histamine also comes from mast cells.
 
 True or False: Montelukast is a mast cell stabilizer.
 
@@ -1976,7 +1966,7 @@ leukotriene; eicosanoid; mast cellsHistamine also comes from mast cells
 True or False: Montelukast is a mast cell stabilizer.
 208 of 262
 
-FALSEIt is an "anti-leukotriene" and does not halt mast cell degranulation
+FALSE - It is an "anti-leukotriene" and does not halt mast cell degranulation.
 
 Which is secreted from mast cells first, histamines or leukotrienes?
 
@@ -1985,7 +1975,7 @@ FALSEIt is an "anti-leukotriene" and does not halt mast cell degranulation
 Which is secreted from mast cells first, histamines or leukotrienes?
 209 of 262
 
-HistaminesThey are released via mast cell degranulation
+Histamines - They are released via mast cell degranulation.
 
 Montelukast is indicated for the (acute/chronic) treatment of asthma.
 
@@ -2003,7 +1993,7 @@ chronic
 Montelukast (increases/decreases) inflammation and (increases/decreases) bronchodilation.
 211 of 262
 
-decreases inflammation and increases bronchodilationIn patients with asthma bronchoconstriction is the problem
+decreases inflammation and increases bronchodilation - In patients with asthma bronchoconstriction is the problem.
 
 Leukotrienes typically cause vaso(dilation/constriction).
 
@@ -2012,7 +2002,7 @@ decreases inflammation and increases bronchodilationIn patients with asthma br
 Leukotrienes typically cause vaso(dilation/constriction).
 212 of 262
 
-dilationLeukotrienes increase blood vessel permeability for cell migration
+dilation - Leukotrienes increase blood vessel permeability for cell migration.
 
 Moxifloxacin belongs to the following class of medications:
 
@@ -2021,29 +2011,27 @@ dilationLeukotrienes increase blood vessel permeability for cell migration
 Moxifloxacin belongs to the following class of medications:
 213 of 262
 
-fluoroquinolonesFluoroquinolones often end in ""floxacin."" 
-Ex gatifloxacin
+fluoroquinolones - Fluoroquinolones often end in ""floxacin." Ex. gatifloxacin
 
 Nalidixic acid is the predecessor of the following class of medications:
 
-fluoroquinolonesFluoroquinolones often end in ""floxacin."" 
+fluoroquinolonesFluoroquinolones often end in ""floxacin.""
 Ex gatifloxacin
 
 Nalidixic acid is the predecessor of the following class of medications:
 214 of 262
 
-FluoroquinolonesNalidixic acid is used to treat bacterial urinary tract infections
+Fluoroquinolones - Nalidixic acid is used to treat bacterial urinary tract infections.
 
 Moxifloxacin interferes with the 
 two enzymes _______ and _____.
 
 FluoroquinolonesNalidixic acid is used to treat bacterial urinary tract infections
 
-Moxifloxacin interferes with the 
-two enzymes _______ and _____.
+Moxifloxacin interferes with the two enzymes _______ and _____.
 215 of 262
 
-DNA gyrase and topoisomerase IVThey are involved in bacterial DNA synthesis
+DNA gyrase and topoisomerase IV - They are involved in bacterial DNA synthesis.
 
 Naloxone is a ______receptor (agonist/antagonist).
 
@@ -2052,8 +2040,7 @@ DNA gyrase and topoisomerase IVThey are involved in bacterial DNA synthesis
 Naloxone is a ______receptor (agonist/antagonist).
 216 of 262
 
-opioid receptor antagonist| It blocks the opioid receptors that 
-typically relieve pain
+opioid receptor antagonist - It blocks the opioid receptors that typically relieve pain.
 
 The mechanism of action of naloxone is 
 that it acts as a:
@@ -2061,12 +2048,10 @@ that it acts as a:
 opioid receptor antagonist| It blocks the opioid receptors that 
 typically relieve pain
 
-The mechanism of action of naloxone is 
-that it acts as a:
+The mechanism of action of naloxone is that it acts as a:
 217 of 262
 
-competitive antagonist to opioid receptors.AGONIST to opioid receptors 
-decrease pain sensation
+competitive antagonist to opioid receptors. - AGONIST to opioid receptors decrease pain sensation.
 
 Naloxone has the greatest affinity for (mu/kappa/delta/sigma) opioid receptors.
 
@@ -2076,7 +2061,7 @@ decrease pain sensation
 Naloxone has the greatest affinity for (mu/kappa/delta/sigma) opioid receptors.
 218 of 262
 
-MuNaloxone acts as an antagonist
+Mu - Naloxone acts as an antagonist.
 
 Naloxone is a medication used to treat:
 
@@ -2085,8 +2070,7 @@ MuNaloxone acts as an antagonist
 Naloxone is a medication used to treat:
 219 of 262
 
-opioid overdoseFatal overdose can occur from 
-respiratory failure
+opioid overdose - Fatal overdose can occur from respiratory failure.
 
 In the absence of opioids, naloxone is 
 (overactive / inert)
@@ -2094,11 +2078,10 @@ In the absence of opioids, naloxone is
 opioid overdoseFatal overdose can occur from 
 respiratory failure
 
-In the absence of opioids, naloxone is 
-(overactive / inert)
+In the absence of opioids, naloxone is (overactive / inert).
 220 of 262
 
-inertNaloxone has no effect on the body if opioids are not also present
+inert - Naloxone has no effect on the body if opioids are not also present.
 
 Naphazoline is a(n) __ receptor (agonist/antagonist).
 
@@ -2107,17 +2090,16 @@ inertNaloxone has no effect on the body if opioids are not also present
 Naphazoline is a(n) __ receptor (agonist/antagonist).
 221 of 262
 
-alpha-1 agonistAlpha-1 are adrenergic receptors on blood vessels
+alpha-1 agonist - Alpha-1 are adrenergic receptors on blood vessels.
 
 The medication naphazoline causes vaso(constriction/dilation)
 
 alpha-1 agonistAlpha-1 are adrenergic receptors on blood vessels
 
-The medication naphazoline causes vaso(constriction/dilation)
+The medication naphazoline causes vaso(constriction/dilation).
 222 of 262
 
-constrictionConstriction of conjunctival 
-blood vessels causes whitening of the eye
+constriction - Constriction of conjunctival blood vessels causes whitening of the eye.
 
 A potential ocular side effect of naphazoline is 
 pupillary (constriction/dilation).
@@ -2125,19 +2107,17 @@ pupillary (constriction/dilation).
 constrictionConstriction of conjunctival 
 blood vessels causes whitening of the eye
 
-A potential ocular side effect of naphazoline is 
-pupillary (constriction/dilation).
+A potential ocular side effect of naphazoline is pupillary (constriction/dilation).
 223 of 262
 
-dilationNaphazoline constricts the conj blood 
-vessels and dilates the pupil
+dilation - Naphazoline constricts the conjunctival blood vessels and dilates the pupil.
 
 Naphazoline is a topical ocular "____________"
 
 dilationNaphazoline constricts the conj blood 
 vessels and dilates the pupil
 
-Naphazoline is a topical ocular "____________"
+Naphazoline is a topical ocular "____________."
 224 of 262
 
 decongestant
@@ -2149,7 +2129,7 @@ decongestant
 The ocular phenomenon of rebound redness is possible with longterm use of ocular decongestants such as ________.
 225 of 262
 
-naphazolineA red eye is described with the medical term "hyperemia"
+naphazoline - A red eye is described with the medical term "hyperemia."
 
 The actions of naphazoline simulate (sympathetic / parasympathetic) effects on the blood vessels of the eye.
 
@@ -2158,7 +2138,7 @@ naphazolineA red eye is described with the medical term "hyperemia"
 The actions of naphazoline simulate (sympathetic / parasympathetic) effects on the blood vessels of the eye.
 226 of 262
 
-sympatheticThe sympathetic response comes with pupil dilation and increased BP
+sympathetic - The sympathetic response comes with pupil dilation and increased BP.
 
 Naproxen belongs to the following class of medications:
 
@@ -2176,7 +2156,7 @@ NSAID
 Naproxen is a medication used to treat:
 228 of 262
 
-pain and inflammationVia inhibition of inflammatory enzymes
+pain and inflammation - Via inhibition of inflammatory enzymes.
 
 Naproxen is a pain medication that acts (centrally/peripherally).
 
@@ -2185,8 +2165,7 @@ pain and inflammationVia inhibition of inflammatory enzymes
 Naproxen is a pain medication that acts (centrally/peripherally).
 229 of 262
 
-peripherallyIt does not change pain sensation in 
-the brain, but treats inflammation
+peripherally - It does not change pain sensation in the brain, but treats inflammation.
 
 The mechanism of action of naproxen is:
 
@@ -2196,7 +2175,7 @@ the brain, but treats inflammation
 The mechanism of action of naproxen is:
 230 of 262
 
-inhibition of COX enzymes to prevent production of prostaglandins.Prostaglandins are also used therapeutically to treat glaucoma
+inhibition of COX enzymes to prevent production of prostaglandins. - Prostaglandins are also used therapeutically to treat glaucoma.
 
 NSAIDS are anti______,_______,_____,_______.
 
@@ -2214,7 +2193,7 @@ Anti pain, inflammatory, fever, platelet
 Natamycin is medication used to treat:
 232 of 262
 
-fungal eye infections!Natamycin does not have "conazole" in its name like other antifungals!
+fungal eye infections - !Natamycin does not have "conazole" in its name like other antifungals!
 
 The mechanism of action of natamycin is:
 
@@ -2223,16 +2202,16 @@ fungal eye infections!Natamycin does not have "conazole" in its name like othe
 The mechanism of action of natamycin is:
 233 of 262
 
-binding to ergosterol to disrupt fungal cell membranes."conazole" antifungals stop CREATION of ergosterol, natamycin does not
+binding to ergosterol to disrupt fungal cell membranes. - "conazole" antifungals stop CREATION of ergosterol, natamycin does not.
 
 Candida, aspergillus and fusarium are all microbes that can be treated with anti_____ medications
 
 binding to ergosterol to disrupt fungal cell membranes."conazole" antifungals stop CREATION of ergosterol, natamycin does not
 
-Candida, aspergillus and fusarium are all microbes that can be treated with anti_____ medications
+Candida, aspergillus and fusarium are all microbes that can be treated with anti_____ medications.
 234 of 262
 
-antifungal medicationsAntibiotics treat bacteria like staph, strep, or entero bacteria
+antifungal medications - Antibiotics treat bacteria like staph, strep, or entero bacteria.
 
 Nedocromil belongs to the following class of medications:
 
@@ -2241,7 +2220,7 @@ antifungal medicationsAntibiotics treat bacteria like staph, strep, or entero 
 Nedocromil belongs to the following class of medications:
 235 of 262
 
-mast cell stabilizerCROMolym sodium and nedoCROMil are both mast cell stabilizers
+mast cell stabilizer - CROMolym sodium and nedoCROMil are both mast cell stabilizers.
 
 Nedocromil is a medication used to treat:
 
@@ -2256,10 +2235,10 @@ Mast cell stabilizers often have the letters "____" in their name."
 
 asthma and chronic allergies
 
-Mast cell stabilizers often have the letters "____" in their name."
+Mast cell stabilizers often have the letters "____" in their name.
 237 of 262
 
-"crom"Ex. nedoCROMil, CROMolyn sodium
+"crom" - Ex. nedoCROMil, CROMolyn sodium
 
 The mechanism of action of nedocromil is:
 
@@ -2268,7 +2247,7 @@ The mechanism of action of nedocromil is:
 The mechanism of action of nedocromil is:
 238 of 262
 
-Preventing degranulation of mast cells so that they cannot release their inflammatory mediators such as histamine/leukotrienes.Degranulation is calcium-induced release of cellular components
+Preventing degranulation of mast cells so that they cannot release their inflammatory mediators such as histamine/leukotrienes. - Degranulation is calcium-induced release of cellular components.
 
 Nedocromil prevents mast cell degranulation by preventing the uptake of (calcium/sodium/potassium/hydrogen) ions by mast cells.
 
@@ -2277,8 +2256,7 @@ Preventing degranulation of mast cells so that they cannot release their inflamm
 Nedocromil prevents mast cell degranulation by preventing the uptake of (calcium/sodium/potassium/hydrogen) ions by mast cells.
 239 of 262
 
-calciumCalcium is also involved in 
-muscle contraction and kidney stones
+calcium - Calcium is also involved in muscle contraction and kidney stones.
 
 Neostigmine is a medication used to diagnose ____and treat ____.
 
@@ -2288,7 +2266,7 @@ muscle contraction and kidney stones
 Neostigmine is a medication used to diagnose ____and treat ____.
 240 of 262
 
-myasthenia gravis and overdose to select medicationsMyasthenia gravis is an autoimmune response to skeletal AcH receptors
+myasthenia gravis and overdose to select medications - Myasthenia gravis is an autoimmune response to skeletal AcH receptors.
 
 Neostigmine belongs to the following class of medications:
 
@@ -2297,7 +2275,7 @@ myasthenia gravis and overdose to select medicationsMyasthenia gravis is an au
 Neostigmine belongs to the following class of medications:
 241 of 262
 
-acetylcholinesterase enzyme inhibitorsAcetylcholinesterase enzymes break down endogenous acetylcholine
+acetylcholinesterase enzyme inhibitors - Acetylcholinesterase enzymes break down endogenous acetylcholine.
 
 The typical action of acetylcholinesterase is:
 
@@ -2306,8 +2284,7 @@ acetylcholinesterase enzyme inhibitorsAcetylcholinesterase enzymes break down 
 The typical action of acetylcholinesterase is:
 242 of 262
 
-to break down the neurotransmitter acetylcholine.
-Acetylcholine usually causes skeletal muscle contraction
+to break down the neurotransmitter acetylcholine. - Acetylcholine usually causes skeletal muscle contraction.
 
 The direct effect of neostigmine is inhibition of the enzyme ______, the indirect result of this action is (increased/decreased) levels of ________.
 
@@ -2317,7 +2294,7 @@ Acetylcholine usually causes skeletal muscle contraction
 The direct effect of neostigmine is inhibition of the enzyme ______, the indirect result of this action is (increased/decreased) levels of ________.
 243 of 262
 
-The direct effect is inhibition of acetylcholinesterase and the indirect result is increased levels of acetylcholine.This allows for more acetylcholine to be available for Ach receptors.
+The direct effect is inhibition of acetylcholinesterase and the indirect result is increased levels of acetylcholine. - This allows for more acetylcholine to be available for Ach receptors.
 
 Neostigmine effects neurotransmitters at (cholinergic/sympathetic/parasympathetic) junctions.
 
@@ -2326,7 +2303,7 @@ The direct effect is inhibition of acetylcholinesterase and the indirect result 
 Neostigmine effects neurotransmitters at (cholinergic/sympathetic/parasympathetic) junctions.
 244 of 262
 
-cholinergicNeostigmine increases AcetylCHOLINE availability to CHOLINErgic receptor"
+cholinergic - Neostigmine increases AcetylCHOLINE availability to CHOLINErgic receptor.
 
 Neostigmine is a (direct/indirect) cholinergic stimulant that works at (skeletal/smooth) muscle neuromuscular junctions.
 
@@ -2335,7 +2312,7 @@ cholinergicNeostigmine increases AcetylCHOLINE availability to CHOLINErgic rec
 Neostigmine is a (direct/indirect) cholinergic stimulant that works at (skeletal/smooth) muscle neuromuscular junctions.
 245 of 262
 
-indirect ; skeletalNeostigmine does not directly bind to Ach receptors, it increases Ach
+indirect, skeletal - Neostigmine does not directly bind to Ach receptors, it increases Ach.
 
 Nepafenac belongs to the following class of medications:
 
@@ -2353,7 +2330,7 @@ NSAID
 Medications used to treat myasthenia gravis often end in the suffix:
 247 of 262
 
--stigmineex. neostigmine and pyridostigmine are both Ach-esterase inhibitors
+-stigmine ex. neostigmine and pyridostigmine are both Ach-esterase inhibitors
 
 Ocular NSAIDs often end in the suffix:
 
@@ -2362,7 +2339,7 @@ Ocular NSAIDs often end in the suffix:
 Ocular NSAIDs often end in the suffix:
 248 of 262
 
--fenac or -rolacex. diclofenac, bromfenac (.... but also ketorolac)
+-fenac or -rolac - ex. diclofenac, bromfenac (.... but also ketorolac)
 
 The mechanism of action of nepafenac is:
 
@@ -2371,7 +2348,7 @@ The mechanism of action of nepafenac is:
 The mechanism of action of nepafenac is:
 249 of 262
 
-Inhibition of COX-1 and COX-2 enzymes, reducing the synthesis of prostaglandins.Prostaglandins are mediators of inflammation also used in glaucoma
+Inhibition of COX-1 and COX-2 enzymes, reducing the synthesis of prostaglandins. - Prostaglandins are mediators of inflammation also used in glaucoma.
 
 Nepafenac is a medication used to treat:
 
@@ -2398,8 +2375,7 @@ hypertension
 Nifedipine is in the following class of medications:
 252 of 262
 
-Calcium channel blockersMost Ca+ channel blockers end in "ipine" 
-except diltiazem or verapamil
+Calcium channel blockers - Most Ca+ channel blockers end in "ipine" except diltiazem or verapamil.
 
 The mechanism of action of nifedipine is:
 
@@ -2409,7 +2385,7 @@ except diltiazem or verapamil
 The mechanism of action of nifedipine is:
 253 of 262
 
-Preventing movement of calcium through voltage-gated calcium channels in membranes relaxing smooth musclesCa+ is needed for cardiac, skeletal or smooth muscle contraction
+Preventing movement of calcium through voltage-gated calcium channels in membranes relaxing smooth muscles - Ca+ is needed for cardiac, skeletal or smooth muscle contraction.
 
 Nifedipine causes vaso(constriction/dilation).
 
@@ -2418,7 +2394,7 @@ Preventing movement of calcium through voltage-gated calcium channels in membran
 Nifedipine causes vaso(constriction/dilation).
 254 of 262
 
-dilationVasodilation decreases blood pressure
+dilation - Vasodilation decreases blood pressure.
 
 The actions of nifedipine (decreases/increases) levels of (calcium/sodium/potassium/hydrogen) in cells.
 
@@ -2427,7 +2403,7 @@ dilationVasodilation decreases blood pressure
 The actions of nifedipine (decreases/increases) levels of (calcium/sodium/potassium/hydrogen) in cells.
 255 of 262
 
-Decreases ; calciumCa+ is needed for smooth muscle to contract in blood vessels
+Decreases, calcium - Ca+ is needed for smooth muscle to contract in blood vessels.
 
 Nystatin is in the following class of medications:
 
@@ -2436,7 +2412,7 @@ Decreases ; calciumCa+ is needed for smooth muscle to contract in blood vessel
 Nystatin is in the following class of medications:
 256 of 262
 
-antifungalMost antifungals have "conazole" in their name. Nystatin does not
+antifungal - Most antifungals have "conazole" in their name. Nystatin does not.
 
 The mechanism of action of nystatin is:
 
@@ -2445,7 +2421,7 @@ antifungalMost antifungals have "conazole" in their name. Nystatin does not
 The mechanism of action of nystatin is:
 257 of 262
 
-Interference with fungal cell membrane synthesis by interacting with ergosterol.Nystatin is NOT in the same family as the cholesterol med simvastatin
+Interference with fungal cell membrane synthesis by interacting with ergosterol. - Nystatin is NOT in the same family as the cholesterol med simvastatin.
 
 Ofloxacin belongs to the following class of medications:
 
@@ -2454,8 +2430,8 @@ Interference with fungal cell membrane synthesis by interacting with ergosterol.
 Ofloxacin belongs to the following class of medications:
 258 of 262
 
-fluoroquinoloneFluoroquinolones usually have "floxacin" in them 
-ex. moxifloxacin."
+fluoroquinolone - Fluoroquinolones usually have "floxacin" in them 
+ex. moxifloxacin.
 
 Ofloxacin is a medication used to treat:
 
@@ -2465,7 +2441,7 @@ ex. moxifloxacin."
 Ofloxacin is a medication used to treat:
 259 of 262
 
-bacterial infectionsIt is an antibiotic
+bacterial infections - It is an antibiotic.
 
 ________ is the predecessor for ofloxacin.
 
@@ -2474,8 +2450,7 @@ bacterial infectionsIt is an antibiotic
 ________ is the predecessor for ofloxacin.
 260 of 262
 
-Nalidixic acidNalidixic acid is a medication used to
- treat urinary tract infections
+Nalidixic acid - Nalidixic acid is a medication used to treat urinary tract infections.
 
 The mechanism of action of ofloxacin is:
 
@@ -2485,7 +2460,7 @@ Nalidixic acidNalidixic acid is a medication used to
 The mechanism of action of ofloxacin is:
 261 of 262
 
-Prevention of bacterial DNA synthesis by inhibiting the enzymes DNA gyrase and topoisomerase IV.Fluoroquinolones inhibit two enzymes
+Prevention of bacterial DNA synthesis by inhibiting the enzymes DNA gyrase and topoisomerase IV. - Fluoroquinolones inhibit two enzymes.
 
 Olopatadine is a medication that treats:
 
