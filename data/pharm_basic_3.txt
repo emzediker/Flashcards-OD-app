@@ -1146,7 +1146,7 @@ also examples of antihistamines
 (Water/Lipid) soluble mediations are more likely to cross the _____ into the central nervous system resulting in central nervous system actions or side effects.
 123 of 262
 
-Lipid, blood brain barrier -Lipid soluble medications are also more likely to cross cell membranes.
+Lipid, blood brain barrier - Lipid soluble medications are also more likely to cross cell membranes.
 
 Losartan is a medication that is used to treat:
 
@@ -1174,7 +1174,7 @@ it is an angiotensin II receptor antagonist.Of note, this is a different mecha
 The direct action of losartan and other drugs like it is antagonistic to ______ receptors, the downstream action is vaso(dilation/constriction) and decreased levels of ______.
 126 of 262
 
-angiotensin II receptors, vasodilation, aldosterone. - Aldosterone is from the adrenal cortex. - It controls water retention.
+angiotensin II receptors, vasodilation, aldosterone. - Aldosterone is from the adrenal cortex. It controls water retention.
 
 The generic of Lotemax or Alrex is:
 
@@ -1268,8 +1268,7 @@ Decrease LDLs, decrease triglycerides (TGA's) and increase levels of HDL's.HDL
 Mannitol is in the following class of medications:
 136 of 262
 
-hyperosmotic agent / osmotic diuretic - Glycerin and Muro-128 are also 
-hyperosmotic agents.
+hyperosmotic agent / osmotic diuretic - Glycerin and Muro-128 are also hyperosmotic agents.
 
 Mannitol is a medication used to treat the following emergent ocular condition:
 
@@ -1325,7 +1324,7 @@ pain
 Meperidine belongs to the following class of medications:
 142 of 262
 
-narcotic/opiate - Opiates and narcotics are the same thing,
+narcotic/opiate - Opiates and narcotics are the same thing.
 
 Narcotics are ______ substances.
 
@@ -1428,8 +1427,7 @@ results in ________ side effects.
 
 beta-1 - Metaproterenol targets beta-2 receptors but can activate heart receptors.
 
-Unintended activation of beta-1 receptors from the medication metaproterenol can 
-results in ________ side effects.
+Unintended activation of beta-1 receptors from the medication metaproterenol can results in ________ side effects.
 153 of 262
 
 cardiovascular side effects. - These include increased heart rate and contractility.
@@ -1467,8 +1465,7 @@ sensitivity to _______.
 
 biguanide antidiabetic medicationsMetformin is the only FDA approved biguanide in the United States
 
-Metformin increases the uptake of ________ by target tissues by increasing their 
-sensitivity to _______.
+Metformin increases the uptake of ________ by target tissues by increasing their sensitivity to _______.
 157 of 262
 
 Increases the uptake of glucose by increasing sensitivity to insulin in fat and muscle cells. - Metformin also decreases glucose release from the liver.
@@ -1877,7 +1874,7 @@ beta-1 have more effects on the heart and beta-2 have more effects on the lungs.
 Metronidazole is a _________ medication.
 199 of 262
 
-antibiotic in the nitroimidazole class that also treats protozoal infections. -- !! It ends in azole but IS NOT an antifungal like ketoconazole !!
+antibiotic in the nitroimidazole class that also treats protozoal infections. - !!It ends in azole but IS NOT an antifungal like ketoconazole!!
 
 The mechanism of action of metronidazole is:
 
@@ -2010,11 +2007,11 @@ dilationLeukotrienes increase blood vessel permeability for cell migration
 Moxifloxacin belongs to the following class of medications:
 213 of 262
 
-fluoroquinolones - Fluoroquinolones often end in ""floxacin." Ex. gatifloxacin
+fluoroquinolones - Fluoroquinolones often end in "floxacin." Ex. gatifloxacin
 
 Nalidixic acid is the predecessor of the following class of medications:
 
-fluoroquinolonesFluoroquinolones often end in ""floxacin.""
+fluoroquinolonesFluoroquinolones often end in ""floxacin."
 Ex gatifloxacin
 
 Nalidixic acid is the predecessor of the following class of medications:
@@ -2329,7 +2326,7 @@ NSAID
 Medications used to treat myasthenia gravis often end in the suffix:
 247 of 262
 
--stigmine ex. neostigmine and pyridostigmine are both Ach-esterase inhibitors
+-stigmine - ex. neostigmine and pyridostigmine are both Ach-esterase inhibitors
 
 Ocular NSAIDs often end in the suffix:
 
@@ -2429,8 +2426,7 @@ Interference with fungal cell membrane synthesis by interacting with ergosterol.
 Ofloxacin belongs to the following class of medications:
 258 of 262
 
-fluoroquinolone - Fluoroquinolones usually have "floxacin" in them 
-ex. moxifloxacin.
+fluoroquinolone - Fluoroquinolones usually have "floxacin" in them. ex. moxifloxacin.
 
 Ofloxacin is a medication used to treat:
 
