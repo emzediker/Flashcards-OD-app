@@ -1487,7 +1487,7 @@ Similar to sulfonylurea medications, metformin does take action on the _______
 
 pancreas
 
-Similar to sulfonylurea medications, metformin does take action on the _______
+Similar to sulfonylurea medications, metformin does take action on the _______.
 159 of 262
 
 liver
@@ -1496,10 +1496,10 @@ In the liver, metformin decreases __________ and in the intestine, metformin slo
 
 liver
 
-In the liver, metformin decreases __________ and in the intestine, metformin slows ______
+In the liver, metformin decreases __________ and in the intestine, metformin slows ______.
 160 of 262
 
-gluconeogenesis ; absorption of sugarGluconeogenesis is create of glucose from nonglucose macromolecules
+gluconeogenesis, absorption of sugarGluconeogenesis is create of glucose from nonglucose macromolecules.
 
 Carbonic anhydrase inhibitors typically end with the suffix:
 
@@ -1508,7 +1508,7 @@ gluconeogenesis ; absorption of sugarGluconeogenesis is create of glucose from
 Carbonic anhydrase inhibitors typically end with the suffix:
 161 of 262
 
--zolamideex methazolamide, acetazolamide, dorzolamide, brinzolamide
+-zolamide - ex methazolamide, acetazolamide, dorzolamide, brinzolamide
 
 Methazolamide belongs to the following class of medications:
 
@@ -1517,7 +1517,7 @@ Methazolamide belongs to the following class of medications:
 Methazolamide belongs to the following class of medications:
 162 of 262
 
-carbonic anhydrase inhibitorsCAI's often end in "-zolamide"
+carbonic anhydrase inhibitors - CAI's often end in "-zolamide."
 
 Methazolamide is a _____ used to treat:
 
@@ -1526,7 +1526,7 @@ carbonic anhydrase inhibitorsCAI's often end in "-zolamide"
 Methazolamide is a _____ used to treat:
 163 of 262
 
-carbonic anhydrase inhibitor used to treat cerebral edema due to mountain sickness and ocular hypertension
+carbonic anhydrase inhibitor used to treat cerebral edema due to mountain sickness and ocular hypertension.
 
 The effect of methazolamide on the kidney classifies it as a _______.
 
@@ -1541,10 +1541,10 @@ In the kidney, methazolamide and other medications in its class, decrease the av
 
 diuretic
 
-In the kidney, methazolamide and other medications in its class, decrease the availability of ___  ions due to inhibition of the enzyme _____
+In the kidney, methazolamide and other medications in its class, decrease the availability of ___  ions due to inhibition of the enzyme _____.
 165 of 262
 
-hydrogen ; carbonic anhydrase
+hydrogen, carbonic anhydrase
 
 When medications like methazolamide decrease free hydrogen ions in 
 the kidney, this blocks _____ exchange
@@ -1552,11 +1552,10 @@ the kidney, this blocks _____ exchange
 hydrogen ; carbonic anhydrase
 
 When medications like methazolamide decrease free hydrogen ions in 
-the kidney, this blocks _____ exchange
+the kidney, this blocks _____ exchange.
 166 of 262
 
-Na+/H+ exchangeThink it can lower blood pressure
- by lowering blood volume
+Na+/H+ exchange - Think: it can lower blood pressure by lowering blood volume.
 
 In the kidney, when methazolamide blocks sodium and hydrogen exchange, this results in excretion of the following four components:
 
@@ -1566,8 +1565,7 @@ Na+/H+ exchangeThink it can lower blood pressure
 In the kidney, when methazolamide blocks sodium and hydrogen exchange, this results in excretion of the following four components:
 167 of 262
 
-sodium, potassium, bicarbonate and waterThis lowers blood volume because 
-water is excreted in the urine
+sodium, potassium, bicarbonate and water - This lowers blood volume because water is excreted in the urine.
 
 As mediations like methazolamide block the excretion of H+, the body can become (acidic/alkaline).
 
@@ -1577,8 +1575,7 @@ water is excreted in the urine
 As mediations like methazolamide block the excretion of H+, the body can become (acidic/alkaline).
 168 of 262
 
-acidicHigh levels of H+ creates 
-acidity, with a pH below 7
+acidic - High levels of H+ creates acidity, with a pH below 7.
 
 Carbonic anhydrase inhibitors inhibit the enzyme carbonic anhydrase in the ______ of the eye resulting in an (increase/decrease) of IOP.
 
@@ -1588,9 +1585,7 @@ acidity, with a pH below 7
 Carbonic anhydrase inhibitors inhibit the enzyme carbonic anhydrase in the ______ of the eye resulting in an (increase/decrease) of IOP.
 169 of 262
 
-nonpigmented ciliary epithelium resulting in 
-decrease of IOP.It is important to know it is the  
-NONPIGMENTED ciliary epithelium
+nonpigmented ciliary epithelium resulting in decrease of IOP. - It is important to know it is the NONPIGMENTED ciliary epithelium.
 
 Methazolamide is a _____ medication.
 
@@ -1601,8 +1596,7 @@ NONPIGMENTED ciliary epithelium
 Methazolamide is a _____ medication.
 170 of 262
 
-sulfonamideIt is a sulfa based carbonic 
-anhydrase inhibitor
+sulfonamide - It is a sulfa based carbonic anhydrase inhibitor.
 
 Methazolamide is contraindicated in 
 patients with _______ allergies.
@@ -1610,11 +1604,10 @@ patients with _______ allergies.
 sulfonamideIt is a sulfa based carbonic 
 anhydrase inhibitor
 
-Methazolamide is contraindicated in 
-patients with _______ allergies.
+Methazolamide is contraindicated in patients with _______ allergies.
 171 of 262
 
-sulfaAll carbonic anhydrase inhibitors are contraindicated with sulfa allergy
+sulfa - All carbonic anhydrase inhibitors are contraindicated with sulfa allergy.
 
 Methazolamide is associated with this potential adverse side effect on the cornea:
 
@@ -1623,7 +1616,7 @@ sulfaAll carbonic anhydrase inhibitors are contraindicated with sulfa allergy
 Methazolamide is associated with this potential adverse side effect on the cornea:
 172 of 262
 
-decreased endothelial cell functionFuch's disease is another condition associated to endothelial loss
+decreased endothelial cell function - Fuch's disease is another condition associated to endothelial loss.
 
 Fatigue, tinnitus, tingling in the extremities, anemias, electrolyte imbalances, and bitter metallic taste are all potential adverse side effect of the following class of medications:
 
@@ -1632,7 +1625,7 @@ decreased endothelial cell functionFuch's disease is another condition associa
 Fatigue, tinnitus, tingling in the extremities, anemias, electrolyte imbalances, and bitter metallic taste are all potential adverse side effect of the following class of medications:
 173 of 262
 
-carbonic anhydrase inhibitorsOf all glaucoma therapies CAI's have the most systemic side effects
+carbonic anhydrase inhibitors - Of all glaucoma therapies CAI's have the most systemic side effects.
 
 The major site of action of methazolamide on the kidney is the __________.
 
@@ -1659,7 +1652,7 @@ proximal convoluted tubule
 Thiazides affect (Na/Ca/H/K/Cl) ions and carbonic anhydrase inhibitors do not.
 176 of 262
 
-calciumCAI's work with balance of H+, water, bicarbonate & carbon dioxide
+calcium - CAI's work with balance of H+, water, bicarbonate & carbon dioxide.
 
 There is an increase risk of sickle cell crisis in patients taking the following class of glaucoma medications:
 
@@ -1668,7 +1661,7 @@ calciumCAI's work with balance of H+, water, bicarbonate & carbon dioxide
 There is an increase risk of sickle cell crisis in patients taking the following class of glaucoma medications:
 177 of 262
 
-carbonic anhydrase inhibitorsEndogenous carbonic anhydrase effects carbon dioxide in red blood cells
+carbonic anhydrase inhibitors - Endogenous carbonic anhydrase effects carbon dioxide in red blood cells.
 
 ______________ is a potential fatal side effect of carbonic anhydrase inhibitors.
 
@@ -1677,7 +1670,7 @@ carbonic anhydrase inhibitorsEndogenous carbonic anhydrase effects carbon diox
 ______________ is a potential fatal side effect of carbonic anhydrase inhibitors.
 178 of 262
 
-Aplastic anemiaAplastic anemia results from damage to bone marrow stem cells
+Aplastic anemia - Aplastic anemia results from damage to bone marrow stem cells.
 
 Pharmacology
 Basic Level Deck 8 of 11
@@ -1685,7 +1678,7 @@ Basic Level Deck 8 of 11
 
 Methotrexate is an __________ medication.
 
-Aplastic anemiaAplastic anemia results from damage to bone marrow stem cells
+Aplastic anemia - Aplastic anemia results from damage to bone marrow stem cells.
 
 Pharmacology
 Basic Level Deck 8 of 11
@@ -1694,7 +1687,7 @@ Basic Level Deck 8 of 11
 Methotrexate is an __________ medication.
 179 of 262
 
-immunosuppressive medicationIt can be used to treat autoimmune diseases
+immunosuppressive medication - It can be used to treat autoimmune diseases.
 
 The mechanism of action of methotrexate is:
 
@@ -1703,8 +1696,7 @@ immunosuppressive medicationIt can be used to treat autoimmune diseases
 The mechanism of action of methotrexate is:
 180 of 262
 
-Interference of DNA formation by blocking synthesis of purines by dihydrofolate reductase and 
-thymidylate synthase.Adenine and guanine are the purine bases of DNA
+Interference of DNA formation by blocking synthesis of purines by dihydrofolate reductase and thymidylate synthase. - Adenine and guanine are the purine bases of DNA.
 
 Methotrexate is a medication used to treat:
 
@@ -1714,7 +1706,7 @@ thymidylate synthase.Adenine and guanine are the purine bases of DNA
 Methotrexate is a medication used to treat:
 181 of 262
 
-psoriasis, rheumatoid arthritis, lupus, and malignancies (chemotherapy)It is an immunosuppressant
+psoriasis, rheumatoid arthritis, lupus, and malignancies (chemotherapy) - It is an immunosuppressant.
 
 Methotrexate is a medication that (increases/decreases) the risk of ocular infections.
 
@@ -1723,8 +1715,7 @@ psoriasis, rheumatoid arthritis, lupus, and malignancies (chemotherapy)It is a
 Methotrexate is a medication that (increases/decreases) the risk of ocular infections.
 182 of 262
 
-increasesBecause the body's natural 
-immune system is suppressed
+increases - Because the body's natural immune system is suppressed.
 
 The enzyme inhibited by methotrexate is:
 
@@ -1734,7 +1725,7 @@ immune system is suppressed
 The enzyme inhibited by methotrexate is:
 183 of 262
 
-dihydrofolate reductase and thymidylate synthaseThese enzymes create nucleotides necessary to form DNA
+dihydrofolate reductase and thymidylate synthase - These enzymes create nucleotides necessary to form DNA.
 
 Methylphenidate is a psycho(stimulant/depressant) medication used to treat _____.
 
@@ -1743,18 +1734,17 @@ dihydrofolate reductase and thymidylate synthaseThese enzymes create nucleotid
 Methylphenidate is a psycho(stimulant/depressant) medication used to treat _____.
 184 of 262
 
-Psychostimulant ; ADHDIt is paradoxical that a stimulant treats ADHD
+Psychostimulant, ADHD - It is paradoxical that a stimulant treats ADHD.
 
 Potential ocular side effects of 
 methylphenidate are:
 
 Psychostimulant ; ADHDIt is paradoxical that a stimulant treats ADHD
 
-Potential ocular side effects of 
-methylphenidate are:
+Potential ocular side effects of methylphenidate are:
 185 of 262
 
-Anticholinergic such as dry eye and dilation and the potential for narrow angle glaucoma.Young patients treated for ADHD may show low accommodative ability
+Anticholinergic such as dry eye and dilation and the potential for narrow angle glaucoma. - Young patients treated for ADHD may show low accommodative ability.
 
 The mechanism of action of methylphenidate is to:
 
@@ -1763,7 +1753,7 @@ Anticholinergic such as dry eye and dilation and the potential for narrow angle 
 The mechanism of action of methylphenidate is to:
 186 of 262
 
-increase release of dopamineBromocriptine is a dopamine agonist & dextroamphetamine decreases uptake
+increase release of dopamine - Bromocriptine is a dopamine agonist & dextroamphetamine decreases uptake.
 
 Metipranolol belongs to the following class of medications:
 
@@ -1772,18 +1762,17 @@ increase release of dopamineBromocriptine is a dopamine agonist & dextroamphet
 Metipranolol belongs to the following class of medications:
 187 of 262
 
-Beta blockerBeta blockers often end in -olol. 
-Ex: timolol, metoprolol & propranolol
+Beta blocker - Beta blockers often end in -olol. Ex: timolol, metoprolol & propranolol
 
 Metipranolol is selective to B(1/2) receptors
 
 Beta blockerBeta blockers often end in -olol. 
 Ex: timolol, metoprolol & propranolol
 
-Metipranolol is selective to B(1/2) receptors
+Metipranolol is selective to B(1/2) receptors.
 188 of 262
 
-It is selective to both ("nonselective")Betaxolol is selective to beta-1 receptors
+It is selective to both ("nonselective" techicially) - Betaxolol is selective to beta-1 receptors.
 
 Metipranolol is a medication used to treat ___
 
@@ -1792,7 +1781,7 @@ It is selective to both ("nonselective")Betaxolol is selective to beta-1 recep
 Metipranolol is a medication used to treat ___
 189 of 262
 
-glaucomaMetipranolol is widely not used today
+glaucoma - Metipranolol is widely not used today.
 
 Patients treated with beta-blockers may experience decreased action due to (up/down)regulation of beta receptors.
 
@@ -1801,7 +1790,7 @@ glaucomaMetipranolol is widely not used today
 Patients treated with beta-blockers may experience decreased action due to (up/down)regulation of beta receptors.
 190 of 262
 
-upIn upregulation, cells create more receptors in response to antagonism
+up - In upregulation, cells create more receptors in response to antagonism.
 
 ___________ is then phenomenon where a medication is no longer working due to an upregulation of target receptors.
 
@@ -1810,8 +1799,7 @@ upIn upregulation, cells create more receptors in response to antagonism
 ___________ is then phenomenon where a medication is no longer working due to an upregulation of target receptors.
 191 of 262
 
-TachyphylaxisChanging therapy or increasing dose 
-may combat tachyphylaxis
+Tachyphylaxis - Changing therapy or increasing dose may combat tachyphylaxis.
 
 Metipranolol, and other medications in its class, should be avoided in patients with 
 these systemic conditions:
@@ -1823,8 +1811,7 @@ Metipranolol, and other medications in its class, should be avoided in patients 
 these systemic conditions:
 192 of 262
 
-COPD and asthmaIt is a beta-blocker, which would be 
-antagonistic to lung b-2 receptors
+COPD and asthma - It is a beta-blocker, which would be antagonistic to lung b-2 receptors.
 
 The act of _____ occlusion can decrease systemic absorption of an ocular topical medication.
 
