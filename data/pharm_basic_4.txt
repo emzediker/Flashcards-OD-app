@@ -4,7 +4,7 @@ allergic conjunctivitis  / itch
 Olopatadine belongs to the following class of medications:
 1 of 261
 
-antihistamine and mast cell stabilizerThe antihistamine provides sooner relief than the mast cell stabilizer
+antihistamine and mast cell stabilizer - The antihistamine provides sooner relief than the mast cell stabilizer.
 
 The mechanism of action of olopatadine is:
 
@@ -13,7 +13,7 @@ antihistamine and mast cell stabilizerThe antihistamine provides sooner relief
 The mechanism of action of olopatadine is:
 2 of 261
 
-Preventing histamine from binding to H1 receptors and preventing the degranulation of mast cells by preventing calcium uptake.H2 receptors are involved in gastric acid secretion
+Preventing histamine from binding to H1 receptors and preventing the degranulation of mast cells by preventing calcium uptake. - H2 receptors are involved in gastric acid secretion.
 
 Epinastine, azelastine, bepotastine besilate, and olopatadine are all:
 
@@ -28,10 +28,10 @@ H(1/2) receptors are responsible for itch and H(1/2) receptors are responsible f
 
 antihistamine and mast cell stabilizers
 
-H(1/2) receptors are responsible for itch and H(1/2) receptors are responsible for vasodilation/redness
+H(1/2) receptors are responsible for itch and H(1/2) receptors are responsible for vasodilation/redness.
 4 of 261
 
-H1 are responsible for itch and H2 are responsible for redness/vasodilation.H2 is also responsible for gastric acid secretion
+H1 are responsible for itch and H2 are responsible for redness/vasodilation. - H2 is also responsible for gastric acid secretion.
 
 Omeprazole belongs to the following class of medications:
 
@@ -40,8 +40,7 @@ H1 are responsible for itch and H2 are responsible for redness/vasodilation.H2
 Omeprazole belongs to the following class of medications:
 5 of 261
 
-proton pump inhibitorPPI's often have "prazole" in them.
-Not to be confused with "conazole"
+proton pump inhibitor - PPI's often have "prazole" in them. Not to be confused with "conazole"
 
 The mechanism of action of omeprazole is:
 
@@ -51,7 +50,7 @@ Not to be confused with "conazole"
 The mechanism of action of omeprazole is:
 6 of 261
 
-preventing the action of the enzyme K+/H+ APTaseDigoxin prevents the enzyme of Na+/K+ ATPase
+preventing the action of the enzyme K+/H+ APTase - Digoxin prevents the enzyme of Na+/K+ ATPase.
 
 The systemic result of omeprazole is:
 
@@ -60,7 +59,7 @@ preventing the action of the enzyme K+/H+ APTaseDigoxin prevents the enzyme of
 The systemic result of omeprazole is:
 7 of 261
 
-inhibition of gastric acid secretionGastric acid is secreted by parietal cells
+inhibition of gastric acid secretion - Gastric acid is secreted by parietal cells.
 
 Omeprazole is a medication that treats:
 
@@ -69,7 +68,7 @@ inhibition of gastric acid secretionGastric acid is secreted by parietal cells
 Omeprazole is a medication that treats:
 8 of 261
 
-heartburn / GERD / acid reflux
+heartburn/GERD/acid reflux
 
 Omeprazole and medications like it can prevent ulcers that may be induced by ____ medications.
 
@@ -78,7 +77,7 @@ heartburn / GERD / acid reflux
 Omeprazole and medications like it can prevent ulcers that may be induced by ____ medications.
 9 of 261
 
-NSAIDNSAIDS can cause gastric ulcers, impair wound healing, and thin blood
+NSAID - NSAIDS can cause gastric ulcers, impair wound healing, and thin blood
 
 Antiviral medications often end in the suffix ___.
 
@@ -87,7 +86,7 @@ NSAIDNSAIDS can cause gastric ulcers, impair wound healing, and thin blood
 Antiviral medications often end in the suffix ___.
 10 of 261
 
--virex. acycloVIR, famcycloVIR, gancycloVIR, valcycloVIR, oseltamiVIR
+-vir - ex. acycloVIR, famcycloVIR, gancycloVIR, valcycloVIR, oseltamiVIR
 
 Oseltamivir is a medication used to treat:
 
@@ -96,8 +95,7 @@ Oseltamivir is a medication used to treat:
 Oseltamivir is a medication used to treat:
 11 of 261
 
-the fluAcyclovir, valcyclovir, famcyclovir treat 
-herpetic conditions
+the flu - Acyclovir, valcyclovir, famcyclovir treat herpetic conditions.
 
 The mechanism of action of oseltamivir is:
 
@@ -107,7 +105,7 @@ herpetic conditions
 The mechanism of action of oseltamivir is:
 12 of 261
 
-Inhibition of the enzyme neuraminidaseNeuraminidase is a viral enzyme that allows it to escape infected cells
+Inhibition of the enzyme neuraminidase - Neuraminidase is a viral enzyme that allows it to escape infected cells.
 
 Oxycodone is a medication used to treat:
 
@@ -125,7 +123,7 @@ pain
 Oxycodone belongs to the following class of medications:
 14 of 261
 
-Narcotic / opioidOpioids and narcotics are the same
+Narcotic/opioid - Opioids and narcotics are the same.
 
 Oxycodone works in the (central nervous system / peripheral nervous system) to relieve pain.
 
@@ -134,7 +132,7 @@ Narcotic / opioidOpioids and narcotics are the same
 Oxycodone works in the (central nervous system / peripheral nervous system) to relieve pain.
 15 of 261
 
-central nervous systemOxycodone decreases the sensation of pain it does not correct the cause
+central nervous system - Oxycodone decreases the sensation of pain it does not correct the cause.
 
 The mechanism of action of oxycodone is:
 
@@ -143,7 +141,7 @@ central nervous systemOxycodone decreases the sensation of pain it does not co
 The mechanism of action of oxycodone is:
 16 of 261
 
-Binding to opiate receptors in the brain and spinal cord to prevent transmission of substance PSubstance P is the mediator of pain
+Binding to opiate receptors in the brain and spinal cord to prevent transmission of substance P - Substance P is the mediator of pain.
 
 Pharmacology
 Basic Level Deck 9 of 11
@@ -169,7 +167,7 @@ miosis
 Oxycodone binds to ___ receptors and prevents release of ____.
 18 of 261
 
-Opioid; substance PSubstance P is a mediator of pain
+Opioid, substance P - Substance P is a mediator of pain.
 
 Death from oxycodone and other medications in its class is associated to _________ depression.
 
@@ -178,7 +176,7 @@ Opioid; substance PSubstance P is a mediator of pain
 Death from oxycodone and other medications in its class is associated to _________ depression.
 19 of 261
 
-respiratory depressionNaloxone can reverse an oxycodone overdose
+respiratory depression - Naloxone can reverse an oxycodone overdose.
 
 ____ a medication used can prevent withdrawal symptoms.
 
@@ -187,7 +185,7 @@ respiratory depressionNaloxone can reverse an oxycodone overdose
 ____ a medication used can prevent withdrawal symptoms.
 20 of 261
 
-TaperingSteroids should be tapered
+Tapering - Steroids should be tapered.
 
 ____ occurs when a medication no longer has an effect.
 
@@ -205,8 +203,7 @@ Tolerance or Tachyphylaxis
 An oxycodone overdose can be treated with _______.
 22 of 261
 
-naloxoneThis can prevent death from 
-respiratory depression
+naloxone - This can prevent death from respiratory depression.
 
 Pegaptanib is a medication used to treat:
 
@@ -216,7 +213,7 @@ respiratory depression
 Pegaptanib is a medication used to treat:
 23 of 261
 
-age related macular degeneration and tumorsThey both work by stopping neovascularization (new blood vessel growth)
+age related macular degeneration and tumors - They both work by stopping neovascularization (new blood vessel growth).
 
 Pegaptanib belongs to the following class of medications:
 
@@ -225,7 +222,7 @@ age related macular degeneration and tumorsThey both work by stopping neovascu
 Pegaptanib belongs to the following class of medications:
 24 of 261
 
-Anti-VEGF (Anti-angiogenic agent)"Vascular endothelial growth factor" stimulates neovascularization
+Anti-VEGF (Anti-angiogenic agent) - "Vascular endothelial growth factor" stimulates neovascularization.
 
 The mechanism of action of pegaptanib is:
 
@@ -234,7 +231,7 @@ Anti-VEGF (Anti-angiogenic agent)"Vascular endothelial growth factor" stimulat
 The mechanism of action of pegaptanib is:
 25 of 261
 
-binding to free VEFG to prevent its action.Of note , pegaptanib does not bind to VEGF receptors
+binding to free VEFG to prevent its action. - Of note, pegaptanib does not bind to VEGF receptors.
 
 Pegaptanib prevents the actions of ____ which typically ________.
 
@@ -243,13 +240,13 @@ binding to free VEFG to prevent its action.Of note , pegaptanib does not bind 
 Pegaptanib prevents the actions of ____ which typically ________.
 26 of 261
 
-VEGF ; typically causes neovascularization and increased blood vessel permeability.VEGF causes poorly formed leaky blood vessels to proliferate
+VEGF, typically causes neovascularization and increased blood vessel permeability. - VEGF causes poorly formed leaky blood vessels to proliferate
 
 Pemirolast is a medication used to treat :
 
 VEGF ; typically causes neovascularization and increased blood vessel permeability.VEGF causes poorly formed leaky blood vessels to proliferate
 
-Pemirolast is a medication used to treat :
+Pemirolast is a medication used to treat:
 27 of 261
 
 allergies
@@ -261,7 +258,7 @@ allergies
 Pemirolast belongs to the following class of medications:
 28 of 261
 
-pure mast cell stabilizerOthers are cromolyn sodium and nedocromil
+pure mast cell stabilizer - Others are cromolyn sodium and nedocromil.
 
 The mechanism of action of pemirolast is:
 
@@ -270,7 +267,7 @@ pure mast cell stabilizerOthers are cromolyn sodium and nedocromil
 The mechanism of action of pemirolast is:
 29 of 261
 
-Preventing degranulation of inflammatory mediators such as histamines and leukotrienes from mast cells.Degranulation requires Ca+ to occur
+Preventing degranulation of inflammatory mediators such as histamines and leukotrienes from mast cells. - Degranulation requires calcium to occur.
 
 Which has more immediate effects, antihistamines or mast cell stabilizers?
 
@@ -288,7 +285,7 @@ antihistamines
 Penicillamine is a medication used to treat:
 31 of 261
 
-Wilson's diseasePenicillamine treats Wilson's and Penicillin is an antibiotic
+Wilson's disease - Penicillamine treats Wilson's and Penicillin is an antibiotic.
 
 The mechanism of action of penicillamine is:
 
@@ -297,7 +294,7 @@ Wilson's diseasePenicillamine treats Wilson's and Penicillin is an antibiotic
 The mechanism of action of penicillamine is:
 32 of 261
 
-chelation of copper in the body.In Wilson's disease copper is not eliminated correctly and accumulates
+chelation of copper in the body. - In Wilson's disease copper is not eliminated correctly and accumulates.
 
 Phenelzine is a medication used to treat:
 
@@ -306,7 +303,7 @@ chelation of copper in the body.In Wilson's disease copper is not eliminated c
 Phenelzine is a medication used to treat:
 33 of 261
 
-mental health / depression
+mental health/depression
 
 Phenelzine is in the following class of medications:
 
@@ -324,7 +321,7 @@ MAOI (monoamine oxidase inhibitor)
 The mechanism of action of phenelzine is:
 35 of 261
 
-inhibition of the enzyme MAO to increase levels of norepinephrine and serotonin.Norepinephrine and serotonin are monoamines
+inhibition of the enzyme MAO to increase levels of norepinephrine and serotonin. - Norepinephrine and serotonin are monoamines.
 
 The direct effect of phenelzine is _____ and the downstream result is ______.
 
@@ -333,7 +330,7 @@ inhibition of the enzyme MAO to increase levels of norepinephrine and serotonin.
 The direct effect of phenelzine is _____ and the downstream result is ______.
 36 of 261
 
-The direct effect is inhibition of MAO and the downstream result is increased levels of norepinephrine and serotonin.This is because MAO usually oxidizes monoamines to clip off their amine
+The direct effect is inhibition of MAO and the downstream result is increased levels of norepinephrine and serotonin. - This is because MAO usually oxidizes monoamines to clip off their amine.
 
 Monoamine oxidase (MAO) is an enzyme that usually breaks down ______ and ______.
 
@@ -342,7 +339,7 @@ The direct effect is inhibition of MAO and the downstream result is increased le
 Monoamine oxidase (MAO) is an enzyme that usually breaks down ______ and ______.
 37 of 261
 
-monoamines and noncatecholamines (ephedrine and phenylephrine)Dopamine, norepinephrine & serotonin are monoamines
+monoamines and noncatecholamines (ephedrine and phenylephrine) - Dopamine, norepinephrine & serotonin are monoamines
 
 Phenobarbital is a medication used to treat:
 
@@ -351,8 +348,7 @@ monoamines and noncatecholamines (ephedrine and phenylephrine)Dopamine, norepi
 Phenobarbital is a medication used to treat:
 38 of 261
 
-seizures / epilepsySeizures are caused by abnormal 
-electrical activity in the brain
+seizures/epilepsy - Seizures are caused by abnormal electrical activity in the brain.
 
 Phenobarbital is a (CNS/PNS) (stimulant/depressant).
 
@@ -362,8 +358,7 @@ electrical activity in the brain
 Phenobarbital is a (CNS/PNS) (stimulant/depressant).
 39 of 261
 
-CNS depressantIt depresses the over activity 
-that occurs in seizures
+CNS depressant - It depresses the over activity that occurs in seizures.
 
 Glutamate has (excitatory/inhibitory) effects on neurons and GABA has (excitatory/inhibitory) effects on neurons.
 
@@ -373,24 +368,23 @@ that occurs in seizures
 Glutamate has (excitatory/inhibitory) effects on neurons and GABA has (excitatory/inhibitory) effects on neurons.
 40 of 261
 
-Glutamate has excitatory effects and GABA has inhibitory effectsBoth of these are found in the retina
+Glutamate has excitatory effects and GABA has inhibitory effects. - Both of these are found in the retina.
 
 Phenylephrine is (excitatory/inhibitory) 
 to ____ receptors
 
 Glutamate has excitatory effects and GABA has inhibitory effectsBoth of these are found in the retina
 
-Phenylephrine is (excitatory/inhibitory) 
-to ____ receptors
+Phenylephrine is (excitatory/inhibitory) to ____ receptors.
 41 of 261
 
-excitatory to alpha-1 receptorsAlpha-1 receptors are adrenergic
+excitatory to alpha-1 receptors - Alpha-1 receptors are adrenergic.
 
 A ocular effect of phenylephrine is:
 
 excitatory to alpha-1 receptorsAlpha-1 receptors are adrenergic
 
-A ocular effect of phenylephrine is:
+An ocular effect of phenylephrine is:
 42 of 261
 
 pupillary dilation
@@ -402,18 +396,17 @@ pupillary dilation
 Phenylephrine causes the iris (constrictor muscles to relax / dilator muscles to contract).
 43 of 261
 
-dilator muscles to contractTropicamide causes the constrictor muscle to relax
+dilator muscles to contract - Tropicamide causes the constrictor muscle to relax.
 
 In addition to affecting pupillary muscles, phenylephrine also affects these two 
 other muscles of the eye
 
 dilator muscles to contractTropicamide causes the constrictor muscle to relax
 
-In addition to affecting pupillary muscles, phenylephrine also affects these two 
-other muscles of the eye
+In addition to affecting pupillary muscles, phenylephrine also affects these two other muscles of the eye:
 44 of 261
 
-smooth muscles around blood vessels, and smooth muscle of the lid (Muller's muscle)Muller's muscle will be activated and cause a mild lid elevation
+smooth muscles around blood vessels, and smooth muscle of the lid (Muller's muscle) - Muller's muscle will be activated and cause a mild lid elevation.
 
 Phenylephrine causes blood vessel (dilation / constriction ) and Muller's muscle (relaxation / contraction ) resulting in _______.
 
@@ -422,8 +415,7 @@ smooth muscles around blood vessels, and smooth muscle of the lid (Muller's musc
 Phenylephrine causes blood vessel (dilation / constriction ) and Muller's muscle (relaxation / contraction ) resulting in _______.
 45 of 261
 
-blood vessel constriction and Muller's muscle contraction resulting in a whiter eye with a raised lid.Phenylephrine can isolate Muller's muscle 
-from the superior rectus
+blood vessel constriction and Muller's muscle contraction resulting in a whiter eye with a raised lid. - Phenylephrine can isolate Muller's muscle from the superior rectus.
 
 Phenylephrine can be used to differentiate between the following two ocular conditions:
 
@@ -433,7 +425,7 @@ from the superior rectus
 Phenylephrine can be used to differentiate between the following two ocular conditions:
 46 of 261
 
-episcleritis and scleritisPhenylephrine will whiten episcleritis hyperemia but not scleritis
+episcleritis and scleritis - Phenylephrine will whiten episcleritis hyperemia but not scleritis.
 
 The medication _______  has utility in the the treatment of posterior synechiae that may occur in the condition known as _____.
 
@@ -442,19 +434,17 @@ episcleritis and scleritisPhenylephrine will whiten episcleritis hyperemia but
 The medication _______  has utility in the the treatment of posterior synechiae that may occur in the condition known as _____.
 47 of 261
 
-Phenylephrine 10% may treat posterior synechiae that forms with uveitis.Typical phenylephrine used in dilation is 2.5%
+Phenylephrine 10% may treat posterior synechiae that forms with uveitis. - Typical phenylephrine used in dilation is 2.5%
 
 Phenylephrine 10% should be used 
 in caution with patient with _______.
 
 Phenylephrine 10% may treat posterior synechiae that forms with uveitis.Typical phenylephrine used in dilation is 2.5%
 
-Phenylephrine 10% should be used 
-in caution with patient with _______.
+Phenylephrine 10% should be used in caution with patient with _______.
 48 of 261
 
-hypertensionPhenylephrine constricts blood vessels 
-worsening high blood pressure
+hypertension - Phenylephrine constricts blood vessels worsening high blood pressure.
 
 Phenylephrine will reduce ocular hyperemia in patients with (episcleritis/scleritis)  but not in those with (episcleritis/scleritis).
 
@@ -464,7 +454,7 @@ worsening high blood pressure
 Phenylephrine will reduce ocular hyperemia in patients with (episcleritis/scleritis)  but not in those with (episcleritis/scleritis).
 49 of 261
 
-It will reduce hyperemia in those with episcleritis but not scleritis.Episcleritis is a more superficial condition
+It will reduce hyperemia in those with episcleritis but not scleritis. - Episcleritis is a more superficial condition.
 
 In addition to differentiating between episcleritis and scleritis, phenylephrine may aid in the diagnosis of ________.
 
@@ -473,18 +463,17 @@ It will reduce hyperemia in those with episcleritis but not scleritis.Episcler
 In addition to differentiating between episcleritis and scleritis, phenylephrine may aid in the diagnosis of ________.
 50 of 261
 
-Horner's syndromeIf Horner's syndrome, the activation of Muller's will raise the lid
+Horner's syndrome - If Horner's syndrome, the activation of Muller's will raise the lid.
 
 Phenylephrine binds to 
 (cholinergic / adrenergic) receptors.
 
 Horner's syndromeIf Horner's syndrome, the activation of Muller's will raise the lid
 
-Phenylephrine binds to 
-(cholinergic / adrenergic) receptors.
+Phenylephrine binds to (cholinergic / adrenergic) receptors.
 51 of 261
 
-AdrenergicAlpha and beta receptors are adrenergic. Phenylephrine binds to alpha-1
+Adrenergic - Alpha and beta receptors are adrenergic. Phenylephrine binds to alpha-1.
 
 Phenylephrine is (parasympathomimetic / sympathomimetic).
 
@@ -493,8 +482,7 @@ AdrenergicAlpha and beta receptors are adrenergic. Phenylephrine binds to alph
 Phenylephrine is (parasympathomimetic / sympathomimetic).
 52 of 261
 
-sympathomimeticIts effects mimic the sympathetic 
-system (dilation and vasoconstriction)
+sympathomimetic - Its effects mimic the sympathetic system (dilation and vasoconstriction).
 
 Phenylephrine causes 
 mydriasis with minimal _______.
@@ -502,11 +490,10 @@ mydriasis with minimal _______.
 sympathomimeticIts effects mimic the sympathetic 
 system (dilation and vasoconstriction)
 
-Phenylephrine causes 
-mydriasis with minimal _______.
+Phenylephrine causes mydriasis with minimal _______.
 53 of 261
 
-cycloplegiaMydriasis increases pupil size & cycloplegia decreases accommodation
+cycloplegia - Mydriasis increases pupil size & cycloplegia decreases accommodation.
 
 Which medication would be best to diagnose an accommodative spasm: phenylephrine or tropicamide?
 
@@ -515,7 +502,7 @@ cycloplegiaMydriasis increases pupil size & cycloplegia decreases accommodatio
 Which medication would be best to diagnose an accommodative spasm: phenylephrine or tropicamide?
 54 of 261
 
-tropicamidePhenylephrine has limited cycloplegia
+tropicamide - Phenylephrine has limited cycloplegia.
 
 Phenytoin is a medication used to treat:
 
@@ -524,8 +511,7 @@ tropicamidePhenylephrine has limited cycloplegia
 Phenytoin is a medication used to treat:
 55 of 261
 
-seizures / epilepsySeizures are due to electrical 
-overactivity in the brain
+seizures/epilepsy - Seizures are due to electrical overactivity in the brain.
 
 The mechanism of action of phenytoin is:
 
@@ -535,8 +521,7 @@ overactivity in the brain
 The mechanism of action of phenytoin is:
 56 of 261
 
-regulation of GABA, norepinephrine and acetylcholine neurotransmitters.GABA is inhibitory & norepinephrine and acetylcholine 
-are excitatory
+regulation of GABA, norepinephrine and acetylcholine neurotransmitters. - GABA is inhibitory & norepinephrine and acetylcholine are excitatory.
 
 Pioglitazone is a medication used to treat:
 
@@ -555,7 +540,7 @@ diabetes
 Pioglitazone is in the following class of medications:
 58 of 261
 
-thiazolidinedionesOther diabetic classes are biguanides & sulfonylureas
+thiazolidinediones - Other diabetic classes are biguanides & sulfonylureas.
 
 A potential retinal side effect of pioglitazone is:
 
@@ -564,7 +549,7 @@ thiazolidinedionesOther diabetic classes are biguanides & sulfonylureas
 A potential retinal side effect of pioglitazone is:
 59 of 261
 
-macular edemaMacular edema is swelling in the retina resulting decreased vision
+macular edema - Macular edema is swelling in the retina resulting decreased vision.
 
 Piroxicam is a medication used to treat the condition _________.
 
@@ -573,7 +558,7 @@ macular edemaMacular edema is swelling in the retina resulting decreased visio
 Piroxicam is a medication used to treat the condition _________.
 60 of 261
 
-arthritis / inflammation
+arthritis/inflammation
 
 Piroxicam is in the following class of medications:
 
@@ -582,7 +567,7 @@ arthritis / inflammation
 Piroxicam is in the following class of medications:
 61 of 261
 
-NSAIDMeloxicam is also a NSAID
+NSAID - Meloxicam is also a NSAID.
 
 The mechanism of action of piroxicam is:
 
@@ -591,7 +576,7 @@ NSAIDMeloxicam is also a NSAID
 The mechanism of action of piroxicam is:
 62 of 261
 
-inhibition of COX-1 and COX-2 enzymes to decrease levels of prostaglandins.Celecoxib is selective to COX-2. Prostaglandins are proinflammatory
+inhibition of COX-1 and COX-2 enzymes to decrease levels of prostaglandins. - Celecoxib is selective to COX-2. Prostaglandins are proinflammatory.
 
 Pralidoxime is a medication that treats:
 
@@ -600,7 +585,7 @@ inhibition of COX-1 and COX-2 enzymes to decrease levels of prostaglandins.Cel
 Pralidoxime is a medication that treats:
 63 of 261
 
-organophosphate poisoningInsecticides are organophosphates & are acetylcholinesterase inhibitors
+organophosphate poisoning - Insecticides are organophosphates & are acetylcholinesterase inhibitors.
 
 The mechanism of action of pralidoxime is:
 
@@ -609,7 +594,7 @@ organophosphate poisoningInsecticides are organophosphates & are acetylcholine
 The mechanism of action of pralidoxime is:
 64 of 261
 
-binding to acetylcholinesterase inhibitors (such as those found organophosphate insecticides) in order to increase the activity of acetylcholinesterase.Acetylcholinesterase the breaks down excess acetylcholine
+binding to acetylcholinesterase inhibitors (such as those found organophosphate insecticides) in order to increase the activity of acetylcholinesterase. - Acetylcholinesterase the breaks down excess acetylcholine.
 
 The ultimate outcome of pralidoxime is an (increase/decrease) of levels of free acetylcholine.
 
@@ -618,18 +603,17 @@ binding to acetylcholinesterase inhibitors (such as those found organophosphate 
 The ultimate outcome of pralidoxime is an (increase/decrease) of levels of free acetylcholine.
 65 of 261
 
-decreaseThis allows muscles to relax
+decrease - This allows muscles to relax.
 
 Neostigmine (increases/decreases) available ______ and pralidoxime (increases/decreases) 
 available ______.
 
 decreaseThis allows muscles to relax
 
-Neostigmine (increases/decreases) available ______ and pralidoxime (increases/decreases) 
-available ______.
+Neostigmine (increases/decreases) available ______ and pralidoxime (increases/decreases) available ______.
 66 of 261
 
-Neostigmine increases available acetylcholine and pralidoxime decreases available acetylcholine.Acetylcholine controls muscle contraction
+Neostigmine increases available acetylcholine and pralidoxime decreases available acetylcholine. - Acetylcholine controls muscle contraction.
 
 Prazosin is a medication that treats:
 
@@ -647,7 +631,7 @@ hypertension
 Prazosin binds to ____ receptors and is an (agonist/antagonist).
 68 of 261
 
-alpha-1 and is an antagonistAlpha-1 are on blood vessels and are adrenergic
+alpha-1 and is an antagonist - Alpha-1 are on blood vessels and are adrenergic.
 
 The effect of prazosin on blood vessels is vaso(dilation/constriction).
 
@@ -656,7 +640,7 @@ alpha-1 and is an antagonistAlpha-1 are on blood vessels and are adrenergic
 The effect of prazosin on blood vessels is vaso(dilation/constriction).
 69 of 261
 
-dilationVasodilation decreases blood pressure & vasoconstriction increases it
+dilation - Vasodilation decreases blood pressure & vasoconstriction increases it.
 
 Timolol is a __blocker and prazosin is a ___ blocker
 
@@ -665,8 +649,8 @@ dilationVasodilation decreases blood pressure & vasoconstriction increases it
 Timolol is a __blocker and prazosin is a ___ blocker
 70 of 261
 
-Timolol is a beta-blocker and prazosin is an alpha-blockerBoth are adrenergic and both 
-decrease blood pressure
+Timolol is a beta-blocker and prazosin is an alpha-blocker - Both are adrenergic and both 
+decrease blood pressure.
 
 Promethazine is  medication that treats:
 
@@ -676,8 +660,7 @@ decrease blood pressure
 Promethazine is  medication that treats:
 71 of 261
 
-allergic reactions and nausea/vomiting 
-associated to narcotic use
+allergic reactions and nausea/vomiting associated to narcotic use.
 
 Promethazine belongs to the following class of medications:
 
@@ -696,7 +679,7 @@ antihistamine
 Promethazine interacts with __ receptors.
 73 of 261
 
-H1 (histamine-1)Promethazine blocks H1 receptors
+H1 (histamine-1) - Promethazine blocks H1 receptors.
 
 Medications that "block" or prevent activation of receptors are called _________
 
@@ -705,7 +688,7 @@ H1 (histamine-1)Promethazine blocks H1 receptors
 Medications that "block" or prevent activation of receptors are called _________
 74 of 261
 
-antagonistsex. antihistamines and beta-blockers and anti-VEGF medications
+antagonists - ex. antihistamines and beta-blockers and anti-VEGF medications.
 
 Medications that activate receptors are called___________.
 
@@ -714,7 +697,7 @@ antagonistsex. antihistamines and beta-blockers and anti-VEGF medications
 Medications that activate receptors are called___________.
 75 of 261
 
-agonistAn example is albuterol which activates beta-receptors on the lungs
+agonist - An example is albuterol which activates beta-receptors on the lungs.
 
 Histamine receptors are (cholinergic / sympathetic / parasympathetic / adrenergic).
 
@@ -723,17 +706,16 @@ agonistAn example is albuterol which activates beta-receptors on the lungs
 Histamine receptors are (cholinergic / sympathetic / parasympathetic / adrenergic).
 76 of 261
 
-cholinergicTherefore ANTI-histamines are ANTI-cholinergic
+cholinergic - Therefore, ANTI-histamines are ANTI-cholinergic.
 
 Promethazine is an (agonist/antagonist) the (activates/blocks)___ receptors
 
 cholinergicTherefore ANTI-histamines are ANTI-cholinergic
 
-Promethazine is an (agonist/antagonist) the (activates/blocks)___ receptors
+Promethazine is an (agonist/antagonist) the (activates/blocks)___ receptors.
 77 of 261
 
-It is an antagonist that blocks 
-histamine receptors (H1)
+It is an antagonist that blocks histamine receptors (H1).
 
 Cholinergic medications can cause a (bradycardic/tachycardic) heart rate.
 
@@ -743,8 +725,7 @@ histamine receptors (H1)
 Cholinergic medications can cause a (bradycardic/tachycardic) heart rate.
 78 of 261
 
-bradycardicAcetylcholine from vagus cranial nerve
- X SLOWS the heart rate
+bradycardi - Acetylcholine from vagus cranial nerve X SLOWS the heart rate.
 
 Anticholinergic medications can cause a (bradycardic/tachycardic) of heart rate.
 
@@ -754,8 +735,7 @@ bradycardicAcetylcholine from vagus cranial nerve
 Anticholinergic medications can cause a (bradycardic/tachycardic) of heart rate.
 79 of 261
 
-tachycardicTachycardia is a fast heart rate and 
-bradycardia is a slow heart rate
+tachycardic - Tachycardia is a fast heart rate and bradycardia is a slow heart rate.
 
 Acetylcholine has a (bradycardic/tachycardic) effect on the heart rate.
 
@@ -765,8 +745,7 @@ bradycardia is a slow heart rate
 Acetylcholine has a (bradycardic/tachycardic) effect on the heart rate.
 80 of 261
 
-bradycardicThe vagus nerve from the medulla of 
-the brainstem slows the heart rate.
+bradycardic - The vagus nerve from the medulla of the brainstem slows the heart rate.
 
 Anesthetic medications often end in the suffix:
 
@@ -776,7 +755,7 @@ the brainstem slows the heart rate.
 Anesthetic medications often end in the suffix:
 81 of 261
 
--caineExamples are proparacaine, cocaine, lidocaine
+-caine - Examples are proparacaine, cocaine, lidocaine.
 
 Proparacaine is a _________ medication.
 
@@ -785,7 +764,7 @@ Proparacaine is a _________ medication.
 Proparacaine is a _________ medication.
 82 of 261
 
-anestheticAnesthetics decrease sensation
+anesthetic - Anesthetics decrease sensation.
 
 The mechanism of action of proparacaine is:
 
@@ -794,8 +773,7 @@ anestheticAnesthetics decrease sensation
 The mechanism of action of proparacaine is:
 83 of 261
 
-blocking Na+ influx into neurons to prevent depolarization.If cells cannot depolarize they do not make 
-action potentials /impulses
+blocking Na+ influx into neurons to prevent depolarization. - If cells cannot depolarize they do not make action potentials /impulses.
 
 Proparacaine prevents (depolarization / repolarization / hyperpolarization) of neurons.
 
@@ -805,28 +783,26 @@ action potentials /impulses
 Proparacaine prevents (depolarization / repolarization / hyperpolarization) of neurons.
 84 of 261
 
-depolarizationFor cells to depolarize Na+ must enter the cell
+depolarization - For cells to depolarize Na+ must enter the cell.
 
 Proparacaine prevents the neural (influx/outflux) of (sodium/potassium/calcium/hydrogen), therefore preventing (depolarization/repolarization)
 
 depolarizationFor cells to depolarize Na+ must enter the cell
 
-Proparacaine prevents the neural (influx/outflux) of (sodium/potassium/calcium/hydrogen), therefore preventing (depolarization/repolarization)
+Proparacaine prevents the neural (influx/outflux) of (sodium/potassium/calcium/hydrogen), therefore preventing (depolarization/repolarization).
 85 of 261
 
-influx ; sodium ; depolarizationCells need to depolarize to create action potentials
+influx, sodium, depolarization - Cells need to depolarize to create action potentials.
 
 _________ is a potential ocular side
  effect of proparacaine.
 
 influx ; sodium ; depolarizationCells need to depolarize to create action potentials
 
-_________ is a potential ocular side
- effect of proparacaine.
+_________ is a potential ocular side effect of proparacaine.
 86 of 261
 
-corneal meltDue to this side effect, proparacaine is 
-not prescribed
+corneal melt - Due to this side effect, proparacaine is not prescribed.
 
 True or False: Proparacaine is a topical anesthetic prescribed to treat pain.
 
@@ -836,7 +812,7 @@ not prescribed
 True or False: Proparacaine is a topical anesthetic prescribed to treat pain.
 87 of 261
 
-False, it is a topical anesthetic that can help relieve pain, however it is not prescribed.Not prescribed due to the visual threat of corneal melt with overuse
+False - It is a topical anesthetic that can help relieve pain, however it is not prescribed due to the visual threat of corneal melt with overuse.
 
 Propranolol is in the following class of medications:
 
@@ -845,8 +821,7 @@ False, it is a topical anesthetic that can help relieve pain, however it is not 
 Propranolol is in the following class of medications:
 88 of 261
 
-beta-blockerBeta-blockers often end in “olol” 
-Ex. Timolol, betaxolol, atenolol
+beta-blocker - Beta-blockers often end in “olol” Ex. Timolol, betaxolol, atenolol
 
 The potential side effect of propranolol on intraocular pressure is:
 
@@ -856,8 +831,7 @@ Ex. Timolol, betaxolol, atenolol
 The potential side effect of propranolol on intraocular pressure is:
 89 of 261
 
-IOP decreaseDue to decreased aqueous humor 
-production by the ciliary body
+IOP decrease - Due to decreased aqueous humor production by the ciliary body.
 
 Propranolol is a medication used to treat _______.
 
@@ -867,7 +841,7 @@ production by the ciliary body
 Propranolol is a medication used to treat _______.
 90 of 261
 
-hypertensionPropranolol causes vasodilation
+hypertension - Propranolol causes vasodilation.
 
 Propranolol is a (selective/nonselective) (alpha/beta)receptor (agonist/antagonist).
 
@@ -876,16 +850,16 @@ hypertensionPropranolol causes vasodilation
 Propranolol is a (selective/nonselective) (alpha/beta)receptor (agonist/antagonist).
 91 of 261
 
-nonselective beta receptor antagonistIt is an adrenergic antagonist
+nonselective beta receptor antagonist - It is an adrenergic antagonist.
 
 In addition to blocking ___ receptors, propranolol also blocks the release of _____ from the kidney
 
 nonselective beta receptor antagonistIt is an adrenergic antagonist
 
-In addition to blocking ___ receptors, propranolol also blocks the release of _____ from the kidney
+In addition to blocking ___ receptors, propranolol also blocks the release of _____ from the kidney.
 92 of 261
 
-beta ; reninRenin is released from the kidneys for blood pressure homeostasis
+beta, renin - Renin is released from the kidneys for blood pressure homeostasis.
 
 Activation of beta-1 receptors results in (bradycardia/tachycardia).
 
@@ -894,7 +868,7 @@ beta ; reninRenin is released from the kidneys for blood pressure homeostasis
 Activation of beta-1 receptors results in (bradycardia/tachycardia).
 93 of 261
 
-tachycardiaTherefore blocking beta-1 receptors results in bradycardia
+tachycardia - Therefore blocking beta-1 receptors results in bradycardia.
 
 Antagonism or blocking beta receptors on the heart results in (bradycardia/tachycardia).
 
@@ -903,7 +877,7 @@ tachycardiaTherefore blocking beta-1 receptors results in bradycardia
 Antagonism or blocking beta receptors on the heart results in (bradycardia/tachycardia).
 94 of 261
 
-bradycardiaActivating b-1 receptors causes tachycardia
+bradycardia - Activating b-1 receptors causes tachycardia.
 
 Pseudoephedrine is a medication used to treat:
 
@@ -912,7 +886,7 @@ bradycardiaActivating b-1 receptors causes tachycardia
 Pseudoephedrine is a medication used to treat:
 95 of 261
 
-allergic symptoms and nasal congestion associated with coldsPseudoephedrine is generic Sudafed. It is NOT an antihistamine
+allergic symptoms and nasal congestion associated with colds - Pseudoephedrine is generic Sudafed. It is NOT an antihistamine.
 
 Ocular side effects of pseudoephedrine include:
 
@@ -930,18 +904,17 @@ dilation, dry eye, angle closure, decreased accommodation
 The mechanism of action of pseudoephedrine is:
 97 of 261
 
-binding to alpha and beta receptors to activate them.It is an adrenergic agonist that causes vasoconstriction
+binding to alpha and beta receptors to activate them. - It is an adrenergic agonist that causes vasoconstriction.
 
 Pseudoephedrine is a 
 (cholinergic/adrenergic) agonist.
 
 binding to alpha and beta receptors to activate them.It is an adrenergic agonist that causes vasoconstriction
 
-Pseudoephedrine is a 
-(cholinergic/adrenergic) agonist.
+Pseudoephedrine is a (cholinergic/adrenergic) agonist.
 98 of 261
 
-adrenergicBecause it binds to alpha and beta receptors
+adrenergic - Because it binds to alpha and beta receptors.
 
 Pseudoephedrine causes vaso(dilation/constriction).
 
@@ -959,7 +932,7 @@ constriction
 Pyridostigmine is a medication used to treat:
 100 of 261
 
-Myasthenia GravisMyasthenia Gravis is an autoimmune condition to acetylcholine receptors
+Myasthenia Gravis - Myasthenia Gravis is an autoimmune condition to acetylcholine receptors.
 
 The mechanism of action of pyridostigmine is:
 
@@ -968,16 +941,16 @@ Myasthenia GravisMyasthenia Gravis is an autoimmune condition to acetylcholine
 The mechanism of action of pyridostigmine is:
 101 of 261
 
-inhibition of the enzyme acetylcholinesterase resulting in increased levels of acetylcholine at neuromuscular junctions of skeletal muscles.In Myasthenia Gravis acetylcholine receptors are limited
+inhibition of the enzyme acetylcholinesterase resulting in increased levels of acetylcholine at neuromuscular junctions of skeletal muscles. - In Myasthenia Gravis acetylcholine receptors are limited.
 
 Pyridostigmine inhibits the enzyme _______, resulting in increased levels of ______ at _________
 
 inhibition of the enzyme acetylcholinesterase resulting in increased levels of acetylcholine at neuromuscular junctions of skeletal muscles.In Myasthenia Gravis acetylcholine receptors are limited
 
-Pyridostigmine inhibits the enzyme _______, resulting in increased levels of ______ at _________
+Pyridostigmine inhibits the enzyme _______, resulting in increased levels of ______ at _________.
 102 of 261
 
-inhibits acetylcholinesterase resulting in increased levels of acetylcholine at neuromuscular junctions of skeletal muscles.This increases availability of acetylcholine to limited receptors in MG
+inhibits acetylcholinesterase resulting in increased levels of acetylcholine at neuromuscular junctions of skeletal muscles. - This increases availability of acetylcholine to limited receptors in MG.
 
 Pyridostigmine inhibits the enzyme that normally breaks down ________.
 
@@ -986,7 +959,7 @@ inhibits acetylcholinesterase resulting in increased levels of acetylcholine at 
 Pyridostigmine inhibits the enzyme that normally breaks down ________.
 103 of 261
 
-acetylcholineThe enzyme that is inhibited is acetylcholinesterase
+acetylcholine - The enzyme that is inhibited is acetylcholinesterase.
 
 Pyrimethamine is a medication used to treat:
 
@@ -995,7 +968,7 @@ acetylcholineThe enzyme that is inhibited is acetylcholinesterase
 Pyrimethamine is a medication used to treat:
 104 of 261
 
-toxoplasmosis and malariaToxoplasmosis can come from cat litter, and malaria from mosquitos
+toxoplasmosis and malaria - Toxoplasmosis can come from cat litter, and malaria from mosquitos.
 
 Pyrimethamine is an ___________.
 
@@ -1013,7 +986,7 @@ antiparasitic
 The mechanism of action of pyrimethamine is:
 106 of 261
 
-inhibition of folic acid metabolism by blocking the enzyme dihydrofolate reductase.Folic acid metabolism is needed for parasites to survive
+inhibition of folic acid metabolism by blocking the enzyme dihydrofolate reductase. - Folic acid metabolism is needed for parasites to survive.
 
 Three medications used to treat toxoplasmosis are:
 
@@ -1022,19 +995,17 @@ inhibition of folic acid metabolism by blocking the enzyme dihydrofolate reducta
 Three medications used to treat toxoplasmosis are:
 107 of 261
 
-pyrimethamine, sulfadiazine, clindamycinClindamycin is also an antibiotic used to treat bacterial infections
+pyrimethamine, sulfadiazine, clindamycin - Clindamycin is also an antibiotic used to treat bacterial infections.
 
 Dihydrofolate reductase is 
 inhibited by the medication:
 
 pyrimethamine, sulfadiazine, clindamycinClindamycin is also an antibiotic used to treat bacterial infections
 
-Dihydrofolate reductase is 
-inhibited by the medication:
+Dihydrofolate reductase is inhibited by the medication:
 108 of 261
 
-pyrimethamineDihydrofolate reductase converts 
-dihydrofolate to tetrahydrofolate
+pyrimethamine - Dihydrofolate reductase converts dihydrofolate to tetrahydrofolate.
 
 The typical action of the enzyme dihydrofolate reductase is conversion of ______ to ______.
 
@@ -1044,7 +1015,9 @@ dihydrofolate to tetrahydrofolate
 The typical action of the enzyme dihydrofolate reductase is conversion of ______ to ______.
 109 of 261
 
-dihydrofolic acid to tetrahydrofolic acid.Another way of saying ____ic acid is ____ate. 
+dihydrofolic acid to tetrahydrofolic acid. 
+
+Another way of saying ____ic acid is ____ate. 
 ex. folic acid and folate
 
 Ranibizumab is a ______ medication.
@@ -1055,7 +1028,7 @@ ex. folic acid and folate
 Ranibizumab is a ______ medication.
 110 of 261
 
-anti-VEGFAn Anti-VEGF medication is antagonistic to VEGF
+anti-VEGF - An Anti-VEGF medication is antagonistic to VEGF.
 
 Ranibizumab belongs to the following class of medications:
 
@@ -1064,7 +1037,7 @@ anti-VEGFAn Anti-VEGF medication is antagonistic to VEGF
 Ranibizumab belongs to the following class of medications:
 111 of 261
 
-monoclonal antibodyMonoclonal antibodies often end in "nab" and "mab"
+monoclonal antibody - Monoclonal antibodies often end in "nab" and "mab."
 
 Ranibizumab is a medication used to treat:
 
@@ -1073,7 +1046,7 @@ monoclonal antibodyMonoclonal antibodies often end in "nab" and "mab"
 Ranibizumab is a medication used to treat:
 112 of 261
 
-"wet" exudative age related macular degeneration and neovascularization associated to retinal vein occlusions.It treats proliferative diabetic retinopathy & neovascular glaucoma too."
+"wet" exudative age related macular degeneration and neovascularization associated to retinal vein occlusions. - It treats proliferative diabetic retinopathy & neovascular glaucoma too.
 
 Ranibizumab has the following action on the eye:
 
@@ -1082,8 +1055,7 @@ Ranibizumab has the following action on the eye:
 Ranibizumab has the following action on the eye:
 113 of 261
 
-prevents neovascularization and decreases blood vessel permeability.Neovascular vessels tend to be poor 
-quality and leaky
+prevents neovascularization and decreases blood vessel permeability. - Neovascular vessels tend to be poor quality and leaky.
 
 Ranibizumab binds to (VEGF/VEGF receptors).
 
@@ -1093,7 +1065,7 @@ quality and leaky
 Ranibizumab binds to (VEGF/VEGF receptors).
 114 of 261
 
-VEGFThey inhibit the action of VEGF without interacting with the receptors
+VEGF - They inhibit the action of VEGF without interacting with the receptors.
 
 Ranitidine is a medication that treats:
 
@@ -1102,7 +1074,7 @@ VEGFThey inhibit the action of VEGF without interacting with the receptors
 Ranitidine is a medication that treats:
 115 of 261
 
-acid reflux / heartburn, ulcers and other gastric acid related conditions
+acid reflux/heartburn, ulcers and other gastric acid related conditions.
 
 Ranitidine is a ___ receptor (antagonist/agonist).
 
@@ -1111,7 +1083,7 @@ acid reflux / heartburn, ulcers and other gastric acid related conditions
 Ranitidine is a ___ receptor (antagonist/agonist).
 116 of 261
 
-H2 (histamine-2) receptor antagonistHistamine-1 receptors are involved in allergies
+H2 (histamine-2) receptor antagonist - Histamine-1 receptors are involved in allergies.
 
 Pharmacology
 Basic Level Deck 10 of 11
@@ -1119,7 +1091,7 @@ Basic Level Deck 10 of 11
 
 The systemic effect of ranitidine is:
 
-H2 (histamine-2) receptor antagonistHistamine-1 receptors are involved in allergies
+H2 (histamine-2) receptor antagonist - Histamine-1 receptors are involved in allergies
 
 Pharmacology
 Basic Level Deck 10 of 11
@@ -1128,7 +1100,7 @@ Basic Level Deck 10 of 11
 The systemic effect of ranitidine is:
 117 of 261
 
-decreased gastric acid secretion.This may increase gastric pH
+decreased gastric acid secretion. - This may increase gastric pH.
 
 Ranitidine acts on ____ cells of the stomach.
 
@@ -1137,7 +1109,7 @@ decreased gastric acid secretion.This may increase gastric pH
 Ranitidine acts on ____ cells of the stomach.
 118 of 261
 
-parietal cellsParietal cells secrete gastric acid
+parietal cells - Parietal cells secrete gastric acid.
 
 Ribavirin is a ______ medication.
 
@@ -1146,7 +1118,7 @@ parietal cellsParietal cells secrete gastric acid
 Ribavirin is a ______ medication.
 119 of 261
 
-antiviral medicationRibaVIRin is an antiVIRal
+antiviral medication - RibaVIRin is an antiVIRal.
 
 Ribavirin is a medication used to treat infection from the following microbes:
 
@@ -1155,7 +1127,7 @@ antiviral medicationRibaVIRin is an antiVIRal
 Ribavirin is a medication used to treat infection from the following microbes:
 120 of 261
 
-respiratory syncytial virus (RSV) and hepatitis CBoth are RNA viruses
+respiratory syncytial virus (RSV) and hepatitis C - Both are RNA viruses.
 
 The mechanism of action of ribavirin is:
 
@@ -1164,7 +1136,7 @@ respiratory syncytial virus (RSV) and hepatitis CBoth are RNA viruses
 The mechanism of action of ribavirin is:
 121 of 261
 
-inhibition of viral RNA polymerase to prevent viral RNA production.RNA is used in human cells to direct amino acids to form proteins
+inhibition of viral RNA polymerase to prevent viral RNA production. - RNA is used in human cells to direct amino acids to form proteins.
 
 Rifampin is a medication that treats the following condition:
 
@@ -1173,7 +1145,7 @@ inhibition of viral RNA polymerase to prevent viral RNA production.RNA is used
 Rifampin is a medication that treats the following condition:
 122 of 261
 
-tuberculosisThe test for tuberculosis is called the Mantoux test
+tuberculosis - The test for tuberculosis is called the Mantoux test.
 
 The mechanism of action of rifampin is:
 
@@ -1182,7 +1154,7 @@ tuberculosisThe test for tuberculosis is called the Mantoux test
 The mechanism of action of rifampin is:
 123 of 261
 
-Inhibition of DNA-dependent RNA polymeraseRifampin can cause urine, saliva, tears or sweat to be orange-red
+Inhibition of DNA-dependent RNA polymerase - Rifampin can cause urine, saliva, tears or sweat to be orange-red.
 
 Latent tuberculosis infections are treated with ________ or ________.
 
@@ -1191,7 +1163,7 @@ Inhibition of DNA-dependent RNA polymeraseRifampin can cause urine, saliva, te
 Latent tuberculosis infections are treated with ________ or ________.
 124 of 261
 
-rifampin or isoniazidThe key word here is LATENT
+rifampin or isoniazid - The key word here is LATENT.
 
 Rifampin treats (active/latent) tuberculosis.
 
@@ -1209,7 +1181,7 @@ Active AND latent
 Steroid medications often end in the suffix ___.
 126 of 261
 
--oneex. prednisolone, fluorometholone, rimexolone
+-one - ex. prednisolone, fluorometholone, rimexolone
 
 Rimexolone is a _______ medication.
 
@@ -1218,27 +1190,26 @@ Rimexolone is a _______ medication.
 Rimexolone is a _______ medication.
 127 of 261
 
-steroidRimexolone is largely no longer used
+steroid - Rimexolone is largely no longer used.
 
 Rimexolone, loteprednol, and fluorometholone are all (soft/hard) steroids
 
 steroidRimexolone is largely no longer used
 
-Rimexolone, loteprednol, and fluorometholone are all (soft/hard) steroids
+Rimexolone, loteprednol, and fluorometholone are all (soft/hard) steroids.
 128 of 261
 
-softSoft steroids have less side effects & are more appropriate longterm
+soft - Soft steroids have less side effects & are more appropriate longterm.
 
 Rimexolone and other medications in its class inhibit synthesis of _____, 
 resulting in decreased levels of _____.
 
 softSoft steroids have less side effects & are more appropriate longterm
 
-Rimexolone and other medications in its class inhibit synthesis of _____, 
-resulting in decreased levels of _____.
+Rimexolone and other medications in its class inhibit synthesis of _____, resulting in decreased levels of _____.
 129 of 261
 
-Phospholipase A (PLA) resulting in decreased levels of arachidonic acid.All steroids inhibit PLA at different levels of potency
+Phospholipase A (PLA) resulting in decreased levels of arachidonic acid. - All steroids inhibit PLA at different levels of potency.
 
 Potential ocular side effects rimexolone and other medications in its class are:
 
@@ -1247,7 +1218,7 @@ Phospholipase A (PLA) resulting in decreased levels of arachidonic acid.All st
 Potential ocular side effects rimexolone and other medications in its class are:
 130 of 261
 
-increase risk of infection, subcapsular cataracts, increased eye pressure and slow wound healing.Increased IOP from a steroid can be treated with ocular hypotensives
+increase risk of infection, subcapsular cataracts, increased eye pressure and slow wound healing. - Increased IOP from a steroid can be treated with ocular hypotensives.
 
 Salmeterol is a medication used to treat:
 
@@ -1256,16 +1227,16 @@ increase risk of infection, subcapsular cataracts, increased eye pressure and sl
 Salmeterol is a medication used to treat:
 131 of 261
 
-asthma / bronchospasmAsthma patients cannot breathe well due to bronchoconstriction
+asthma/bronchospasm - Asthma patients cannot breathe well due to bronchoconstriction.
 
 Salmeterol causes broncho(dilation/constriction)
 
 asthma / bronchospasmAsthma patients cannot breathe well due to bronchoconstriction
 
-Salmeterol causes broncho(dilation/constriction)
+Salmeterol causes broncho(dilation/constriction).
 132 of 261
 
-dilationBronchodilation allows more air to move into and out of the lungs
+dilation - Bronchodilation allows more air to move into and out of the lungs.
 
 Salmeterol interacts with __ receptors and is an (agonist/antagonist).
 
@@ -1274,16 +1245,16 @@ dilationBronchodilation allows more air to move into and out of the lungs
 Salmeterol interacts with __ receptors and is an (agonist/antagonist).
 133 of 261
 
-beta-2 ; agonistB2 receptors are on the lungs and B1 receptors are on the heart
+beta-2, agonist - B2 receptors are on the lungs and B1 receptors are on the heart.
 
 Salmeterol activates beta(1/2) receptors
 
 beta-2 ; agonistB2 receptors are on the lungs and B1 receptors are on the heart
 
-Salmeterol activates beta(1/2) receptors
+Salmeterol activates beta(1/2) receptors.
 134 of 261
 
-2Activation of beta-2 receptors on the lungs causes bronchodilation
+2 - Activation of beta-2 receptors on the lungs causes bronchodilation.
 
 Sildenafil belongs to the following class of medications:
 
@@ -1292,7 +1263,7 @@ Sildenafil belongs to the following class of medications:
 Sildenafil belongs to the following class of medications:
 135 of 261
 
-phosphodiesterase (PDE) inhibitorPhosphodiesterase regulates cAMP and cGMP
+phosphodiesterase (PDE) inhibitor - Phosphodiesterase regulates cAMP and cGMP.
 
 Sildenafil is a medication that treats:
 
@@ -1310,7 +1281,7 @@ erectile dysfunction
 The mechanism of action of sildenafil is:
 137 of 261
 
-Prolongation of the effects of cGMP to cause blood vessel relaxation.This allows blood to pool in its target location
+Prolongation of the effects of cGMP to cause blood vessel relaxation. - This allows blood to pool in its target location.
 
 A potential severe ocular side effect of sildenafil is:
 
@@ -1319,7 +1290,7 @@ Prolongation of the effects of cGMP to cause blood vessel relaxation.This allo
 A potential severe ocular side effect of sildenafil is:
 138 of 261
 
-NAION (non-arteritic anterior ischemic optic neuropathy)This causes decreased vision and optic nerve pallor
+NAION (non-arteritic anterior ischemic optic neuropathy) - This causes decreased vision and optic nerve pallor.
 
 Simvastatin is a medication used to treat:
 
@@ -1328,7 +1299,7 @@ NAION (non-arteritic anterior ischemic optic neuropathy)This causes decreased 
 Simvastatin is a medication used to treat:
 139 of 261
 
-cholesterolStatin medications usually end in statin but nystatin is an antifungal!
+cholesterol - Statin medications usually end in statin but nystatin is an antifungal!
 
 The mechanism of action of simvastatin is:
 
@@ -1346,7 +1317,7 @@ competitive inhibition of HMG-CoA reductase (3-hydroxy-3 methylglutaryl coenzyme
 Simvastatin and other medications in it class prevent the "____"limiting step of _________ metabolism
 141 of 261
 
-rate limiting step of cholesterol metabolismSimvastatin is in the statin class of medications
+rate limiting step of cholesterol metabolism - Simvastatin is in the statin class of medications.
 
 Simvastatin and other medications in its class increase (LDL/HDL/triglycerides).
 
@@ -1355,7 +1326,7 @@ rate limiting step of cholesterol metabolismSimvastatin is in the statin class
 Simvastatin and other medications in its class increase (LDL/HDL/triglycerides).
 142 of 261
 
-Increase HDL and decrease LDL and triglyceridesHDL is the "good" cholesterol and all the others are "bad"
+Increase HDL and decrease LDL and triglycerides - HDL is the "good" cholesterol and all the others are "bad."
 
 Muro-128 belongs to the following class of medications:
 
@@ -1364,7 +1335,7 @@ Increase HDL and decrease LDL and triglyceridesHDL is the "good" cholesterol a
 Muro-128 belongs to the following class of medications:
 143 of 261
 
-hyperosmoticMannitol and Glycerin are also hyperosmotics
+hyperosmotic - Mannitol and Glycerin are also hyperosmotics.
 
 Muro-128 is a medication used to treat __________.
 
@@ -1373,7 +1344,7 @@ hyperosmoticMannitol and Glycerin are also hyperosmotics
 Muro-128 is a medication used to treat __________.
 144 of 261
 
-corneal edemaFor ex. after cataract surgery, in transplants or in Fuch's dystrophy
+corneal edema - For ex. after cataract surgery, in transplants or in Fuch's dystrophy.
 
 The effect of Muro-128 on corneal thickness is (thinning / thickening).
 
@@ -1382,7 +1353,7 @@ corneal edemaFor ex. after cataract surgery, in transplants or in Fuch's dystr
 The effect of Muro-128 on corneal thickness is (thinning / thickening).
 145 of 261
 
-thinningIt pulls water out of the cornea using osmotic pressure 
+thinning - It pulls water out of the cornea using osmotic pressure.
 
 Spironolactone is a medication used to treat:
 
@@ -1391,7 +1362,7 @@ thinningIt pulls water out of the cornea using osmotic pressure
 Spironolactone is a medication used to treat:
 146 of 261
 
-hypertensionIt also treats skin conditions
+hypertension - It also treats skin conditions.
 
 Spironolactone is the ________ class of medication that is (sodium/potassium/calcium/chloride) sparing.
 
@@ -1400,7 +1371,7 @@ hypertensionIt also treats skin conditions
 Spironolactone is the ________ class of medication that is (sodium/potassium/calcium/chloride) sparing.
 147 of 261
 
-diuretic ; potassiumThis is a good option for patients at risk for hypokalemia
+diuretic, potassium - This is a good option for patients at risk for hypokalemia.
 
 Spironolactone increases the elimination of ____ and ____ from the body.
 
@@ -1409,7 +1380,7 @@ diuretic ; potassiumThis is a good option for patients at risk for hypokalemia
 Spironolactone increases the elimination of ____ and ____ from the body.
 148 of 261
 
-sodium, calcium, bicarbonate and waterWater typically follows where sodium goes
+sodium, calcium, bicarbonate and water - Water typically follows where sodium goes.
 
 Spironolactone is a __________ antagonist.
 
@@ -1418,7 +1389,7 @@ sodium, calcium, bicarbonate and waterWater typically follows where sodium goe
 Spironolactone is a __________ antagonist.
 149 of 261
 
-aldosteroneAldosterone is a mineralocorticoid from adrenal cortex
+aldosterone - Aldosterone is a mineralocorticoid from adrenal cortex.
 
 Mechanism of action of spironolactone:
 
@@ -1427,7 +1398,7 @@ aldosteroneAldosterone is a mineralocorticoid from adrenal cortex
 Mechanism of action of spironolactone:
 150 of 261
 
-Blocks action of aldosterone on the distal convoluted tubule and collecting duct of the kidney AND blocks androgens.Due to its androgen blocking action it may help with some skin condition
+Blocks action of aldosterone on the distal convoluted tubule and collecting duct of the kidney AND blocks androgens. - Due to its androgen blocking action it may help with some skin condition.
 
 The two mediators that spironolactone block are:
 
@@ -1436,7 +1407,7 @@ Blocks action of aldosterone on the distal convoluted tubule and collecting duct
 The two mediators that spironolactone block are:
 151 of 261
 
-androgens and aldosteroneBoth are produced by the adrenal glands
+androgens and aldosterone - Both are produced by the adrenal glands.
 
 Sucralfate is a medication used to treat:
 
@@ -1445,7 +1416,7 @@ androgens and aldosteroneBoth are produced by the adrenal glands
 Sucralfate is a medication used to treat:
 152 of 261
 
-peptic ulcersIt does not PREVENT the ulcers as PPI's and H-2 blockers do
+peptic ulcers - It does not PREVENT the ulcers as PPI's and H-2 blockers do.
 
 The mechanism of action of sucralfate is:
 
@@ -1454,7 +1425,7 @@ peptic ulcersIt does not PREVENT the ulcers as PPI's and H-2 blockers do
 The mechanism of action of sucralfate is:
 153 of 261
 
-inhibition of pepsin and binding to positively charged proteins in ulcerated stomach tissues.Pepsin is a stomach enzyme that digest proteins
+inhibition of pepsin and binding to positively charged proteins in ulcerated stomach tissues. - Pepsin is a stomach enzyme that digest proteins.
 
 Sulfacetamide is a medication used to treat:
 
@@ -1463,7 +1434,7 @@ inhibition of pepsin and binding to positively charged proteins in ulcerated sto
 Sulfacetamide is a medication used to treat:
 154 of 261
 
-bacterial infectionsIt is an antibiotic
+bacterial infections - It is an antibiotic.
 
 Sulfacetamide belongs to the following class of medications:
 
@@ -1472,18 +1443,17 @@ bacterial infectionsIt is an antibiotic
 Sulfacetamide belongs to the following class of medications:
 155 of 261
 
-sulfonylurea arylamine antibioticSulfacetamide is NOT a sulfonylurea diabetic medication
+sulfonylurea arylamine antibiotic - Sulfacetamide is NOT a sulfonylurea diabetic medication.
 
 Sulfacetamide is contraindicated in patients 
 with ______ allergies.
 
 sulfonylurea arylamine antibioticSulfacetamide is NOT a sulfonylurea diabetic medication
 
-Sulfacetamide is contraindicated in patients 
-with ______ allergies.
+Sulfacetamide is contraindicated in patients with ______ allergies.
 156 of 261
 
-SulfaAlso true for carbonic anhydrase inhibitors & diabetic sulfonylureas
+Sulfa - Also true for carbonic anhydrase inhibitors & diabetic sulfonylureas.
 
 The mechanism of action of sulfacetamide and other medications in its class is:
 
@@ -1492,7 +1462,7 @@ SulfaAlso true for carbonic anhydrase inhibitors & diabetic sulfonylureas
 The mechanism of action of sulfacetamide and other medications in its class is:
 157 of 261
 
-Inhibition of folate synthesis by inhibiting the enzyme dihydropteroate synthase (the enzyme responsible for converting PABA into dihydropteroate during folate production).Bacteria rely on folate for DNA synthesis
+Inhibition of folate synthesis by inhibiting the enzyme dihydropteroate synthase (the enzyme responsible for converting PABA into dihydropteroate during folate production). - Bacteria rely on folate for DNA synthesis.
 
 The first step in folate synthesis is conversion of ___ into ____ by the enzyme ______.
 
@@ -1501,7 +1471,7 @@ Inhibition of folate synthesis by inhibiting the enzyme dihydropteroate synthase
 The first step in folate synthesis is conversion of ___ into ____ by the enzyme ______.
 158 of 261
 
-PABA into dihydrofolate by the enzyme dihydropteroate synthasePABA stands for para-aminobenzoic acid
+PABA into dihydrofolate by the enzyme dihydropteroate synthase - PABA stands for para-aminobenzoic acid.
 
 Sulfadiazine is a medication used to treat ______.
 
@@ -1510,7 +1480,7 @@ PABA into dihydrofolate by the enzyme dihydropteroate synthasePABA stands for 
 Sulfadiazine is a medication used to treat ______.
 159 of 261
 
-bacterial infectionsIt is an antibiotic
+bacterial infections - It is an antibiotic.
 
 Sulfadiazine is an ________.
 
@@ -1519,7 +1489,7 @@ bacterial infectionsIt is an antibiotic
 Sulfadiazine is an ________.
 160 of 261
 
-antibioticIt treats bacterial infections
+antibiotic - It treats bacterial infections.
 
 Sulfadiazine belongs to the following class of medications:
 
@@ -1528,7 +1498,7 @@ antibioticIt treats bacterial infections
 Sulfadiazine belongs to the following class of medications:
 161 of 261
 
-sulfonylurea arylamine antibioticIt is NOT a diabetic sulfonylurea
+sulfonylurea arylamine antibiotic - It is NOT a diabetic sulfonylurea.
 
 Sulfadiazine is contraindicated in patients with a ____ allergy.
 
@@ -1537,7 +1507,7 @@ sulfonylurea arylamine antibioticIt is NOT a diabetic sulfonylurea
 Sulfadiazine is contraindicated in patients with a ____ allergy.
 162 of 261
 
-sulfaThe same is true for CAI's or sulfonylurea diabetic drugs
+sulfa - The same is true for CAI's or sulfonylurea diabetic drugs.
 
 Sulfa drugs are only effective in bacteria that synthesize _____.
 
@@ -1546,7 +1516,7 @@ sulfaThe same is true for CAI's or sulfonylurea diabetic drugs
 Sulfa drugs are only effective in bacteria that synthesize _____.
 163 of 261
 
-folateFolate is needed for DNA metabolism in bacteria
+folate - Folate is needed for DNA metabolism in bacteria.
 
 The mechanism of action of sulfadiazine is:
 
@@ -1555,7 +1525,7 @@ folateFolate is needed for DNA metabolism in bacteria
 The mechanism of action of sulfadiazine is:
 164 of 261
 
-Inhibition of the enzyme dihydropteroate synthase, which normally converts PABA into dihydrofolate.Therefore folate cannot be formed
+Inhibition of the enzyme dihydropteroate synthase, which normally converts PABA into dihydrofolate. - Therefore folate cannot be formed.
 
 As a result of decreased folate, there is interference with bacterial ___________.
 
@@ -1564,7 +1534,7 @@ Inhibition of the enzyme dihydropteroate synthase, which normally converts PABA 
 As a result of decreased folate, there is interference with bacterial ___________.
 165 of 261
 
-DNA synthesisWithout DNA synthesis bacteria cannot replicate
+DNA synthesis - Without DNA synthesis bacteria cannot replicate.
 
 Sulfadiazine can be combined with _______ to treat toxoplasmosis.
 
@@ -1573,7 +1543,7 @@ DNA synthesisWithout DNA synthesis bacteria cannot replicate
 Sulfadiazine can be combined with _______ to treat toxoplasmosis.
 166 of 261
 
-pyrimethamineToxoplasmosis is a parasite found in cat litter
+pyrimethamine - Toxoplasmosis is a parasite found in cat litter.
 
 Sulfamethoxazole is a medication used to treat ______.
 
@@ -1582,7 +1552,7 @@ pyrimethamineToxoplasmosis is a parasite found in cat litter
 Sulfamethoxazole is a medication used to treat ______.
 167 of 261
 
-bacterial infectionsIt is NOT a diabetic sulfa drug and it is NOT an antifungal "azole"
+bacterial infections - It is NOT a diabetic sulfa drug and it is NOT an antifungal "azole."
 
 Sulfamethoxazole is an ________.
 
@@ -1591,7 +1561,7 @@ bacterial infectionsIt is NOT a diabetic sulfa drug and it is NOT an antifunga
 Sulfamethoxazole is an ________.
 168 of 261
 
-antibioticAntibiotics treat bacterial infections
+antibiotic - Antibiotics treat bacterial infections.
 
 Sulfamethoxazole belongs to the following class of medications:
 
@@ -1600,7 +1570,7 @@ antibioticAntibiotics treat bacterial infections
 Sulfamethoxazole belongs to the following class of medications:
 169 of 261
 
-sulfonylurea arylamine antibioticAlthough antifungals often end with "azole" this is not an antifungal
+sulfonylurea arylamine antibiotic - Although antifungals often end with "azole" this is not an antifungal.
 
 Sulfamethoxazole is contraindicated in patients with a ____ allergy.
 
@@ -1609,7 +1579,7 @@ sulfonylurea arylamine antibioticAlthough antifungals often end with "azole" t
 Sulfamethoxazole is contraindicated in patients with a ____ allergy.
 170 of 261
 
-sulfaSulfa is also seen in diabetic sulfonylureas and glaucoma CAI's
+sulfa - Sulfa is also seen in diabetic sulfonylureas and glaucoma CAI's.
 
 The mechanism of action of sulfamethoxazole is:
 
@@ -1618,7 +1588,7 @@ sulfaSulfa is also seen in diabetic sulfonylureas and glaucoma CAI's
 The mechanism of action of sulfamethoxazole is:
 171 of 261
 
-inhibition of the enzyme dihydropteroate synthase, which normally converts PABA into dihydrofolate.Altogether this interferes with folate synthesis needed for bacteria.
+inhibition of the enzyme dihydropteroate synthase, which normally converts PABA into dihydrofolate. - Altogether this interferes with folate synthesis needed for bacteria.
 
 Sulfisoxazole is a medication used to treat ______.
 
@@ -1627,7 +1597,7 @@ inhibition of the enzyme dihydropteroate synthase, which normally converts PABA 
 Sulfisoxazole is a medication used to treat ______.
 172 of 261
 
-bacterial infectionsAgain, it is "oxazole" and NOT "conazole" like in antifungals
+bacterial infections - Again, it is "oxazole" and NOT "conazole" like in antifungals.
 
 Sulfisoxazole is an ________.
 
@@ -1636,7 +1606,7 @@ bacterial infectionsAgain, it is "oxazole" and NOT "conazole" like in antifung
 Sulfisoxazole is an ________.
 173 of 261
 
-antibioticAntibiotics treat bacterial infections
+antibiotic - Antibiotics treat bacterial infections.
 
 Sulfisoxazole belongs to the following class of medications:
 
@@ -1645,7 +1615,7 @@ antibioticAntibiotics treat bacterial infections
 Sulfisoxazole belongs to the following class of medications:
 174 of 261
 
-sulfonylurea arylamine antibioticSULFisoxazole is a SULFonylurea arylamine antibiotic (NOT a diabetic med)
+sulfonylurea arylamine antibiotic - SULFisoxazole is a SULFonylurea arylamine antibiotic (NOT a diabetic med).
 
 Sulfisoxazole is contraindicated in patients with a ____ allergy.
 
@@ -1654,7 +1624,7 @@ sulfonylurea arylamine antibioticSULFisoxazole is a SULFonylurea arylamine ant
 Sulfisoxazole is contraindicated in patients with a ____ allergy.
 175 of 261
 
-sulfaSulfonylureas and CAI's are also contraindicated
+sulfa - Sulfonylureas and CAI's are also contraindicated.
 
 Sumatriptan is a medication used to treat:
 
@@ -1663,7 +1633,7 @@ sulfaSulfonylureas and CAI's are also contraindicated
 Sumatriptan is a medication used to treat:
 176 of 261
 
-migrainesMigraines sometimes have warning symptoms or "prodrome"
+migraines - Migraines sometimes have warning symptoms or "prodrome."
 
 The mechanism of action of sumatriptan is, it acts as a:
 
@@ -1672,15 +1642,14 @@ migrainesMigraines sometimes have warning symptoms or "prodrome"
 The mechanism of action of sumatriptan is, it acts as a:
 177 of 261
 
-5-HT1B and 5-HT1D receptor agonistThese are serotonin receptors; sumatriptan is a serotonin agonist
+5-HT1B and 5-HT1D receptor agonist - These are serotonin receptors; sumatriptan is a serotonin agonist.
 
 In the body, 5-HT receptors bind to 
 endogenous  _______
 
 5-HT1B and 5-HT1D receptor agonistThese are serotonin receptors; sumatriptan is a serotonin agonist
 
-In the body, 5-HT receptors bind to 
-endogenous  _______
+In the body, 5-HT receptors bind to endogenous  _______.
 178 of 261
 
 serotonin
@@ -1692,7 +1661,7 @@ serotonin
 The systemic action of sumatriptan is:
 179 of 261
 
-acting on smooth muscle in cranial arteries to cause vasoconstriction and reduce inflammation in the CNS.Migraines are often caused by rapid constriction followed by dilation
+acting on smooth muscle in cranial arteries to cause vasoconstriction and reduce inflammation in the CNS. - Migraines are often caused by rapid constriction followed by dilation.
 
 Potential ocular side effects of sumatriptan is:
 
@@ -1701,18 +1670,17 @@ acting on smooth muscle in cranial arteries to cause vasoconstriction and reduce
 Potential ocular side effects of sumatriptan is:
 180 of 261
 
-Angle closure and NAIONBoth damage the optic nerve. Closure is painful and NAION is painless
+Angle closure and NAION - Both damage the optic nerve. Closure is painful and NAION is painless.
 
 Tamoxifen is a medication used in the 
 treatment of _______.
 
 Angle closure and NAIONBoth damage the optic nerve. Closure is painful and NAION is painless
 
-Tamoxifen is a medication used in the 
-treatment of _______.
+Tamoxifen is a medication used in the treatment of _______.
 181 of 261
 
-breast cancerIt reduces the risk of recurrence and is often taken during remission
+breast cancer - It reduces the risk of recurrence and is often taken during remission.
 
 Potential ocular side effect of tamoxifen are:
 
@@ -1721,7 +1689,7 @@ breast cancerIt reduces the risk of recurrence and is often taken during remis
 Potential ocular side effect of tamoxifen are:
 182 of 261
 
-crystalline retinopathy, whorl keratopathy, blood vessel embolisms.Amiodarone & Fabry's disease and others also causes whorl keratopathy
+crystalline retinopathy, whorl keratopathy, blood vessel embolisms. - Amiodarone & Fabry's disease and others also causes whorl keratopathy
 
 Tamoxifen is an anti______ drug.
 
@@ -1730,7 +1698,7 @@ crystalline retinopathy, whorl keratopathy, blood vessel embolisms.Amiodarone 
 Tamoxifen is an anti______ drug.
 183 of 261
 
-estrogenIt blocks estrogen from attaching to receptors
+estrogen - It blocks estrogen from attaching to receptors.
 
 Tamoxifen belongs to the following class of medications:
 
@@ -1748,7 +1716,7 @@ SERM (selective estrogen receptor modifier)
 The mechanism of action of tamoxifen is that it acts as a:
 185 of 261
 
-competitive partial agonist inhibitor of estradiol that decreases effects of estrogen
+competitive partial agonist inhibitor of estradiol that decreases effects of estrogen.
 
 Tamsulosin is a medication used to treat:
 
@@ -1757,7 +1725,7 @@ competitive partial agonist inhibitor of estradiol that decreases effects of est
 Tamsulosin is a medication used to treat:
 186 of 261
 
-benign prostate hypertrophyBPH causes incomplete emptying of the bladder and frequent urination
+benign prostate hypertrophy - BPH causes incomplete emptying of the bladder and frequent urination.
 
 The primary ocular side effect associated with tamsulosin is:
 
@@ -1766,7 +1734,7 @@ benign prostate hypertrophyBPH causes incomplete emptying of the bladder and f
 The primary ocular side effect associated with tamsulosin is:
 187 of 261
 
-floppy iris syndrome due to loss of iris dilator smooth muscle toneSurgeons will need to know about this prior to cataract surgery!
+floppy iris syndrome due to loss of iris dilator smooth muscle tone - Surgeons will need to know about this prior to cataract surgery!
 
 Tamsulosin belongs to the following class of medications:
 
@@ -1775,7 +1743,7 @@ floppy iris syndrome due to loss of iris dilator smooth muscle toneSurgeons wi
 Tamsulosin belongs to the following class of medications:
 188 of 261
 
-alpha-blocker / antagonistAlpha antagonist often end in "zosin" or "losin"
+alpha-blocker/antagonist - Alpha antagonist often end in "zosin" or "losin."
 
 Tamsulosin is an alpha (1/2) blocker.
 
@@ -1784,16 +1752,16 @@ alpha-blocker / antagonistAlpha antagonist often end in "zosin" or "losin"
 Tamsulosin is an alpha (1/2) blocker.
 189 of 261
 
-1Alfuzosin is also an alpha-1 blocker
+1 - Alfuzosin is also an alpha-1 blocker.
 
 Tamsulosin (relaxes/constricts) smooth muscle of the prostate, bladder, and urethra
 
 1Alfuzosin is also an alpha-1 blocker
 
-Tamsulosin (relaxes/constricts) smooth muscle of the prostate, bladder, and urethra
+Tamsulosin (relaxes/constricts) smooth muscle of the prostate, bladder, and urethra.
 190 of 261
 
-relaxesIt relaxes smooth muscle by blocking action of alpha receptors
+relaxes - It relaxes smooth muscle by blocking action of alpha receptors.
 
 Terazosin is a medication that treats:
 
@@ -1802,7 +1770,7 @@ relaxesIt relaxes smooth muscle by blocking action of alpha receptors
 Terazosin is a medication that treats:
 191 of 261
 
-urinary retention and hypertensionBy relaxing smooth muscle around the prostate and blood vessels
+urinary retention and hypertension - By relaxing smooth muscle around the prostate and blood vessels.
 
 Terazosin belongs to the following class of medications:
 
@@ -1811,7 +1779,7 @@ urinary retention and hypertensionBy relaxing smooth muscle around the prostat
 Terazosin belongs to the following class of medications:
 192 of 261
 
-Alpha blocker / antagonist
+Alpha blocker/antagonist
 
 The mechanism of action of terazosin is:
 
@@ -1820,7 +1788,7 @@ Alpha blocker / antagonist
 The mechanism of action of terazosin is:
 193 of 261
 
-Blocking alpha receptors in the prostate to relax smooth muscle of prostate, bladder and urethra.This allows for increased flow of urine
+Blocking alpha receptors in the prostate to relax smooth muscle of prostate, bladder and urethra. - This allows for increased flow of urine.
 
 Terazosin blocks alpha (1/2) receptors.
 
@@ -1829,16 +1797,16 @@ Blocking alpha receptors in the prostate to relax smooth muscle of prostate, bla
 Terazosin blocks alpha (1/2) receptors.
 194 of 261
 
-1Medications that end in "zosin" and "losin" are apha-1 agonist
+1 - Medications that end in "zosin" and "losin" are apha-1 agonist.
 
 Terbutaline belongs to the following class of medications.:
 
 1Medications that end in "zosin" and "losin" are apha-1 agonist
 
-Terbutaline belongs to the following class of medications.:
+Terbutaline belongs to the following class of medications:
 195 of 261
 
-beta-2 agonistAgonist activate beta-2 receptors. This activates lung receptors
+beta-2 agonist - Agonist activate beta-2 receptors. This activates lung receptors.
 
 Terbutaline activates beta (1/2) receptors.
 
@@ -1847,7 +1815,7 @@ beta-2 agonistAgonist activate beta-2 receptors. This activates lung receptors
 Terbutaline activates beta (1/2) receptors.
 196 of 261
 
-2Beta-1 receptors are on the heart and beta-2 receptors are on the lungs
+2 - Beta-1 receptors are on the heart and beta-2 receptors are on the lungs.
 
 Terbutaline is a medication used to treat:
 
@@ -1856,7 +1824,7 @@ Terbutaline is a medication used to treat:
 Terbutaline is a medication used to treat:
 197 of 261
 
-Asthma and COPDOther Beta-2 agonist to treat asthma end in "uterol" like albuterol
+Asthma and COPD - Other Beta-2 agonist to treat asthma end in "uterol" like albuterol.
 
 Ocular side effect of terbutaline include:
 
@@ -1865,7 +1833,7 @@ Asthma and COPDOther Beta-2 agonist to treat asthma end in "uterol" like albut
 Ocular side effect of terbutaline include:
 198 of 261
 
-increased IOPDue to beta activation & increased aqueous humor formation
+increased IOP - Due to beta activation & increased aqueous humor formation.
 
 The physiological effect of terbutaline is broncho(constriction/dilation).
 
@@ -1874,7 +1842,7 @@ increased IOPDue to beta activation & increased aqueous humor formation
 The physiological effect of terbutaline is broncho(constriction/dilation).
 199 of 261
 
-dilationBronchodilation allows more air in & out of the lungs while breathing
+dilation - Bronchodilation allows more air in & out of the lungs while breathing.
 
 Tetrahydrozoline is a medication used to treat:
 
@@ -1883,7 +1851,7 @@ dilationBronchodilation allows more air in & out of the lungs while breathing
 Tetrahydrozoline is a medication used to treat:
 200 of 261
 
-conjunctival chemosis and hyperemiaIt is an active ingredient in medications like "Visine"
+conjunctival chemosis and hyperemia - It is an active ingredient in medications like "Visine."
 
 Tetrahydrozoline belongs to the follow class of medications:
 
@@ -1901,7 +1869,7 @@ alpha agonist
 Tetrahydrozoline activates alpha(1/2) receptors.
 202 of 261
 
-1It is an adrenergic agonist
+1 - It is an adrenergic agonist.
 
 Stimulation of alpha-1 receptors on blood vessels by tetrahydrozoline causes vaso(constriction/dilation).
 
@@ -1910,7 +1878,7 @@ Stimulation of alpha-1 receptors on blood vessels by tetrahydrozoline causes vas
 Stimulation of alpha-1 receptors on blood vessels by tetrahydrozoline causes vaso(constriction/dilation).
 203 of 261
 
-constrictionConstriction shrinks the conjunctival blood vessels to cause whitening
+constriction - Constriction shrinks the conjunctival blood vessels to cause whitening.
 
 Tetrahydrozoline causes pupillary (dilation/constriction).
 
@@ -1919,7 +1887,7 @@ constrictionConstriction shrinks the conjunctival blood vessels to cause white
 Tetrahydrozoline causes pupillary (dilation/constriction).
 204 of 261
 
-dilationLongterm use of "Visine" can result in a dilated eye
+dilation - Longterm use of "Visine" can result in a dilated eye.
 
 Tetrahydrozoline can have a tolerance effect which results in __________.
 
@@ -1928,7 +1896,7 @@ dilationLongterm use of "Visine" can result in a dilated eye
 Tetrahydrozoline can have a tolerance effect which results in __________.
 205 of 261
 
-rebound rednessWorsening of initial redness when the effect of a medication is gone
+rebound redness - Worsening of initial redness when the effect of a medication is gone.
 
 Theophylline is a medication used to treat:
 
@@ -1946,7 +1914,7 @@ asthma
 Theophylline is a medication that causes broncho(dilation/constriction).
 207 of 261
 
-dilationMost medications for asthma cause bronchodilation or reduce inflammation
+dilation - Most medications for asthma cause bronchodilation or reduce inflammation.
 
 Theophylline is a (anticholinergic/cholinergic) medication.
 
@@ -1955,7 +1923,7 @@ dilationMost medications for asthma cause bronchodilation or reduce inflammati
 Theophylline is a (anticholinergic/cholinergic) medication.
 208 of 261
 
-anticholinergicIt's mechanism of action involves epinephrine
+anticholinergic - Its mechanism of action involves epinephrine.
 
 The mechanism of action of theophylline is:
 
@@ -1964,16 +1932,16 @@ anticholinergicIt's mechanism of action involves epinephrine
 The mechanism of action of theophylline is:
 209 of 261
 
-Inhibition the enzyme phosphodiesterase, resulting in increased cAMP and epinephrine release.Epinephrine is a sympathetic "fight" hormone
+Inhibition the enzyme phosphodiesterase, resulting in increased cAMP and epinephrine release. - Epinephrine is a sympathetic "fight" hormone.
 
 Theophylline inhibits the enzyme________, which in turn increases _____ and release of _____
 
 Inhibition the enzyme phosphodiesterase, resulting in increased cAMP and epinephrine release.Epinephrine is a sympathetic "fight" hormone
 
-Theophylline inhibits the enzyme________, which in turn increases _____ and release of _____
+Theophylline inhibits the enzyme________, which in turn increases _____ and release of _____.
 210 of 261
 
-phosphodiesterase which in turn increases cAMP and the release of epinephrine.Epinephrine is an adrenergic hormone
+phosphodiesterase which in turn increases cAMP and the release of epinephrine. - Epinephrine is an adrenergic hormone.
 
 Thioridazine is a medication used to treat:
 
@@ -1982,7 +1950,7 @@ phosphodiesterase which in turn increases cAMP and the release of epinephrine.
 Thioridazine is a medication used to treat:
 211 of 261
 
-schizophreniaSchizophrenia's typical onset is adolescence in males
+schizophrenia - Schizophrenia's typical onset is adolescence in males.
 
 The mechanism of action of thioridazine is that it acts as a:
 
@@ -1991,7 +1959,7 @@ schizophreniaSchizophrenia's typical onset is adolescence in males
 The mechanism of action of thioridazine is that it acts as a:
 212 of 261
 
-dopamine receptor antagonist.In schizophrenia dopamine is too high. In Parkinson's it is too low
+dopamine receptor antagonist. - In schizophrenia dopamine is too high. In Parkinson's it is too low.
 
 Thioridazine (decreases/increases) the action of ________.
 
@@ -2000,7 +1968,7 @@ dopamine receptor antagonist.In schizophrenia dopamine is too high. In Parkins
 Thioridazine (decreases/increases) the action of ________.
 213 of 261
 
-decreases ; dopamine.Dopamine is a monoamine
+decreases, dopamine. - Dopamine is a monoamine.
 
 Timolol is a medication used to treat:
 
@@ -2009,7 +1977,7 @@ decreases ; dopamine.Dopamine is a monoamine
 Timolol is a medication used to treat:
 214 of 261
 
-ocular hypertension / glaucomaIt is a "gold standard" medication to which all else are compared
+ocular hypertension or glaucoma - It is a "gold standard" medication to which all else are compared.
 
 Timolol belongs to the following class of medications:
 
@@ -2018,8 +1986,7 @@ ocular hypertension / glaucomaIt is a "gold standard" medication to which all 
 Timolol belongs to the following class of medications:
 215 of 261
 
-beta-blockerBeta-blockers often end in "olol"
- Ex. timolol and atenolol
+beta-blocker - Beta-blockers often end in "olol." Ex. timolol and atenolol
 
 Timolol (decreases aqueous humor production / increases aqueous humor outflow) to lower intraocular pressure.
 
@@ -2029,7 +1996,7 @@ beta-blockerBeta-blockers often end in "olol"
 Timolol (decreases aqueous humor production / increases aqueous humor outflow) to lower intraocular pressure.
 216 of 261
 
-decreases aqueous humor productionAqueous humor is produced by the ciliary body
+decreases aqueous humor production - Aqueous humor is produced by the ciliary body.
 
 Pharmacology
 Basic Level Deck 11 of 11
@@ -2046,7 +2013,7 @@ Basic Level Deck 11 of 11
 Timolol is a (cholinergic / adrenergic) antagonist.
 217 of 261
 
-adrenergicAdrenergic agents work on alpha or beta receptors. Timolol acts on beta
+adrenergic - Adrenergic agents work on alpha or beta receptors. Timolol acts on beta.
 
 The mechanism of action of timolol is:
 
@@ -2055,16 +2022,16 @@ adrenergicAdrenergic agents work on alpha or beta receptors. Timolol acts on b
 The mechanism of action of timolol is:
 218 of 261
 
-Preventing the activation of beta receptors in the ciliary epithelium, resulting in decreased levels of cAMP and decreased aqueous humor production.cAMP is a second messenger derived from ATP
+Preventing the activation of beta receptors in the ciliary epithelium, resulting in decreased levels of cAMP and decreased aqueous humor production. - cAMP is a second messenger derived from ATP.
 
 Timolol acts to (decrease/increase) levels of cAMP.
 
-Preventing the activation of beta receptors in the ciliary epithelium, resulting in decreased levels of cAMP and decreased aqueous humor production.cAMP is a second messenger derived from ATP
+Preventing the activation of beta receptors in the ciliary epithelium, resulting in decreased levels of cAMP and decreased aqueous humor production. - cAMP is a second messenger derived from ATP
 
 Timolol acts to (decrease/increase) levels of cAMP.
 219 of 261
 
-decreaseBy decreasing cAMP timolol decreases aqueous humor production
+decrease - By decreasing cAMP timolol decreases aqueous humor production.
 
 Beta-blockers can cause (bradycardia/tachycardia).
 
@@ -2073,7 +2040,7 @@ decreaseBy decreasing cAMP timolol decreases aqueous humor production
 Beta-blockers can cause (bradycardia/tachycardia).
 220 of 261
 
-bradycardiaBradycardia is a decrease in HR (heart rate). Epinephrine increases HR
+bradycardia - Bradycardia is a decrease in HR (heart rate). Epinephrine increases HR.
 
 Beta-blockers may be contraindicated in patients with ____ disease due to its effect on B2 receptors.
 
@@ -2082,7 +2049,7 @@ bradycardiaBradycardia is a decrease in HR (heart rate). Epinephrine increases
 Beta-blockers may be contraindicated in patients with ____ disease due to its effect on B2 receptors.
 221 of 261
 
-Lung diseaseBeta receptors on the lungs are needed for bronchodilation
+Lung disease - Beta receptors on the lungs are needed for bronchodilation.
 
 Timolol is a beta(1/2) blocker.
 
@@ -2091,16 +2058,16 @@ Lung diseaseBeta receptors on the lungs are needed for bronchodilation
 Timolol is a beta(1/2) blocker.
 222 of 261
 
-beta-1 and beta-2Timolol is nonspecific. Betaxolol is specific to beta-1
+beta-1 and beta-2 - Timolol is nonspecific. Betaxolol is specific to beta-1.
 
 ________ is an ocular hypertension medication may effect the pressure in both eyes, even when dosed monocularly
 
 beta-1 and beta-2Timolol is nonspecific. Betaxolol is specific to beta-1
 
-________ is an ocular hypertension medication may effect the pressure in both eyes, even when dosed monocularly
+________ is an ocular hypertension medication may effect the pressure in both eyes, even when dosed monocularly.
 223 of 261
 
-TimololAffecting both, despite a monocular dose is called the crossover effect
+Timolol - Affecting both, despite a monocular dose is called the crossover effect.
 
 Tobramycin belongs to the following class of medications:
 
@@ -2109,7 +2076,7 @@ TimololAffecting both, despite a monocular dose is called the crossover effect
 Tobramycin belongs to the following class of medications:
 224 of 261
 
-aminoglycoside antibioticEven though it ends in "mycin" it is NOT a macrolide like erythromycin
+aminoglycoside antibiotic - Even though it ends in "mycin" it is NOT a macrolide like erythromycin.
 
 Tobramycin is a medication used to treat:
 
@@ -2118,16 +2085,16 @@ aminoglycoside antibioticEven though it ends in "mycin" it is NOT a macrolide 
 Tobramycin is a medication used to treat:
 225 of 261
 
-bacterial infectionsAntivirals often have the suffix "vir" and antifungals have ""conazole"
+bacterial infections - Antivirals often have the suffix "vir" and antifungals have "conazole."
 
 The mechanism of action of tobramycin and other medications like it is
 
 bacterial infectionsAntivirals often have the suffix "vir" and antifungals have ""conazole"
 
-The mechanism of action of tobramycin and other medications like it is
+The mechanism of action of tobramycin and other medications like it is:
 226 of 261
 
-Inhibition of bacterial protein synthesis by binding to bacterial ribosomes.Bacteria have a 50S and 30S subunit. Ribosomes make proteins
+Inhibition of bacterial protein synthesis by binding to bacterial ribosomes. - Bacteria have a 50S and 30S subunit. Ribosomes make proteins.
 
 Ototoxicity associated to aminoglycoside antibiotics may be associated to damage to cranial nerve ___.
 
@@ -2136,8 +2103,7 @@ Inhibition of bacterial protein synthesis by binding to bacterial ribosomes.Ba
 Ototoxicity associated to aminoglycoside antibiotics may be associated to damage to cranial nerve ___.
 227 of 261
 
-VIIICranial nerve VIII is "vestibulocochlear". 
-"Oto" means hearing/ear
+VIII - Cranial nerve VIII is "vestibulocochlear." "Oto" means hearing/ear.
 
 Tobramycin binds to the ___ ribosomal subunit.
 
@@ -2147,7 +2113,7 @@ VIIICranial nerve VIII is "vestibulocochlear".
 Tobramycin binds to the ___ ribosomal subunit.
 228 of 261
 
-30SThis is the smaller bacterial subunit. Humans have 40S and 60S
+30S - This is the smaller bacterial subunit. Humans have 40S and 60S.
 
 Topiramate is a medication used to treat:
 
@@ -2156,7 +2122,7 @@ Topiramate is a medication used to treat:
 Topiramate is a medication used to treat:
 229 of 261
 
-seizures, mental health disorders, pseudotumor cerebri, smoking cessation, weight loss and off label for migraine.Pseudotumor cerebri is idiopathic increased intracranial hypertension
+seizures, mental health disorders, pseudotumor cerebri, smoking cessation, weight loss and off label for migraine. - Pseudotumor cerebri is idiopathic increased intracranial hypertension.
 
 Topiramate belongs to the following class of medications:
 
@@ -2165,7 +2131,7 @@ seizures, mental health disorders, pseudotumor cerebri, smoking cessation, weigh
 Topiramate belongs to the following class of medications:
 230 of 261
 
-carbonic anhydrase inhibitor that acts as an anticonvulsantCarbonic anhydrase is involved in cerebral spinal fluid production
+carbonic anhydrase inhibitor that acts as an anticonvulsant - Carbonic anhydrase is involved in cerebral spinal fluid production.
 
 An ocular side effects unique to topiramate is:
 
@@ -2174,7 +2140,7 @@ carbonic anhydrase inhibitor that acts as an anticonvulsantCarbonic anhydrase 
 An ocular side effects unique to topiramate is:
 231 of 261
 
-choroidal swellingThis causes a large myopic shift and secondary angle closure
+choroidal swelling - This causes a large myopic shift and secondary angle closure.
 
 Tramadol is a medication used to treat:
 
@@ -2192,7 +2158,7 @@ pain
 Tramadol is an (opiate / non-opiate) medication.
 233 of 261
 
-Non-opiateOpiates are narcotics and non-opiates are not
+Non-opiate - Opiates are narcotics and non-opiates are not.
 
 The two mechanisms of action of tramadol are:
 
@@ -2201,7 +2167,7 @@ Non-opiateOpiates are narcotics and non-opiates are not
 The two mechanisms of action of tramadol are:
 234 of 261
 
-1. Mu receptor agonist 2. Serotonin and norepinephrine reuptake inhibitorSerotonin and norepinephrine are monoamines
+1.Mu receptor agonist 2.Serotonin and norepinephrine reuptake inhibitor - Serotonin and norepinephrine are monoamines.
 
 Travaprost is in the following class of medications:
 
@@ -2210,8 +2176,7 @@ Travaprost is in the following class of medications:
 Travaprost is in the following class of medications:
 235 of 261
 
-prostaglandin analogueProstaglandins often end in the suffix "prost" 
-ex latanoprost
+prostaglandin analogue - Prostaglandins often end in the suffix "prost." ex latanoprost
 
 Travaprost is a medication used to treat:
 
@@ -2221,43 +2186,43 @@ ex latanoprost
 Travaprost is a medication used to treat:
 236 of 261
 
-ocular hypertension / glaucomaIt has a slow onset of action taking weeks to have full effect
+ocular hypertension or glaucoma - It has a slow onset of action taking weeks to have full effect.
 
 Travaprost, and other medications in its class, act on ____ receptors on the _______ of the eye
 
 ocular hypertension / glaucomaIt has a slow onset of action taking weeks to have full effect
 
-Travaprost, and other medications in its class, act on ____ receptors on the _______ of the eye
+Travaprost, and other medications in its class, act on ____ receptors on the _______ of the eye.
 237 of 261
 
-PGF2a on the ciliary muscle of the eye (to increase uveoscleral outflow)The ciliary muscle accommodates & the ciliary body creates aqueous humor
+PGF2a on the ciliary muscle of the eye (to increase uveoscleral outflow) - The ciliary muscle accommodates & the ciliary body creates aqueous humor.
 
 Travaprost and other medications like it cause a(n) (increase / decrease) in collagen.
 
 PGF2a on the ciliary muscle of the eye (to increase uveoscleral outflow)The ciliary muscle accommodates & the ciliary body creates aqueous humor
 
-Travaprost and other medications like it cause a(n) (increase / decrease) in collagen.
+Travaprost and other medications like it cause a(n) (increase/decrease) in collagen.
 238 of 261
 
-decreaseThis allows extra aqueous humor to flow through the uveoscleral outflow
+decrease - This allows extra aqueous humor to flow through the uveoscleral outflow.
 
 Travaprost and other medications in its class act on (trabecular meshwork / uveosceral) outflow.
 
 decreaseThis allows extra aqueous humor to flow through the uveoscleral outflow
 
-Travaprost and other medications in its class act on (trabecular meshwork / uveosceral) outflow.
+Travaprost and other medications in its class act on (trabecular meshwork/uveosceral) outflow.
 239 of 261
 
 uveoscleral
 
-Travaprost and other medications in its class should be dosed in the (morning / night).
+Travaprost and other medications in its class should be dosed in the (morning/night).
 
 uveoscleral
 
-Travaprost and other medications in its class should be dosed in the (morning / night).
+Travaprost and other medications in its class should be dosed in the (morning/night).
 240 of 261
 
-nightIts peak time of action matches peak diurnal fluctuation
+night - Its peak time of action matches peak diurnal fluctuation.
 
 The following class of IOP lowering medications may be contraindicated in patients with cystoid macular edema, uveitis, or herpes simplex keratitis:
 
@@ -2266,7 +2231,7 @@ nightIts peak time of action matches peak diurnal fluctuation
 The following class of IOP lowering medications may be contraindicated in patients with cystoid macular edema, uveitis, or herpes simplex keratitis:
 241 of 261
 
-prostaglandin analoguesThis is because PG analogues are proinflammatory COX-mediated molecules
+prostaglandin analogues - This is because PG analogues are proinflammatory COX-mediated molecules.
 
 This class of IOP lowering medications can cause atrophy of orbital fat, ocular hyperemia, and lash growth:
 
@@ -2275,7 +2240,7 @@ prostaglandin analoguesThis is because PG analogues are proinflammatory COX-me
 This class of IOP lowering medications can cause atrophy of orbital fat, ocular hyperemia, and lash growth:
 242 of 261
 
-prostaglandin analoguesProstaglandins have the most ocular side effects and should be dosed OU
+prostaglandin analogues - Prostaglandins have the most ocular side effects and should be dosed OU.
 
 This class of IOP lowering medications should be avoided in unilateral use, steroid-induced glaucoma, neovascular glaucoma, inflammatory conditions, Fuch's iridocyclitis, UGH (uveitis-glaucoma-hyphema) syndrome and Posner Schlossman syndrome.
 
@@ -2284,7 +2249,7 @@ prostaglandin analoguesProstaglandins have the most ocular side effects and sh
 This class of IOP lowering medications should be avoided in unilateral use, steroid-induced glaucoma, neovascular glaucoma, inflammatory conditions, Fuch's iridocyclitis, UGH (uveitis-glaucoma-hyphema) syndrome and Posner Schlossman syndrome.
 243 of 261
 
-prostaglandin analoguesProstaglandins can exacerbate inflammation.
+prostaglandin analogues - Prostaglandins can exacerbate inflammation.
 
 Triamcinolone is a medication used to treat:
 
@@ -2302,8 +2267,7 @@ inflammation
 Triamcinolone belongs to the following class of medications:
 245 of 261
 
-steroidSteroids often end in "olone" 
-ex:  prednisolone
+steroid - Steroids often end in "olone." ex. prednisolone
 
 Triamcinolone and other medications in its class decrease inflammation via inhibition of ___ and disruption of the ___ pathway.
 
@@ -2313,18 +2277,17 @@ ex:  prednisolone
 Triamcinolone and other medications in its class decrease inflammation via inhibition of ___ and disruption of the ___ pathway.
 246 of 261
 
-PLA2 ; AA (arachidonic acid) pathway.This is the mechanism of action for all steroids
+PLA2, AA (arachidonic acid) pathway. - This is the mechanism of action for all steroids.
 
 Potential side effects of triamcinolone 
 on the eye are:
 
 PLA2 ; AA (arachidonic acid) pathway.This is the mechanism of action for all steroids
 
-Potential side effects of triamcinolone 
-on the eye are:
+Potential side effects of triamcinolone on the eye are:
 247 of 261
 
-Increased risk for infection, increased IOP and PSC cataract formationThis is common for all steroids
+Increased risk for infection, increased IOP and PSC cataract formation - This is common for all steroids.
 
 Triamterene belongs to the following class of medications:
 
@@ -2342,7 +2305,7 @@ diuretic
 Triamterene is a ______ diuretic.
 249 of 261
 
-potassium sparingThis is good for patients at risk for hypokalemia with other medications
+potassium sparing - This is good for patients at risk for hypokalemia with other medications.
 
 Potassium sparing diuretics (increase/decrease) the level of potassium excreted in the urine.
 
@@ -2351,7 +2314,7 @@ potassium sparingThis is good for patients at risk for hypokalemia with other 
 Potassium sparing diuretics (increase/decrease) the level of potassium excreted in the urine.
 250 of 261
 
-decreaseThey SPARE POTASSIUM from being excreted
+decrease - They SPARE POTASSIUM from being excreted.
 
 A potential ocular side effect of all diuretics is:
 
@@ -2360,8 +2323,7 @@ decreaseThey SPARE POTASSIUM from being excreted
 A potential ocular side effect of all diuretics is:
 251 of 261
 
-dry eyeThey increase loss of water to 
-decrease blood pressure
+dry eye - They increase loss of water to decrease blood pressure.
 
 Triamterene is a medication used to treat:
 
@@ -2371,7 +2333,7 @@ decrease blood pressure
 Triamterene is a medication used to treat:
 252 of 261
 
-hypertensionAs a diuretic it decreases blood volume to lower blood pressure
+hypertension - As a diuretic it decreases blood volume to lower blood pressure.
 
 Trifluridine is a medication used to treat:
 
@@ -2380,7 +2342,7 @@ hypertensionAs a diuretic it decreases blood volume to lower blood pressure
 Trifluridine is a medication used to treat:
 253 of 261
 
-herpetic keratitisIt is a topical medication
+herpetic keratitis - It is a topical medication.
 
 Trifluridine belongs to the following class of medications:
 
@@ -2389,7 +2351,7 @@ herpetic keratitisIt is a topical medication
 Trifluridine belongs to the following class of medications:
 254 of 261
 
-antiviralIt is an antiviral that does NOT end in "vir" as others do
+antiviral - It is an antiviral that does NOT end in "vir" as others do.
 
 The mechanism of action of Trifluridine is:
 
@@ -2398,7 +2360,7 @@ antiviralIt is an antiviral that does NOT end in "vir" as others do
 The mechanism of action of Trifluridine is:
 255 of 261
 
-Inhibition of viral DNA polymerase to prevent DNA synthesisThe same mechanism of action of other herpetic virals 
+Inhibition of viral DNA polymerase to prevent DNA synthesis - The same mechanism of action of other herpetic virals 
 (ex. acyclovir).
 
 Trifluridine is used to treat (DNA/RNA) viruses.
@@ -2409,7 +2371,7 @@ Inhibition of viral DNA polymerase to prevent DNA synthesisThe same mechanism 
 Trifluridine is used to treat (DNA/RNA) viruses.
 256 of 261
 
-DNAViruses can be RNA or DNA based. CMV and herpes are both DNA viruses
+DN - Viruses can be RNA or DNA based. CMV and herpes are both DNA viruses.
 
 Trimethoprim is a medication used to treat ______.
 
@@ -2418,7 +2380,7 @@ DNAViruses can be RNA or DNA based. CMV and herpes are both DNA viruses
 Trimethoprim is a medication used to treat ______.
 257 of 261
 
-bacterial infections.It is an antibiotic
+bacterial infections. - It is an antibiotic.
 
 The mechanism of action of trimethoprim is:
 
@@ -2427,7 +2389,7 @@ bacterial infections.It is an antibiotic
 The mechanism of action of trimethoprim is:
 258 of 261
 
-Inhibition of dihydrofolate reductase to prevent folate synthesis.Bacteria need folate for DNA synthesis
+Inhibition of dihydrofolate reductase to prevent folate synthesis. - Bacteria need folate for DNA synthesis.
 
 What is the role of dihydrofolate reductase?
 
@@ -2445,9 +2407,7 @@ It is an enzyme the converts dihydrofolate during folate synthesis.
 Humans get _____ in their diets but bacteria must make it.
 260 of 261
 
-folate
-Folate is in dark leafy greens, beans, 
-peanuts, fresh fruits and more
+folate - Folate is in dark leafy greens, beans, peanuts, fresh fruits and more.
 
 ____ is a precursor to DNA and RNA, and its synthesis is inhibited by the antibiotic trimethoprim
 
@@ -2458,5 +2418,4 @@ peanuts, fresh fruits and more
 ____ is a precursor to DNA and RNA, and its synthesis is inhibited by the antibiotic trimethoprim
 261 of 261
 
-FolateHumans consume folate but bacteria 
-must make it enzymatically
+Folate - Humans consume folate but bacteria must make it enzymatically.
