@@ -61,7 +61,7 @@ steroid medication used to treat inflammation/allergySteroids often end in "on
 The mechanism of action of hydrocortisone is:
 7 of 262
 
-Inhibition of PLA2 and the arachidonic acid pathway. - PLA2 is a lipase enzyme involved in arachidonic acid formation.
+inhibition of PLA2 and the arachidonic acid pathway. - PLA2 is a lipase enzyme involved in arachidonic acid formation.
 
 _____ and ____ are the systemic medications that treat malaria, rheumatoid arthritis, and systemic lupus and they have the potential for vision threatening side effects
 
@@ -70,7 +70,7 @@ Inhibition of PLA2 and the arachidonic acid pathway.PLA2 is a lipase enzyme in
 _____ and ____ are the systemic medications that treat malaria, rheumatoid arthritis, and systemic lupus and they have the potential for vision threatening side effects.
 8 of 262
 
-Chloroquine and hydroxychloroquine - They are both anti-microbial and anti-inflammatory in nature
+Chloroquine and hydroxychloroquine - They are both anti-microbial and anti-inflammatory in nature.
 
 Potential ocular side effects of 
 hydroxychloroquine include
