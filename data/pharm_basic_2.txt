@@ -212,7 +212,7 @@ Histamine-2 (H-2)H-2 receptors are involved in acid reflux
 True or False:  Cimetidine is a histamine receptor blocker that is used to treat allergies.
 24 of 262
 
-FalseIt is a histamine blocker that is used to treat acid reflux and ulcers.
+False - It is a histamine blocker that is used to treat acid reflux and ulcers.
 
 Cimetidine inhibits the secretion of __________.
 
@@ -1272,7 +1272,7 @@ cholinergic and include increased salivation lacrimation urination defecation em
 Generic of Trusopt:
 139 of 262
 
-dorzolamideThe generic of Azopt is brinzolamide.
+dorzolamide - The generic of Azopt is brinzolamide.
 
 Dorzolamide is a topical medication used to treat:
 
@@ -1401,7 +1401,7 @@ antihistamine
 Emedastine is a medication that treats _______.
 152 of 262
 
-allergies / allergic conjunctivitisAllergic characteristics are red, itchy, burning eyes usually OU.
+allergies / allergic conjunctivitis - Allergic characteristics are red, itchy, burning eyes usually OU.
 
 Class of medication of enalapril:
 
@@ -1431,7 +1431,7 @@ hypertensionVia a complex mechanism of action downstream
 The Direct action of enalapril is:________. The downstream response is:________. The systemic response is:_________.
 155 of 262
 
-The direct action is the inhibition the enzyme ACE (angiotensin converting enzyme). The downstream response is that body does NOT convert angiotensin I into angiotensin II. The systemic response is decreased vasoconstriction, decreased aldosterone and increased bradykinins. - All the downstream responses are due to ACE inhibition.
+The direct action is the inhibition the enzyme ACE (angiotensin converting enzyme) The downstream response is that body does NOT convert angiotensin I into angiotensin II. The systemic response is decreased vasoconstriction, decreased aldosterone and increased bradykinins. - All the downstream responses are due to ACE inhibition.
 
 Angiotensin II usually binds to (alpha/beta/gamma) receptors to cause vaso(constriction/dilation).
 
@@ -1641,7 +1641,7 @@ Competitive inhibition of DNA polymerase, termination of DNA elongation, and irr
 Famciclovir is in the following class of medications:
 178 of 262
 
-Synthetic nucleoside -mNUCLEOsides effect deoxyriboNUCLEic acid (DNA) formation.
+Synthetic nucleoside - NUCLEOsides effect deoxyriboNUCLEic acid (DNA) formation.
 
 In addition to herpetic disease, famciclovir may also be used to treat:
 
@@ -1836,7 +1836,7 @@ ergosterolErgosterol is specific to fungi
 The specific sterol that fluconazole inhibits is:
 199 of 262
 
-ergosterol -mErgosterol is specific to fungi cell membranes.
+ergosterol - Ergosterol is specific to fungi cell membranes.
 
 Fluorometholone is a __________ medication.
 
@@ -1869,7 +1869,7 @@ inflammation such as ocular allergies.Stronger steroids are typically not best
 
 inflammation such as ocular allergies.Stronger steroids are typically not best for longterm allergy treatment
 
-(Low/High) corneal penetration seen in fluorometholone (increase/decreases) the chances of adverse ocular side effects
+(Low/High) corneal penetration seen in fluorometholone (increase/decreases) the chances of adverse ocular side effects.
 203 of 262
 
 Low corneal penetration seen in fluorometholone decreases the chances of adverse ocular side effects. - Potential side effects of steroids are PSC, IOP increase & infection.
@@ -2035,7 +2035,7 @@ occur until 3-5 weeks after surgery
 Fluticasone is a _______ medication.
 220 of 262
 
-steroid -mAnother steroid that ends in "one" is prednisolONE or fluorometholONE.
+steroid - Another steroid that ends in "one" is prednisolONE or fluorometholONE.
 
 Potential ocular side effects of fluticasone include:
 
@@ -2120,7 +2120,7 @@ phosphorylate their targets
 The mechanism of action of ganciclovir is:
 229 of 262
 
-Inhibition of viral dna synthesis
+Inhibition of viral DNA synthesis
 
 Topical Ganciclovir is indicated to treat ophthalmic:
 
@@ -2257,7 +2257,7 @@ forming proteins
 Gentamicin binds to the ribosomal subunit ____.
 243 of 262
 
-30S -mBacterial subunits are 30S and 50S. Human subunits are 40S and 60S.
+30S - Bacterial subunits are 30S and 50S. Human subunits are 40S and 60S.
 
 Aminoglycosides bind to the __________ 
 subunit _______.
