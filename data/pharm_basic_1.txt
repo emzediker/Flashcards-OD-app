@@ -917,7 +917,7 @@ The mechanism of action of benazepril and other medications in its class:
 102 of 262
 
 
-ACE inhibitor (angiotensin converting enzyme inhibitor)The ACE enzyme is involved in blood pressure control.
+ACE inhibitor (angiotensin converting enzyme inhibitor) - The ACE enzyme is involved in blood pressure control.
 
 ___ inhibitors such as benazepril prevent the formation of _____ from _____ by _______
 
@@ -950,7 +950,7 @@ In addition to causing vasoconstriction, angiotensin II stimulates the _______ t
 105 of 262
 
 
-Adrenal cortex to secrete aldosterone resulting in an increase of blood volume via Na+ retention. - The adrenal cortex sits on top of the kidney
+Adrenal cortex to secrete aldosterone resulting in an increase of blood volume via Na+ retention. - The adrenal cortex sits on top of the kidney.
 
 ACE Inhibitors block the action of the enzyme ____ which results in the decreased formation of ________ from _______.
 
@@ -970,7 +970,7 @@ Blocks ACE and prevents the formation of angiotensin II from angiotensin I.The
 ACE inhibitors ("prils") prevent these three downstream effects of ACE via angiotensin II:
 107 of 262
 
-ACE inhibitors have 3 major effects to decrease blood pressure. - 1/prevents activation of a-1 / vasoconstriction 2/prevents aldosterone secretion / blood volume regulation 3/prevents metabolism of bradykinins
+ACE inhibitors have 3 major effects to decrease blood pressure. - 1)prevents activation of a-1 / vasoconstriction 2)prevents aldosterone secretion / blood volume regulation 3)prevents metabolism of bradykinins
 
 Bradykinins typically cause vaso(dilation/constriction). Their metabolism can be stopped by _______.
 
@@ -982,7 +982,7 @@ Bradykinins typically cause vaso(dilation/constriction). Their metabolism can be
 108 of 262
 
 
-vasodilation ; ace inhibitors - By preventing their metabolism, the levels of bradykinins stays high.
+vasodilation, ace inhibitors - By preventing their metabolism, the levels of bradykinins stays high.
 
 Bepotastine is a ________ medication used to treat ________.
 
@@ -1003,7 +1003,7 @@ The (histamine-1/histamine-2) receptors are responsible for conjunctival itching
 110 of 262
 
 
-histamine-1Itching is a SYMPTOM of allergies.
+histamine-1 - Itching is a SYMPTOM of allergies.
 
 The (histamine-1/histamine-2) receptors are responsible for histamine mediated redness.
 
@@ -1014,7 +1014,7 @@ The (histamine-1/histamine-2) receptors are responsible for histamine mediated r
 111 of 262
 
 
-histamine-2Redness is a SIGN of allergies.
+histamine-2 - Redness is a SIGN of allergies.
 
 In mast cell and antihistamine combination drops, the fast acting effect is mediated by the (antihistamine/mast cell stabilizer) component and more longterm delayed relief is mediated by the (antihistamine/mast cell stabilizer) component
 
@@ -1047,7 +1047,7 @@ Mast cell stabilizers work by preventing the release of _____ & ______ from ____
 114 of 262
 
 
-histamine and leukotrienes from mast cellsThey prevent the "degranulation" of mast cells.
+histamine and leukotrienes from mast cells -,They prevent the "degranulation" of mast cells.
 
 In the eye, histamine can result in ________ and ________ in the condition ________
 
@@ -1069,7 +1069,7 @@ As topical suspensions, patients prescribed betaxolol, prednisolone acetate, tob
 116 of 262
 
 
-shake the bottle before usingSuspensions require shaking.
+shake the bottle before using - Suspensions require shaking.
 
 Besifloxacin is the only fluoroquinolone antibiotic that does NOT have a _________.
 
@@ -1080,7 +1080,7 @@ Besifloxacin is the only fluoroquinolone antibiotic that does NOT have a _______
 117 of 262
 
 
-systemic counterpaerFor this reason there may be less resistance.
+systemic counterpaer - For this reason there may be less resistance.
 
 The topical fluoroquinolone is thought to have the least bacterial resistance, and therefore a good choice to treat MRSA, is ________.
 
@@ -1102,7 +1102,7 @@ Class of medication of besifloxacin:
 119 of 262
 
 
-FluoroquinoloneAnother fluroquinolone is moxifloxacin.
+Fluoroquinolone - Another fluroquinolone is moxifloxacin.
 
 Type of medication of a fluoroquinolone:
 
@@ -1113,7 +1113,7 @@ Type of medication of a fluoroquinolone:
 120 of 262
 
 
-AntibioticAntibiotics treat bacterial infections.
+Antibiotic - Antibiotics treat bacterial infections.
 
 Good medication types to treat bacterial conjunctivitis are _______.
 
@@ -1124,7 +1124,7 @@ Good medication types to treat bacterial conjunctivitis are _______.
 121 of 262
 
 
-AntibioticsAntibiotics treat bacterial infections.
+Antibiotics - Antibiotics treat bacterial infections.
 
 The two mechanisms of action of all fluoroquinolones are:
 
@@ -1135,7 +1135,7 @@ The two mechanisms of action of all fluoroquinolones are:
 122 of 262
 
 
-1/Inhibits DNA gyrase 2/Inhibits topoisomerase IV - Both enzymes are involved with DNA.
+1) Inhibits DNA gyrase 2) Inhibits topoisomerase IV - Both enzymes are involved with DNA.
 
 The action of DNA Gyrase is: __________. The class of medication that inhibits the action of DNA Gyrase is _________
 
@@ -1146,7 +1146,7 @@ The action of DNA Gyrase is: __________. The class of medication that inhibits
 123 of 262
 
 
-DNA gyrase is an enzyme that "negatively super-coils" double stranded circular dna - DNA Gyrase is inhibited by the fluroquinolone family of antibiotics and targets double stranded circular DNA  found in bacteria.
+DNA gyrase is an enzyme that "negatively super-coils" double stranded circular DNA, fluroquinolones - Double stranded circular DNA found in bacteria.
 
 Action of Topoisomerase IV is___________ and the class of medication that inhibits this enzyme is ___________.
 
@@ -1157,7 +1157,7 @@ Action of Topoisomerase IV is___________ and the class of medication that inhibi
 124 of 262
 
 
-TopoisomeraseIV relaxes supercoiled circular  bacterialDNA during replication. - The antibiotic family of fluoroquinolones inhibits its action. - Supercoiled circular DNA is found in bacteria. 
+Topoisomerase IV relaxes supercoiled circular bacterial DNA during replication. The antibiotic family of fluoroquinolones inhibits its action. - Supercoiled circular DNA is found in bacteria. 
 
 True or False: Fluoroquinolone antibiotics work by inhibiting one enzyme.
 
@@ -1179,7 +1179,7 @@ In short, fluoroquinolones alter ________________.
 126 of 262
 
 
-bacterialDNA replication.Bacteria have circular DNA.
+bacterial DNA replication.Bacteria have circular DNA.
 
 Betaxolol binds to (alpha-1/alpha-2/beta-1/beta-2/muscarinic/nicotinic) receptors and acts as an (agonist/antagonist).
 
@@ -1190,7 +1190,7 @@ Betaxolol binds to (alpha-1/alpha-2/beta-1/beta-2/muscarinic/nicotinic) receptor
 127 of 262
 
 
-beta-1 antagonistAntagonist block the action of receptors.
+beta-1 antagonist - Antagonist block the action of receptors.
 
 Due to its selectivity to Beta-1 receptors over Beta-2 receptors, it is thought that betaxolol may be a better alternative to the topical medication  ________ in ________ patients.
 
@@ -1212,7 +1212,7 @@ Suspension topical medications should be __________.
 129 of 262
 
 
-shakenAn example is prednisolone acetate. 
+shaken - An example is prednisolone acetate. 
 
 The potency of the intraocular pressure lowering effect of betaxolol is (high/low).
 
@@ -1223,7 +1223,7 @@ The potency of the intraocular pressure lowering effect of betaxolol is (high/lo
 130 of 262
 
 
-lowBetaxolol is overall a weak IOP lowering medication.
+low - Betaxolol is overall a weak IOP lowering medication.
 
 Betaxolol is used to treat:
 
@@ -1234,7 +1234,7 @@ Betaxolol is used to treat:
 131 of 262
 
 
-ocular hypertension or glaucomaIt prevents aqueous humor production.
+ocular hypertension or glaucoma - It prevents aqueous humor production.
 
 Due to its affinity for beta-(1/2) receptors, betaxolol may be considered (cardio/respiratory) selective
 
@@ -1245,7 +1245,7 @@ Due to its affinity for beta-(1/2) receptors, betaxolol may be considered (cardi
 132 of 262
 
 
-Beta-1 ; cardioselectiveBeta-1 receptors are on the heart and beta-2 receptors are on the lungs.
+Beta-1; cardioselective - Beta-1 receptors are on the heart and beta-2 receptors are on the lungs.
 
 A secondary action of betaxolol in the treatment of glaucoma is potential:
 
@@ -1256,7 +1256,7 @@ A secondary action of betaxolol in the treatment of glaucoma is potential:
 133 of 262
 
 
-neuroprotection by increasing optic nerve perfusion.Betaxolol dilates blood vessels increasing blood supply to the nerve.
+neuroprotection by increasing optic nerve perfusion. - Betaxolol dilates blood vessels increasing blood supply to the nerve.
 
 The mechanism of action of betaxolol on the treatment of glaucoma is to:
 
@@ -1278,7 +1278,7 @@ Bimatoprost is in the class of medication called:
 135 of 262
 
 
-prostaglandinsProstaglandins are also Endogenous  (naturally occurring) in the body.
+prostaglandins - Prostaglandins are also endogenous (naturally occurring) in the body.
 
 Bimatoprost acts on _____ receptors on the _____ of the eye.
 
@@ -1289,7 +1289,7 @@ Bimatoprost acts on _____ receptors on the _____ of the eye.
 136 of 262
 
 
-PGF2a receptors on the ciliary musclePGF stands for "Prostaglandin F" receptors.
+PGF2a receptors on the ciliary muscle - PGF stands for "Prostaglandin F" receptors.
 
 Bimatoprost reduces ______ in the ciliary 
 muscle via _____.
@@ -1311,7 +1311,7 @@ Prostaglandins work on aqueous humor (production/outflow).
 138 of 262
 
 
-outflowThey decrease outflow resistance through the ciliary muscle.
+outflow - They decrease outflow resistance through the ciliary muscle.
 
 The second messenger that is activated on the skin by prostaglandins, causing the side effect of lash growth is:
 
@@ -1322,7 +1322,7 @@ The second messenger that is activated on the skin by prostaglandins, causing th
 139 of 262
 
 
-PLCPLC stands for phospholipase C and is a membrane-associated enzyme.
+PLC - PLC stands for phospholipase C and is a membrane-associated enzyme.
 
 Prostaglandins should be taken at (morning/night)
 
@@ -1333,7 +1333,7 @@ Prostaglandins should be taken at (morning/night).
 140 of 262
 
 
-nightTheir peak action is about 8 hours into the night when IOP also peaks.
+night - Their peak action is about 8 hours into the night when IOP also peaks.
 
 The ________ class of glaucoma medications have a common use in inducing labor in pregnant women and are therefore not to be used in those who are pregnant.
 
@@ -1344,7 +1344,7 @@ The ________ class of glaucoma medications have a common use in inducing labor i
 141 of 262
 
 
-ProstaglandinProstaglandins naturally induce uterine contractions.
+Prostaglandin - Prostaglandins naturally induce uterine contractions.
 
 Prostaglandins increase ____________ outflow.
 
@@ -1355,7 +1355,7 @@ Prostaglandins increase ____________ outflow.
 142 of 262
 
 
-uveoscleral aqueousThis lowers IOP.
+uveoscleral aqueous - This lowers IOP.
 
 True or False: Prostaglandins dosed once daily are more effective than a twice daily dose.
 
@@ -1366,7 +1366,7 @@ True or False: Prostaglandins dosed once daily are more effective than a twice d
 143 of 262
 
 
-TRUEThe drop is LESS effective if dosed twice daily.
+TRUE - The drop is LESS effective if dosed twice daily.
 
 Which glaucoma medication would be the least successful at a fast acting IOP decrease in patients with ocular hypertension?
 
@@ -1377,7 +1377,7 @@ Which glaucoma medication would be the least successful at a fast acting IOP dec
 144 of 262
 
 
-ProstaglandinsProstaglandins can take weeks to be effective.
+Prostaglandins - Prostaglandins can take weeks to be effective.
 
 The class of medications that can be dosed once nightly because they provide good 24 hour IOP control are:
 
@@ -1388,7 +1388,7 @@ The class of medications that can be dosed once nightly because they provide goo
 145 of 262
 
 
-prostaglandinsThe peak action of prostaglandins coincides with the diurnal IOP spike.
+prostaglandins - The peak action of prostaglandins coincides with the diurnal IOP spike.
 
 IOP spikes accompanied by signs of inflammation (cells in the anterior chamber) should not be treated with ________ medications.
 
@@ -1410,7 +1410,7 @@ In patients with a history of macular edema, the following class of IOP lowering
 147 of 262
 
 
-ProstaglandinsMacular edema is a form of inflammation and PGs are inflammatory.
+Prostaglandins - Macular edema is a form of inflammation and PGs are inflammatory.
 
 Peak effectivity of prostaglandins occurs in a time frame of ________.
 
@@ -1421,7 +1421,7 @@ Peak effectivity of prostaglandins occurs in a time frame of ________.
 148 of 262
 
 
-about 4 weeksProstaglandins do NOT give immediate results.
+about 4 weeks - Prostaglandins do NOT give immediate results.
 
 Prostaglandins interact with PGF2a receptors which are _________ receptors.
 
@@ -1432,7 +1432,7 @@ Prostaglandins interact with PGF2a receptors which are _________ receptors.
 149 of 262
 
 
-G-protein coupled receptorsThis will start a cascade of mediators for effectiveness.
+G-protein coupled receptors - This will start a cascade of mediators for effectiveness.
 
 In the body, prostaglandins are naturally made at sites of injury or infection from ___ by ___
 
