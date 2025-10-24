@@ -467,7 +467,7 @@ transpeptidasetrans "PEPTID"ase crosslinks "PEPTID"oglycan in bacterial cell w
 Amoxicillin is in the following family of medications:
 53 of 262
 
-penicillinsPenicillins often in end in "cillin.”
+penicillins - Penicillins often in end in "cillin.”
 
 Similar to ampicillin, the antibiotic amoxicillin has a structure known as a:
 
@@ -476,7 +476,7 @@ penicillinsPenicillins often in end in "cillin"
 Similar to ampicillin, the antibiotic amoxicillin has a structure known as a:
 54 of 262
 
-beta-lactam ringBeta-lactam rings can be a target of bacterial resistance to antibiotics.
+beta-lactam ring - Beta-lactam rings can be a target of bacterial resistance to antibiotics.
 
 Amoxicillin is an anti______.
 
@@ -485,7 +485,7 @@ beta-lactam ringBeta-lactam rings can be a target of bacterial resistance to a
 Amoxicillin is an anti______.
 55 of 262
 
-antibioticAntibiotics treat bacterial infections.
+antibiotic - Antibiotics treat bacterial infections.
 
 Clavulanate, which is added to amoxicillin to form _________, inhibits the bacterial enzyme known as _________ which can break the beta-lactam ring off of amoxicillin making it ineffective
 
@@ -494,7 +494,7 @@ antibioticAntibiotics treat bacterial infections
 Clavulanate, which is added to amoxicillin to form _________, inhibits the bacterial enzyme known as _________ which can break the beta-lactam ring off of amoxicillin making it ineffective.
 56 of 262
 
-Augmentin ; penicillinase - Penicillinase is a form of beta-lactamase. Enzymes that end in "ase" often break things down.
+Augmentin; penicillinase - Penicillinase is a form of beta-lactamase. Enzymes that end in "ase" often break things down.
 
 The mechanism of action of amoxicillin and other medications in its class is inhibition of ________.
 
@@ -512,7 +512,7 @@ bacterial cell wall synthesisRemember, human cells do not have cell walls. Onl
 Allopurinol and probenecid both treat:
 58 of 262
 
-Gout via uric acid (aka urate) levelsAcids can often be renamed with the suffix "ate" (ex uric acid is urate)
+Gout via uric acid (aka urate) levels - Acids can often be renamed with the suffix "ate" (ex uric acid is urate)
 
 Amphotericin B is an anti-______
 
@@ -521,7 +521,7 @@ Gout via uric acid (aka urate) levelsAcids can often be renamed with the suffi
 Amphotericin B is an anti-______
 59 of 262
 
-fungalAntifungals often end in the suffix "conazole" Amphotericin B does not.
+fungal - Antifungals often end in the suffix "conazole" Amphotericin B does not.
 
 The antimicrobial medication __________ binds to sterol (lipid) in cell membranes causing alteration in permeability and leakage.
 
@@ -539,7 +539,7 @@ amphotericin B and other antifungal medicationsLipids are the fatty in layer o
 ________ is the fungal-specific lipid (not found in humans) that is the target of amphotericin B and other medications like it.
 61 of 262
 
-ErgosterolLipids often end in the suffix "sterol" (ex. choleSTEROL).
+Ergosterol - Lipids often end in the suffix "sterol" (ex. choleSTEROL).
 
 For ocular fungal infections, topical Amphotericin B is appropriate for _______ infections, and IV Amphotericin B is appropriate for __________ infections
 
@@ -548,7 +548,7 @@ ErgosterolLipids often end in the suffix "sterol" (ex. choleSTEROL)
 For ocular fungal infections, topical Amphotericin B is appropriate for _______ infections, and IV Amphotericin B is appropriate for __________ infections.
 62 of 262
 
-corneal ; intraocularTopical meds do not penetrate well enough for intraocular infections.
+corneal; intraocular - Topical meds do not penetrate well enough for intraocular infections.
 
 A patient has an intraocular infection after cataract surgery. The best delivery system of antifungal medications such as Amphotericin B is:
 
@@ -557,7 +557,7 @@ corneal ; intraocularTopical meds do not penetrate well enough for intraocular
 A patient has an intraocular infection after cataract surgery. The best delivery system of antifungal medications such as Amphotericin B is:
 63 of 262
 
-Intravenous (IV)Remember, topical medications will not penetrate well enough.
+Intravenous (IV) - Remember, topical medications will not penetrate well enough.
 
 Apraclonidine binds to _________ receptors.
 
@@ -584,7 +584,7 @@ decrease aqueous humor production.Other medications that decrease production a
 The cells that apraclonidine work on are:
 66 of 262
 
-ciliary body epitheliumThis is where aqueous humor production occurs.
+ciliary body epithelium - This is where aqueous humor production occurs.
 
 Two glaucoma medications that can result in ocular vasoconstriction (eye whitening) are:
 
@@ -593,7 +593,7 @@ ciliary body epitheliumThis is where aqueous humor production occurs
 Two glaucoma medications that can result in ocular vasoconstriction (eye whitening) are:
 67 of 262
 
-apraclonidine and brimonidineThey are alpha-agonists which bind to receptors on blood vessels as well.
+apraclonidine and brimonidine - They are alpha-agonists which bind to receptors on blood vessels as well.
 
 The vasoconstrictive effect (eye whitening effect) seen in apraclonidine and brimonidine is due to unintended binding of ___ receptors
 
@@ -602,7 +602,7 @@ apraclonidine and brimonidineThey are alpha-agonists which bind to receptors o
 The vasoconstrictive effect (eye whitening effect) seen in apraclonidine and brimonidine is due to unintended binding of ___ receptors.
 68 of 262
 
-alpha-1Brimonidine is also an ingredient in the OTC eye whitener "Lumify.”
+alpha-1 - Brimonidine is also an ingredient in the OTC eye whitener "Lumify.”
 
 Hypersensitivity reactions resulting in a follicular or blepharoconjunctivitis is an adverse side effect commonly associated to the following two glaucoma medications:
 
@@ -611,8 +611,7 @@ alpha-1Brimonidine is also an ingredient in the OTC eye whitener "Lumify""
 Hypersensitivity reactions resulting in a follicular or blepharoconjunctivitis is an adverse side effect commonly associated to the following two glaucoma medications:
 69 of 262
 
-apraclonidine and brimonidine
-In this case it is a good idea to use a different glaucoma drop!
+apraclonidine and brimonidine - In this case it is a good idea to use a different glaucoma drop!
 
 True or False: Apraclonidine is commonly used in the longterm treatment of glaucoma
 
@@ -630,7 +629,7 @@ False, it is usually dosed short term due to tachyphylaxisIt may be used in IO
 This IOP lowering medication is often used after LPI / SLT / Yag capsulotomy / cataract surgery in the event of an IOP spike.
 71 of 262
 
-apraclonidineIt is a potent topical ocular hypotensive medication.
+apraclonidine - It is a potent topical ocular hypotensive medication.
 
 The glaucoma medication ________________ may be used to cause "reversal of anisocoria" in Horner's Syndrome patients
 
@@ -648,7 +647,7 @@ Apraclonidine - The Horner's Triad is: unilateral ptosis, miosis, and anhidrosis
 Due to the effect known as __________, as well as high incidence of hypersensitivity reactions, apraclonidine is not often used as a longterm therapy for glaucoma.
 73 of 262
 
-tachyphylaxisAnother medication that may have tachyphylaxis is timolol.
+tachyphylaxis - Another medication that may have tachyphylaxis is timolol.
 
 Beta-blocker medications often end in the suffix:
 
@@ -666,7 +665,7 @@ Class of medication of atenolol:
 Class of medication of atenolol:
 75 of 262
 
-beta-blockerBeta blockers prevent the action of hormones to beta receptors.
+beta-blocker - Beta blockers prevent the action of hormones to beta receptors.
 
 Atenolol binds to (alpha1/alpha2/beta1/beta2/nicotinic/muscarinic) receptors and acts as an (agonist/antagonist).
 
@@ -675,7 +674,7 @@ beta-blockerBeta blockers prevent the action of hormones to beta receptors
 Atenolol binds to (alpha1/alpha2/beta1/beta2/nicotinic/muscarinic) receptors and acts as an (agonist/antagonist).
 76 of 262
 
-beta-1 antagonistAgonist activate receptors and antagonist block receptors from activity.
+beta-1 antagonist - Agonist activate receptors and antagonist block receptors from activity.
 
 Atenolol is used to mainly treat:
 
@@ -693,7 +692,7 @@ Hypertension. But it also works to treat irregular heartbeat."olol" is often i
 Prior to prescribing any type of beta-blocker the following should be considered:
 78 of 262
 
-A patient's typical blood pressure and pulseBeta blockers can make blood pressure and pulse lower!
+A patient's typical blood pressure and pulse - Beta blockers can make blood pressure and pulse lower!
 
 A potential ocular side effect of atenolol and other medications in its class is a(n) (increase/decrease) in intraocular pressure.
 
@@ -702,7 +701,7 @@ A patient's typical blood pressure and pulseBeta blockers can make blood press
 A potential ocular side effect of atenolol and other medications in its class is a(n) (increase/decrease) in intraocular pressure.
 79 of 262
 
-decreaseTimolol is an example of a beta-blocker glaucoma drop.
+decrease - Timolol is an example of a beta-blocker glaucoma drop.
 
 Atenolol and other medications in its class can (increase/decrease) aqueous humor (production/outflow) in the eye.
 
@@ -738,7 +737,7 @@ They ALL inhibit the enzyme HMG-CoA reductase (3-hydroxy-3-methylglutaryl coenzy
 HMG-CoA reductase inhibitors often end in the suffix:
 83 of 262
 
-"statin”Examples are atorvastatin or simvastatin.
+"statin” - Examples are atorvastatin or simvastatin.
 
 _________ is the enzyme that is responsible for the rate-limiting step in cholesterol metabolism.
 
@@ -756,7 +755,7 @@ HMG-CoA (3-hydroxy-3-methylglutaryl coenzymeA) reductase. - These are inhibited 
 Atorvastatin and other medications in its class work to (increase/decrease) LDL, (increase/decrease) TGA and (increase/decrease) HDL.
 85 of 262
 
-decrease, decrease, increaseHDL is  the "good" cholesterol that should be high.
+decrease, decrease, increase - HDL is  the "good" cholesterol that should be high.
 
 Mechanism of action of azathioprine:
 
@@ -774,7 +773,7 @@ It acts as a purine that prevents the replication of dna and rna by inserting it
 Class of medication of azathioprine:
 87 of 262
 
-Immunosuppressive drugImmunosuppressants increase the risk of infections.
+Immunosuppressive drug - Immunosuppressants increase the risk of infections.
 
 Traditionally, azathioprine is a systemic immunosuppressive drug used to manage / treat
 
@@ -792,7 +791,7 @@ Autoimmune conditions such as rheumatoid arthritis and also to prevent transplan
 Due to its immunosuppressive action and its action on DNA, a potential side effect of azathioprine is an increased risk of:
 89 of 262
 
-malignancyAny alteration in DNA, even from UV light, can cause cancer.
+malignancy - Any alteration in DNA, even from UV light, can cause cancer.
 
 Class of medication of azelastine:
 
@@ -801,7 +800,7 @@ malignancyAny alteration in DNA, even from UV light, can cause cancer
 Class of medication of azelastine:
 90 of 262
 
-antihistamineAntihistamine medications block the action of histamine.
+antihistamine - Antihistamine medications block the action of histamine.
 
 Azelastine and other medications in its class bind to (H1/H2) receptors to decrease itching, but do not bind to (H1/H2) receptors which would decrease redness
 
@@ -810,7 +809,7 @@ antihistamineAntihistamine medications block the action of histamine
 Azelastine and other medications in its class bind to (H1/H2) receptors to decrease itching, but do not bind to (H1/H2) receptors which would decrease redness
 91 of 262
 
-bind to histakine1, do not bind to histamine2 - Patients treated for allergies may have more reduced symptoms than signs.
+bind to histamine-1, do not bind to histamine-2 - Patients treated for allergies may have more reduced symptoms than signs.
 
 Azelastine is a medication used to treat:
 
@@ -819,7 +818,7 @@ bind to H1, do not bind to H2Patients treated for allergies may have more redu
 Azelastine is a medication used to treat:
 92 of 262
 
-allergiesOcular allergy symptoms include red, watery and itchy eyes.
+allergies - Ocular allergy symptoms include red, watery and itchy eyes.
 
 Azithromycin is a(n) ________ medication.
 
@@ -828,7 +827,7 @@ allergiesOcular allergy symptoms include red, watery and itchy eyes
 Azithromycin is a(n) ________ medication.
 93 of 262
 
-antibioticAntibiotics treat bacterial infections.
+antibiotic - Antibiotics treat bacterial infections.
 
 Class of antibiotic for azithromycin:
 
@@ -837,7 +836,7 @@ antibioticAntibiotics treat bacterial infections.
 Class of antibiotic for azithromycin:
 94 of 262
 
-MacrolideMacrolides often have the suffix "mycin."
+Macrolide - Macrolides often have the suffix "mycin."
 
 The mechanism of action of azithromycin and other medications in its class is:
 
@@ -855,7 +854,7 @@ binding to bacterial ribosome 50S to inhibit protein synthesisIt does not bind
 The role of ribosomes in the cell is:
 96 of 262
 
-protein synthesisRibosomes form proteins from amino acids.
+protein synthesis - Ribosomes form proteins from amino acids.
 
 The specific ribosomal subunit that azithromycin and other medications in its class binds to is ___.
 
@@ -864,7 +863,7 @@ protein synthesisRibosomes form proteins from amino acids
 The specific ribosomal subunit that azithromycin and other medications in its class binds to is ___.
 97 of 262
 
-50SBacteria have subunits 50S and 30S. Humans have 60S and 40S.
+50S - Bacteria have subunits 50S and 30S. Humans have 60S and 40S.
 
 In its ___ mg dose form, the following medication is used to treat chlamydia
 
@@ -873,7 +872,7 @@ In its ___ mg dose form, the following medication is used to treat chlamydia
 In its ___ mg dose form, the following medication is used to treat chlamydia
 98 of 262
 
-1000 mg azithromycinOtherwise azithromycin comes in 250mg tablets.
+1000 mg azithromycin - Otherwise azithromycin comes in 250mg tablets.
 
 Adult inclusion conjunctivitis is caused by
 
@@ -882,7 +881,7 @@ Adult inclusion conjunctivitis is caused by
 Adult inclusion conjunctivitis is caused by
 99 of 262
 
-chlamydiaChlamydia is considered a bacteria.
+chlamydi - Chlamydia is considered a bacteria.
 
 Benazepril is a medication used to treat:
 
