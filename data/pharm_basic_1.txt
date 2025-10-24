@@ -494,7 +494,7 @@ antibioticAntibiotics treat bacterial infections
 Clavulanate, which is added to amoxicillin to form _________, inhibits the bacterial enzyme known as _________ which can break the beta-lactam ring off of amoxicillin making it ineffective.
 56 of 262
 
-Augmentin; penicillinase - Penicillinase is a form of beta-lactamase. Enzymes that end in "ase" often break things down.
+Augmentin, penicillinase - Penicillinase is a form of beta-lactamase. Enzymes that end in "ase" often break things down.
 
 The mechanism of action of amoxicillin and other medications in its class is inhibition of ________.
 
@@ -548,7 +548,7 @@ ErgosterolLipids often end in the suffix "sterol" (ex. choleSTEROL)
 For ocular fungal infections, topical Amphotericin B is appropriate for _______ infections, and IV Amphotericin B is appropriate for __________ infections.
 62 of 262
 
-corneal; intraocular - Topical meds do not penetrate well enough for intraocular infections.
+corneal, intraocular - Topical meds do not penetrate well enough for intraocular infections.
 
 A patient has an intraocular infection after cataract surgery. The best delivery system of antifungal medications such as Amphotericin B is:
 
@@ -881,7 +881,7 @@ Adult inclusion conjunctivitis is caused by
 Adult inclusion conjunctivitis is caused by
 99 of 262
 
-chlamydi - Chlamydia is considered a bacteria.
+chlamydia - Chlamydia is considered a bacteria.
 
 Benazepril is a medication used to treat:
 
