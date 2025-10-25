@@ -95,7 +95,7 @@ function cleanLine(s){
 function splitAnsExpl(line){
   if(!line) return {a:'', e:''};
 
-  // Normalize basic characters
+  // Normalize stray unicode dashes/quotes just in case
   line = line
     .replace(/\u00A0/g,' ')
     .replace(/\u200B/g,'')
@@ -104,14 +104,12 @@ function splitAnsExpl(line){
     .replace(/[‘’]/g,"'")
     .trim();
 
-  // ✅ Only split if there’s a space-hyphen-space (" - ")
-  let parts = line.split(/\s-\s/);
-  if(parts.length === 2){
-    return {a: parts[0].trim(), e: parts[1].trim()};
-  }
+  // ONLY split on space-hyphen-space
+  const m = line.match(/^(.*?)\s-\s(.*)$/);   // first occurrence only
+  if (m) return { a: m[1].trim(), e: m[2].trim() };
 
-  // Otherwise keep entire thing together
-  return {a: line.trim(), e: ''};
+  // otherwise, no explanation
+  return { a: line, e: '' };
 }
 function parseTxt(txt,totalHint){
   const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
