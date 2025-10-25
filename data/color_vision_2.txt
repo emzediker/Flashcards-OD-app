@@ -134,7 +134,7 @@ Dark
 To measure a dark adaptation curve, first a patient's retina is ______, and then they are placed in darkness and the threshold of their retinal _______ is determined.
 26 of 279
 
-bleached ; sensitivity
+bleached, sensitivity
 
 The first section of the dark adaptation curve represents the sensitivity of (scotopic/photopic) vision after bleaching the retina and is mediated by (rods/cones).
 27 of 279
@@ -164,7 +164,7 @@ cones
 The dark adaptation curve with the stimulus of 650nm has a photochromatic interval of ____ because rods (are/are not) more sensitive than cones at this wavelength.
 32 of 279
 
-zero ; are not - 650nm corresponds to the color red.
+zero, are not - 650nm corresponds to the color red.
 
 If a dark adaptation curve is obtained with a stimulus that only subtends the area of the fovea, the curve will lack a ________.
 33 of 279
@@ -354,7 +354,7 @@ is not
 (Luminance/illuminance) is light coming off a surface and (luminance/illuminance) is light falling on a surface.
 70 of 279
 
-Luminance ; illuminance
+Luminance, illuminance
 
 The radiometric equivalents of luminous power , luminous intensity, luminance, and illuminance are:
 71 of 279
@@ -536,8 +536,7 @@ Grassman's (additive/scalar/associative) law of metamers states that if one meta
 
 associative
 
-(Hue/Saturation/Brightness) is associated with "color" and is most closely 
-associated with wavelength.
+(Hue/Saturation/Brightness) is associated with "color" and is most closely associated with wavelength.
 107 of 279
 
 Hue
@@ -653,7 +652,7 @@ negative, positive, C
 A scotopic dominant ERG is obtained after (light/dark) adaptation and uses a (bright/dim)(long/short)wavelength stimulus.
 128 of 279
 
-dark ; dim ; short
+dark, dim, short
 
 A photopic ERG is obtained under (dark/light) adapted conditions with a (bright/dim)(long/short) wavelength stimulus.
 129 of 279
