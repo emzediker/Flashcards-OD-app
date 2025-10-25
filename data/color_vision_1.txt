@@ -522,20 +522,17 @@ ____________  threshold is the maximum distance a stimulus can be moved and stil
 
 Maximum displacement threshold
 
-"Global motion" perception, such as that of a random dot kinematogram is processed 
-in the (retina/cerebral cortex)
+"Global motion" perception, such as that of a random dot kinematogram is processed in the (retina/cerebral cortex).
 103 of 279
 
 cerebral cortex
 
-Motion is processed primarily in 
-the (magno/parvo) pathway.
+Motion is processed primarily in the (magno/parvo) pathway.
 104 of 279
 
 magno
 
-_____ information is transmitted to visual area 5 (aka middle temporal area, 
-aka MT, aka V5, aka MT/V5)
+_____ information is transmitted to visual area 5 (aka middle temporal area, aka MT, aka V5, aka MT/V5).
 105 of 279
 
 Motion
@@ -660,7 +657,7 @@ Depth perception due to retinal disparity is known as ________.
 
 stereopsis
 
-If two targets are too far from one another in depth, rather than experiencing stereopsis, an observe will experience _________.=
+If two targets are too far from one another in depth, rather than experiencing stereopsis, an observe will experience _________.
 130 of 279
 
 physiological diplopia
@@ -778,7 +775,7 @@ receptive
 Ganglion cell activity that occurs even in the absence of a stimulus are referred to as ______ activity or ____discharge.
 153 of 279
 
-spontaneous ; maintained
+spontaneous, maintained
 
 Receptive fields of a ganglion cell has "_______" organization, meaning light falling on the center of the field has the opposite neural effect than light falling on the surrounding area of the field.
 154 of 279
