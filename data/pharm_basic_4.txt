@@ -40,7 +40,7 @@ H1 are responsible for itch and H2 are responsible for redness/vasodilation.H2
 Omeprazole belongs to the following class of medications:
 5 of 261
 
-proton pump inhibitor - PPI's often have "prazole" in them. Not to be confused with "conazole"
+proton pump inhibitor - PPI's often have "prazole" in them. Not to be confused with "conazole."
 
 The mechanism of action of omeprazole is:
 
@@ -77,7 +77,7 @@ heartburn / GERD / acid reflux
 Omeprazole and medications like it can prevent ulcers that may be induced by ____ medications.
 9 of 261
 
-NSAID - NSAIDS can cause gastric ulcers, impair wound healing, and thin blood
+NSAID - NSAIDS can cause gastric ulcers, impair wound healing, and thin blood.
 
 Antiviral medications often end in the suffix ___.
 
@@ -240,7 +240,7 @@ binding to free VEFG to prevent its action.Of note , pegaptanib does not bind 
 Pegaptanib prevents the actions of ____ which typically ________.
 26 of 261
 
-VEGF, typically causes neovascularization and increased blood vessel permeability. - VEGF causes poorly formed leaky blood vessels to proliferate
+VEGF, typically causes neovascularization and increased blood vessel permeability. - VEGF causes poorly formed leaky blood vessels to proliferate.
 
 Pemirolast is a medication used to treat :
 
@@ -339,7 +339,7 @@ The direct effect is inhibition of MAO and the downstream result is increased le
 Monoamine oxidase (MAO) is an enzyme that usually breaks down ______ and ______.
 37 of 261
 
-monoamines and noncatecholamines (ephedrine and phenylephrine) - Dopamine, norepinephrine & serotonin are monoamines
+monoamines and noncatecholamines (ephedrine and phenylephrine) - Dopamine, norepinephrine & serotonin are monoamines.
 
 Phenobarbital is a medication used to treat:
 
@@ -434,7 +434,7 @@ episcleritis and scleritisPhenylephrine will whiten episcleritis hyperemia but
 The medication _______  has utility in the the treatment of posterior synechiae that may occur in the condition known as _____.
 47 of 261
 
-Phenylephrine 10% may treat posterior synechiae that forms with uveitis. - Typical phenylephrine used in dilation is 2.5%
+Phenylephrine 10% may treat posterior synechiae that forms with uveitis. - Typical phenylephrine used in dilation is 2.5%.
 
 Phenylephrine 10% should be used 
 in caution with patient with _______.
@@ -649,8 +649,7 @@ dilationVasodilation decreases blood pressure & vasoconstriction increases it
 Timolol is a __blocker and prazosin is a ___ blocker
 70 of 261
 
-Timolol is a beta-blocker and prazosin is an alpha-blocker - Both are adrenergic and both 
-decrease blood pressure.
+Timolol is a beta-blocker and prazosin is an alpha-blocker - Both are adrenergic and both decrease blood pressure.
 
 Promethazine is  medication that treats:
 
@@ -1689,7 +1688,7 @@ breast cancerIt reduces the risk of recurrence and is often taken during remis
 Potential ocular side effect of tamoxifen are:
 182 of 261
 
-crystalline retinopathy, whorl keratopathy, blood vessel embolisms. - Amiodarone & Fabry's disease and others also causes whorl keratopathy
+crystalline retinopathy, whorl keratopathy, blood vessel embolisms. - Amiodarone & Fabry's disease and others also causes whorl keratopathy.
 
 Tamoxifen is an anti______ drug.
 
@@ -2365,8 +2364,7 @@ Inhibition of viral DNA polymerase to prevent DNA synthesis - The same mechanism
 
 Trifluridine is used to treat (DNA/RNA) viruses.
 
-Inhibition of viral DNA polymerase to prevent DNA synthesisThe same mechanism of action of other herpetic virals 
-(ex. acyclovir).
+Inhibition of viral DNA polymerase to prevent DNA synthesisThe same mechanism of action of other herpetic virals (ex. acyclovir).
 
 Trifluridine is used to treat (DNA/RNA) viruses.
 256 of 261
