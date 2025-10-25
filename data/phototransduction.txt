@@ -12,7 +12,7 @@ The electrical response that occurs in photoreceptors is always  a_____in respon
 
 hyperpolarization
 
-Photoreceptors are ____ in the dark
+Photoreceptors are ____ in the dark.
 3 of 28
 
 depolarized (due to cation channels in the outer segment membrane being open)
