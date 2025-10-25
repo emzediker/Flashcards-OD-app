@@ -302,8 +302,7 @@ Thioridazine belongs to the following class of medications:
 
 phenothiazine
 
-Beta-blockers can have an adverse effect of the metabolism of lipids via inhibition of 
-the enzyme __________.
+Beta-blockers can have an adverse effect of the metabolism of lipids via inhibition of the enzyme __________.
 51 of 167
 
 
@@ -704,7 +703,7 @@ dexamethasone + tobramycin =
 
 tobradex
 
-Tobradex is a solution / suspension.
+Tobradex is a (solution/suspension).
 117 of 167
 
 
