@@ -17,12 +17,12 @@ What do evoked potentials measure?
 
 Evoked potentials measure the speed of the messages along your sensory nerves to the brain.
 
-CT vs PET scans
+Describe CT vs PET scans:
 4 of 25
 
-1.CT scan is great for boney hard structures. 2.PET shows metabolism or how cells react to a radiotracer (as in cancer cells).
+1. CT scan is great for boney hard structures. 2. PET shows metabolism or how cells react to a radiotracer (as in cancer cells).
 
-MRI measures/images:
+An MRI measures/images:
 5 of 25
 
 MRI measures mushy (soft) tissues.
@@ -32,15 +32,15 @@ Definition of neuroplasticity:
 
 The ability of the brain to change after it is introduced to a stimuli or experience.
 
-Electroretinogram (ERG) function
+An Electroretinogram (ERG) measures:
 7 of 25
 
 The ERG is a measure of an electrical response by the cells of the retina to a flash of light.
 
-Testing procedure for ERG
+Testing procedure for ERG:
 8 of 25
 
-1.Patient dilated. 2.Patient placed in darkened room for 30 minutes in order to dark adapt. 3.Numb the eye and place a special contact lens. 4.Lights of different colors and intensities will be flashed off the inside of the bowl.
+1. Patient dilated. 2. Patient placed in darkened room for 30 minutes in order to dark adapt. 3. Numb the eye and place a special contact lens. 4. Lights of different colors and intensities will be flashed off the inside of the bowl.
 
 Electrooculogram (EOG) purpose:
 9 of 25
@@ -50,9 +50,9 @@ Measures the electrical changes within only the RPE layer which occur during dar
 Testing procedure for the EOG:
 10 of 25
 
-1.Skin near the corners of each eye will be cleaned with alcohol. 2.Four small electrodes will be taped at forehead and behind the ear. 3.Then each eye will watch flashing lights.
+1. Skin near the corners of each eye will be cleaned with alcohol. 2. Four small electrodes will be taped at forehead and behind the ear. 3. Then each eye will watch flashing lights.
 
-Visual Evoked Potential (VEP) purpose(aka Visual Evoked Response (VER))
+Visual Evoked Potential (VEP) (aka Visual Evoked Response (VER)) purpose:
 11 of 25
 
 Measure of the flow of electrical information between the eye and the brain.
@@ -65,7 +65,7 @@ TRUE
 Testing procedure of VEP:
 13 of 25
 
-scalp cleaned with alcohol, electrodes place on scalp and behind ears, fixed spot is presented against a checkerboard background. - **undilated**
+The scalp cleaned with alcohol, electrodes are place on the scalp and behind  the ears, and a fixed spot is presented against a checkerboard background. - **undilated**
 
 True or False? It is necessary to shave to the scalp or cut hair for a VEP test.
 14 of 25
@@ -75,17 +75,17 @@ FALSE
 List the waves on an ERG and what they represent:
 15 of 25
 
-1.a-wave (photoreceptor activity) 2.b-wave (Muller and bipolar cells activity)3. c-wave (RPE activity) - ERG is tested in a pattern of dark-adapted (scotopic) and light-adapted (photopic) settings.
+1. a-wave (photoreceptor activity) 2. b-wave (Muller and bipolar cells activity) 3. c-wave (RPE activity) - ERG is tested in a pattern of dark-adapted (scotopic) and light-adapted (photopic) settings.
 
 Full-field ERG abnormalities can indicate:
 16 of 25
 
-Widespread retinal dysfunction:  - 1.rod/cone dystrophies 2.cancer associated retinopathy 3.toxic retinopathies
+Widespread retinal dysfunction -  1.rod/cone dystrophies 2.cancer associated retinopathy 3.toxic retinopathies
 
 Name conditions associated with the following ERG findings: normal a-wave amplitude, BUT b-wave is markedly low.
 17 of 25
 
-1.juvenile X-linked retinoschisis 2.congenital stationary night blindness 3.melanoma-associated retinopathy
+1. juvenile X-linked retinoschisis 2. congenital stationary night blindness 3. melanoma-associated retinopathy
 
 There is a problem seen OCT during Plaquenil retinopathy testing (suspicious parafoveal ellipsoid split). What electrical test should then be ordered or referred out?
 18 of 25
@@ -95,22 +95,22 @@ multifocal ERG (mfERG) - Full field is whole retina ERG. mfERG is just the macul
 What is the area of focus in a mfERG?
 19 of 25
 
-The multifocal ERG (mfERG) assesses local  macular responses, within the central 30 degrees.
+The multifocal ERG (mfERG) assesses local macular responses, within the central 30 degrees.
 
 Pattern ERG (pERG) function:
 20 of 25
 
-Uses contrast reversing pattern stimuli (sine wave gratings or checkerboards) to assess macular retinal ganglion cells.
+pERG uses contrast reversing pattern stimuli (sine wave gratings or checkerboards) to assess macular retinal ganglion cells.
 
 Name two electrodiagnostic tests that use checkboards:
 21 of 25
 
-1.VEP: test retina to brain stimuli (can test full visual pathway such as seen in multiple sclerosis) 2.pERG: test macula
+1. VEP: test retina to brain stimuli (can test full visual pathway such as seen in multiple sclerosis) 2. pERG: test macula
 
-Is the Arden ratio (dark vs light rise) of an EOG  high or low in Best’s disease?
+Is the Arden ratio (dark vs light rise) of an EOG high or low in Best’s disease?
 22 of 25
 
-Normal Arden ratio is 1.8 or higher. - Best’s is lower than 1.8
+The Arden ratio in Best’s is lower than 1.8 - A normal Arden ratio is 1.8 or greater. 
 
 EOG tests for what disease?
 23 of 25
@@ -125,4 +125,4 @@ multiple sclerosis, head or brain trauma, and a glioma on your optic nerve - THI
 Characteristics of an ERG in retinitis pigmentosa:
 25 of 25
 
-1.scotopic ERG is reduced. 2.photopic ERG is normal. - RP is known for "night blindness" so it makes sense that the scotopic ERG is reduced.
+1. scotopic ERG is reduced. 2. photopic ERG is normal. - RP is known for "night blindness" so it makes sense that the scotopic ERG is reduced.
