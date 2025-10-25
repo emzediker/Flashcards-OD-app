@@ -1,0 +1,1481 @@
+1 of 279
+
+sensitivity
+
+The _______ phenomenon is the perceptual disappearance of low temporal frequency stimuli.
+2 of 279
+
+Troxler
+
+The _______ is the visualization of the shadow of the blood vessels on the back of the eye.
+3 of 279
+
+Purkinje tree
+
+Contrary to the Troxler phenomenon, fixating 
+on a target does not make an object 
+disappear due to ________
+4 of 279
+
+small involuntary eye movements
+
+Low temporal frequency changes, such as the minute hand on a clock moving, may go unnoticed due to the _______ arrangement of ganglion cells
+5 of 279
+
+center-surround
+
+Retinal illumination has an effect on (low/high/both) levels of critical flicker frequency
+6 of 279
+
+high
+
+Critical flicker frequency increase with the stimulus area, flicker is more likely to be 
+perceived if a stimulus is (smaller/larger)
+7 of 279
+
+larger
+
+The (central/peripheral) retina has 
+higher temporal resolution.
+8 of 279
+
+peripheral
+
+The ________ effect, states that flashes of light with a duration of 50ms-100ms appear brighter than those outside of that range 
+despite equal luminance
+9 of 279
+
+Broca-Sulzer
+
+The Brucke-Bartley effect demonstrates that a ___Hz frequency light appears brighter than a ___Hz steady light despite equal luminance.
+10 of 279
+
+10 ; 10
+
+The Talbot-Plateau Law states that a temporally modulated (flickered) stimulus that is fused has the same brightness as a steady light of the same time averaged luminance as long as the flickering light is beyond the ______.
+11 of 279
+
+critical flicker frequency
+
+In masking, the (mask/target) reduces the 
+visibility of the (mask/target)
+12 of 279
+
+mask ; target
+
+_______ masking occurs when both the mask and target are present at the same time.
+13 of 279
+
+Simultaneous
+
+Two stimulus presented at the same time with similar or harmonious spatial frequencies is an example of ________ masking.
+14 of 279
+
+simultaneous
+
+Amblyopia patients may distinguish single letters on an acuity chart better than whole rows due to the ________ phenomenon.
+15 of 279
+
+crowding
+
+In (backward/forward) masking, the mask proceeds target and in (backward/forward) masking, 
+the target proceeds the mask
+16 of 279
+
+forward ; backward
+
+_________ is a form of backward masking where the mask and target are adjacent in space.
+17 of 279
+
+Metacontrast
+
+Motion is processed in the (dorsal/ventral) processing stream.
+18 of 279
+
+dorsal
+
+The perception of motion can be achieved by using flashing figures displaced by time, this type of motion is imaginary / illusory 
+and referred to as ______ motion
+19 of 279
+
+stroboscopic
+
+Stroboscopic motion is a ____ order stimuli for motion and is used for things like cartoons.
+20 of 279
+
+first
+
+In random dot cinerators, dots move in random directions. The smallest fraction of dots that are detected as moving in a common direction is 
+called the ________ threshold
+21 of 279
+
+coherence
+
+# --- END Z✅BRI percept1C cefnu.txt ---
+
+
+# --- BEGIN Z✅BRI percept1B cefnu.txt ---
+Perceptual Function & Color Vision
+ Deck 2 of 6
+100 flashcards
+
+The number of (rods/cones) decreases with age and the number of (rods/cones) stays the same.
+22 of 279
+
+rods ; cones
+
+The greatest concentration of (rods/cones) is at the fovea, and they represent __ of total photoreceptors of their type
+23 of 279
+
+cones ; 5%
+
+(S/M/L) cones are the fewest population of cones and they (are / are not) found in the fovea.
+24 of 279
+
+S ; are not.
+
+______ adaptation refers to the gradual improvement in scotopic vision after being exposed to a bright light.
+25 of 279
+
+Dark
+
+To measure a dark adaptation curve, first a patient's retina is ______, and then they are placed in darkness and the threshold of their retinal _______ is determined
+26 of 279
+
+bleached ; sensitivity
+
+The first section of the dark adaptation curve represents the sensitivity of (scotopic/photopic) vision after bleaching the retina and is mediated by (rods/cones).
+27 of 279
+
+photopic ; cones
+
+The marked change in curve slope at 12 minutes of the dark adaptation curve is called the "______" break
+28 of 279
+
+rod-cone break
+
+The plateau that occurs at 10 and the 25 minutes of the dark adaptation curve corresponds to ___ and ___ respectively.
+29 of 279
+
+cone thresholds and rod thresholds
+
+At the "rod-cone" break of a dark adaptation curve, (rods/cones) are now able to detect a stimulus
+30 of 279
+
+rods
+
+Prior to the "rod-cone" break only (rods/cones) detect the stimulus presented
+31 of 279
+
+cones
+
+The dark adaptation curve with the stimulus of 650nm has a photochromatic interval of ____ because rods (are/are not) more sensitive than cones at this wavelength.
+32 of 279
+
+zero ; are not650nm corresponds to the color red
+
+If a dark adaptation curve is obtained with a stimulus that only subtends the area of the fovea, the curve will lack a ________
+33 of 279
+
+"rod-cone" breakThis is because there are no foveal rods
+
+The _______ explanation states that changes in sensitivity of photoreceptors during dark adaptation is explained by photopigment regeneration.
+34 of 279
+
+photochemicalAs photopigments regenerate the
+ retina becomes more sensitive
+
+The probability that a photopigment will absorb light is (linearly/exponentially) proportional to the given percentage of photopigment regeneration.
+35 of 279
+
+exponentially
+
+A rod ________ is born only with rods.
+36 of 279
+
+monochromat
+
+A (dark/light) adaptation curve is determined by measuring the threshold of a given stimulus relative to a given background intensity.
+37 of 279
+
+light
+
+The initial zero slope of the light adaptation curve represents an area of detection that
+ is limited by ________.
+38 of 279
+
+neural noise
+
+_________ law states: the second slope in the light adaptation curve where m=1/2 is determined by quantal fluctuations.
+39 of 279
+
+De Vries-Rose
+
+________ law is demonstrated in the third slope of the light adaptation curve, where m=1, as the increment of the stimulus detected is proportionally increased with the background to that stimulus
+40 of 279
+
+Weber's
+
+In the 4th slope of the light adaptation curve, the slope is ___ and represents an 
+area of (cone/rod) saturation
+41 of 279
+
+infinity ; rod
+
+Rods are “saturated" when __% of rhodopsin is bleached and all of the 
+sodium channels are closed
+42 of 279
+
+10%
+
+Bleaching of rods causes closure of ___ channels and rod (depolarization/hyperpolarization).
+43 of 279
+
+Na+ ; hyperpolarization
+
+(Scotopic/Photopic) vision is 20/20 and (scotopic/photopic) vision is 20/200.
+44 of 279
+
+20/20 ; 20/200.
+
+The ability to detect a stimulus is greatest under (photopic/scotopic) conditions.
+45 of 279
+
+scotopic
+
+(More/Less) rods interact with a downstream ganglion cell than cones do.
+46 of 279
+
+More
+
+The (photopic/scoptic) system has greater spatial summation and the (photopic/scotopic) system have greater spatial resolution.
+47 of 279
+
+scotopic ; photopic
+
+The (photopic/scotopic) system has greater temporal summation and the (photopic/scotopic) system has greater temporal resolution.
+48 of 279
+
+scotopic ; photopic
+
+"The "________" diameter is the smallest diameter of a stimulus in minutes of arc that can be detected at a given intensity
+49 of 279
+
+critical
+
+The "_______" duration / period is the shortest interval of time that a stimulus can be detected at a given intensity
+50 of 279
+
+critical
+
+The critical diameter is determined by ______ law.
+51 of 279
+
+Ricco's
+
+The critical duration/period is 
+determined by _____ law.
+52 of 279
+
+Bloch's
+
+The (scotopic/photopic) system has a greater critical duration.
+53 of 279
+
+scotopic
+
+Light striking cones in a (parallel/perpendicular) orientation is most efficient at bleaching and is perceived as being brighter.
+54 of 279
+
+perpendicular
+
+The ________________________ occurs when light perpendicular to cones is perceived as bright.
+55 of 279
+
+Stiles-Crawford effect of the first kind
+
+____ will reorient themselves toward 
+displaced pupils.
+56 of 279
+
+Cones
+
+(Light/Dark) adaptation may be useful in the diagnosis of retinitis pigmentosa, congenital stationary night blindness and other rod-cone degenerations
+57 of 279
+
+Dark
+
+The basic unit of photometry is a ______, it 
+measures luminous power
+58 of 279
+
+lumen
+
+There are 680 lumens per Watt at a wavelength 
+of ____, this is the most efficient wavelength for luminous power
+59 of 279
+
+555nm
+
+________ is used to specify the total amount of light that emerges (in all directions) from a source
+60 of 279
+
+Luminous power
+
+The photometric system is additive, and according to ____ law of additivity, the number of lumens from multiple wavelengths can be added together to determine the total lumens from a source of multiple wavelengths
+61 of 279
+
+Abney's
+
+________ is the number of lumens produced in a given direction by a source.
+62 of 279
+
+Luminous intensity
+
+Luminous power is measured in _______ and luminous intensity of measured in _______ or ______.
+63 of 279
+
+Lumens ; candela or lumens per steradian.
+
+Luminance is measured in _________.
+64 of 279
+
+candela per square meter or "foot-lamberts"
+
+Illuminance is measured in ________.
+65 of 279
+
+lumens per foot or lumens per meter
+
+________ quantifies the amount of light coming off of a surface in a given direction.
+66 of 279
+
+Luminance
+
+Luminance is analogous to ________.
+67 of 279
+
+brightness
+
+_________ is the luminous power that falls on a surface and is measured in ____ or ____.
+68 of 279
+
+Illuminance ; lux (lumens/m^2) or foot-candles(lumens/ft^2)
+
+Illuminance (is/is not) affected by the 
+surface it falls on.
+69 of 279
+
+is not
+
+(Luminance/illuminance) is light coming off a surface and (luminance/illuminance) is light 
+falling on a surface.
+70 of 279
+
+Luminance ; illuminance
+
+The radiometric equivalents of luminous power , luminous intensity, luminance, and illuminance are:
+71 of 279
+
+radiant power, radiant intensity, radiance and irradiance
+
+Cosine (aka Labert, perfectly diffusing, matte) surfaces have the same _________ at any given viewing angle.A _____ surface varies
+72 of 279
+
+luminance ; specular
+
+The inverse square law states as a surface is moved from a point source, the number of lumens falling on it decreases with the ___________ of the distance
+73 of 279
+
+square
+
+If an object is tilted (more/fewer) lumens land on it. The reduction of illumination is proportional to the cosine of the angle of tilt.
+74 of 279
+
+fewer
+
+The unit for retinal illumination is a _____.
+75 of 279
+
+Troland
+
+Trolands = luminance of the surface that 
+is viewed x _______.
+76 of 279
+
+pupil area
+
+There are 680 scotopic lumens per Watt at a wavelength of ____nm
+77 of 279
+
+555
+
+There are 680 photopic lumens per watt at a wavelength of _____ nm.
+78 of 279
+
+507
+
+The goal of heterochromatic flicker photometry is to adjust the _______ of a sample stimulus until the flicker is minimized, which represents equal______.
+79 of 279
+
+radiance ; luminance
+
+Heterochromatic Flicker Photometry is used to produce a _________ function.
+80 of 279
+
+luminosity
+
+Two categories of modern light source are :
+81 of 279
+
+luminescent and incandescent
+
+(Luminescent/Incandescent) sources form light through heat, and (luminescent/incandescent) sources form light through exciting atoms
+82 of 279
+
+Incandescent ; luminescent
+
+A fluorescent light tube filled with gases / atoms that are excited by voltage is an example of a (incandescent/luminescent) light source
+83 of 279
+
+luminescent
+
+A standard light bulb with a filament that generates heat, is an example of a (luminescent/incandescent) light source
+84 of 279
+
+incandescent
+
+High color temperature incandescent lights may have a ___ hue and low color temperature incandescent lights may have a ___ hue.
+85 of 279
+
+blue ; yellow
+
+The correlated color temperature of a fluorescent bulb is determine by the _____ that coats it.
+86 of 279
+
+phosphor
+
+Illuminant (A/B/C) is recommended for administering color vision testing.
+87 of 279
+
+C
+
+A ________ band filter passes only a 
+narrow spectral band of light.
+88 of 279
+
+narrow
+
+A ______band filter passes a 
+broad spectral band of light.
+89 of 279
+
+broad
+
+___pass filters transmit long wavelengths only, a modern example of this a computer ________ lenses
+90 of 279
+
+Longpass ; blue blocker
+
+___________ filters use the interference of light to produce a very narrow band of light, so narrow that this result reaches the point it is _________
+91 of 279
+
+Interference ; monochromatic
+
+Filters are (additive/subtractive) in nature and projectors are (additive/subtractive) in nature.
+92 of 279
+
+subtractive ; additive
+
+_______ filters transmit all wavelengths equally.
+93 of 279
+
+Neutral density
+
+A rod monochromat may distinguish wavelengths based on ________ rather than color.
+94 of 279
+
+brightness
+
+______ are two physically different stimuli that appear to be the same.
+95 of 279
+
+Metamers
+
+A __________ only has two photopigments 
+to aid in color determination.
+96 of 279
+
+dichromat
+
+A _______ has three photopigments 
+for color determination.
+97 of 279
+
+trichromat
+
+Each molecule of a cone photopigment 
+has a _____ and a ________.
+98 of 279
+
+opsin and chromophore
+
+The chromophore in all cones is called "______" which is a derivative of ______
+99 of 279
+
+retinal ; retinol aka vitamin A
+
+All cones have the same (opsin/chromophore).
+100 of 279
+
+chromophore
+
+Light is absorbed by the (chromophore/opsin), and the (chromophore/opsin) determines the absorption characteristics
+101 of 279
+
+chromophore ; opsin
+
+The opsin is composed of a chain of ________.
+102 of 279
+
+amino acids
+
+M and L cones pigments are found on chromosome ___, S cone pigments are on chromosome ___, and rhodopsin 
+is on chromosome ____
+103 of 279
+
+X ; 7; 3
+
+Grassman's (additive/scalar/associative) law of metamers states if the same radiation is added in an identical manner to two metamers, 
+they remain metamers
+104 of 279
+
+additive
+
+Grassman's (additive/scalar/associative) law of metamers states that if the intensity for two metamers is identically altered, 
+they will remain metamers
+105 of 279
+
+scalar
+
+Grassman's (additive/scalar/associative) law of metamers states that if one metamer is substituted for another, they will have the same effect on the visual system and remain metamers
+106 of 279
+
+associative
+
+(Hue/Saturation/Brightness) is associated with "color" and is most closely 
+associated with wavelength
+107 of 279
+
+Hue
+
+(Hue/Saturation/Brightness) is the characteristic of a color often described as bold or pastel.
+108 of 279
+
+Saturation
+
+A (saturated/desaturated) hue appears to have been mixed with white.
+109 of 279
+
+desaturated
+
+Wavelength that does not have white light added to it is said to have ___ purity of 1.
+110 of 279
+
+colorimetric
+
+(Hue/Saturation/Brightness) is associated with photopic luminance.
+111 of 279
+
+Brightness
+
+A _____nm stimulus is perceived as the brightest despite equal levels of luminance 
+to other wavelengths.
+112 of 279
+
+555
+
+The two wavelengths with the easiest hue discrimination intervals are __ and __nm.
+113 of 279
+
+495 and 590
+
+The three wavelengths that do not change hue as their intensity is increased are ________, and are referred to as ________ wavelengths/points
+114 of 279
+
+478 (blue), 503(green) and 578(yellow); invariant
+
+_______ refers to the constant color appearance despite different lighting conditions.
+115 of 279
+
+color constancy
+
+The afterimage of red is ______, these are _______
+116 of 279
+
+green ; complementary
+
+Color vision is usually (monochromatic/dichromatic/trichromatic).
+117 of 279
+
+trichromatic
+
+In the color opponent theory, there are red-green responsive cells, blue-yellow responsive cells, 
+and ______ responsive cells
+118 of 279
+
+non-color/brightness
+
+(Mango/Parvo/Konio) cells manifest green-red opponency, (mango/parvo/konio) cells manifest blue-yellow opponency, and (magno/parvo/konio) cells manifest non-color opponency
+119 of 279
+
+Parvo ; konio ; magno
+
+The dimensions of the Mensell color system are:
+120 of 279
+
+hue, chroma, and value
+
+(Hue/Chroma/Value) is related to wavelength, (hue/chroma/value) is related to saturation, and (hue/chroma/value) is related to brightness
+121 of 279
+
+Hue; chroma; value
+
+# --- END Z✅BRI percept1B cefnu.txt ---
+
+
+# --- BEGIN Z ✅BRI percept2C cefnu.txt ---
+Perceptual Function & Color Vision
+ Deck 6 of 6
+58 flashcards
+
+EOGs can detect (inner/outer) retinal disease.
+122 of 279
+
+outer
+
+EOGs are used to specifically test 
+for the disease, _______.
+123 of 279
+
+Bests
+
+____ disease presents with a normal full-field ERG and a reduced light rise of the EOG.
+124 of 279
+
+Bests
+
+The full-field ERG presents the patient with a (long/short) burst of light and measures 
+gross potentials.
+125 of 279
+
+short
+
+The full-field ERG targets conditions of the (outer/inner) retina.
+126 of 279
+
+outer
+
+The components of the ERG are the (negative/positive)a-wave, (negative/positive)b-wave, afterpotential and __wave."
+127 of 279
+
+negative ; positive ; C
+
+A scotopic dominant ERG is obtained after (light/dark) adaptation and uses a (bright/dim)(long/short)wavelength stimulus.
+128 of 279
+
+dark ; dim ; short
+
+A photopic ERG is obtained under (dark/light) adapted conditions with a (bright/dim)(long/short) wavelength stimulus.
+129 of 279
+
+light ; bright ; long
+
+The (photoreceptor/Muller/bipolar/RPE/ganglion) cells are responsible for the a-wave of an ERG.
+130 of 279
+
+photoreceptor
+
+The (photoreceptor/Muller/bipolar/RPE/ganglion) cells are responsible for the b-wave of an ERG.
+131 of 279
+
+Muller and bipolar
+
+The (photoreceptor/Muller/bipolar/RPE/ganglion) cells are responsible for the c-wave of an ERG.
+132 of 279
+
+RPE
+
+The (VEP/ERG/EOG) is useful in diagnosis large retinal conditions such as retinitis pigmentosa.
+133 of 279
+
+ERG  fullfield specifically
+
+Patients with a retinal condition that is not widespread- such as that contained to the macula in macular degeneration- may have a normal (full-field/focal)ERG and an abnormal (full-field/focal)ERG.
+134 of 279
+
+normal full field and abnormal focal
+
+The ___ERG uses hexagonal shapes to stimulate various retinal loci independently to create many ERG curves.
+135 of 279
+
+multifocal
+
+A standard flicker or flash ERG isolates (inner/outer) retina and a pattern ERG isolates (inner/outer) retina.
+136 of 279
+
+outer ; inner
+
+A full-field ERG uses a ________ to display the stimulus, and a PERG and a mfERG uses a computer screen
+137 of 279
+
+Ganzfeld dome
+
+In analysis of an ERG, the _____ time is the time from stimulus presentation to onset of response
+138 of 279
+
+implicit
+
+The normal implicit time for a ERG is ____ ms.
+139 of 279
+
+25-30
+
+Glaucoma may have an abnormal (mfERG / PERG)
+140 of 279
+
+PERG
+
+A VEP measures (retinal/cortical) responses to visual stimuli.
+141 of 279
+
+cortical
+
+A (VEP/ERG/EOG) uses a special contact lens with electrodes to record responses.
+142 of 279
+
+ERG
+
+A (VEP/ERG/EOG) uses leads placed on a patients head and scalp to record potentials.
+143 of 279
+
+VEP
+
+Threshold contrast of a (VEP/ERG/EOG) can be used to determine the potential visual acuity in a malingering patient.
+144 of 279
+
+VEP
+
+A VEP assesses impairment in the (macula/LGN/optic nerve/cortex).
+145 of 279
+
+All
+
+If a VEP is reduced but the ERG is normal, the patient’s impairment is (retinal/postretinal)
+146 of 279
+
+postretinal
+
+If a VEP and PERG are both reduced, the impairment is (postretinal / retinal)
+147 of 279
+
+retinal
+
+In an amblyopic patient, one would expect (normal/abnormal) ERG and (normal/abnormal)VEP
+148 of 279
+
+normal ; abnormal
+
+In a patient with optic neuritis, one would expect an (increase/decrease) in VEP latency
+149 of 279
+
+increase
+
+If a patient has visual deprivation starting early in life, the (extrastriate/striate) cortex will not develop normally with (monocular/binocular) cells
+150 of 279
+
+striate; binocular
+
+The _______ period is the time in life where visual development can be influenced by the environment.
+151 of 279
+
+critical aka sensitive
+
+The human visual system is most sensitive during the first __ years of life, and the critical period ends around ages ____.
+152 of 279
+
+2 ; 7-9
+
+______ is a reduction in vision secondary to monocular deprivation during the critical period.
+153 of 279
+
+Amblyopia
+
+(Occlusion/Refractive/Strabismic) amblyopia may result from monocular congenital cataract or monocular congenital ptosis.
+154 of 279
+
+Occlusion
+
+(Occlusion/Refractive/Strabismic) amblyopia can occur when one eye has very blurry vision at all distances relative to the other.
+155 of 279
+
+Refractive
+
+(Occlusion/Refractive/Strabismic) amblyopia can occur in patient with a constant unilateral tropia since birth.
+156 of 279
+
+Strabismic
+
+In a patient with normal binocular development, _____effects can be transferred between eyes
+157 of 279
+
+after
+
+_______ amblyopia occurs when a child has uncorrected astigmatism during the critical period
+158 of 279
+
+meridional
+
+Most eyeball growth happens in the 
+first ___ years of life.
+159 of 279
+
+6
+
+__% of 6 year olds have myopia and ___% of 15 year olds have myopia. Myopia increases in 
+prevalence with age.
+160 of 279
+
+2% ;15%
+
+Defocus in developmental years can influence (lens power / axial length) resulting in ametropia.
+161 of 279
+
+axial length
+
+Eye growth relies on local factors from the retina, it is thought this is controlled by 
+(central/peripheral) blur
+162 of 279
+
+peripheral
+
+Most are born (hyperopic/myopic) and (should/should not) be corrected very early in life.
+163 of 279
+
+hyperopic / should not
+
+The process that guides the development of emmetropia through childhood is called __________.
+164 of 279
+
+emmetropization
+
+Resolution acuity of an infant is roughly 20/___, but reaches adult levels by ages ___ to ___
+165 of 279
+
+600; 3 to 5
+
+The (voluntary/involuntary) nystagmus that occurs while viewing a rotating drum of spatial frequencies is called ___________.
+166 of 279
+
+involuntary; optokinetic nystagmus
+
+Nystagmus consist of two phases: a ____ 
+followed by a _____.
+167 of 279
+
+pursuit ; saccade
+
+_______ looking occurs when an infant favors viewing a patterned stimuli over a non-patterned stimuli.
+168 of 279
+
+Preferential
+
+____ acuity cards are used for forced choice preferential looking to determine acuity in infants.
+169 of 279
+
+Teller
+
+In the first year of life, VA changes from 
+20/600 to about 20/___
+170 of 279
+
+100
+
+Contrast sensitivity reaches adult like levels 
+around the age of ___.
+171 of 279
+
+6
+
+Vernier acuity rapidly increases in the first year of life, however it does not reach 
+adult levels until ages ______
+172 of 279
+
+6 to 8
+
+Stereoacuity is about 1 minute of arc by age ___.
+173 of 279
+
+6 months
+
+Critical flicker fusion frequency reaches adult levels by ___ months.
+174 of 279
+
+3
+
+Both Senile miosis and nuclear sclerosis lead to a decrease in ________ sensitivity.
+175 of 279
+
+contrast
+
+_____________ is the temporary decrease in visual acuity that occurs after exposure to a bright light.
+176 of 279
+
+Disability glare recovery
+
+In a  _____ field of view test, a patient is tasked to identify centrally and peripherally viewed 
+object simultaneously
+177 of 279
+
+"useful" (UVF test)
+
+As cataracts form, patients may develop (deutan/protan/tritan) color defects despite normal cone function
+178 of 279
+
+tritan
+
+As a patient ages, there is a shift to 
+(with-the-rule / against-the-rule) astigmatism
+179 of 279
+
+against-the-rule
+
+# --- END Z ✅BRI percept2C cefnu.txt ---
+
+
+# --- BEGIN Z ✅BRI percept2B cefnu.txt ---
+Perceptual Function & Color Vision
+ Deck 5 of 6
+100 flashcards
+
+Parasol ganglion cells communicate with (one/more than one) diffuse bipolar cell.
+180 of 279
+
+more than one
+
+Rods communicate more to 
+(parasol cells / midget cells).
+181 of 279
+
+parasol cells
+
+Ganglion cells generate (action/graded) potentials.
+182 of 279
+
+action
+
+(Graded / action) potentials degrade over time, and (graded / action) potentials do not 
+183 of 279
+
+Graded ; action
+
+Ganglion cells synapse at the ______ of the brain.
+184 of 279
+
+LGN (lateral geniculate nucleus)
+
+The three pathways that synapse in the LGN (lateral geniculate nucleus) are :
+185 of 279
+
+magno , parvo and konio
+
+A subset of ganglion cells contain the photopigments (rhodopsin / opsin / melanopsin) which project to the suprachiasmatic nucleus and play are role in (color vision / circadian rhythm).
+186 of 279
+
+melanopsin ; circadian rhythm
+
+In the LGN, the (dorsal / ventral / interlaminar) layers are referred to as having magno cells
+187 of 279
+
+dorsal
+
+In the LGN, the (dorsal / ventral / interlaminar) layers are referred to as having parvo cells
+188 of 279
+
+ventral
+
+In the LGN, the (dorsal / ventral / interlaminar) layers are referred to as having konio cells
+189 of 279
+
+interlaminar
+
+Midget cells synapse at the (dorsal / ventral / interlaminar) layers of the LGN with parvo cells.
+190 of 279
+
+ventral
+
+Parasol cells synapse with (dorsal/ventral/interlaminar) magnocellular cells of the LGN.
+191 of 279
+
+dorsal
+
+Bistratified ganglion cells synapse at the (dorsal/ventral/interlaminar) layer of the 
+LGN with konio cells.
+192 of 279
+
+interlaminar
+
+(Parvo/Magno/Konio) cells are red-green sensitive.
+193 of 279
+
+Parvo
+
+(Parvo/Magno/Konio) cells are movement sensitive.
+194 of 279
+
+Magno
+
+(Parvo/Magno/Konio) cells are blue-yellow sensitive.
+195 of 279
+
+Konio
+
+At the "_____" position, a stimulus is within the receptive field of a ganglion cell such that excitation is equal to inhibition- 
+creating zero effect
+196 of 279
+
+null
+
+(Rods/Cones) feed primarily into 
+the magno pathway.
+197 of 279
+
+rods
+
+The (magno/parvo/konio) pathway 
+are color opponent.
+198 of 279
+
+konio and parvo
+
+(Parvo/Magno) cells have a transient response to a stimulus and (parvo/magno) cells have a sustained response to a stimulus.
+199 of 279
+
+Magno ; parvo
+
+(Parvo/Magno) cells respond best to high temporal frequency stimuli.
+200 of 279
+
+Magno
+
+(Parvo/Magno) cells have larger diameter axons.
+201 of 279
+
+Magno
+
+The (magno/parvo) pathway codes color discrimination and visual acuity.
+202 of 279
+
+parvo
+
+The (magno/parvo) pathway codes movement and low spatial frequencies.
+203 of 279
+
+magno
+
+_________ gratings are composed of bars of different colors (wavelengths) at the exact same luminance.
+204 of 279
+
+Isoluminant
+
+Isoluminant gratings can be used to isolate the action of the (parvo/magno) system.
+205 of 279
+
+parvo
+
+Visual information from the LGN is sent for further processing in the (striate/extrastriate) cortex, and then to the dorsal and ventral streams
+206 of 279
+
+striate
+
+Gray matter is (cell bodies / myelinated axons) and white matter is (cell bodies / myelinated axons).
+207 of 279
+
+cell bodies ; myelinated axons
+
+The four lobes of the brain are:
+208 of 279
+
+frontal , temporal , parietal, occipital
+
+The striate cortex is in the (frontal / temporal / parietal / occipital) lobe.
+209 of 279
+
+occipital
+
+The "line of Gennari" is formed by axons at the layer of ___ of the striate cortex
+210 of 279
+
+4B
+
+The primary visual cortex is also known as visual are ___, V_, and Brodmann area ___
+211 of 279
+
+1, 1, 17
+
+While the fovea only takes up 0.1% of the retinal area, it is represented in 8% of the entire visual cortex, this phenomenon is called:
+212 of 279
+
+cortical magnification
+
+The striate cortex projects to the ______ cortex.
+213 of 279
+
+extrastriate
+
+V2 (aka Brodmann area 18), V4, IT, MT, V5 are all part of the (striate/extrastriate) cortex
+214 of 279
+
+extrastriate
+
+The ventral processing stream is known as the (temporal/parietal) pathway as well as the (what/where) system.
+215 of 279
+
+temporal ; what
+
+The dorsal processing stream is known as the (temporal/parietal) pathway as well as the (what/where) system.
+216 of 279
+
+parietal ; where
+
+The "where" pathway receives input mainly from the (magno/parvo) cells
+217 of 279
+
+magno
+
+The "what" pathway receives input mainly from the (magno/parvo) cells
+218 of 279
+
+parvo
+
+The striate cortex sends information to the following three areas of the brain:
+219 of 279
+
+extrastriate cortex, pulvinar in the 
+thalamus, and back to the LGN
+
+The area of the brain that is associated to visual attention, motion processing and visually guided movement is the _____
+220 of 279
+
+Pulvinar of the LGN
+
+Projections from the cortex to the lower visual centers are from the (superficial / deep ) layers of the cortex, and projections from the cortex to the extrastriate cortex are from the (superficial / deep) layer of the cortex
+221 of 279
+
+deep ; superficial
+
+(Simple/Complex) cells of the cortex are sensitive to orientation information for bars or 
+edges of specific widths.
+222 of 279
+
+Simple
+
+Cortex neurons have (concentric / straight line) receptive fields.
+223 of 279
+
+straight line
+
+(Simple/Complex) cells of the cortex are responsive to direction of movement.
+224 of 279
+
+Complex
+
+(Simple / Complex) cells have spatial antagonism and (simple / complex) cells do not.
+225 of 279
+
+Simple ; complex
+
+_______ cells, also known as end-stop cells, are sensitive to stimulus length
+226 of 279
+
+Hypercomplex
+
+(Parallel / Hierarchical) processing for vision states that the receptive fields of higher neurons are created by those of proceeding neurons.
+227 of 279
+
+Hierarchical
+
+The first binocular neurons are in 
+(the retina / LGN / V1).
+228 of 279
+
+V1
+
+Ocular dominance is laid out in ocular dominance bands, slabs and columns at the level of the (retina/LGN/cortex)
+229 of 279
+
+cortex
+
+Ocular dominance columns are (parallel / perpendicular) to the surface of the cortex.
+230 of 279
+
+perpendicular
+
+A set of ocular dominance columns and orientation columns form a ____column.
+231 of 279
+
+hyper
+
+Staining of the striate cortex with cytochrome oxidase reveals _____ which are ____ opponent.
+232 of 279
+
+blobs ; color
+
+(Parvo/Magno) cells communicate with 
+blobs and interblobs.
+233 of 279
+
+Parvo
+
+Magno cells synapse in layer 4C(alpha / beta) of the striate cortex.
+234 of 279
+
+alpha
+
+Parvo cells synapse in layer 4C(alpha/beta) 
+of the cortex.
+235 of 279
+
+beta
+
+Patients with damaged striate cortex, but healthy cortical function elsewhere may demonstrate "non-conscious" vision known as ________
+236 of 279
+
+blindsight
+
+Orientation processing is arranged in (columns / pinwheels) in the cortex.
+237 of 279
+
+pinwheels
+
+Each other ~20 visual areas of the cortex have a map of the visual field referred to as the _____ map.
+238 of 279
+
+retinotopic
+
+The inability to point or reach for a visual target is called ______ _____ and may result from damage to the (dorsal-dorsal/ventral-dorsal) stream.
+239 of 279
+
+optic ataxia ; dorsal-dorsal
+
+Visual area 4 (V4) plays a role in ____ perception.
+240 of 279
+
+color
+
+Inferotemporal cortex (IT) plays role in processing _______.
+241 of 279
+
+forms/shapes/faces
+
+Visual area 4 is part of the (dorsal/ventral) processing stream and Inferotemporal cortex is part of the (dorsal/ventral) processing stream.
+242 of 279
+
+ventral ; ventral
+
+Visual area 5 aka middle temporal 
+cortex codes for ______.
+243 of 279
+
+motion
+
+Visual area 4 aka middle temporal cortex is part of the (dorsal/ventral) processing stream.
+244 of 279
+
+dorsal
+
+In a (PET positron emission tomography / fMRI functional magnetic resonance imaging) a tracer in the blood allows for observation of areas of increased metabolism.
+245 of 279
+
+PET
+
+In a (PET positron emission tomography / fMRI functional magnetic resonance imaging) levels of oxygenation allow for observation of 
+areas with metabolic activity.
+246 of 279
+
+fMRI
+
+The ________ coordinates the combination of the dorsal and ventral streams into memory.
+247 of 279
+
+prefrontal cortex
+
+The _______ effect is the illusion of motion after extended viewing of continuous motion and is mediated by the (MT/IT) area of the brain.
+248 of 279
+
+motion after ; MT
+
+Cells in the (IT/cortex) response to bars and orientation and cells in the (IT/cortex) respond to more sophisticated shapes.
+249 of 279
+
+cortex ; IT
+
+The __________ area of the extrastriate cortex responds well to faces.
+250 of 279
+
+fusiform face area
+
+The _______ area of the extrastriate cortex responds well to specific object, but not faces
+251 of 279
+
+parahippocampal place
+
+________ is the inability to see faces.
+252 of 279
+
+Prosopagnosia
+
+______ rivalry occurs when perception is alternated between the two eyes rather than simultaneous viewing.
+253 of 279
+
+Binocular
+
+Perception of an ambiguous figure, such as a Necker cube, is associated with activity in the (LGN/striate cortex/extrastriate cortex)
+254 of 279
+
+extrastriate
+
+In (top-down/bottom-up) attention, the observer decides what the attend to
+255 of 279
+
+top-down
+
+(Endogenous / Exogenous) attention is voluntary.
+256 of 279
+
+Endogenous
+
+(Top-down/Bottom-up) attention occurs when an observer's attention is controlled by an 
+outside stimulus.
+257 of 279
+
+Bottom-up
+
+(Endogenous/Exogenous) attention is 
+mostly involuntary.
+258 of 279
+
+Exogenous
+
+_____ blindness is the difficulty we have finding small differences in nearly identical images.
+259 of 279
+
+Change
+
+Top-down attention influences the activity of (V4/striate cortex) but not (V4/striate cortex).
+260 of 279
+
+V4 ; striate cortex
+
+Damage to the striate cortex causes (scotomas/agnosias) and damage to the extrastriate cortex causes (scotomas/agnosias).
+261 of 279
+
+scotomas; agnosias
+
+______ is inability to perceived more than 
+one object at a time.
+262 of 279
+
+Simultagnosia
+
+Color (anomia/agnosia) is the inability to associate colors to objects and color (anomia/agnosia) is the inability to name colors.
+263 of 279
+
+agnosia ; anomia
+
+Cerebral ______ is the inability to 
+perceive movement.
+264 of 279
+
+akinetopsia
+
+A patient with ________ has normal rods and cones but cannot distinguish hues due to a lesion in the extrastriate cortex.
+265 of 279
+
+cerebral achromatopsia
+
+Visual neglect has previously been associated to damage to the parietal lobe, however there is now evidence of damage to the ______ lobe as well
+266 of 279
+
+superior temporal
+
+_______ syndrome may be due to bilateral parietal lobe damage and is associated with optic ataxia and simultagnosia.
+267 of 279
+
+Balint's
+
+_____ is the experience of color in relation 
+to a word or concept.
+268 of 279
+
+Synesthesia
+
+In _______ syndrome, patients with vision loss may experience clear and complex visual hallucinations that the patient typically is aware are not real
+269 of 279
+
+Charles Bonnet
+
+The front of the eye is (positively/negatively) charged relative to the back.
+270 of 279
+
+positively
+
+The eyes resting potential is _mV and is used in (VEP/EOG/ERG) testing.
+271 of 279
+
+6mV ; EOG
+
+In an (VEP/ERG/EOG) the patient is instructed to look back and forth between two stimuli with electrodes placed at the canthi.
+272 of 279
+
+EOG
+
+The EOG is largest under (dark/light) 
+adapted conditions.
+273 of 279
+
+light
+
+The ____ ratio is used in EOGs and is calculated as a ratio of _____ to ______.
+274 of 279
+
+Arden; light rise to dark trough
+
+Readings in an EOG reach their lowest value, known as the dark trough, at ___ minutes 
+of (dark/light) adaptation
+275 of 279
+
+8 ; dark
+
+Readings in an EOG reach their max values at about ____ minutes of light adaptation, known as the ______ rise
+276 of 279
+
+15 ; light
+
+A normal Arden ratio is greater than ______.
+277 of 279
+
+165% - 180%
+
+The retinal origin of the dark adapted 
+EOG is the ____ layer.
+278 of 279
+
+RPE (retinal pigment epithelium)
+
+The retinal layer responsible for the origin of the light adapted EOG is ______.
+279 of 279
+
+photoreceptors (mainly the rods)
+
+# --- END Z ✅BRI percept2B cefnu.txt ---
