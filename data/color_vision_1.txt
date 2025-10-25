@@ -7,7 +7,7 @@ Perceptual Function & Color Vision
 Average axial length of the adult eye is____mm
 1 of 279
 
-25.4mm"Myopia control" treatments attempts to slow axial length growth.
+25.4mm - "Myopia control" treatments attempts to slow axial length growth.
 
 The three main layers of the eye from outer to inner are:
 2 of 279
@@ -42,7 +42,7 @@ The retina is ____mm thick.
 The cornea provides _____D of power to the eye and the lens provides ____D.
 8 of 279
 
-cornea ~40 and lens ~20.If you remove the natural lens, the patient is a +20.00 hyperope.
+cornea ~40 and lens ~20. - If you remove the natural lens, the patient is a +20.00 hyperope.
 
 To stay clear, the cornea must have steady _______.
 9 of 279
@@ -52,17 +52,17 @@ hydration
 Aqueous humor is drained by the __________ in the angle of the iris.
 10 of 279
 
-canal of Schlemm.
+canal of Schlemm
 
 During accommodation, the ciliary muscle (contacts/relaxes), causing the zonules to (contact/relax), resulting in an (increase/decrease) in curvature of the natural lens.
 11 of 279
 
-ciliary muscle contracts, the zonules relax, and the lens increases in curvature (becomes steeper or decreases "radius of curvature")Loss of lens flexibility causes presbyopia.
+ciliary muscle contracts, the zonules relax, and the lens increases in curvature (becomes steeper or decreases "radius of curvature") - Loss of lens flexibility causes presbyopia.
 
 Cataracts are formed by _________.
 12 of 279
 
-oxidative free radicalsOxidative free radicals are elements with unpaired electrons.
+oxidative free radicals - Oxidative free radicals are elements with unpaired electrons.
 
 The _________ cells of the retina respond to light and change radiant energy into ______ energy.
 13 of 279
@@ -77,7 +77,7 @@ bipolar cells and then ganglion cells
 Ganglion cells form cranial nerve ___ which synapse in the _____ in the brain.
 15 of 279
 
-II ; lateral geniculate nucleus of the thalamus
+II, lateral geniculate nucleus of the thalamus
 
 The two cells responsible for lateral transmission of information in the retina are _____ and ____ cells.
 16 of 279
@@ -102,7 +102,7 @@ RPE (retinal pigment epithelium)
 True or False: The retinal pigment epithelium is a layer of the retina involved in phototransduction.
 20 of 279
 
-FALSEThe RPE is present for metabolic support and to decrease light scatter.
+FALSE - The RPE is present for metabolic support and to decrease light scatter.
 
 The retinal pigment epithelium phagocytizes and sheds photoreceptor (outer/inner) segments.
 21 of 279
@@ -117,7 +117,7 @@ Inner to the RPE is the photoreceptors and outer to the RPE is the choroid.
 The photoreceptors known as ____ are responsible for night vision and ____ are responsible for daytime vision.
 23 of 279
 
-rods ; cones
+rods, cones
 
 The (inner/outer) segment of the photoreceptors contains photopigments and the (inner/outer) segment of photoreceptors contains nuclei/organelles.
 24 of 279
@@ -182,12 +182,12 @@ axons
 Ganglion cell axons are covered by a _____ sheath in the optic nerve head, but not in the ______.
 36 of 279
 
-myelin sheath ; retina.
+myelin sheath, retina.
 
 There is a "blind spot" at the optic disc due to the lack of _______ cells. This is located ___ degrees (nasal/temporal) to fixation and can be seen on a visual field.
 37 of 279
 
-photoreceptor ; 15 degrees temporal
+photoreceptor, 15 degrees temporal
 
 The fovea subtends ___ degrees and the foveola subtends ___ degrees.
 38 of 279
@@ -202,7 +202,7 @@ Cones
 The fovea has no (retinal/choroidal) based blood supply and depends on blood from the (retina/choroid).
 40 of 279
 
-retinal based ; choroid
+retinal based, choroid
 
 Although the fovea only takes up 0.1% of the retinal space, it accounts for 8% of cortical processing. This concept is referred to as _______.
 41 of 279
@@ -227,17 +227,17 @@ right
 The optic tract ends in a synapse with the _____.
 45 of 279
 
-LGN (lateral geniculate nucleus)The LGN is in the thalamus.
+LGN (lateral geniculate nucleus) - The LGN is in the thalamus.
 
 In the LGN, layers ______ receive information from the ipsilateral eye and layers ____ receive information from the contralateral eye.
 46 of 279
 
-2,3,5 ipsilateral eye ; 1,4,6 contralateral eye
+2,3,5 ipsilateral eye, 1,4,6 contralateral eye
 
 The three regions of the LGN are two (ventral/dorsal) magnocellular layers and four (ventral/dorsal) parvocellular layers and a _____ layer between the others.
 47 of 279
 
-ventral magnocellular ; dorsal parvocellular ; interlaminar / intercalated region between
+ventral magnocellular, dorsal parvocellular, interlaminar/intercalated region between
 
 ____ cells are in the interlaminar / intercalated regions of the LGN.
 48 of 279
@@ -247,12 +247,12 @@ Konio
 Cells in the dorsal region of the LGN are called ____ cells and cells in the ventral region of the LGN are called ______ cells.
 49 of 279
 
-Magno cells (M cells) ; parvo cells (P cells).
+Magno cells (M cells), parvo cells (P cells)
 
 The midget cells of the retina synapse to the (magno/parvo) cells of the LGN and the parasol cells other retinal synapse to the (magno/parvo) cells of the LGN.
 50 of 279
 
-parvo cells ; magno cells.
+parvo cells, magno cells.
 
 Konio cells of the LGN synapse with ________ cells of the retina in the optic nerve.
 51 of 279
@@ -287,7 +287,7 @@ extrastriate cortex
 While most ganglion cells in the optic nerve eventually synapse in the LGN, a few go to the (superior/inferior) colliculus and the _______ region in the _____.
 57 of 279
 
-superior colliculus ; the pulvinar region in the thalamus
+superior colliculus, the pulvinar region in the thalamus
 
 The electromagnetic spectrum (visible light) ranges in wavelength from ____ to ____.
 58 of 279
@@ -297,7 +297,7 @@ The electromagnetic spectrum (visible light) ranges in wavelength from ____ to _
 Wavelength is (directly / inversely) proportional to frequency. Large wavelength has (high/low) frequency.
 59 of 279
 
-Inversely ; low
+Inversely, low
 
 The color of light is determined by its (wavelength / frequency).
 60 of 279
@@ -317,8 +317,7 @@ quanta or photons
 The energy per quantum of light formula is : E = ?
 63 of 279
 
-Energy per quanta = Planck's constant x frequency ----OR----
-Energy per quanta = (speed of light x Planck's constant)/wavelength
+Energy per quanta=Planck's constant x frequency ----OR---- Energy per quanta=(speed of light x Planck's constant)/wavelength
 
 (High/Low) frequency light has more energy.
 64 of 279
@@ -358,17 +357,17 @@ glassblower's
 (Scotopic/Photopic) vision occurs in dim conditions and is mediated by (rods/cones).
 71 of 279
 
-Scotopic ; rods
+Scotopic, rods
 
 Scotopic vision has (good/poor) visual acuity and the (presence/absence) of color discrimination.
 72 of 279
 
-poor ; absence
+poor, absence
 
 (Scotopic/Photopic) vision occurs in bright conditions, has good visual acuity and color discrimination. This is mediated by (rods/cones).
 73 of 279
 
-photopic ; cones
+photopic, cones
 
 True or False: Under mesopic conditions both rods and cones contribute to vision.
 74 of 279
@@ -383,12 +382,12 @@ duplex
 Rod synaptic endings are called (spherules/pedicles) and cone synaptic endings are called (spherules/pedicles).
 76 of 279
 
-spherules ; pedicles.
+spherules, pedicles.
 
 In (cones/rods), photoreceptor discs remain attached the membranes of the cells, while in (cones/rods) they are free floating.
 77 of 279
 
-cones ; rods
+cones, rods
 
 The ____ layer of the retina is responsible for phagocytosis of photoreceptor discs.
 78 of 279
@@ -398,7 +397,7 @@ RPE (retinal pigment epithelium)
 Rod discs are shed during the (day/night) and cone discs are shed during the (day/night).
 79 of 279
 
-day ; night
+day, night
 
 When light is absorbed by photoreceptors, they become (depolarized/hyperpolarized).
 80 of 279
@@ -423,7 +422,7 @@ Wavelengths of ____nm are most likely to be absorbed by the photopigments of rod
 When light is absorbed by rods they become ______, and it takes __ minutes for 50% of rods to recover.
 84 of 279
 
-bleached ; 5
+bleached, 5
 
 The principle of ________ states that once a quanta of light is absorbed all other information regarding its wavelength is lost.
 85 of 279
@@ -433,7 +432,7 @@ univarience
 Dark adaptation takes ___ minutes to allow for ___ regeneration.
 86 of 279
 
-45 ; rhodopsin
+45, rhodopsin
 
 Sensitivity is (directly/inversely) related to threshold.
 87 of 279
@@ -458,17 +457,17 @@ The wavelength most likely to be absorbed by cyanolabe, chlorolabe and erythrola
 S cones are "___"wavelength cones that contain the photopigment __________.
 91 of 279
 
-short ; cyanolabe
+short, cyanolabe
 
 M cones are "______" wavelength cones and contain the photopigment _______.
 92 of 279
 
-middle ; chlorolabe
+middle, chlorolabe
 
 L cones are "____" wavelength cones and contain the photopigment _______.
 93 of 279
 
-long ; erythrolabe
+long, erythrolabe
 
 After bleaching, it takes ___ minutes for 50% of cone photopigments to recover.
 94 of 279
@@ -488,7 +487,7 @@ The photochromatic interval
 The photochromatic interval is zero at the color______.
 97 of 279
 
-redRed is equally detectable in dim and light conditions.
+red - Red is equally detectable in dim and light conditions.
 
 The __________ shift if the perceived increase in brightness of longer wavelengths in scotopic conditions compared to when viewed in photopic conditions.
 98 of 279
@@ -503,7 +502,7 @@ The retina contains ___ million cones per eye.
 There are no (rods/cones) in the fovea and the greatest concentration of rods is ___degrees from the fovea.
 100 of 279
 
-rods ; 20
+rods, 20
 
 # --- END Z ✅BRI percept1A cefnu.txt ---
 
@@ -546,8 +545,7 @@ Visual area 5 is in the ______ lobe of the brain.
 
 occipital
 
-The pathway that codes motion vision and terminates in the prefrontal cortex is referred to as the (parietal/temporal) pathway, or the (ventral/dorsal) stream, 
-or the (what/where) system
+The pathway that codes motion vision and terminates in the prefrontal cortex is referred to as the (parietal/temporal) pathway, or the (ventral/dorsal) stream, or the (what/where) system.
 107 of 279
 
 parietal , dorsal , where
@@ -557,8 +555,7 @@ Akinetopsia is impaired ______ perception.
 
 movement / motion
 
-(Biological/Artificial) motion is analyzed in the posterior superior temporal sulcus 
-of the human brain.
+(Biological/Artificial) motion is analyzed in the posterior superior temporal sulcus of the human brain.
 109 of 279
 
 Biological
@@ -568,20 +565,17 @@ Objects subjectively move ___% slower under rod mediated vision than under cone 
 
 0.25
 
-As a stimulus moves, resolution acuity remains constant until the speed of the 
-object reaches _____ degrees per second
+As a stimulus moves, resolution acuity remains constant until the speed of the object reaches _____ degrees per second
 111 of 279
 
 60-80
 
-The ability to resolve a moving stimulus
- is called _____ acuity.
+The ability to resolve a moving stimulus is called _____ acuity.
 112 of 279
 
 dynamic
 
-Dynamic acuity is limited 
-by _________ eye movements.
+Dynamic acuity is limited by _________ eye movements.
 113 of 279
 
 smooth pursuit
@@ -591,11 +585,10 @@ Rapid ballistic eye movements between two stimuli are called _______ eye movemen
 
 saccadic
 
-________ suppression aka ________ omission is the suppression of vision shortly before, during and after rapid ballistic eye movements between two stimuli and likely originates 
-within the (retina/cortex).
+________ suppression aka ________ omission is the suppression of vision shortly before, during and after rapid ballistic eye movements between two stimuli and likely originates within the (retina/cortex).
 115 of 279
 
-saccadic ; saccadic; cortex
+saccadic, saccadic, cortex
 
 Saccadic suppression is due to the inhibition of the (magno/parvo) pathway.
 116 of 279
@@ -617,7 +610,7 @@ _______ size is a monocular cue to depth where by two images of different sizes 
 
 Relative
 
-"The illusion created by a painted picture of a road, where the edges of the road are angled together, is a monocular cue to depth called ______ perspective."
+The illusion created by a painted picture of a road, where the edges of the road are angled together, is a monocular cue to depth called ______ perspective.
 120 of 279
 
 linear
@@ -637,8 +630,7 @@ ____ is an monocular cue to depth that occurs when a scene is obscured with haze
 
 Clarity
 
-A sense of depth can be created 
-using light and ________.
+A sense of depth can be created using light and ________.
 124 of 279
 
 shadow
@@ -648,14 +640,12 @@ An _______ declination below the horizon is a monocular cue to depth that allows
 
 angular
 
-Motion parallax is a (static/kinetic) 
-monocular cue to depth.
+Motion parallax is a (static/kinetic) monocular cue to depth.
 126 of 279
 
 kinetic
 
-In motion parallax, when fixated on a near target, it will move (with/against) the relative 
-motion of the observer’s head
+In motion parallax, when fixated on a near target, it will move (with/against) the relative motion of the observer’s head
 127 of 279
 
 with
@@ -663,21 +653,19 @@ with
 (Crossed/Uncrossed) disparity occurs when images fall nasal to the fovea and occur for images viewed (nearer/further) than a fixated object.
 128 of 279
 
-Uncrossed ; further
+Uncrossed, further
 
-Depth perception due to retinal disparity 
-is known as ________.
+Depth perception due to retinal disparity is known as ________.
 129 of 279
 
 stereopsis
 
-If two targets are too far from one another in depth, rather than experiencing stereopsis, an observe will experience _________
+If two targets are too far from one another in depth, rather than experiencing stereopsis, an observe will experience _________.=
 130 of 279
 
 physiological diplopia
 
-________ is the concept that our visual system compensates for differences in retinal image size by taking into account the relative 
-distance of an object.
+________ is the concept that our visual system compensates for differences in retinal image size by taking into account the relative ]distance of an object.
 131 of 279
 
 Size constancy
@@ -702,8 +690,7 @@ The minimum quantity of a stimulus that can be detected is called the (threshold
 
 threshold
 
-In the method of (ascending/descending) limits, a stimulus is first presented below threshold and gradually increased in character 
-until it is perceived
+In the method of (ascending/descending) limits, a stimulus is first presented below threshold and gradually increased in character until it is perceived.
 136 of 279
 
 ascending
@@ -718,13 +705,12 @@ Checking a patient’s visual acuity with a large letter and slowly decreasing t
 
 descending
 
-The__________ method of threshold determination is a combination of the methods of 
-ascending and descending limits.
+The__________ method of threshold determination is a combination of the methods of ascending and descending limits.
 139 of 279
 
 staircase
 
-In the method of constant stimuli, the presented stimuli is (constantly the same / constantly varied)
+In the method of constant stimuli, the presented stimuli is (constantly the same / constantly varied).
 140 of 279
 
 constantly varied
@@ -739,24 +725,22 @@ A patient with a strict threshold criteria may have high (false/true)(positives/
 
 false negatives
 
-In the method of_______ the observer adjusts the stimulus intensity until it is either 
-visible or invisible.
+In the method of_______ the observer adjusts the stimulus intensity until it is either visible or invisible.
 143 of 279
 
 adjustment
 
-In "___________" methodology, patient bias for strict or lax criteria is limited because the patient is required to pick between two displayed options
+In "___________" methodology, patient bias for strict or lax criteria is limited because the patient is required to pick between two displayed options.
 144 of 279
 
 forced choice
 
-For a signal to be detected, it must 
-overcome _______ noise
+For a signal to be detected, it must overcome _______ noise.
 145 of 279
 
 neural
 
-In signal detection theory, if neural noise is not robust enough to result in an erroneous stimulus detection, this is called a (correct/incorrect)(reject/accept)
+In signal detection theory, if neural noise is not robust enough to result in an erroneous stimulus detection, this is called a (correct/incorrect)(reject/accept).
 146 of 279
 
 correct reject
@@ -776,8 +760,7 @@ low ; low
 
 Sensitivity
 
-(Sensitivity/Specificity) is the percentage of patients who are healthy and test negative 
-for a condition.
+(Sensitivity/Specificity) is the percentage of patients who are healthy and test negative for a condition.
 150 of 279
 
 Specificity
@@ -797,7 +780,7 @@ Ganglion cell activity that occurs even in the absence of a stimulus are referre
 
 spontaneous ; maintained
 
-Receptive fields of a ganglion cell has "_______" organization, meaning light falling on the center of the field has the opposite neural effect than light falling on the surrounding area of the field
+Receptive fields of a ganglion cell has "_______" organization, meaning light falling on the center of the field has the opposite neural effect than light falling on the surrounding area of the field.
 154 of 279
 
 center-surround
@@ -817,7 +800,7 @@ A light equally stimulating the center and surround receptive fields of a gangli
 
 zero
 
-The three cells that have center-surround spatial antagonism are :
+The three cells that have center-surround spatial antagonism are:
 158 of 279
 
 ganglion, amacrine and bipolar
@@ -827,12 +810,12 @@ Photoreceptors transform _____ energy into electrical energy.
 
 radiant
 
-When exposed to light, photoreceptors (depolarize/hyperpolarize)
+When exposed to light, photoreceptors (depolarize/hyperpolarize).
 160 of 279
 
 hyperpolarize
 
-In their resting state, photoreceptors are (more/less) depolarized than typical cells
+In their resting state, photoreceptors are (more/less) depolarized than typical cells.
 161 of 279
 
 more
@@ -840,22 +823,19 @@ more
 The resting membrane potential of a typical cell is ___mV and the resting membrane potential of a photoreceptor is ___mV.
 162 of 279
 
-(-)70; (-) 50
+(-)70, (-) 50
 
 Photoreceptors respond to light with (action / graded) potentials.
 163 of 279
 
 graded
 
-In the dark (sodium/potassium/calcium/hydrogen/iron) 
-moves into the rod (outer/inner) segment 
-to cause a slight depolarization.
+In the dark (sodium/potassium/calcium/hydrogen/iron) moves into the rod (outer/inner) segment to cause a slight depolarization.
 164 of 279
 
-sodium ; outer
+sodium, outer
 
-Dark current is the way that photoreceptors maintain a state of (depolarization/hyperpolarization) when 
-they are not activated.
+Dark current is the way that photoreceptors maintain a state of (depolarization/hyperpolarization) when they are not activated.
 165 of 279
 
 depolarization
@@ -865,8 +845,7 @@ When light is absorbed by rhodopsin, sodium pores become blocked in photorecepto
 
 hyperpolarization
 
-The two parts that form rhodopsin are 
-an ____ and a _____.
+The two parts that form rhodopsin are an ____ and a _____.
 167 of 279
 
 opsin and chromophore
@@ -876,8 +855,7 @@ Unbleached retinal is in the ___-(cis/trans) form.
 
 11-cis
 
-Light absorption changes 11-cis retinal
- into ___-____ retinal.
+Light absorption changes 11-cis retinal into ___-____ retinal.
 169 of 279
 
 all-trans
@@ -887,13 +865,12 @@ A decrease in (cAMP/cGMP) closes sodium channels in photoreceptors.
 
 cGMP
 
-cGMP is broken down into GMP by 
-the protein ______________.
+cGMP is broken down into GMP by the protein ______________.
 171 of 279
 
 phosphodiesterase
 
-Rod hyperpolarization is limited by the amount of (cyclicGMP, transducin, retinal, sodium channels) present
+Rod hyperpolarization is limited by the amount of (cyclicGMP, transducin, retinal, sodium channels) present.
 172 of 279
 
 sodium channels
@@ -923,12 +900,12 @@ Bipolar cells respond to stimulation with (action/graded) potentials.
 
 graded
 
-Light absorption changes 11-cis retinal to ____, which activates transducin, which activates _______, which breaks up cyclicGMP to GMP which causes __channels to close and resulting in hyperpolarization
+Light absorption changes 11-cis retinal to ____, which activates transducin, which activates _______, which breaks up cyclicGMP to GMP which causes __channels to close and resulting in hyperpolarization.
 178 of 279
 
-all-trans ; phosphodiesterase ; Na+
+all-trans, phosphodiesterase, Na+
 
-Photoreceptors synapse with ____ cells, which have center-surround spatial antagonism
+Photoreceptors synapse with ____ cells, which have center-surround spatial antagonism.
 179 of 279
 
 bipolar
@@ -936,7 +913,7 @@ bipolar
 Excitation of bipolar cells causes (depolarization/hyperpolarization) and inhibition of bipolar cells causes (depolarization/hyperpolarization).
 180 of 279
 
-depolarization ; hyperpolarization
+depolarization, hyperpolarization
 
 (On/Off)-center bipolar cells have a flat synapse and (on/off)-center bipolar cells have an invaginating synapse.
 181 of 279
@@ -948,12 +925,12 @@ Ganglion cells and photoreceptors both synapse with ____ cells.
 
 bipolar
 
-Under dark conditions, photoreceptors continuously release the neurotransmitter ________
+Under dark conditions, photoreceptors continuously release the neurotransmitter ________.
 183 of 279
 
 glutamate
 
-When photoreceptors are activated, they hyperpolarize and (increase/decrease) their release of glutamate
+When photoreceptors are activated, they hyperpolarize and (increase/decrease) their release of glutamate.
 184 of 279
 
 decrease
@@ -963,32 +940,30 @@ Glutamate is an (excitatory/inhibitory) neurotransmitter.
 
 excitatory
 
-When glutamate is present, ON-bipolar cells are (depolarized/hyperpolarized) when glutamate is absent, ON-bipolar cells are (depolarized/hyperpolarized)
+When glutamate is present, ON-bipolar cells are (depolarized/hyperpolarized) when glutamate is absent, ON-bipolar cells are (depolarized/hyperpolarized).
 186 of 279
 
-hyperpolarized; depolarized
+hyperpolarized, depolarized
 
-Off-center bipolar cells are (stimulated/inhibited) by glutamate, and on-center bipolar cells are (stimulated/inhibited) by glutamate
+Off-center bipolar cells are (stimulated/inhibited) by glutamate, and on-center bipolar cells are (stimulated/inhibited) by glutamate.
 187 of 279
 
-stimulated ; inhibited
+stimulated, inhibited
 
 Midget and diffuse cells are types of (bipolar/ganglion/photoreceptor) cells.
 188 of 279
 
 bipolar
 
-(Midget/Diffuse) bipolar cells are color opponent, and (midget/diffuse) bipolar cells are 
-non-color opponent
+(Midget/Diffuse) bipolar cells are color opponent, and (midget/diffuse) bipolar cells are non-color opponent.
 189 of 279
 
-Midget ; diffuse
+Midget, diffuse
 
-Midget bipolar cells communicate with (L/M/S) cones, and S-cone bipolar cells 
-communicate with (L/M/S) cones
+Midget bipolar cells communicate with (L/M/S) cones, and S-cone bipolar cells communicate with (L/M/S) cones.
 190 of 279
 
-L and M ; S
+L and M, S
 
 Amacrine cells have a _____ arrangement.
 191 of 279
@@ -1035,7 +1010,7 @@ Central midget ganglion cells communicate with (one/more than one) midget bipola
 
 one
 
-In the peripheral retina, midget bipolar cells communicate with (one/more than one) cone
+In the peripheral retina, midget bipolar cells communicate with (one/more than one) cone.
 200 of 279
 
 more than one
@@ -1053,7 +1028,7 @@ Color-matching functions demonstrate the amount of _____ color needed to match a
 
 primary
 
-A "_______" value is the quantity of each primary color needed to match a given wavelength
+A "_______" value is the quantity of each primary color needed to match a given wavelength.
 202 of 279
 
 tristimulus
@@ -1063,7 +1038,7 @@ The ________ diagram uses imaginary primaries to describe hues to avoid negative
 
 CIE chromaticity diagram
 
-On a CIE chromaticity diagram, monochromatic hues are located (centrally / on the perimeter)
+On a CIE chromaticity diagram, monochromatic hues are located (centrally / on the perimeter).
 204 of 279
 
 on the perimeter on the arc of the diagram.
@@ -1078,7 +1053,7 @@ _____ is on the center of the CIE diagram.
 
 White
 
-To determine the _______ wavelength of a monochromatic mixture on a CIE diagram, the midpoint of the two connected wavelengths is determined, and a line from pure white is intersected with that point to the perimeter of the diagram
+To determine the _______ wavelength of a monochromatic mixture on a CIE diagram, the midpoint of the two connected wavelengths is determined, and a line from pure white is intersected with that point to the perimeter of the diagram.
 207 of 279
 
 dominant
@@ -1093,13 +1068,12 @@ Complementary colors mix to form (black/white).
 
 white
 
-On the CIE chromaticity diagram, complementary colors can be determined by connecting them through ______ at the center of the diagram
+On the CIE chromaticity diagram, complementary colors can be determined by connecting them through ______ at the center of the diagram.
 210 of 279
 
 white
 
-___ of the population may have 
-anomalous color vision.
+___ of the population may have anomalous color vision.
 211 of 279
 
 ~4.5-5%
@@ -1109,28 +1083,25 @@ A patient who is missing one of the three retinal photopigments is said to have:
 
 dichromacy
 
-______nopia is when chlorolabe is missing, ______nopia is when erythrolabe is missing, _____nopia is when cyanolabe is missing
+______nopia is when chlorolabe is missing, ______nopia is when erythrolabe is missing, _____nopia is when cyanolabe is missing.
 213 of 279
 
 Deuteranopia, protanopia, tritanopia
 
-In ___________ __________ all three photopigments are present, however, their absorption 
-spectrums are shifted
+In ___________ __________ all three photopigments are present, however, their absorption spectrums are shifted.
 214 of 279
 
 anomalous trichromacy
 
-In deuteranomalous trichromacy, the absorption spectrum of ____labe is shifted 
-to (shorter/longer) wavelengths.
+In deuteranomalous trichromacy, the absorption spectrum of ____labe is shifted to (shorter/longer) wavelengths.
 215 of 279
 
 chlorolabe is shifted to longer wavelengths
 
-In protanomalous trichromacy the ____labe absorption spectrum is shifted 
-to (shorter/longer) wavelengths.
+In protanomalous trichromacy the ____labe absorption spectrum is shifted to (shorter/longer) wavelengths.
 216 of 279
 
-erythrolabe ; shorter
+erythrolabe, shorter
 
 Red-green color vision anomalies are often described as ___ or ___ and are usually inherited.
 217 of 279
@@ -1142,13 +1113,12 @@ Yellow-blue defects are referred to a ___ and are usually acquired instead of in
 
 tritan
 
-In a normal spectral sensitivity function, the three peaks are ___,___, and ___ corresponding to cyanolabe, chlorolabe and erythrolabe
+In a normal spectral sensitivity function, the three peaks are ___,___, and ___ corresponding to cyanolabe, chlorolabe and erythrolabe.
 219 of 279
 
 440, 520, 620
 
-In a dichromat, the spectral 
-sensitivity curve has ___ peaks
+In a dichromat, the spectral sensitivity curve has ___ peaks.
 220 of 279
 
 2
@@ -1168,12 +1138,12 @@ Dichromatic patients may be able to discriminate wavelengths based on ________ i
 
 luminance
 
-For dichromatic patients, colors falling on a common ________ line are all seen as the same
+For dichromatic patients, colors falling on a common ________ line are all seen as the same.
 224 of 279
 
 color confusion
 
-At ____ points, dichromatic patients perceive certain wavelengths as the color white
+At ____ points, dichromatic patients perceive certain wavelengths as the color white.
 225 of 279
 
 neutral
@@ -1181,12 +1151,12 @@ neutral
 Red-green color anomalies are transmitted on the ___ chromosome in a (dominant/recessive) fashion.
 226 of 279
 
-X ; recessive
+X, recessive
 
-Red-green anomalies occur in a prevalence of 8% of (females/males) and 0.4% of (females/males)
+Red-green anomalies occur in a prevalence of 8% of (females/males) and 0.4% of (females/males).
 227 of 279
 
-Males ; females
+Males, females
 
 Tritan anomalies may be inherited in a (dominant/recessive) fashion.
 228 of 279
@@ -1201,19 +1171,19 @@ mother
 Inherited vision anomalies are typically (unilateral/bilateral) and acquired vision anomalies are typically (unilateral/bilateral).
 230 of 279
 
-bilateral ; unilateral.
+bilateral, unilateral.
 
-Outer retinal disease typically will manifest _____ color deficiency, and inner retinal / optic nerve / visual pathways defects will typically manifest ____ color deficiency
+Outer retinal disease typically will manifest _____ color deficiency, and inner retinal / optic nerve / visual pathways defects will typically manifest ____ color deficiency.
 231 of 279
 
-blue/yellow ; red/green
+blue/yellow, red/green
 
 ______ conditions result in monochromatic vision.
 232 of 279
 
 Achromatopsias
 
-In cerebral achromatopisia, retinal photopigments are (abnormal/normal)
+In cerebral achromatopisia, retinal photopigments are (abnormal/normal).
 233 of 279
 
 normal
@@ -1233,7 +1203,7 @@ HRR color vision testing includes plates for _____ defects and Ishihara does not
 
 blue-yellow
 
-The __________ test, has 15 colored caps that from a hue circle on a CIE diagram that are arranged to determine color discrimination
+The __________ test, has 15 colored caps that from a hue circle on a CIE diagram that are arranged to determine color discrimination.
 237 of 279
 
 Farnsworth Dichotomous test (D-15)
@@ -1253,12 +1223,12 @@ The only clinical instrument that can detect all red-green dichromatic and anoma
 
 Nagel anomaloscope
 
-In a Nagel anomaloscope, the mixture field changes in wavelength but not _______
+In a Nagel anomaloscope, the mixture field changes in wavelength but not _______.
 241 of 279
 
 luminance
 
-In a Nagel anomaloscope the test field varies in radiance, but not _______
+In a Nagel anomaloscope the test field varies in radiance, but not _______.
 242 of 279
 
 wavelength
@@ -1298,8 +1268,7 @@ The X-chrom lens shifts the original absorption spectrum to (longer/shorter) wav
 
 longer
 
-Visual acuity testing in a clinic is a 
-measure of ______  resolution.
+Visual acuity testing in a clinic is a measure of ______  resolution.
 250 of 279
 
 spatial
@@ -1324,13 +1293,12 @@ Visual acuity testing in clinic determines the (high/low) spatial frequency cuto
 
 high
 
-Two factors that affect the high spatial frequency cut off in visual acuity are:1. Spacing of the _______ in the eye. 2. Optical _________."
+Two factors that affect the high spatial frequency cut off in visual acuity are:1. Spacing of the _______ in the eye. 2. Optical _________.
 255 of 279
 
-photoreceptors ; aberrations
+photoreceptors, aberrations
 
-The _______ theorem  states that visual acuity may be limited by the spacing of the 
-photoreceptors in the retina.
+The _______ theorem  states that visual acuity may be limited by the spacing of the photoreceptors in the retina.
 256 of 279
 
 Nyquist
@@ -1340,7 +1308,7 @@ Nyquist
 
 60
 
-Ganglion cells have "________" receptive fields
+Ganglion cells have "________" receptive fields.
 258 of 279
 
 center-surround
@@ -1350,14 +1318,12 @@ ____ bands are perceived borders between a gradient of bright and dark regions. 
 
 Mach
 
-In an optotype, the ______________ is the angle that the limit of resolution of the
-bars of an optotype creates
+In an optotype, the ______________ is the angle that the limit of resolution of thebars of an optotype creates.
 260 of 279
 
 minimum angle of resolution (MAR)
 
-A Snellen fraction is the distance at which a measurement was taken (ex. 20 feet) in the numerator, and the "foot-size" of an optotype, which is the distance at 
-which the optotype subtends ______
+A Snellen fraction is the distance at which a measurement was taken (ex. 20 feet) in the numerator, and the "foot-size" of an optotype, which is the distance at which the optotype subtends ______.
 261 of 279
 
 5 minutes of arc
@@ -1382,7 +1348,7 @@ There are ____ minutes of arc in 1 degree.
 
 60
 
-Compared to the Snellen chart, the _____________ chart has greater spacing between optotypes
+Compared to the Snellen chart, the _____________ chart has greater spacing between optotypes.
 266 of 279
 
 Bailey-Lovie
@@ -1395,14 +1361,14 @@ On a Bailey-Lovie chart each optotype is worth ___ logMAR and each line worth __
 Contrast is calculated as:
 268 of 279
 
-(Luminance of light band - luminance of dark band)/(luminance of light band + luminance of dark band) x 100%
+(Luminance of light band-luminance of dark band)/(luminance of light band+luminance of dark band) x 100
 
 The contrast of a 60 cd/ft^2 optotype on a 5 cd/ft^2 background is:
 269 of 279
 
-60-5/60+5 x 100 = 84.6%
+(60-5/60+5)x100=84.6%
 
-Resolution acuity is the ability to distinguish a grating, and _______ acuity is the ability to recognize and label an optotype
+Resolution acuity is the ability to distinguish a grating, and _______ acuity is the ability to recognize and label an optotype.
 270 of 279
 
 recognition
@@ -1425,10 +1391,9 @@ hyper
 _______ vision is concerned with change in luminance over time and is most associated with the perception of  _____.
 274 of 279
 
-Temporal ; movement
+Temporal, movement
 
-A stimulus with a small depth of modulation may be seen as a steady light, however, a stimulus with a large depth of modulation may be 
-seen as a _______
+A stimulus with a small depth of modulation may be seen as a steady light, however, a stimulus with a large depth of modulation may be seen as a _______.
 275 of 279
 
 flicker
@@ -1436,15 +1401,14 @@ flicker
 A stimulus with a low temporal frequency may be seen as a slow ______ light and a stimulus with a high temporal frequency may be seen as a fast ______ light.
 276 of 279
 
-flickering / flickering
+flickering, flickering
 
-The temporal frequency that is too quick to resolve a flicker is called the "______________" frequency
+The temporal frequency that is too quick to resolve a flicker is called the "______________" frequency.
 277 of 279
 
 critical flicker fusion
 
-The unit of temporal frequency is given in ___ and this represents the number of 
-"on-off" cycles per second
+The unit of temporal frequency is given in ___ and this represents the number of "on-off" cycles per second.
 278 of 279
 
 Hertz
