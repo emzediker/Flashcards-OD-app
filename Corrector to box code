@@ -1,19 +1,0 @@
-# Clean text file by replacing double boxes with " - "
-
-# Load file
-with open("pharm_basic_3.txt", "r", encoding="utf-8", errors="ignore") as f:
-    text = f.read()
-
-# Replace all versions of the hidden box character () and its double occurrence
-cleaned = (
-    text.replace("\x0b\x0b", " - ")
-        .replace("\x0b", " - ")
-        .replace("", " - ")
-        .replace("", " - ")
-)
-
-# Save cleaned file
-with open("pharm_basic_3_cleaned.txt", "w", encoding="utf-8") as f:
-    f.write(cleaned)
-
-print("✅ Done! File saved as pharm_basic_3_cleaned.txt")

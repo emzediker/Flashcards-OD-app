@@ -1,0 +1,143 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Flashcard TXT Merger & 3-Way Splitter</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:24px;background:#fff;color:#111}
+  .wrap{max-width:900px;margin:auto}
+  h1{font-size:20px;margin:0 0 12px}
+  .box{border:2px dashed #ccc;border-radius:12px;padding:18px;text-align:center;background:#fafafa}
+  .box.drag{border-color:#6aa3ff;background:#f0f6ff}
+  .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-top:12px}
+  input[type=file],button,select,input[type=text]{padding:10px;border:1px solid #ddd;border-radius:8px;background:#fff}
+  button{font-weight:600;cursor:pointer}
+  .log{white-space:pre-wrap;background:#f7f7f7;border:1px solid #eee;border-radius:8px;padding:12px;margin-top:12px;max-height:260px;overflow:auto;font-size:13px}
+  .small{font-size:12px;color:#666}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Merge 5 TXT files → Split into 3 decks</h1>
+
+  <div id="drop" class="box">
+    <div><strong>Drop your TXT files here</strong> (or use the picker)</div>
+    <div class="small">They can be in any order; we’ll merge them in the order shown below (you can reorder).</div>
+    <div class="row"><input id="picker" type="file" accept=".txt" multiple></div>
+  </div>
+
+  <div class="row">
+    <label>Base name: <input id="basename" type="text" value="color_vision"></label>
+    <button id="go3">Make 3 decks</button>
+  </div>
+
+  <div class="small" style="margin-top:8px">Tip: We count cards by the “<code>## of ##</code>” anchor lines (e.g., <em>12 of 262</em>) so the split is by real cards.</div>
+
+  <div class="log" id="log">No files yet.</div>
+</div>
+
+<script>
+const picker = document.getElementById('picker');
+const drop = document.getElementById('drop');
+const log = document.getElementById('log');
+const go3 = document.getElementById('go3');
+const basename = document.getElementById('basename');
+
+let files = [];
+
+function logMsg(msg){ log.textContent = msg; }
+function niceList(arr){
+  return arr.map((f,i)=>`${i+1}. ${f.name} (${f.size} bytes)`).join('\n');
+}
+
+drop.addEventListener('dragover', e=>{ e.preventDefault(); drop.classList.add('drag'); });
+drop.addEventListener('dragleave', ()=>drop.classList.remove('drag'));
+drop.addEventListener('drop', e=>{
+  e.preventDefault(); drop.classList.remove('drag');
+  files = [...e.dataTransfer.files].filter(f=>/\.txt$/i.test(f.name));
+  logMsg(files.length ? 'Files loaded:\n' + niceList(files) : 'No TXT files detected.');
+});
+picker.addEventListener('change', e=>{
+  files = [...e.target.files].filter(f=>/\.txt$/i.test(f.name));
+  logMsg(files.length ? 'Files loaded:\n' + niceList(files) : 'No TXT files detected.');
+});
+
+async function readText(f){ return await f.text(); }
+
+// --- Core: split by flashcard anchors like "12 of 262"
+function splitIntoCards(fullText){
+  // Normalize line endings, clean odd spaces
+  const lines = fullText.replace(/\r/g,'').split('\n').map(s =>
+    s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trimEnd()
+  );
+  const isAnchor = (s) => /^\d+\s+of\s+\d+$/.test(s);
+  // Find anchor indices
+  const anchors = [];
+  for(let i=0;i<lines.length;i++){
+    if(isAnchor(lines[i])) anchors.push(i);
+  }
+  if(!anchors.length) return []; // nothing found
+
+  // Card = [pre-header (question line up to 6 lines above the anchor), anchor, answer block until next anchor)
+  const cards = [];
+  for(let a=0; a<anchors.length; a++){
+    const at = anchors[a];
+    const next = (a+1<anchors.length) ? anchors[a+1] : lines.length;
+
+    // include the “front” line right above anchor (skip blank lines)
+    let j = at - 1, steps = 6, frontLine = null;
+    while(j>=0 && steps>0 && !lines[j]){ j--; steps--; }
+    if(j>=0 && lines[j]) frontLine = j;
+
+    // start of answer = first non-empty after anchor (skip periods/blank)
+    let k=at+1; while(k<next && (!lines[k] || lines[k]==='.')) k++;
+
+    // slice the raw chunk for this card
+    const start = (frontLine!==null ? frontLine : at);
+    const chunk = lines.slice(start, next);
+    cards.push(chunk.join('\n'));
+  }
+  return cards;
+}
+
+function download(name, text){
+  const blob = new Blob([text], {type:'text/plain;charset=utf-8'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = name;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+}
+
+go3.addEventListener('click', async ()=>{
+  if(!files.length){ alert('Add your TXT files first.'); return; }
+  const base = (basename.value || 'color_vision').trim();
+
+  // Read & merge in the current order shown by the picker/drop
+  const texts = await Promise.all(files.map(readText));
+  const merged = texts.join('\n\n');
+
+  const cards = splitIntoCards(merged);
+  if(!cards.length){ alert('No "## of ##" anchors found. Check your files.'); return; }
+
+  const total = cards.length;
+  const per = Math.ceil(total / 3);
+  const deck1 = cards.slice(0, per).join('\n\n');
+  const deck2 = cards.slice(per, per*2).join('\n\n');
+  const deck3 = cards.slice(per*2).join('\n\n');
+
+  logMsg(`Total cards detected: ${total}\n` +
+         `Deck 1: ${deck1 ? deck1.match(/\d+\s+of\s+\d+/g)?.length || '?' : 0} cards\n` +
+         `Deck 2: ${deck2 ? deck2.match(/\d+\s+of\s+\d+/g)?.length || '?' : 0} cards\n` +
+         `Deck 3: ${deck3 ? deck3.match(/\d+\s+of\s+\d+/g)?.length || '?' : 0} cards\n\n` +
+         `Downloading files…`);
+
+  download(`${base}_1.txt`, deck1);
+  download(`${base}_2.txt`, deck2);
+  download(`${base}_3.txt`, deck3);
+});
+</script>
+</body>
+</html>
