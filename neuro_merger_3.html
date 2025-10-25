@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Neuro-Ocular Merger (3 decks)</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:18px;background:#fff;color:#111}
+  h1{font-size:20px;margin:0 0 12px}
+  fieldset{border:1px solid #ddd;border-radius:10px;padding:12px;margin:0 0 12px}
+  legend{padding:0 6px;font-weight:700}
+  label{display:block;margin:6px 0}
+  input[type="text"],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}
+  .hint{color:#666;font-size:13px}
+  .ok{color:#0a7f2e}
+</style>
+</head>
+<body>
+<h1>Neuro-Ocular Merger (3 decks)</h1>
+
+<fieldset>
+  <legend>Deck A — General</legend>
+  <label>Files (pick in the order to merge):
+    <input type="file" id="filesA" accept=".txt" multiple>
+  </label>
+  <div class="row">
+    <label>Output name:
+      <input type="text" id="nameA" value="neuro_general">
+    </label>
+  </div>
+</fieldset>
+
+<fieldset>
+  <legend>Deck B — Cranial Nerves & EOMs</legend>
+  <label>Files (pick in the order to merge):
+    <input type="file" id="filesB" accept=".txt" multiple>
+  </label>
+  <div class="row">
+    <label>Output name:
+      <input type="text" id="nameB" value="neuro_cn_eoms">
+    </label>
+  </div>
+</fieldset>
+
+<fieldset>
+  <legend>Deck C — Glaucoma, Pupillary Pathways, Visual Pathways</legend>
+  <label>Files (pick in the order to merge):
+    <input type="file" id="filesC" accept=".txt" multiple>
+  </label>
+  <div class="row">
+    <label>Output name:
+      <input type="text" id="nameC" value="neuro_glau_pupil_visual">
+    </label>
+  </div>
+</fieldset>
+
+<div class="row">
+  <button id="go">Merge & Download 3 decks</button>
+  <span id="status" class="hint"></span>
+</div>
+
+<script>
+function cleanLine(s){
+  return (s||'')
+    .replace(/\u00A0/g,' ')
+    .replace(/\u200B/g,'')
+    .replace(/\uFFFD/g,'')
+    .replace(/[“”]/g,'"')
+    .replace(/[‘’]/g,"'")
+    .replace(/\u2013|\u2014/g,'-')
+    .replace(/[^\S\r\n]+/g,' ')
+    .trim();
+}
+function trimLeadingNoise(txt){
+  // Keep from the first anchor like "12 of 345" onward
+  const re=/^\s*(\d+)\s+of\s+\d+\s*$/mi;
+  const m=re.exec(txt);
+  if(!m) return txt;                // no anchor—leave as is
+  const i=txt.indexOf(m[0]);        // position of that first full match
+  return txt.slice(i).replace(/^\s+/, '');
+}
+async function readFilesAsText(fileList){
+  const arr=[...(fileList||[])];
+  const parts=[];
+  for(const f of arr){
+    const text=await f.text();
+    parts.push(text.replace(/\r/g,'\n'));
+  }
+  return parts.join('\n');
+}
+function normalize(txt){
+  // line-by-line cleanup; also ensure single trailing newline
+  const out = txt.split('\n').map(cleanLine).join('\n').replace(/\n{3,}/g,'\n\n');
+  return out.trim()+'\n';
+}
+async function buildDeck(inputEl, baseName){
+  if(!inputEl.files || !inputEl.files.length) return null;
+  let merged = await readFilesAsText(inputEl.files);
+  merged = trimLeadingNoise(merged);
+  merged = normalize(merged);
+  return {filename: `${baseName}.txt`, content: merged};
+}
+function download(name, content){
+  const blob = new Blob([content], {type:'text/plain'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download=name;
+  document.body.appendChild(a); a.click(); a.remove();
+  setTimeout(()=>URL.revokeObjectURL(a.href), 1500);
+}
+go.onclick=async()=>{
+  status.textContent='Working…';
+  try{
+    const A = await buildDeck(filesA, nameA.value.trim()||'neuro_general');
+    const B = await buildDeck(filesB, nameB.value.trim()||'neuro_cn_eoms');
+    const C = await buildDeck(filesC, nameC.value.trim()||'neuro_glau_pupil_visual');
+
+    let count=0;
+    for(const pack of [A,B,C]){
+      if(pack){ download(pack.filename, pack.content); count++; }
+    }
+    status.textContent = count ? `✅ Done — downloaded ${count} file(s).` : 'No files selected yet.';
+    status.className='hint ok';
+  }catch(e){
+    console.error(e);
+    status.textContent='Error merging files.';
+    status.className='hint';
+  }
+};
+</script>
+</body>
+</html>
