@@ -7,10 +7,10 @@ Define the following: sensory adaptation vs habituation
 
 1.Adaptation is when repeated threatening stimuli are originally noticed but once the brain understands it is not a threat it blocks it out (such as becoming "nose blind" to a smell). 2.Habituation is behavior (actively blocking out loud noises).
 
-autonomic nervous system 
+Describe the autonomic nervous system:
 2 of 25
 
-involuntary: breathing, blinking, blood pressure (think: autonomic is automatic)
+involuntary: Such as breathing, blinking, blood pressure (think: autonomic is automatic)
 
 What do evoked potentials measure?
 3 of 25
@@ -20,9 +20,9 @@ Evoked potentials measure the speed of the messages along your sensory nerves to
 CT vs PET scans
 4 of 25
 
-1.CT scan is boney hard structures. 2.PET shows metabolism or how cells react to a  radiotracer (as in cancer cells).
+1.CT scan is great for boney hard structures. 2.PET shows metabolism or how cells react to a radiotracer (as in cancer cells).
 
-MRI measures:
+MRI measures/images:
 5 of 25
 
 MRI measures mushy (soft) tissues.
