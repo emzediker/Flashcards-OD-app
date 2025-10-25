@@ -539,7 +539,7 @@ Beta cells are called secretagogues - Beta cells secrete insulin to decreased bl
 ______ taken in conjunction with diabetic medications, such as chlorpromazine, can mask the signs and symptoms of unintended  _______, due to their sympathetic dampening effects.
 107 of 210
 
-Beta-blockers ; hypoglycemia. - Symptoms of hypoglycemia are light headedness and tremor.
+Beta-blockers, hypoglycemia. - Symptoms of hypoglycemia are light headedness and tremor.
 
 The generic of Questran is:
 108 of 210
@@ -609,7 +609,7 @@ clindamycin
 ______ can be dosed with ______ to treat toxoplasmosis chorioretinitis.
 121 of 210
 
-clindamycin ; pyrimethamine - Toxo can present as an active chorioretinitis with an adjacent scar.
+clindamycin, pyrimethamine - Toxo can present as an active chorioretinitis with an adjacent scar.
 
 The generic of Catapres is:
 122 of 210
@@ -624,7 +624,7 @@ apraclonidine and brimonidine - They both have "onidine" in their name like clon
 Clonidine acts in the ____ to treat _____.
 124 of 210
 
-central nervous system at the medulla ; hypertension. - It does not act directly on blood vessels.
+central nervous system at the medulla, hypertension. - It does not act directly on blood vessels.
 
 Clonidine decreases _______ tone and increases _____ tone.
 125 of 210
@@ -744,7 +744,7 @@ diazepam
 Intended actions of diazepam are inhibitory in nature, such as:
 148 of 210
 
-sedation, sleep inducing, anxiety relief, skeletal muscle relaxation, seizure treatment. - Seizures occur with overactivity in the electrical pattern of the brain
+sedation, sleep inducing, anxiety relief, skeletal muscle relaxation, seizure treatment. - Seizures occur with overactivity in the electrical pattern of the brain.
 
 The generic of Voltaren is:
 149 of 210
@@ -804,7 +804,7 @@ diltiazem
 The direct action of diltiazem is blocking ___ channels, this results in ______.
 160 of 210
 
-blocking calcium channels ; results in relaxation of smooth muscle causing a decrease in blood pressure / peripheral resistance. - Blood vessel diameter is controlled by smooth muscle contraction.
+blocking calcium channels, results in relaxation of smooth muscle causing a decrease in blood pressure/peripheral resistance. - Blood vessel diameter is controlled by smooth muscle contraction.
 
 The specific type of calcium channel that calcium channel blocker diltiazem works on is called:
 161 of 210
@@ -874,7 +874,7 @@ echothiophate iodide
 Unlike the Alzheimer's medication ____ which is a reversible acetylcholinesterase inhibitor, ____ is an irreversible acetylcholinesterase inhibitor.
 174 of 210
 
-donepezil ; echothiophate - Both increase levels of acetylcholine.
+donepezil, echothiophate - Both increase levels of acetylcholine.
 
 Due to its action on the iris, and resultant miosis, echothiophate is contraindicated in patients with active ____.
 175 of 210
@@ -939,7 +939,7 @@ GERD, heartburn, peptic ulcer disease and Zollinger Ellison syndrome - It treats
 Proton pump inhibitors can affect the ___  of the gastric environment which can interfere with absorption of ______________.
 187 of 210
 
-pH, can interfere with the absorption of the drugs ketoconazole, digoxin, ampicillin and iron salts - Proton pump inhibitors increase pH to make a less acidic environment.
+pH, can interfere with the absorption of the drugs ketoconazole, digoxin, ampicillin and iron salts. - Proton pump inhibitors increase pH to make a less acidic environment.
 
 Which has a quicker onset of action, histamine-2 blockers such as cimetidine or proton pump inhibitors such as esomeprazole?
 188 of 210
