@@ -93,11 +93,25 @@ function cleanLine(s){
           .replace(/\u2013|\u2014/g,'-').replace(/[^\S\r\n]+/g,' ').trim();
 }
 function splitAnsExpl(line){
-  if(!line) return {a:'',e:''};
-  let m=line.match(/^(.{1,80}?)[\s]*[:;–—-]\s+(.{10,})$/); if(m) return {a:m[1].trim(),e:m[2].trim()};
-  m=line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/); if(m && !/[.?!]$/.test(m[1])) return {a:m[1].trim(),e:m[2].trim()};
-  const dot=line.indexOf('. '); if(dot>0 && dot<=80){ const first=line.slice(0,dot).trim(); const rest=line.slice(dot+2).trim(); if(first.split(/\s+/).length<=6) return {a:first,e:rest}; }
-  return {a:line.trim(),e:''};
+  if(!line) return {a:'', e:''};
+
+  // Normalize basic characters
+  line = line
+    .replace(/\u00A0/g,' ')
+    .replace(/\u200B/g,'')
+    .replace(/\u2013|\u2014/g,'-')
+    .replace(/[“”]/g,'"')
+    .replace(/[‘’]/g,"'")
+    .trim();
+
+  // ✅ Only split if there’s a space-hyphen-space (" - ")
+  let parts = line.split(/\s-\s/);
+  if(parts.length === 2){
+    return {a: parts[0].trim(), e: parts[1].trim()};
+  }
+
+  // Otherwise keep entire thing together
+  return {a: line.trim(), e: ''};
 }
 function parseTxt(txt,totalHint){
   const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
