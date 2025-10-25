@@ -1454,5 +1454,3 @@ _______ threshold of a given stimulus is determined by detecting the moment of f
 
 Temporal
 
-Temporal threshold is the 
-reciprocal of temporal _________.
