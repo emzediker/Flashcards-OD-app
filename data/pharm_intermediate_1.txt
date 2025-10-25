@@ -427,7 +427,7 @@ brompheniramine
 A common potential side effect of antihistamines, especially first generation is:
 85 of 210
 
-antagonism of the central nervous system- drowsiness in adults and sometimes paradoxical excitement in kids. - Especially 1st generations that can cross the blood brain barrier.
+antagonism of the central nervous system, causing drowsiness in adults and sometimes paradoxical excitement in kids. - Especially 1st generations that can cross the blood brain barrier.
 
 The generic of Capoten is:
 86 of 210
@@ -600,7 +600,7 @@ furosemide
 Furosemide is a _________ medication used to treat _______.
 118 of 210
 
-Loop diuretic mediation ; chronic heart failure and hypertension. - Diuretics do not act on blood vessels, but do decrease blood volume.
+Loop diuretic mediation, chronic heart failure and hypertension. - Diuretics do not act on blood vessels, but do decrease blood volume.
 
 Dry eye syndrome, myopic shift and band keratopathy are all potential ocular side effects of the anti-hypertensive drug __________.
 119 of 210
@@ -945,7 +945,7 @@ losartan - Losartan treats blood pressure.
 Loteprednol has (fewer/more) adverse ocular effects than other medications in its class due to the action of naturally occurring ____ enzymes that inactivate the medication when in the eye.
 187 of 210
 
-fewer ; esterase - The loteprednol is deactivated by esterases before side effects can occur.
+fewer, esterase - The loteprednol is deactivated by esterases before side effects can occur.
 
 The generic of Mevacor is:
 188 of 210
@@ -975,7 +975,7 @@ promethazine
 Opiate receptors responsible for analgesia, respiratory depression, gastrointestinal motility and miosis are (mu/delta/kappa).
 193 of 210
 
-mu - delta and kappa are also opioid receptors with other effects.
+mu - Delta and kappa are also opioid receptors with other effects.
 
 The (mu/delta/kappa) opiate receptor is responsible for the side effect of sedation and pinpoint miotic pupils.
 194 of 210
