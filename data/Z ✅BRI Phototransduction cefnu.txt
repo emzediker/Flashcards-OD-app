@@ -1,0 +1,159 @@
+Phototransduction 
+
+28 flashcards
+
+Phototransduction definition:
+1 of 28
+
+when a photon of light is captured by a visual pigment molecule and is transformed into an electrical response in the photoreceptor.
+
+The electrical response that occurs in photoreceptors is always  a_____in response to photon absorption.
+2 of 28
+
+hyperpolarization
+
+Photoreceptors are ____ in the dark
+3 of 28
+
+depolarized (due to cation channels in the outer segment membrane being open)
+
+In the dark, what neurotransmitter is released in photoreceptor phototransduction?
+4 of 28
+
+glutamate
+
+Light stimulation leads to interruption of the dark current and results in (hyperpolarization/ depolarization).
+5 of 28
+
+hyperpolarization
+
+The peak absorption of rhodopsin is at _____.
+6 of 28
+
+~500nm
+
+The peak absorption of the cones is at ___.
+7 of 28
+
+one of three different visual pigments1. long (red) at 5642. medium (green) at 5333. short (blue) at 437
+
+Mnemonic to remember wavelengths of cones:
+8 of 28
+
+"THIS IS BS AT ABOUT 4:30" 
+"I'M GOING MAD AT ABOUT 5:30PM"
+"READY, LEAVING AT ABOUT 5 AFTER 6 O'CLOCK"
+
+Visual pigments (opsins) are located in the membranes of the discs of the outer segment. They are___   bound to a chromophores (11-cis-retinaldehyde).
+9 of 28
+
+covalently
+
+The chromophore is derived from vitamin ____.
+10 of 28
+
+A
+
+Are rods "HYPER" or "DE" -polarized in LIGHT?
+11 of 28
+
+The rods are HYPERpolarized in light.Rods are hyperpolarized in the light and depolarized in the dark.
+
+Explain the ""HYPER" vs "DE"-polarized states in phototransduction.
+12 of 28
+
+1. Dark= Rods are DEpolarized (around -40 mV) because Na+ and Ca++ ions continuously enter the cell through open cyclic GMP (cGMP)-gated channels. This allows for the constant release of the neurotransmitter glutamate.2. Light: CLosure of cGMP-gated channels, reducing Na+ and Ca++ influx. This causes the membrane potential to become more negative (hyperpolarized, around -70 mV)-- reducing glutamate release.
+
+What is the voltage of membrane potential for depolarized VS hyperpolarized photoreceptors?
+13 of 28
+
+1. Depolarized= -40mV2. Hyperpolarized= -70mV
+
+Inside rods, there is rhodopsin. Inside the rhodopsin, there is a molecule called retinal. IN THE DARK, RETINAL IS BENT. What is this bent state called?
+14 of 28
+
+11-cis retinal 
+(BENT IS 11-cis)
+
+Inside rods, there is rhodopsin. 
+Inside the rhodopsin, there is a molecule called retinal. 
+IN THE LIGHT, RETINAL IS STRAIGHT. This is called _____.
+15 of 28
+
+ALL TRANS RETINAL
+
+When light hits the retinal inside the rhodopsin, the retinal become unbent and the  rhodopsin changes shape. 
+
+When rhodopsin change shape, it activates what molecule that is usually attached to rhodopsin?
+16 of 28
+
+transducin
+
+Alpha-transducin leaves after light hits rhodopsin and makes rhodopsin change shape.
+ 
+Alpha-transducin then goes and binds with:
+17 of 28
+
+GMP Phosphodiesterase (PDE)
+
+In the dark, are Na+ channels in rods OPEN OR CLOSED?
+18 of 28
+
+OPEN
+
+When light hits a rod, PDE changes cyclic GMP to regular GMP. 
+
+As a result, what happens to Na+ channels?
+19 of 28
+
+Na+ channels close (which in turn hyperpolarizes the cell)
+
+When rods hyperpolarize in light rods turn off– but what happens to the on-center bipolar cells?
+20 of 28
+
+On-center bipolar cells turn ON in light.
+
+Rods vs Cones: Which have disc CONNECTED to them?
+21 of 28
+
+CONes are CONnected!
+
+Both start with CON
+
+Describe cGMP's main function in phototransduction.
+22 of 28
+
+Keeps Na+ channels open, this allows Na+ to flow into the photoreceptor. 
+
+When light hits, cGMP is turned to GMP so Na+ channels close.
+
+True or False: Glutamate release is decreased during light stimulation of a photoreceptor. This informs the on-bipolar cell that there is a light stimulus.
+23 of 28
+
+True. Glutamate decreases in light.
+
+Fields of bipolar cells are ___ shaped.
+24 of 28
+
+circular (with the center-ON bipolar cells being ON when there is light, and the center-OFF bipolar cells being active WHEN THERE IS NO LIGHT).
+
+Functions of horizontal cells vs amacrine cells in the retina.
+25 of 28
+
+1. horizontal: modulate signals between photoreceptors and bipolar cells.
+2.  amacrine: modulate signals between bipolar and ganglion cells.
+
+Mnemonic for horizontal vs amacrine cells:
+26 of 28
+
+*HORIZ:* helping opsin readily interpret zany (opsin to zany bipolar) *A CRAZY MARRIAGE* (bipolar is crazy and the G is ganglion)"
+
+Main function of ganglion cells of the retina:
+27 of 28
+
+propagation of visual stimuli to the optic nerve.
+
+What is the function of astrocytes at the optic nerve?
+28 of 28
+
+metabolic support and potassium regulation
