@@ -1,0 +1,117 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Merge/Split — Oculomotor & Sensory Flashcards</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:16px}
+  .card{max-width:840px;margin:auto;border:1px solid #ddd;border-radius:12px;padding:16px}
+  h1{margin:0 0 12px;font-size:20px}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+  .log{margin-top:12px;font-size:13px;color:#444;white-space:pre-wrap}
+  button,input[type=file]{padding:9px 12px;border:1px solid #ccc;border-radius:10px;background:#fff}
+  .go{background:#0a7; color:#fff; border-color:#0a7}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Merge & Split Oculomotor/Sensory TXT (2 decks)</h1>
+  <p>Pick your four source TXT files (any order). Anchors must look like <code>12 of 100</code>. We’ll merge, split evenly, and renumber each deck.</p>
+  <div class="row">
+    <input id="files" type="file" multiple accept=".txt,text/plain">
+    <button id="run" class="go">Merge → Split → Download</button>
+  </div>
+  <div class="log" id="log"></div>
+</div>
+
+<script>
+const log = (m)=>{const el=document.getElementById('log'); el.textContent+=m+'\n';}
+
+function isAnchor(s){ return /^\s*\d+\s+of\s+\d+\s*$/.test(s||''); }
+
+async function readFileAsText(file){
+  return new Promise((res,rej)=>{
+    const r=new FileReader();
+    r.onload=()=>res(r.result);
+    r.onerror=()=>rej(r.error);
+    r.readAsText(file);
+  });
+}
+
+function download(name, text){
+  const blob=new Blob([text],{type:'text/plain'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download=name;
+  document.body.appendChild(a); a.click(); a.remove();
+}
+
+document.getElementById('run').onclick = async ()=>{
+  try{
+    document.getElementById('log').textContent='';
+    const inp = document.getElementById('files');
+    if(!inp.files || !inp.files.length){ log('Please select your TXT files.'); return; }
+
+    // 1) read all files (any order), concat
+    log(`Reading ${inp.files.length} file(s)…`);
+    let all = '';
+    for(const f of [...inp.files]){
+      const t = await readFileAsText(f);
+      all += (all ? '\n' : '') + t.replace(/\r/g,'');
+    }
+    const lines = all.split('\n');
+
+    // 2) collect card blocks by anchors
+    const idx = [];
+    for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) idx.push(i);
+    if(!idx.length){ log('No anchors like "N of M" found.'); return; }
+
+    // Turn into blocks: [startLineIndex, endLineIndexExclusive]
+    const blocks=[];
+    for(let b=0;b<idx.length;b++){
+      const a = idx[b];
+      const z = (b+1<idx.length ? idx[b+1] : lines.length);
+      blocks.push([a,z]); // anchor line first; all lines up to before next anchor
+    }
+    log(`Detected ${blocks.length} cards.`);
+
+    // 3) split into two decks (deck1 gets ceil, deck2 gets the rest)
+    const total = blocks.length;
+    const n1 = Math.ceil(total/2), n2 = total - n1;
+    const deck1 = [], deck2 = [];
+
+    let deck1Count=0, deck2Count=0;
+
+    function rewriteAnchor(line, n, ofN){
+      return `${n} of ${ofN}`;
+    }
+
+    for(let c=0;c<blocks.length;c++){
+      const [s,e] = blocks[c];
+      const block = lines.slice(s,e);
+      // First line is the original anchor; we’ll replace it
+      if(c < n1){
+        deck1Count++;
+        block[0] = rewriteAnchor(block[0], deck1Count, n1);
+        deck1.push(...block);
+      }else{
+        deck2Count++;
+        block[0] = rewriteAnchor(block[0], deck2Count, n2);
+        deck2.push(...block);
+      }
+    }
+
+    // 4) write files
+    const out1 = deck1.join('\n');
+    const out2 = deck2.join('\n');
+    download('ocular_motor_sensory_1.txt', out1);
+    download('ocular_motor_sensory_2.txt', out2);
+    log(`Done. Deck1: ${n1} cards. Deck2: ${n2} cards.`);
+  }catch(err){
+    log('Error: ' + (err && err.message ? err.message : String(err)));
+  }
+};
+</script>
+</body>
+</html>
