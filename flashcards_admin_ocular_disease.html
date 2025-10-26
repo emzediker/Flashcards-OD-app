@@ -1,1 +1,149 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ocular Disease — Admin</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fafafa;color:#111;}
+  .wrap{max-width:1100px;margin:auto;}
+  h1{font-size:22px;margin:0 0 12px;}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:10px;}
+  select,input[type=search],button{padding:9px 10px;border:1px solid #ccc;border-radius:8px;background:#fff;}
+  .card{border:1px solid #ddd;border-radius:12px;padding:16px;background:#fff;margin-top:10px;}
+  .front{font-weight:600;}
+  .back{margin-top:10px;}
+  .ans{font-weight:700;}
+  .exp{color:#555;}
+  .imgpair{display:flex;gap:10px;margin-top:8px;}
+  .imgpair img{max-width:48%;border-radius:8px;border:1px solid #eee;}
+  .small{font-size:13px;color:#666;}
+  textarea{width:100%;min-height:180px;border-radius:6px;border:1px solid #ccc;padding:8px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Ocular Disease — Admin</h1>
 
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+    <button id="adminBtn">Admin Mode</button>
+    <button id="exportBtn" style="display:none;">Export Mapping</button>
+    <input id="filePicker" type="file" accept="image/*" multiple style="display:none;">
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+    <div class="imgpair" id="imgpair"></div>
+    <div class="small" id="meta"></div>
+  </div>
+
+  <div class="bar">
+    <button id="prev">◀ Prev</button>
+    <button id="next">Next ▶</button>
+    <span id="counter" class="small"></span>
+  </div>
+
+  <div id="adminBox" style="display:none;">
+    <div class="small" style="margin:10px 0;">Click a side (front/back), select image(s), then export your mapping JSON file.</div>
+    <textarea id="jsonOut" readonly></textarea>
+  </div>
+</div>
+
+<script>
+/* ----------------------------- 1) Deck list ----------------------------- */
+const DECKS = [
+  { id:'ocular_dz_cornea',            title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
+  { id:'ocular_dz_crystalline_uvea',  title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline_uvea.txt' },
+  { id:'ocular_dz_neurology',         title:'Neurology',                   dataUrl:'data/ocular_dz_neurology.txt' },
+  { id:'ocular_dz_trauma',            title:'Ocular Trauma',               dataUrl:'data/ocular_dz_trauma.txt' },
+  { id:'ocular_dz_adnexa',            title:'Adnexa',                      dataUrl:'data/ocular_dz_adnexa.txt' },
+  { id:'ocular_dz_conj_sclera',       title:'Conjunctiva & Sclera',        dataUrl:'data/ocular_dz_conj_sclera.txt' },
+  { id:'ocular_dz_onh_bv',            title:'Optic Nerve & Blood Vessels', dataUrl:'data/ocular_dz_onh_bv.txt' },
+  { id:'ocular_dz_retina',            title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
+];
+
+let CURRENT=null, CARDS=[], idx=0, map={}, VIEW=[], adminMode=false, targetSide='back';
+
+/* ---------------------- 2) Parser — split only on " - " ---------------------- */
+const clean=s=>s?s.replace(/\r/g,'').replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim():'';
+const esc=s=>s.replace(/[&<>"]/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m]));
+function split(line){const m=line.match(/^(.+?)\s-\s(.+)$/);return m?{a:m[1].trim(),e:m[2].trim()}:{a:line.trim(),e:''};}
+function parse(txt,deckId){
+  const lines=txt.split(/\n/).map(clean);
+  const anchors=[];for(let i=0;i<lines.length;i++)if(/^\d+\s+of\s+\d+$/i.test(lines[i]))anchors.push(i);
+  const out=[];
+  for(let p=0;p<anchors.length;p++){
+    const at=anchors[p],next=p+1<anchors.length?anchors[p+1]:lines.length;
+    let j=at-1;while(j>=0&&!lines[j])j--;
+    const front=esc(lines[j]||'');
+    let k=at+1;while(k<next&&!lines[k])k++;
+    const se=split(lines[k]||'');
+    out.push({id:`${deckId}-${out.length+1}`,front,backAns:esc(se.a),backExp:esc(se.e)});
+  }
+  return out;
+}
+
+/* -------------------------- 3) UI logic -------------------------- */
+const els={deck:deck,q:q,front:front,back:back,imgpair:imgpair,meta:meta,counter:counter,prev:prev,next:next,jsonOut:jsonOut,adminBtn:adminBtn,adminBox:adminBox,filePicker:filePicker,exportBtn:exportBtn};
+
+function render(){
+  if(!VIEW.length){els.front.innerHTML='<em>No cards</em>';els.back.innerHTML='';els.imgpair.innerHTML='';els.counter.textContent='0 / 0';return;}
+  const c=VIEW[idx];
+  els.front.innerHTML=c.front;
+  els.back.innerHTML=`<div class="ans">${c.backAns}</div><div class="exp">${c.backExp}</div>`;
+  const imgs=map[c.id]||{};
+  els.imgpair.innerHTML=`${imgs.front?`<img src="${imgs.front}">`:''}${imgs.back?`<img src="${imgs.back}">`:''}`;
+  els.meta.textContent=`${CURRENT.title} • ${c.id}`;
+  els.counter.textContent=`${idx+1} / ${VIEW.length}`;
+}
+
+function next(){if(!VIEW.length)return;idx=(idx+1)%VIEW.length;render();}
+function prev(){if(!VIEW.length)return;idx=(idx-1+VIEW.length)%VIEW.length;render();}
+function applyFilter(){const q=(qEl.value||'').toLowerCase();VIEW=CARDS.filter(c=>(c.front+c.backAns+c.backExp).toLowerCase().includes(q));idx=0;render();}
+
+/* ------------------------ 4) Admin Functions ------------------------ */
+function toggleAdmin(){
+  adminMode=!adminMode;
+  els.adminBox.style.display=adminMode?'block':'none';
+  els.exportBtn.style.display=adminMode?'inline-block':'none';
+  els.filePicker.style.display='none';
+}
+els.adminBtn.onclick=toggleAdmin;
+els.prev.onclick=prev;els.next.onclick=next;
+
+els.front.onclick=()=>{if(adminMode){targetSide='front';els.filePicker.click();}};
+els.back.onclick=()=>{if(adminMode){targetSide='back';els.filePicker.click();}};
+els.filePicker.onchange=e=>{
+  const files=[...e.target.files];if(!files.length)return;
+  const urls=files.map(f=>'images/'+CURRENT.id+'/'+f.name);
+  const id=VIEW[idx].id;if(!map[id])map[id]={};map[id][targetSide]=urls[0];
+  render();els.jsonOut.value=JSON.stringify(map,null,2);
+};
+els.exportBtn.onclick=()=>{
+  const blob=new Blob([JSON.stringify(map,null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);
+  a.download=`${CURRENT.id}_image_map.json`;a.click();
+};
+
+/* --------------------------- 5) Load Deck --------------------------- */
+async function loadDeck(id){
+  CURRENT=DECKS.find(d=>d.id===id);idx=0;
+  try{
+    const r=await fetch(CURRENT.dataUrl,{cache:'no-store'});
+    const t=await r.text();CARDS=parse(t,CURRENT.id);
+  }catch(e){CARDS=[];}
+  VIEW=[...CARDS];map={};render();
+}
+deck.innerHTML='';DECKS.forEach(d=>{const o=document.createElement('option');o.value=d.id;o.textContent=d.title;deck.appendChild(o);});
+deck.onchange=()=>loadDeck(deck.value);
+loadDeck(DECKS[0].id);
+</script>
+</body>
+</html>
