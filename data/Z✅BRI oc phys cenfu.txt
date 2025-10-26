@@ -1,0 +1,408 @@
+Ocular Physiology
+
+70 flashcards
+
+List three types of blinks.
+1 of 70
+
+1. spontaneous2. reflex3. voluntary
+
+Where does spontaneous blinking originate from in the brain?
+2 of 70
+
+premotor brainstem
+
+Name four types of reflex blinks.
+3 of 70
+
+1. tactile2. menace3. dazzle4. auditory
+
+The stimuli for tactile reflex is:
+4 of 70
+
+TOUCH: something touched the eye and
+ caused a blink.
+
+List the cranial nerves tested in the cotton wisp test of the TACTILE blink reflex.
+5 of 70
+
+fifth (afferent) and seventh (efferent)
+
+Describe the dazzle blink reflex.
+6 of 70
+
+Shining very bright light on the eye causes a partial blink as protection. 
+
+Signal for the reflex is from the Thalamic Nuclei.
+
+Describe the menace blink reflex.
+7 of 70
+
+Something comes shooting at the eye (ball, something spun off grinder, etc) and the eyes close before it hits the eye as protection.
+
+List the nerves involved in the menace blink reflex.
+8 of 70
+
+2 (sight) and 7 (eyelid closure)
+
+How are fibrils arranged in the cornea to allow for a clear appearance.
+9 of 70
+
+They are uniformly spaced 35um apart, in lattice uniform stacked.
+
+How does the cornea appear when it is collecting fluid and  edema to separates collagen fibrils non-uniformly?
+10 of 70
+
+The cornea becomes less clear and the 
+patient has cloudy vision.
+
+The cornea is avascular. How does it get nutrients?
+11 of 70
+
+DIFFUSION from tears and aqueous. 
+
+(There is a low diffusion amount at peripheral cornea by the limbus)
+
+True or false? The cornea has NO MITOCHONDRIA.
+12 of 70
+
+False. There are mitochondria but they have to be spaced uniformly and spread out 
+to maintain clarity.
+
+Epithelium vs endothelium of cornea: 
+
+Which has more concentration of mitochondria?
+13 of 70
+
+Endothelium has much more mitochondria by far! It needs a lot of energy to constantly pump fluid!
+
+Aqueous vs tear layer:  Which houses more glucose, and which houses more oxygen?
+14 of 70
+
+1. tear layer= more oxygen2. aqueous= more glucose
+
+Glucose transporters on the corneal epithelium are on which side of the cell? Apical or Basal?
+15 of 70
+
+There are no glucose transporters on the apical side (meaning out towards the tears). 
+
+The glucose transporters of the epithelium are ONLY ON BASAL SIDE (more posterior). SO GLUCOSE TO THE EPITHELIUM IS ONLY FROM THE AQUEOUS.
+
+In diabetes, sorbitol can be elevated in the cornea.
+
+ When glucose is too high in cornea, what can result?
+16 of 70
+
+poor wound healing
+
+True or false? The cornea CAN block UVC.
+17 of 70
+
+True. The cornea has a hard time blocking UVB.
+
+Most of the corneal stroma is TYPE 1 collagen. What is the other 4-6% of structural molecules?
+18 of 70
+
+Proteoglycans with a core protein and an attached GAG (glycosaminoglycan).
+
+Be familiar with recognizing proteoglycan core proteins in the cornea. Name a few.
+19 of 70
+
+lumican, decorin, keratocan, osteoglycin, biglycan
+
+Name two common glycosaminoglycans (GAG) in the cornea.
+20 of 70
+
+keratan sulfate (most common) and chondroitin sulfate
+
+Name cells in the cornea that lay the lamellae.
+21 of 70
+
+keratocytes
+
+Corneal hypoxia produces increased levels of:
+22 of 70
+
+lactic acid
+
+Name a common buffer in the cornea that decreases levels of lactic acid.
+23 of 70
+
+C02 bicarbonate
+
+If there is too much hypoxia in the cornea, the lactic acid goes up, decreasing the pH. 
+
+If the C02 bicarbonate cannot keep up with the demand, the pH becomes more acidic. 
+
+What equation shows the resultant pH?
+24 of 70
+
+Henderson-Hasselbalch
+
+What is the pH of the cornea at equilibrium?
+25 of 70
+
+6.1
+
+Define hypercapnia.
+26 of 70
+
+high levels of CO2 (associated to acidosis too)
+
+What is the pH of the open eye’s tear layer and aqueous?
+27 of 70
+
+Tear layer 7.8 vs Aqueous 7.4 
+
+Tear layer a tad more basic due to pCO2 being low.
+
+What is a closed eye’s pH of the tear layer and aqueous?
+28 of 70
+
+Tear layer is 6.97 (more acidic than aqueous) vs aqueous is 7.10 
+
+(think: CO2 HIGHER THAN IN THE OPEN EYE so it is MORE acidic)
+
+Why does the corneal swelling pressure increase with stromal hydration?
+29 of 70
+
+Negative forces on (glycosaminoglycans) GAGs suck fluid into stroma.
+
+The corneal stroma is happy when it is filled with the perfect amount of H2O. 
+
+What is the term used to "dehydrate" the cornea by having the endothelial pumps pull out the excess fluid to allow for clarity?
+30 of 70
+
+deturgescence
+
+Why does the corneal swell 4% after sleeping?
+31 of 70
+
+
+Edema occurs due to corneal hypoxia AND the tears are salty (hypertonic 305 mOsm) and pulls out water through the epithelium. 
+
+There are no salty tears while closed so 4% remains in the cornea.
+
+The corneal epithelium has a voltage of 15-20 due to:
+32 of 70
+
+Cl- efflux out of the epithelium
+
+The X, Y, Z theory states epithelial corneal cells increase at night due to:
+33 of 70
+
+Higher levels of CO2 when the eyes are close results in higher acidity. This pH change desquamates (kills) weaker cells so newer cells migrate from bottom to replenish them.
+
+Differentiate tensile strength of the cornea vs shear strength of the cornea.
+34 of 70
+
+TENSILE: how much OUTER force ALONG AXIS the cornea can take before ripping apart 
+SHEAR: TANGENTIAL FORCE
+
+Name an important pump at the corneal endothelium that keeps the corneal stroma from swelling.
+35 of 70
+
+Na+/K+ATPase -- it uses ATP to pull fluid out of the cornea to keep the corneal clarity intact.
+
+Net _____ movement across the endothelial apical membrane is important to keep the cornea from swelling.
+36 of 70
+
+Na+-HCO3
+
+What percentage of the cornea is water?
+37 of 70
+
+78%
+
+What percentage of the cornea is protein?
+38 of 70
+
+5%
+
+What percentage of the cornea is composed of collagen?
+39 of 70
+
+15%
+
+Corneal extensibility is:
+40 of 70
+
+how much it can stretch
+
+
+ADHESIVE strength within the cornea IS HIGHER at:?? ANTERIOR or POSTERIOR ?? 
+
+stroma.
+
+41 of 70
+
+The anterior stroma has higher adhesive strength. Lamellae closer together so harder to separate.
+
+The corneal epithelium is the barrier to the environment. It has tight junctions that do not allow many chemicals across. 
+
+How do chemicals / ophthalmic drops get into the eye?
+42 of 70
+
+1. the transcellular lipophilic pathway.2. the paracellular hydrophilic pathway.
+
+Differentiate the OSMOLALITY of the tear layer vs the aqueous.
+43 of 70
+
+1. Tear 285 
+2. Aqueous 295 to 300. 
+
+SURPRISINGLY THERE ARE MORE SALTS IN THE AQUEOUS TO INCREASE OSMOLARITY- so fluid can be sucked out of stroma to aqueous
+
+Differentiate pO2 of the tears vs the aqueous.
+44 of 70
+
+Tears have 8x more oxygen than the aqueous!
+
+tears 155 vs aqueous 20
+
+List 3 roles of corneal nerves.
+45 of 70
+
+1. blink reflex2. wound healing3. tear secretion
+
+The majority of corneal nerves are sensory and derive from:
+46 of 70
+
+nasociliary branch of the trigeminal nerve
+
+At what level of the cornea do corneal nerves lose their Schwann cells.
+47 of 70
+
+posterior to Bowman's layer
+
+List two big changes to the cornea as humans age (after 60 years old).
+48 of 70
+
+the cornea flattens and endothelial pumps die (resulting in guttatae).
+
+Crystalline lens metabolism is reliant on: 
+
+
+??oxygen or glucose??
+49 of 70
+
+It is anaerobic and relies heavily on glucose.
+
+Crystalline lens metabolism is reliant on what enzyme to change glucose to glucose-6-phosphate?
+50 of 70
+
+hexokinase
+
+In a high glucose environment, (ie uncontrolled diabetes mellitus) what can happen to the crystalline lens?
+51 of 70
+
+SORBITOL builds up, swelling the lens, and changing the spectacle prescription.
+
+What is the name of the genetic condition when too much sorbitol and galactose causes an early cataract?
+52 of 70
+
+galactosemia
+
+Which enzyme is responsible for changing glucose to a sugar alcohol that forms a cataract in diabetics?
+53 of 70
+
+aldose reductase
+
+Describe the function on alpha-crystallin protein in the lens.
+54 of 70
+
+Maintains the refractive index and fights stressto reduce cataract formation with the help of chaperones proteins.
+
+40% of the entire lens composition.
+
+Describe the function of beta gamma crystallin protein function in the lens.
+55 of 70
+
+lens development.
+
+ 30% of lens composition
+
+Glucose and oxygen are sucked into the crystalline lens. 
+What metabolite is shunted out of the lens to prevent cataract formation?
+56 of 70
+
+Ca++ (Calcium)
+
+Vitamin C acts as a natural sunscreen for the lens to prevent cataract formation. 
+
+HOW MUCH HIGHER IS THE CONCENTRATION OF VITAMIN C IN THE AQUEOUS AND VITREOUS bathing the lens compared to levels in the blood. 
+57 of 70
+
+50x higher concentration of vitamin C in vitreous than plasma
+
+vitamin C and vitamin E help to form what antioxidants in the crystalline lens?
+58 of 70
+
+glutathione
+
+Glutathione decreases naturally in an aging lens. Why is this important?
+59 of 70
+
+less antioxidants leads to more free radicals which leads to more cataract formation.
+
+Mitosis at the crystalline lens epithelium happens only at which zone?
+60 of 70
+
+equator germination zone
+
+Differentiate normal tear electrolytes vs a dry/sick tear layer
+61 of 70
+
+Normal: -LOWER: Na+,K+, Cl-, Ca++ , IgG- HIGHER: lysozymes, cytokines, mucins, IgA, 
+SICK: -HIGHER: SALT OSMOLARITY Na+, cytokines, mucin, IgG-LOWER:  lysozymes, mucins, IgA
+
+List the 11 amino acids in tears (LOW MOLECULAR WEIGHT PARTICLES IN TEARS).
+62 of 70
+
+aspartate, glutamate, serine, glutamine, histidine, glycine, threonine, arginine, taurine, alanine and tyrosine
+
+Describe the role of lactoferrin protein in tears.
+63 of 70
+
+Binds to free iron so microbes can't get the iron needed to grow. It acts as an antimicrobial.
+
+List two jobs of the ciliary body.
+64 of 70
+
+1. make aqueous 2. house ciliary muscle for accommodation
+
+List the 4 jobs of the choroid.
+65 of 70
+
+1. supply of oxygen and nutrients to the outer retina2. light absorption (pigmented choroid)3.  thermoregulation4.  modulation of intraocular pressure
+
+List the two main function of vitreous.
+66 of 70
+
+1. keep the shape of the eye2. keep retina attached
+
+Aqueous vs Vitreous: 
+
+Which has more Na+?
+67 of 70
+
+The aqueous is saltier (has more Na+). Think: It needs to be salty to pull the fluid from cornea.
+
+True or False? There is a high concentration of amino acids in the vitreous.
+68 of 70
+
+False: Think: The vitreous needs to be optically clear. It has 1/5th the amount of amino acids compared to plasma.
+
+What does the term "high extravascular pressure" mean in reference to the eye.
+69 of 70
+
+The eye has a high pressure in eye compared to its surface area.
+
+ This DOES NOT have to do with vasculature. 
+
+Most intravascular pressure is from veins and arteries.
+
+True or False? The retina has only one blood supply.
+70 of 70
+
+False. The retina has a dual blood supply. The inner layers are nourished by the central retinal artery and the outer retinal layers are supported by the choroidal circulation.
