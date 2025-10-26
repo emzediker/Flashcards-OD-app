@@ -1,827 +1,0 @@
-1 of 157
-
-dissimilar
-
-In (exclusive/mosaic) dominance, an eye's entire image may be suppressed, and in (exclusive/mosaic) dominance, any given location, or part, of an image may be suppressed
-2 of 157
-
-exclusive; mosaic
-
-When presented with a dichoptic view one with contours, and one without- the eye imaging the view (with/without) contours is more
-likely to be suppressed
-3 of 157
-
-without
-
-Small, single localized dissimilar dichoptic contours tend to be (rivalrous / suppressed) and groups of dissimilar contours or large areas of contours tend to be (rivalrous / suppressed)
-4 of 157
-
-suppressed ; rivalrous
-
-In binocular ________, two dichoptic images of the same contours but differing color contrast results in a shiny or metallic type of appearance
-5 of 157
-
-luster
-
-Unlike color luster, color _____, two dichoptic images of the same contours, but differing color contrast, results in suppression of one image
-6 of 157
-
-rivalry
-
-True or False: After effects, such as that seen in motion after effects or tilt after effects, will not present themselves in an eye that has
-been suppressed
-7 of 157
-
-FALSEThe after image will travel to the fellow eye by way of the brain
-
-Stimulus to the (temporal/nasal) retina tend to be dominant to stimulus presented to the (temporal/nasal) retina of the follow eye.
-8 of 157
-
-nasal ; temporal
-
-(Esotropes/Exotropes) are more likely to develop amblyopia.
-9 of 157
-
-Esotropes
-
-The worth four-dot test has four dots, __ green, __ red, and __ white
-10 of 157
-
-2;1;1
-
-In the worth 4 dot test, a patient experiencing fusion sees __ dots and a patient experiencing diplopia sees ___ dots
-11 of 157
-
-4 ; 5
-
-In a patient with suppression, they will see ___ or ___ dots on W4D testing depending on which eye is being suppressed
-12 of 157
-
-2 or 3If there are less than 4, something is being suppressed
-
-In a patient with a tropia, their fixating eye may view an image, and the deviated eye will view that image through an extrafoveal point. The area of retina between the fovea of the deviating eye and the extrafoveal point of fixation will be suppressed. This region is called the ___________
-13 of 157
-
-binocular suppression scotoma
-
-In the condition______ one eye is suppressed to the degree that it remains abnormal even when the fellow eye is uncovered (under monocular conditions).
-14 of 157
-
-amblyopia
-
-Suppression can be detected using the four (base-in / base-out) test.
-15 of 157
-
-base-out
-
-In the 4 base out test, an eye may be suppressing if when introduced with 4 base out prism, the eye (moves/stays still)
-16 of 157
-
-stays stillPrism should elicit eye movement
-
-If a patient is suppressing during vergence ranges testing, the image the patient is receiving with the nonsuppressing eye will appear to move in the direction of the (base/apex) of the nonsuppressing eye
-17 of 157
-
-apex
-
-The view through a Bagolini lens with striations at 045 degrees will be seen as a line with an orientation of ____ degrees.
-18 of 157
-
-135And if striations are 135, they will be seen as 045
-
-The depth of suppression using a Bagolini lens can be measured by placing a neutral density filter in front of the (suppressing/nonsuppressing) eye.
-19 of 157
-
-suppressingIf the checkerboard pattern is not seen, one of the eyes is suppressing
-
-__________ occurs when the information from each individual eye is combined resulting in a greater visual performance that when one eye is used alone.
-20 of 157
-
-Binocular summationEx. Monocular VA may be 20/20 and binocular VA may be 20/13
-
-Under normal binocular conditions, critical flicker frequency will be (higher/the same/ lower) under binocular conditions than under
-monocular conditions
-21 of 157
-
-higherDue to binocular summation more flickers per second can be seen
-
-There is a ___ improvement, or ___% improvement in binocular viewing activities compared to monocular viewing activities
-22 of 157
-
-1.4 ; 40%
-
-(Probability / Neural) summation is the the degree of improvement expected by using two eyes without considering a binocular combination of information. This type of summation depends on statistical information to explain binocular summation.
-23 of 157
-
-Probability
-
-(Probability/Neural) summation  is the degree of improvement expected by using two eyes that can be explained by a combination of the precept by a cortical binocular process.
-24 of 157
-
-Neural
-
-A test of (neural/probability) summation requires stimulation of corresponding points, and a test of (neural/probability) summation requires stimulation of noncorresponding points
-25 of 157
-
-neural ; probabilityCorresponding points activate the same cortical binocular neuron
-
-In Fetchner's paradox, under binocular conditions where one eye has a neutral density filter, the image appears (darker/brighter) than under monocular unfiltered conditions alone
-26 of 157
-
-darkerEven though one eye is penalized, it still looks brighter binocularly
-
-________ stimuli are only perceived by the binocular visual system and cannot be seen under monocular conditions.
-27 of 157
-
-Cyclopean
-
-According to Emmett's law, the perceived size of an object producing a retinal image of a given fixed size is proportional to its perceived ______
-28 of 157
-
-distanceIf it looks far away it is seen as being larger than the retinal image
-
-The same after image viewed twice as far away will be perceived as being
-(smaller/larger/the same size).
-29 of 157
-
-larger
-
-Size _______ is a perceptual scaling of a perceived size of an object according to its estimated distance.
-30 of 157
-
-constancy
-
-The ________ effect is an example of shape from motion, where one can infer from a moving shadow that an object is not flat due to the changing contours of the shadow as the object is rotated
-31 of 157
-
-kinetic depth effect
-
-_______ is the only direct means of seeing depth and occurs under binocular conditions.
-32 of 157
-
-Stereopsis
-
-In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is becoming (smaller/larger)
-33 of 157
-
-smaller
-
-In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is moving
-(closer/further away)
-34 of 157
-
-closer
-
-In a normal binocular vision system, when base in prism is increasingly introduced, a patient will perceive that an object is becoming (smaller/larger)
-35 of 157
-
-larger
-
-In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that an object is moving
- (closer/further away)
-36 of 157
-
-further away
-
-SOLI and SILO effects are a
-consequence of ___________.
-37 of 157
-
-size constancysmall out / large in" refers to the effect of prism on a normal system
-
-For stereopsis to occur in a normal patient, images my fall on (corresponding/noncorresponding) points (inside/outside) of Panum's fusional area."
-38 of 157
-
-noncorresponding points ; inside
-
-If an object is in front of a point of fixation, its image will fall on the (nasal/temporal) retina resulting in (crossed/uncrossed) disparity
-39 of 157
-
-temporal; crossed
-
-If an object is behind a point of fixation, its image will fall on the (nasal/temporal) retina, resulting in (crossed/uncrossed) disparity
-40 of 157
-
-nasal; uncrossed
-
-(Absolute/Relative) depth is the distance between an object and an observer and (absolute/relative) depth is the distance between two objects from an observer.
-41 of 157
-
-Absolute ; relative
-
-The diffrequency effect (where two gratings of different spatial frequencies are presented to a single eye each) has a similar effect to the tiled effects noted in _______.
-42 of 157
-
-aniseikonia
-
-Placing a neutral density filter in front of one eye while viewing a moving object will result the perception of different (spatial/temporal) frequencies.
-43 of 157
-
-temporal
-
-In the Pulfrich phenomenon where an neutral density filter is placed in front of the right eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise)
-44 of 157
-
-counterclockwise
-
-In the Pulfrich phenomenon where an neutral density filter is placed in front of the left eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise)
-45 of 157
-
-clockwise
-
-In longitudinal chromatic aberration, (blue/red) light is refracted more than (blue/red) light due to its (shorter/longer) wavelength
-46 of 157
-
-blue ; red ; shorter
-
-In the transverse chromatic effect, longer wavelengths, such as red light, are displaced (nasally/temporally) compared to short wavelengths, such as blue light
-47 of 157
-
-temporallyThis causes a relative crossed
-disparity compared to blue
-
-In chromostereopsis, two objects (one long wavelength red and one short wavelength blue) on the same fixation distance will be perceived as being from differing distances. The (red/blue) object will be seen as closer
-48 of 157
-
-red
-
-In chromostereopsis, a red object may be perceived as being closer than a blue object despite being the same fixation distance due to the red object having more (uncrossed/crossed) disparity
-49 of 157
-
-crossed
-
-True or false: a color blind patient can
-experience chromostereopsis.
-50 of 157
-
-TRUE
-
-_____ acuity is the smaller depth difference a patient can see.
-51 of 157
-
-Stereo
-
-Stereo acuity and Vernier acuity are
- both _____ acuities.
-52 of 157
-
-hyper
-
-As interpupillary distance increases, stereoacuity (increases/decreases)
-53 of 157
-
-increasesWider spread eyes have better stereopsis-- like frogs
-
-As viewing distance decreases, stereoacuity (increases/decreases)
-54 of 157
-
-increases
-
-Small receptive fields are found at the (peripheral retina/ fovea) and large receptive fields are found at the (peripheral retina / fovea).
-55 of 157
-
-fovea ; peripheral retina
-
-(Red/Blue/Green) cones have the largest receptive fields and therefore are expected to have (poorer/greater) stereoacuity.
-56 of 157
-
-Blue ; poorer
-
-(Monocular/Binocular) blur has a greater
-effect on stereoacuity.
-57 of 157
-
-monocularA difference in perceived image effects stereoacuity greatly
-
-Oculomotor & Sensory Function
- Deck 1 of 4
-100 flashcards
-
-The monocular field of view is ___ degrees superior, ___ degrees medial, ___ degrees inferior
- and ___ degrees temporal
-58 of 157
-
-60 ; 60 ; 70 ;100
-
-The binocular field of view is ____ degrees laterally and _____ degrees vertically.
-59 of 157
-
-200 ; 130
-
-A patient with a constant strabismus cannot maintain _______ fixation but a
-patient with a heterophoria can.
-60 of 157
-
-BifovealPhoric bifoveal misalignment
- occurs ONLY when an eye is covered
-
-One's surroundings are known as (object/visual) space and the perception of those surroundings are known as (object/visual) space.
-61 of 157
-
-Object ; visual
-
-______ is the process that combines
-two sensory images into one.
-62 of 157
-
-Sensory fusion Sensory fusion is needed to see because
- we have two eyes!
-
-Binocular _________ is the phenomenon that results in the visual capabilities of two eyes being
-greater than that of one alone.
-63 of 157
-
-SummationExample of VA summation is:
-OD 20/20 OS 20/20--- but OU 20/15!
-
-The binocular form of depth perception
- is called ________.
-64 of 157
-
-StereopsisDepth perception is our ability to tell how
-close or far an object is
-
-_______ is the smallest measure, or limit, of  binocular depth perception
-65 of 157
-
-StereoacuityThis is measured in clinic with Stereo Fly or
-Randot Stereograms
-
-______ ranges are the largest depths that
-can be perceived without diplopia.
-66 of 157
-
-"Panum's| Out side of Panum's ranges images are seen as double."
-
-Binocular (suppression/rivalry) occurs when the images perceived by the two eyes do not fully combine, and binocular (suppression/rivalry) occurs when the image seen by one of those eyes is not perceived cortically
-67 of 157
-
-Rivalry ; suppression
-
-______ is unequal retinal image sizes
- between the two eyes.
-68 of 157
-
-AniseikoniaAniseikonia can result from wide antimetropia; for example OD +5.00 OS -1.00
-
-The different vantage points of the two eyes are separated by the _______ distance.
-69 of 157
-
-Interocular
-
-The visual line (aka line of sight), projects from a point on the retina, through
- the ________ and into physical space
-70 of 157
-
-Entrance pupil
-
-All points on a visual line share the same ______.
-71 of 157
-
-Direction
-
-The visual axis projects from a point on the _____ through the entrance pupil into physical space.
-72 of 157
-
-"Fovea| The line of sight is any retinal point & the visual axis is fovea only."
-
-The (principal/secondary) visual direction is signaled by the fovea, and the (principal/secondary) visual direction is signaled by eccentric points to the fovea
-73 of 157
-
-Principal; secondaryGenerally the primary visual direction is where one is trying to look
-
-In _______ fixation, a point other than the fovea is used to determine the primary visual direction and this extrafoveal point is used to fixate objects
-74 of 157
-
-"Eccentric| Since it is a nonfoveal point, visual acuity will be reduced."
-
-In ______ viewing, the primary visual direction is the fovea, however the patient voluntary uses an extrafoveal loci for viewing
-75 of 157
-
-"Eccentric| Those with foveal AMD may use this view because it is all they can see."
-
-The clinical test used to test for primary visual direction is ________ and is often performed
-with an ophthalmoscope.
-76 of 157
-
-Visuoscopy
-
-Interpret the following visuoscopy:
-77 of 157
-
-2 prism diopter temporal eccentric fixation ODAn optic nerve on the right side of a photo means it is the right eye
-
-Interpret the following visuoscopy:
-78 of 157
-
-1 prism diopter inferior eccentric fixation OSAn optic nerve on the left side of the photo means it is the left eye
-
-Patients with a paretic muscle may experience the phenomenon of _______, where when fixation is attempted, the patient will reach past an object
-79 of 157
-
-past pointingThis demonstrates a marked
-change in depth perception
-
-In a patient with a paretic eye, past pointing is thought to be related to a mismatch between eye position and the increased amount of ______ needed to move the eye to its final position
-80 of 157
-
-innervationThis mismatch alters depth perception
-
-_________ retinal points are discrete areas of the retina (one in each eye) that share a common visual direction when simultaneously stimulated.
-81 of 157
-
-Corresponding
-
-Distance can be interpreted by (corresponding/noncorresponding) points and depth can be interpreted by (corresponding/noncorresponding) points.
-82 of 157
-
-corresponding ; noncorrespondingTherefore noncorresponding points
-play a big role in stereopsis
-
-Images of an object that do not stimulate corresponding retinal points are _______.
-83 of 157
-
-disparateTherefore disparate points do not share
-a common visual direction
-
-Binocular ______is the difference in position in relation to noncorresponding retinal points between images in the two eyes.
-84 of 157
-
-disparity
-
-Corresponding retinal points have ____ binocular disparity.
-85 of 157
-
-zero
-
-Corresponding retinal points have
- identical visual ______.
-86 of 157
-
-direction
-
-The ____ point, is the point where the two eyes are converged for foveal viewing
-87 of 157
-
-fixation
-
-Points nearer than the fixation point have (crossed/uncrossed) disparity.
-88 of 157
-
-crossed
-
-Points (further/nearer) than the fixation point have uncrossed disparity.
-89 of 157
-
-further
-
-Crossed disparities involve a (nasal/temporal) shift of images on the retina.
-90 of 157
-
-temporal
-
-(Crossed/Uncrossed) disparities involve a nasal shift of images on the retina.
-91 of 157
-
-Uncrossed
-
-Disparities larger than that in Panum's fusional area create _________.
-92 of 157
-
-diplopia
-
-Disparities within _________ fusional area
-are seen as single.
-93 of 157
-
-Panum's
-
-__________ retinal disparities within Panum's fusional area give rise to depth perception / stereopsis.
-94 of 157
-
-Horizontal
-
-Images formed on widely separated ___________ points outside of Panum's fusional area
-give rise to diplopia.
-95 of 157
-
-noncorresponding
-
-When fixating on a distant object, a near object will be seen as double. This is called (crossed/uncrossed) diplopia
-96 of 157
-
-crossed
-
-When fixating on a near object, a distance object will be seen as double. This is called (crossed/uncrossed) diplopia
-97 of 157
-
-uncrossed
-
-In crossed diplopia, the doubled image is due to noncorresponding points on the
- (nasal/temporal) retina
-98 of 157
-
-"temporal| These noncorresponding points are outside of Panum's fusional area."
-
-Uncrossed diplopia occurs due to stimulation of noncorresponding points on
-the (nasal/temporal) retina.
-99 of 157
-
-nasalThese noncorresponding points are outside of Panum's fusional area.
-
-In (crossed/uncrossed) diplopia, the left eye sees the left diplopic image and the right eye
- sees the right diplopic image
-100 of 157
-
-uncrossed
-
-In (crossed/uncrossed) diplopia, the left eye sees the right diplopic image and the right eyes sees the left diplopic image
-101 of 157
-
-crossed
-
-Binocular (diplopia/confusion) occurs when two different objects are seen in one overlapping location or direction.
-102 of 157
-
-confusion
-
-Pathological diplopia and confusion can occur in conditions such as strabismus due to the uncoordinated viewing of an object of regard by the _____ of the retina.
-103 of 157
-
-fovea
-
-To eliminate diplopia and confusion, strabismus patients may rely on ______, which will result in monocular perception.
-104 of 157
-
-suppression
-
-To eliminate diplopia or confusion, a strabismus patient may use a retinal locus outside of the fovea for fixation in the deviated eye. This recalibration of corresponding retinal points, which would be noncorresponding in nonpathological cases, is called __________
-105 of 157
-
-anomalous retinal correspondence
-
-In ___________ a eccentric retinal locus in a deviated eye corresponds to the fovea of a nondeviated eye.
-106 of 157
-
-anomalous retinal correspondence
-
-The difference in visual directions between points in the two eyes is called binocular _______.
-107 of 157
-
-disparity
-
-The "first degree of fusion" is __________ of each eyes image at once
-108 of 157
-
-simultaneous perceptionSimultaneous perception can happen with diplopia and haplopia
-
-The "second degree of fusion" is fusion without depth, or ______ fusion
-109 of 157
-
-flatThis fusion combines
-two images into one
-
-The "third degree of fusion", which is three-dimensional perception, is ________
-110 of 157
-
-stereopsisStereopsis is a measure of binocularity
-
-In _____ fusion, eye movements position the eyes so that corresponding points are superimposed
-111 of 157
-
-motor
-
-In ____ fusion, the visual cortex combines the views of the two eyes into one perception
-112 of 157
-
-sensory
-
-The absence for sensory fusion occurs as an adaption in the form of _____.
-113 of 157
-
-suppression
-
-Patients with anomalous retinal correspondence have functioning (sensory/motor) fusion but poor (sensory/motor) fusion.
-114 of 157
-
-sensory ; motorThey fuse points that are typically noncorresponding otherwise
-
-_____ disparity is a small binocular misalignment of the eyes where fusion and single vision is still achievable.
-115 of 157
-
-FixationThe eyes may slightly slip out fixation & still maintain haplopia
-
-The (central/peripheral) retinal has a great Panum's fusional area.
-116 of 157
-
-peripheralFoveal vision is not as tolerant of
-disparity & easily becomes diplopic
-
-Patients with small angle strabismus may have a (small/large) Panum's fusional area.
-117 of 157
-
-largeSmall angle strabismus often has anomalous correspondence
-
-Patients with anomalous retinal correspondence may have a (small/large) Panum's fusional area.
-118 of 157
-
-largeARC is an adaptation to prevent diplopia
-
-In ______ stimulation, each eye views a different object which is combined  into a single precept
-119 of 157
-
-dichoptic / bi-ocular
-
-A ______ is the position the eye assumes when the two eyes are dissociated.
-120 of 157
-
-heterophoriaIt describes the eyes natural resting position when it is covered.
-
-The ______ ______ demand is how much the eyes must converge or diverge from their phoric position to allow for fusion.
-121 of 157
-
-fusional vergence
-
-Patients with _____phora over converge under dissociated conditions and therefore require (positive/negative) (convergence/divergence) eye movements for fusion.
-122 of 157
-
-esophoria; negative; divergence
-
-An uncompensated heterophoria is a ________, and there is no motor fusion
-123 of 157
-
-strabismusThe eyes do not have the foveas both lined with the object of regard.
-
-A _______ disparity is a small error in vergence when attempting to fixate an object that does not result in diplopia due to being in Panum's fusional area.
-124 of 157
-
-fixation
-
-Unlike the cover test, clinical testing such as such as a Wesson card or AO vectographic slide measure a patient's (associated/dissociated) phoria to help characterize his or her fixation disparity
-125 of 157
-
-associatedRecall fixation disparity does not result in diplopia
-
-The amount of prism needed to eliminate a ________ disparity is the "associated phoria"
-126 of 157
-
-fixation
-
-Then x-axis intercept of a forced vergence fixation disparity curve represents the __________.
-127 of 157
-
-associated phoria
-
-The unit of the x-axis on a forced vergence disparity curve is _______, with the left side of the curve being ____ and the right being ____
-128 of 157
-
-prism; Base In; Base Out
-
-The y-axis intercept of the forced vergence fixation disparity curve is the amount of _____________ in the absence of prism as measured in units of _____.
-129 of 157
-
-fixation disparity ; minutes of arc.
-
-In measuring vergence ranges, an initial adaptation to induced prism is called the (fast/slow) vergence system, and a sustained adaptation to prism is called a (fast/slow)
-vergence system
-130 of 157
-
-fast ; slow
-
-(Horizontal/Vertical) vergence does not have a fast (aka disparity) vergence adaptation system, it but does have a slow vergence adaptation system
-131 of 157
-
-Vertical
-
-Patients with type II curves have (exo/eso)phoria and poor adaptation to base (in/out) prism.
-132 of 157
-
-eso ; in
-
-Patients with type III curves have high (exo/eso) phoria and poor adaptation to base (in/out) prism.
-133 of 157
-
-exo ; out
-
-Patients with a type IV fixation disparity curve may be orthophoric ; however, they may have _____ fusion problems such as aniseikonia
-134 of 157
-
-sensory
-
-Anomalous retinal correspondence is a (retinal/cortical) adaptation to strabismus that is more likely to occur with childhood onset strabismus than adult onset.
-135 of 157
-
-cortical|ARC is a sensory solution to a motor problem
-
-(Harmonious / Unharmonious) anomalous retinal correspondence occurs when there is a precise shift in corresponding points that matches the angle of strabismic deviation. The fovea of the fixating eye and the nonfoveal corresponding point of the deviated eye are both attending to the object of regard
-136 of 157
-
-"harmonious| In HARC there is no diplopia."
-
-(Harmonious / Unharmonious) anomalous retinal correspondence occurs when there is a less precise shift in corresponding retinal points, resulting in an overshoot or undershoot to viewing an object of regard between the two eyes
-137 of 157
-
-UnharmoniousUARC results in diplopia
-
-Patients with harmonious retinal correspondence fixate with only one fovea and (do/do not) have diplopia or confusion.
-138 of 157
-
-do not
-
-The Hering-Bielschowsky after image test
-is a test for _________.
-139 of 157
-
-retinal correspondence
-
-In (noncomitant/comitant) strabismus, the angle of strabismus is not the same in all positions of gaze
-140 of 157
-
-noncomitant
-
-In Maddox rod testing where the Maddox rod is before the right eye, a patient with exophoria will see the white light to the (left/right) of the red line
-141 of 157
-
-"right| This is because exophoria presents with crossed diplopia."
-
-In Hess-Lancaster testing where anaglyphic glasses (red OD and green OS) are used and the examiner has a red laser and the patient has a green laser, the red laser is being
- fixated by the (right/left) eye
-142 of 157
-
-right
-
-In Hess-Lancaster testing the examiner's target is visible to the (tested/fixated) eye and the patient's light is visible to the (fixated/tested) eye.
-143 of 157
-
-fixated ; tested
-
-A patient with 20 Exotropia on cover test but subjective orthophoria with Maddox Rod testing is said to have ___________ __________ retinal correspondence.
-144 of 157
-
-harmonious anomalousIt is harmonious because the patient
-does not have diplopia
-
-The __________ is the difference between subjective and objective strabismus measurements.
-145 of 157
-
-angle of anomalyCover test is an objective test and Maddox Rod is a subjective test
-
-In patient with harmonious anomalous retinal correspondence, the angle of anatomy is _______
-146 of 157
-
-equal to the objective angle of strabismusThis is because the subjective angle of strabismus is equal to zero
-
-In normal retinal correspondence the angle of anomaly is _______.
-147 of 157
-
-zeroBeing orthophoric is NOT required to have an angle of anomaly of 0
-
-To overcome exophoria, (negative/positive) fusional vergence is required
-148 of 157
-
-positiveYou must hold the eyes together from their natural outward posture
-
-To overcome esophoria, (negative/positive) fusional vergence is required
-149 of 157
-
-NegativeThey must pull the eyes apart from their naturally inward position
-
-Negative fusional vergence is associated to the (convergence / divergence ) of the eyes.
-150 of 157
-
-divergenceIt is "uncrossing" the eyes
-
-Positive fusion vergence is associated to the (convergence / divergence) of the eyes.
-151 of 157
-
-convergence
-
-(Plus/Minus) lenses decrease the amount off accommodative convergence required for clear vision and can decrease (eso/exo) fixation disparity.
-152 of 157
-
-Plus ; eso
-
-Type II fixation disparity curves represent patients with intolerance to (convergence / divergence).
-153 of 157
-
-divergence
-
-Type III fixation disparity curves represent patients with intolerance to (convergence / divergence).
-154 of 157
-
-convergence
-
-The ________ is a spatial map of corresponding points across the retina.
-155 of 157
-
-horopter
-
-The horopter represents the (start / midpoint / end) of crossed and uncrossed disparities.
-156 of 157
-
-midpoint
-
-Images outside of the phoropter that are on noncorresponding points, but are not diplopic, are within  _____
-157 of 157
-
-Panum's fusional area
