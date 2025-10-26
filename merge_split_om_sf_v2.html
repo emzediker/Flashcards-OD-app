@@ -3,115 +3,177 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Merge/Split — Oculomotor & Sensory Flashcards</title>
+<title>Merge & Split — Oculomotor/Sensory (2 decks)</title>
 <style>
-  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:16px}
-  .card{max-width:840px;margin:auto;border:1px solid #ddd;border-radius:12px;padding:16px}
-  h1{margin:0 0 12px;font-size:20px}
-  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
-  .log{margin-top:12px;font-size:13px;color:#444;white-space:pre-wrap}
-  button,input[type=file]{padding:9px 12px;border:1px solid #ccc;border-radius:10px;background:#fff}
-  .go{background:#0a7; color:#fff; border-color:#0a7}
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:18px;background:#fff;color:#111}
+  .card{max-width:860px;margin:auto;border:1px solid #ddd;border-radius:12px;padding:18px}
+  h1{font-size:20px;margin:0 0 12px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0}
+  input[type=file]{padding:9px 12px;border:1px solid #ccc;border-radius:8px}
+  button{padding:10px 14px;border:1px solid #999;border-radius:8px;background:#0a7; color:#fff; font-weight:600; cursor:pointer}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  .muted{color:#666;font-size:13px}
+  .box{padding:10px;border:1px dashed #bbb;border-radius:8px;background:#fafafa}
+  .ok{color:#0a7}
+  .warn{color:#b46900}
 </style>
 </head>
 <body>
 <div class="card">
-  <h1>Merge & Split Oculomotor/Sensory TXT (2 decks)</h1>
-  <p>Pick your four source TXT files (any order). Anchors must look like <code>12 of 100</code>. We’ll merge, split evenly, and renumber each deck.</p>
+  <h1>Merge → Split (2 decks) — Oculomotor/Sensory</h1>
   <div class="row">
     <input id="files" type="file" multiple accept=".txt,text/plain">
-    <button id="run" class="go">Merge → Split → Download</button>
+    <button id="goBtn">Merge → Split</button>
   </div>
-  <div class="log" id="log"></div>
+  <div class="muted">Tip: order doesn’t matter; the tool merges everything, finds anchors like <code>“12 of 315”</code>, renumbers to start at 1, then splits into two even decks.</div>
+
+  <div id="result" class="box" style="margin-top:12px">
+    <div id="status">Waiting for files…</div>
+    <div class="row" style="margin-top:8px">
+      <button id="dl1" disabled>Download Deck 1</button>
+      <button id="dl2" disabled>Download Deck 2</button>
+    </div>
+    <div class="muted">On iPad: tap each button once to get both files.</div>
+  </div>
 </div>
 
 <script>
-const log = (m)=>{const el=document.getElementById('log'); el.textContent+=m+'\n';}
+const $ = sel => document.querySelector(sel);
+const filesInput = $('#files');
+const goBtn = $('#goBtn');
+const statusEl = $('#status');
+const dl1 = $('#dl1');
+const dl2 = $('#dl2');
 
-function isAnchor(s){ return /^\s*\d+\s+of\s+\d+\s*$/.test(s||''); }
+let deck1Blob = null, deck2Blob = null;
 
-async function readFileAsText(file){
-  return new Promise((res,rej)=>{
+// Read a File object as text
+function readAsText(file){
+  return new Promise((resolve,reject)=>{
     const r=new FileReader();
-    r.onload=()=>res(r.result);
-    r.onerror=()=>rej(r.error);
+    r.onload = () => resolve(String(r.result||''));
+    r.onerror = reject;
     r.readAsText(file);
   });
 }
 
-function download(name, text){
-  const blob=new Blob([text],{type:'text/plain'});
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(blob);
-  a.download=name;
-  document.body.appendChild(a); a.click(); a.remove();
+// Normalize common weird characters
+function cleanLine(s){
+  return s
+    .replace(/\u00A0/g,' ')
+    .replace(/\u200B/g,'')
+    .replace(/\uFFFD/g,'')
+    .replace(/[“”]/g,'"')
+    .replace(/[‘’]/g,"'")
+    .replace(/\u2013|\u2014/g,'-')
+    .replace(/[ \t]+$/,'');
 }
 
-document.getElementById('run').onclick = async ()=>{
+// Return [anchorIndexList, totalCardsGuessed]
+function findAnchors(lines){
+  const anchors = [];
+  const re = /^\s*(\d+)\s+of\s+(\d+)\s*$/i;
+  for(let i=0;i<lines.length;i++){
+    const m = lines[i].match(re);
+    if(m) anchors.push({i, n:parseInt(m[1],10), total:parseInt(m[2],10)});
+  }
+  // best guess at total: max of seen 'total' or anchors length
+  const totalGuess = anchors.length ? Math.max(...anchors.map(a=>a.total), anchors.length) : 0;
+  return [anchors, totalGuess];
+}
+
+// Given merged text, renumber anchors to 1..N, preserving everything else
+function renumberAnchors(text){
+  const lines = text.replace(/\r/g,'').split('\n').map(cleanLine);
+  const [anchors] = findAnchors(lines);
+
+  if(!anchors.length) return { text: lines.join('\n'), count: 0 };
+
+  // Collect card blocks based on anchors
+  const blocks = [];
+  for(let k=0;k<anchors.length;k++){
+    const start = anchors[k].i;
+    const end = (k+1<anchors.length) ? anchors[k+1].i : lines.length;
+    const slice = lines.slice(start, end);
+    blocks.push(slice);
+  }
+
+  // Renumber each block's first line to "X of N"
+  const N = blocks.length;
+  for(let x=0;x<blocks.length;x++){
+    blocks[x][0] = `${x+1} of ${N}`;
+  }
+
+  const output = blocks.map(b=>b.join('\n')).join('\n');
+  return { text: output, count: N };
+}
+
+// Split into two decks (nearly equal). Keeps complete cards by using anchors.
+function splitIntoTwo(renumberedText){
+  const lines = renumberedText.replace(/\r/g,'').split('\n');
+  const [anchors, total] = findAnchors(lines);
+  if(!anchors.length) return {a:renumberedText, b:''};
+
+  const half = Math.ceil(total/2);
+  const aStart = anchors[0].i;
+  const aEnd   = (anchors[half] ? anchors[half].i : lines.length);
+
+  const deckA = lines.slice(0, aEnd).join('\n');
+  const deckB = lines.slice(aEnd).join('\n');
+
+  // Renumber each half again so each starts at 1 of X
+  const A = renumberAnchors(deckA).text;
+  const B = renumberAnchors(deckB).text;
+
+  return {a:A, b:B};
+}
+
+function makeDownload(blob, filename){
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  setTimeout(()=>{ URL.revokeObjectURL(a.href); a.remove(); }, 2000);
+}
+
+goBtn.onclick = async () => {
+  dl1.disabled = dl2.disabled = true; deck1Blob = deck2Blob = null;
+  statusEl.innerHTML = 'Reading files…';
+
+  const files = [...(filesInput.files||[])];
+  if(!files.length){ statusEl.innerHTML = '<span class="warn">Please choose your TXT files first.</span>'; return; }
+
+  // Read & merge
   try{
-    document.getElementById('log').textContent='';
-    const inp = document.getElementById('files');
-    if(!inp.files || !inp.files.length){ log('Please select your TXT files.'); return; }
+    const texts = await Promise.all(files.map(readAsText));
+    const merged = texts.join('\n');
 
-    // 1) read all files (any order), concat
-    log(`Reading ${inp.files.length} file(s)…`);
-    let all = '';
-    for(const f of [...inp.files]){
-      const t = await readFileAsText(f);
-      all += (all ? '\n' : '') + t.replace(/\r/g,'');
-    }
-    const lines = all.split('\n');
+    // Clean + renumber
+    statusEl.innerHTML = 'Renumbering anchors…';
+    const { text: renumbered, count } = renumberAnchors(merged);
+    if(!count){ statusEl.innerHTML = '<span class="warn">No anchors like “1 of 100” were found. Please check your files.</span>'; return; }
 
-    // 2) collect card blocks by anchors
-    const idx = [];
-    for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) idx.push(i);
-    if(!idx.length){ log('No anchors like "N of M" found.'); return; }
+    // Split
+    statusEl.innerHTML = `Found ${count} cards. Splitting into two decks…`;
+    const {a, b} = splitIntoTwo(renumbered);
 
-    // Turn into blocks: [startLineIndex, endLineIndexExclusive]
-    const blocks=[];
-    for(let b=0;b<idx.length;b++){
-      const a = idx[b];
-      const z = (b+1<idx.length ? idx[b+1] : lines.length);
-      blocks.push([a,z]); // anchor line first; all lines up to before next anchor
-    }
-    log(`Detected ${blocks.length} cards.`);
+    deck1Blob = new Blob([a], {type:'text/plain'});
+    deck2Blob = new Blob([b], {type:'text/plain'});
 
-    // 3) split into two decks (deck1 gets ceil, deck2 gets the rest)
-    const total = blocks.length;
-    const n1 = Math.ceil(total/2), n2 = total - n1;
-    const deck1 = [], deck2 = [];
+    dl1.disabled = !deck1Blob;
+    dl2.disabled = !deck2Blob;
 
-    let deck1Count=0, deck2Count=0;
-
-    function rewriteAnchor(line, n, ofN){
-      return `${n} of ${ofN}`;
-    }
-
-    for(let c=0;c<blocks.length;c++){
-      const [s,e] = blocks[c];
-      const block = lines.slice(s,e);
-      // First line is the original anchor; we’ll replace it
-      if(c < n1){
-        deck1Count++;
-        block[0] = rewriteAnchor(block[0], deck1Count, n1);
-        deck1.push(...block);
-      }else{
-        deck2Count++;
-        block[0] = rewriteAnchor(block[0], deck2Count, n2);
-        deck2.push(...block);
-      }
-    }
-
-    // 4) write files
-    const out1 = deck1.join('\n');
-    const out2 = deck2.join('\n');
-    download('ocular_motor_sensory_1.txt', out1);
-    download('ocular_motor_sensory_2.txt', out2);
-    log(`Done. Deck1: ${n1} cards. Deck2: ${n2} cards.`);
-  }catch(err){
-    log('Error: ' + (err && err.message ? err.message : String(err)));
+    statusEl.innerHTML = `<span class="ok">Ready.</span> Tap each button to download:
+      <code>ocular_motor_sensory_1.txt</code> and <code>ocular_motor_sensory_2.txt</code>`;
+  }catch(e){
+    console.error(e);
+    statusEl.innerHTML = '<span class="warn">Error reading files. Try again.</span>';
   }
 };
+
+dl1.onclick = () => { if(deck1Blob) makeDownload(deck1Blob, 'ocular_motor_sensory_1.txt'); };
+dl2.onclick = () => { if(deck2Blob) makeDownload(deck2Blob, 'ocular_motor_sensory_2.txt'); };
 </script>
 </body>
 </html>
