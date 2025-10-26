@@ -56,7 +56,7 @@ lipid
 Lipids can form a micelle, a membrane like structure where the (polar/nonpolar)(fatty acid tail/head) form the outside of the membrane which is adjacent to water, and the (polar/nonpolar)(fatty acid tail/head) forms the inside of the membrane unexposed to water.
 12 of 212
 
-polar head; nonpolar fatty acid tail.
+polar head; nonpolar fatty acid tail
 
 Nonpolar substances tend to migrate (into/out of) a micelle.
 13 of 212
@@ -83,7 +83,7 @@ A triglyceride with a high number of carbon-carbon double bonds has a (lower/hig
 
 lower
 
-A (polyunsaturated/saturated/unsaturated) fat has fatty acids with no carbon-carbon double bonds.A (polyunsaturated/saturated/unsaturated) fat has one carbon-carbon double bond.A (polyunsaturated/saturated/unsaturated) fat has multiple carbon-carbon double bonds.
+A (polyunsaturated/saturated/unsaturated) fat has fatty acids with no carbon-carbon double bonds. A (polyunsaturated/saturated/unsaturated) fat has one carbon-carbon double bond. A (polyunsaturated/saturated/unsaturated) fat has multiple carbon-carbon double bonds.
 18 of 212
 
 saturated ; unsaturated ; polyunsaturated
