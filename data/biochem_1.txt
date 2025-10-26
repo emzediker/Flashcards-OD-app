@@ -672,7 +672,7 @@ Cofactors are (protein/nonprotein) parts of enzymes.
 
 nonprotein
 
-An organic cofactor is called a (coenzyme/apoenzyme/holoenzyme).An enzyme without a cofactor is called a (coenzyme/apoenzyme/holoenzyme).An enzyme combined with its cofactor is called a (coenzyme/apoenzyme/holoenzyme).
+An organic cofactor is called a (coenzyme/apoenzyme/holoenzyme). An enzyme without a cofactor is called a (coenzyme/apoenzyme/holoenzyme). An enzyme combined with its cofactor is called a (coenzyme/apoenzyme/holoenzyme).
 135 of 212
 
 coenzyme ; apoenzyme ; holoenzyme
@@ -702,9 +702,7 @@ Enzymes often end in the suffix _____.
 
 -ase - Ex. transferase, lyase, isomerase, hydrolase, ligase
 
-A ______ is an enzyme that transfers
-
-groups of atoms.
+A ______ is an enzyme that transfers groups of atoms.
 141 of 212
 
 transferase
@@ -714,9 +712,7 @@ A ______ is an enzyme involved in hydrolysis.
 
 hydrolase
 
-A _____ is an enzyme involved in
-
-formation of double bonds.
+A _____ is an enzyme involved in formation of double bonds.
 143 of 212
 
 lyase
@@ -826,7 +822,7 @@ At the saturation point of an enzyme the rate of the reaction is at its (maximum
 
 maximum
 
-In (zero/first) order kinetics of an enzyme-substrate reaction, the rate of the reaction depends on the concentration of one reactant. - This occurs when there are is a lower level of reactants.
+In (zero/first) order kinetics of an enzyme-substrate reaction, the rate of the reaction depends on the concentration of one reactant. This occurs when there are is a lower level of reactants.
 165 of 212
 
 first
@@ -1040,10 +1036,12 @@ Diabetes is associated with a fasting glucose level of ___ and a ____ mg/dL of b
 
 126; 200
 
-D-ribose and D-deoxyribose are  (carbohydrates/proteins/lipids) used to form _____.
+D-ribose and D-deoxyribose are (carbohydrates/proteins/lipids) used to form _____.
 207 of 212
 
-carbohydrates ; nucleic acids _____ linkages hold monomers of a polysaccharide together.
+carbohydrates; nucleic acids
+
+_____ linkages hold monomers of a polysaccharide together.
 208 of 212
 
 Glycoside
