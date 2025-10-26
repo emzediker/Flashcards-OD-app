@@ -697,7 +697,7 @@ Gene therapy
 Sickle cell anemia is a genetic condition that results in a faulty _____ protein due to the substitution of the amino acid ____ for _____.
 139 of 211
 
-hemoglobin ; valine ; glutamateNormal hemoglobin has glutamate
+hemoglobin ; valine ; glutamate - Normal hemoglobin has glutamate.
 
 In sickle cell anemia, hemoglobin structure is altered due to the fact that (valine/glutamate), a (polar/non polar) amino acid is replaced with the amino acid (valine/glutamate) which is a (polar/non polar) amino acid.
 140 of 211
