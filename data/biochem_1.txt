@@ -1,0 +1,1140 @@
+1 of 212
+
+Eukaryotic ; prokaryoticEU are a EUkaryote!
+
+Prokaryotic cells are mostly _______.
+2 of 212
+
+bacteria
+
+(Active/Passive) transport of materials through a membrane requires the use of energy.
+3 of 212
+
+Active
+
+Diffusion, osmosis, and filtration are all
+
+examples of (active/passive) transport
+4 of 212
+
+passive
+
+The rough endoplasmic reticulum is covered with _____ which synthesize proteins.
+5 of 212
+
+ribosomes
+
+The organelle called the _________ is responsible for creating vesicles that move products throughout the cell or out of the cell.
+6 of 212
+
+Golgi apparatus
+
+_______ are cellular organelles that contain digestive enzymes.
+7 of 212
+
+Lysosomes
+
+Mitochondria use ______ to create ATP.
+8 of 212
+
+glucose
+
+The three types of RNA produced in the
+
+nucleus of a cell are :
+9 of 212
+
+tRNA, mRNA and rRNAtransfer, messenger and ribosomal
+
+The human body is roughly __% water.
+10 of 212
+
+70
+
+Water is a (polar/nonpolar) molecule with (positive/negative) charged end at the oxygen and (positive/negative) charged end at the hydrogen.
+11 of 212
+
+polar ; negative ; positive
+
+Due to its ability to dissolve many different types of substances, water is called the _______ solvent
+12 of 212
+
+universal
+
+Lipids (are/are not) soluble in water.
+13 of 212
+
+are notFats do not dissolve in water
+
+Substances that dissolve in water are hydro(phobic/philic) and substances that will not dissolve in water are called hydro(phobic/philic)
+14 of 212
+
+philic ; phobic
+
+_______pathic molecules have both hydrophobic and hydrophilic regions.
+15 of 212
+
+Amphipathic
+
+When the concentration of hydrogen ions is equal to the concentration of hydroxide ions a solution is said to be ________.
+16 of 212
+
+neutralA neutral pH has free H+ ions equal to free
+ OH- ions
+
+In an (acidic/basic) solution hydrogen ion concentration exceeds hydroxide ion concentration.
+17 of 212
+
+acidic
+
+In a (acidic/basic) solution hydroxide ion concentration exceeds hydrogen
+
+ion concentration.
+18 of 212
+
+basic"Alkaline" is another way of saying basic
+
+The equilibrium constant represented as "K" is equal to the product of the concentrations
+
+of ______ and _____."
+19 of 212
+
+hydrogen and hydroxide
+
+pH can be calculated as pH=-log[concentration of __ ]
+20 of 212
+
+Hydrogen
+
+Solutions with pH less than 7 are ____ and solutions with a pH more than 7 are ____.
+21 of 212
+
+acidic ; basic
+
+pOH is calculated as:14.00 - _____                        For example: Gastric acid has a pH of 1. What is the pOH of gastric acid?
+22 of 212
+
+pOH = 14.00 - pH  Ex. pOH = 14.00 -1 = 13
+
+Gastric acid in the stomach has a hydrogen ion concentration of 1x10^-1. What is the pH of gastric acid?
+23 of 212
+
+pH = -log[hydrogen ion concentration] = 1
+
+According to the Branstad-Lowry theory, acids are proton (acceptors/donors) and bases
+
+are proton (acceptors/donors)
+24 of 212
+
+donors ; acceptors
+
+Alone, ______ bonds are weak but
+
+collectively they are strong
+25 of 212
+
+hydrogen
+
+In the case of acids and bases, a proton
+
+refers to the atom ______
+26 of 212
+
+hydrogen
+
+CH3COO- is a conjugate (acid/base) and a CH3COOH is its conjugate (acid/base).
+27 of 212
+
+base ; acid
+
+The formula for the equilibrium constant of
+
+an acid is:Ka=
+28 of 212
+
+Ka= [concentration of hydrogen ions][concentration of conjugate base] / [concentration of conjugate acid]
+
+The formula for the equilibrium constant
+
+of a base is: Kb=
+29 of 212
+
+Kb= [concentration of hydroxide ions][concentration of conjugate acid]/[concentration of conjugate base]
+
+pKa = ?
+30 of 212
+
+-logKa
+
+pKa+pKb =
+31 of 212
+
+14
+
+Bicarbonate can act as an acid or a base and is therefore considered ________.
+32 of 212
+
+amphiprotic or amphoteric
+
+__________ are substances such as amino acids that are overall neutral but have a positive and
+
+negative end.
+33 of 212
+
+Zwitterions
+
+A buffer solution containers a conjugate acid-base pair of a (strong/weak) acid or base.
+34 of 212
+
+weak
+
+A buffer solution is (resistant/susceptible) to pH change when small amount of either an
+
+acid or base is added.
+35 of 212
+
+resistant
+
+If blood pH decreases, it can result in _____ and if blood pH increase it can result in ______
+36 of 212
+
+acidosis ; alkalosis
+
+In respiratory acidosis, impaired respiration such as an pneumonia, causes increased blood (carbon dioxide / oxygen) levels and decreased (carbon dioxide / oxygen) levels. This over causes an increase
+
+concentration of _______
+37 of 212
+
+increased carbon dioxide ; decreased oxygen ; increased carbonic acid
+
+In metabolic acidosis, there is a decreased concentration in  ______ often due to ____ disease. This causes pH in the blood to ____
+38 of 212
+
+bicarbonate ; kidney ; decrease
+
+In respiratory alkalosis, excessive hyperventilation causes a (decreased/increased) blood level of (oxygen/carbon dioxide), resulting in a decreased level of ______
+39 of 212
+
+decreased ; carbon dioxide ; carbonic acid
+
+Breathing in and out of a paper bag would (decrease/increase) levels of carbon dioxide and combat respiratory (acidosis/alkalosis).
+40 of 212
+
+increase ; alkalosis
+
+Vomiting excessive stomach acid may (increase/decrease) blood pH resulting in (respiratory/metabolic)(acidosis/alkalosis).
+41 of 212
+
+increase ; metabolic ; alkalosis
+
+The pH of the blood is ~___ and the pH inside of a cell is ~___.
+42 of 212
+
+7.4 ; 7.2It is more acidic inside of a cell
+
+In the blood, the buffer for pH is ______ and inside of a cell the buffer for pH is _____
+43 of 212
+
+bicarbonate and acetic acid ; phosphoric acid
+
+The __________ equation allows you to calculate the pH of a buffer.
+44 of 212
+
+Henderson-Hasselbalch
+
+The two forms of the Henderson-Hasselbalch equation are:
+45 of 212
+
+
+For a buffer to resist pH change as much as possible, the concentrations of conjugate acid-base pair should be
+
+(unequal/equal) and (low/high)
+46 of 212
+
+equal ; high
+
+Carbon is able to bind to __ other elements.
+47 of 212
+
+four
+
+Intramolecular forces occur with bonds between elements, intermolecular forces, however, do not. These intermolecular forces are
+
+called _________ forces
+48 of 212
+
+Van der Waals
+
+The Van der Waals force known as ______ forces are weak and short lived. They occur when the nucleus of one atom attracts the electron cloud of another. This occurs in (polar/nonpolar) molecules
+49 of 212
+
+London dispersion; nonpolar
+
+The Van der Waals force known as _____ forces occurs when oppositely charged partial charges attract, or like charges repel in a dipole
+50 of 212
+
+dipole-dipole
+
+A _______ is a molecule that has a partially positively charged end and a partially negative charged end.
+51 of 212
+
+dipole
+
+Hydrogen bonding, as seen in water, is an example of a very strong _________ force between hydrogen and (typically) oxygen or nitrogen
+52 of 212
+
+dipole-dipole
+
+The cation ammonium in an amino group binding to an anion of a carboxylic acid group is an example of an ____ interaction. This forms an amino acid.
+53 of 212
+
+ionic
+
+The presence of carbon and hydrogen alone generally makes a substance (nonpolar/polar) and the addition of another group or element makes the substance (nonpolar/polar).
+54 of 212
+
+nonpolar ; polar
+
+Dipole-dipole, hydrogen bonding and ionic interaction are all (hydrophilic/hydrophobic)
+55 of 212
+
+hydrophilic
+
+Bond strengths of the following forces occurring in order from strongest to weakest are : dipole-dipole, hydrogen bonding, ionic, London
+56 of 212
+
+The strongest is ionic, followed by hydrogen bonding, dipole-dipole, and lastly London
+
+London dispersion forces are (hydrophilic/hydrophobic).
+57 of 212
+
+hydrophobic
+
+___________ chains make molecules more hydrophobic.
+58 of 212
+
+hydrocarbon
+
+The building blocks of proteins are __________.
+59 of 212
+
+amino acids
+
+An amino acid is a composed of a central carbon, called the alpha carbon, that is bound to the following 4 structures:
+60 of 212
+
+Amine group (NH2), a carboxylic acid group (COOH), a hydrogen atom, and an "R" group which identifies the amino acid
+
+In an amino acid, the amine group is (positively/negatively) charged and the carboxyl group is (positively/negatively) charged
+61 of 212
+
+negatively ; positively
+
+Nonpolar amino acids are (hydrophobic/hydrophilic) and (charged/uncharged).
+62 of 212
+
+hydrophobic ; uncharged
+
+Polar amino acids are (hydrophobic/hydrophilic) and (charged/uncharged).
+63 of 212
+
+hydrophilic ; charged
+
+Acidic amino acids are (polar/nonpolar) and (charged/uncharged)
+64 of 212
+
+polar ; charged
+
+Basic amino acids are (polar/nonpolar) and (charged/uncharged).
+65 of 212
+
+polar ; charged
+
+The nonpolar amino acids are:
+66 of 212
+
+alanine, isoleucine, leucine, methionine, phenylalanine, proline, tryptophan and valine
+
+______ is a nonpolar amino acid with a cyclic structure.
+67 of 212
+
+Proline
+
+All of the polar uncharged amino acids can hydrogen-bond to water except for _________.
+68 of 212
+
+glycine
+
+The polar uncharged amino acids are:
+69 of 212
+
+asparagine, cysteine, glutamine, glycine, serine, threonine, and tyrosine
+
+The acidic amino acids are:
+70 of 212
+
+Aspartic acid and glutamic acid (aka aspartate and glutamate)
+
+The basic amino acids are:
+71 of 212
+
+arginine, histidine, lysine
+
+The amino acid that acts as a neurotransmitter is:
+72 of 212
+
+GABA (gamma-aminobutyric acid).
+
+Amino acids with nonpolar side groups are (hydrophilic/hydrophobic) and tend to clump into a group together and (attract/exclude) water.
+73 of 212
+
+hydrophobic ; exclude
+
+Polar and charged side groups on amino acids are (hydrophobic/hydrophilic). Having more of these groups in a protein make it (more/less) soluble and allows for (more/less) bonding to water and each other.
+74 of 212
+
+hydrophilic ; more; more
+
+Having acidic and basic ends allows an amino acid to have ______ bonding with another amino acid.
+75 of 212
+
+ionic
+
+The amino acid cysteine can bind to another cysteine via _______ bonds.
+76 of 212
+
+disulfide
+
+If pKa = ____ of a solution then half of the substance is protonated and the other half is not.
+77 of 212
+
+pH
+
+A ________ bond is used in the synthesis of proteins from amino acids.
+78 of 212
+
+peptide
+
+During the formation of a peptide bond between two amino acids, the two amino acids expel a _____ molecule making this a
+
+ (condensation/hydrolysis) reaction.
+79 of 212
+
+water ; condensation aka dehydration.
+
+Two amino acids joined together is called ____
+80 of 212
+
+dipeptide
+
+Three amino acid groups joined
+
+together is called a ______
+81 of 212
+
+tripeptide
+
+If at least ____ amino acids combine via peptide bonds they form a protein.
+82 of 212
+
+150
+
+(Fibrous/Globular) proteins are structural.
+83 of 212
+
+Fibrous
+
+(Fibrous/Globular) proteins are found in connective tissues, and muscle fibers
+84 of 212
+
+Fibrous
+
+Fibrous proteins are typically
+
+(soluble/insoluble) in water.
+85 of 212
+
+insoluble
+
+(Fibrous/Globular) proteins are more functional than structural.
+86 of 212
+
+Globular
+
+Globular proteins are usually water (soluble/insoluble).
+87 of 212
+
+soluble
+
+Enzymes that catalyze chemical reactions are characterized as (fibrous/globular) proteins.
+88 of 212
+
+globular
+
+Collagen is an example of a
+
+ (fibrous/globular) protein.
+89 of 212
+
+fibrous
+
+_______ is the protein that transports oxygen in cells.
+90 of 212
+
+Hemoglobin
+
+_______ are proteins that help rid the body of foreign substances.
+91 of 212
+
+Antibodies
+
+______ is a storage protein that helps the
+
+liver store iron.
+92 of 212
+
+Ferritin
+
+The four levels of protein structure are _______.
+93 of 212
+
+primary, secondary, tertiary and quaternary
+
+A protein's (primary/secondary/tertiary/quaternary) structure is the protein's basic amino acid sequence.
+94 of 212
+
+primary
+
+(mRNA/rRNA/tRNA) brings amino acids to ribosomes to be connected to a growing amino acid chain.
+95 of 212
+
+tRNA
+
+Hundreds of amino acids are joined together to form a ________ chain.
+96 of 212
+
+polypeptide
+
+The amino acid sequence of a protein is determined by the protein's _____.
+97 of 212
+
+DNA
+
+Information from DNA is transcribed to (mRNA/rRNA/tRNA).
+98 of 212
+
+mRNA
+
+By convention, amino acid chains are written with the (amino/carboxyl) group first and the (amino/carboxyl) group last
+99 of 212
+
+amino ; carboxyl
+
+Every amino acid, except for ____, has a NH which can be a donor of a hydrogen bond
+100 of 212
+
+proline
+
+Biochemistry
+ Deck 2 of 7
+100 flashcards
+
+The structure of an amino acid chain is ____.
+101 of 212
+
+planar
+
+The formation of _____ bonds throughout a polypeptide chain give rise to a protein's secondary structure.
+102 of 212
+
+hydrogen
+
+A alpha-helix or a beta-pleated sheet are examples of _______ protein structure.
+103 of 212
+
+secondary
+
+A ________ secondary protein structure is coiled every 3.6 amino acid residues.
+104 of 212
+
+alpha-helix
+
+_____ is a protein found in hair, the cornea and fur
+105 of 212
+
+Keratin
+
+Keratin consists of ___ right handed ____ wrapped around ___ left handed supercoil.
+106 of 212
+
+3 ; alpha-helixes ; 1
+
+The amino acid _____ causes kinks in a alpha helix, destabilizing it
+107 of 212
+
+prolineProline is the only amino acid that lacks
+NH for hydrogen bonding
+
+Because of its small R group compared to other amino acids, _____ can be
+
+destabilizing to alpha-helixes
+108 of 212
+
+glycine
+
+Due to its bulky R groups, the amino acid ______ can be destabilizing to alpha-helix structures
+109 of 212
+
+isoleucine
+
+_____ and ____ are amino acids with negative charges on their side chains and therefore can repel each other and destabilize structures.
+110 of 212
+
+glutamate and aspartate
+
+The secondary structure of a _____ forms when two polypeptide strands hydrogen bond to
+
+one another.
+111 of 212
+
+beta-pleated sheet
+
+In a (parallel/anti-parallel) beta pleated-sheet polypeptide strands align along the same direction, from the N terminal to the C terminal
+112 of 212
+
+parallel
+
+In (parallel/anti-parallel) beta-pleated sheets, one polypeptide strand is lined from N to C terminal and the other is in the opposite direction,
+
+from C to N terminal.
+113 of 212
+
+anti-parallel
+
+A ____ bend is a bend in primary structure held in place by a hydrogen bond and is found on the exterior of proteins.
+114 of 212
+
+hairpin bend aka beta bend
+
+In a tertiary protein structure, nonpolar side chains are hydro(phobic/philic) and also (repel/attract) other nonpolar side chains
+115 of 212
+
+phobic ; attract
+
+In a tertiary protein structure polar side chains (attract/repel) each other via dipole-dipole forces or hydrogen bonds.
+116 of 212
+
+attract
+
+In a tertiary protein structure (polar/nonpolar) side chains typically form the interior of a protein and (polar/nonpolar) proteins are found on the exterior of the protein.
+117 of 212
+
+nonpolar ; polar
+
+________structure of a protein gives rise from two or more polypeptide chains interacting.
+118 of 212
+
+Quaternary
+
+The human body produces an (antibody/antigen) in response to a foreign (antibody/antigen).
+119 of 212
+
+antibody ; antigen
+
+Antigens collect on the surface of ______ cells.
+120 of 212
+
+red blood
+
+(Ultracentrifugation/Ultrafiltration/Size exclusion chromatography) is a method used to separate proteins using the ability of certain sized molecules to diffuse through a semipermeable membrane with pressure.
+121 of 212
+
+Ultrafiltration
+
+(Ultracentrifugation/Ultrafiltration/Size exclusion tomography) is a method used to separate proteins and to determine the mass of a protein by spinning a solution quick enough to separate lighter molecules to the top of the solution and heavier to the bottom.
+122 of 212
+
+Ultracentrifugation
+
+(Ultracentrifugation/Ultrafiltration/Size exclusion chromatography) is a method used to separate proteins by passing a solution through a column filled with porous beads where larger molecules pass through the beads and smaller molecules are absorbed.
+123 of 212
+
+Size exclusion tomography
+
+The fluid portion of blood is called _____ and is mostly water.
+124 of 212
+
+plasma
+
+in the blood, ______ are fragments
+
+involved in clotting
+125 of 212
+
+Platelets
+
+In the blood, (red/white) blood cells are more prevalent than (red/white) blood cells
+126 of 212
+
+red ; white
+
+Solubility, ion exchange, chromatography and electrophoresis all separate different proteins by (shape/size/charge)
+127 of 212
+
+charge
+
+The _______ point is where the net charge on a protein is zero. At this point proteins are the (least/most) soluble
+128 of 212
+
+isoelectric ; least
+
+At a pH below a protein's isoelectric point, a protein has a net (positive/negative) charge. At a pH above a protein's isoelectric point, a protein has a net (positive/negative) charge
+129 of 212
+
+positive ; negative
+
+In (ion exchange chromatography/electrophoresis) the greater the magnitude of a charge on a protein, the slower it moves through a column
+130 of 212
+
+ion exchange chromatography
+
+In (ion exchange chromatography/electrophoresis) species with a positive charge move toward the negative end of a electrostatic field, and visa versa
+131 of 212
+
+electrophoresis
+
+Protein _______ is unfolding a protein from its structure without breaking peptide bonds.
+132 of 212
+
+denaturation
+
+The target of an enzyme is called a _______. Enzymes (increase/decrease) the rate of a chemical reaction.
+133 of 212
+
+substrate ; increase
+
+Cofactors are (protein/nonprotein)
+
+parts of enzymes.
+134 of 212
+
+nonprotein
+
+An organic cofactor is called a (coenzyme/apoenzyme/holoenzyme).An enzyme without a cofactor is called a (coenzyme/apoenzyme/holoenzyme).An enzyme combined with its cofactor is called a (coenzyme/apoenzyme/holoenzyme)
+135 of 212
+
+coenzyme ; apoenzyme ; holoenzyme
+
+For an enzyme to react with a substrate, the substrate must bind to the enzyme's ____ site
+136 of 212
+
+active
+
+A proenzyme or zymogen is the (active/inactive) form of an enzyme.
+137 of 212
+
+inactive
+
+In (competitive/noncompetitive) inhibition a substance competes with a substrate to interact with the active site of an enzyme.
+138 of 212
+
+competitiveCompetitive inhibition can be overcome by adding more substrate
+
+In (competitive/noncompetitive) inhibition a competing substance binds to an area of the enzyme outside of the active site resulting in a change in enzyme structure or function.
+139 of 212
+
+noncompetitive
+
+Enzymes often end in the suffix _____.
+140 of 212
+
+-aseEx. transferase, lyase, isomerase, hydrolase, ligase
+
+A ______ is an enzyme that transfers
+
+groups of atoms.
+141 of 212
+
+transferase
+
+A ______ is an enzyme involved in hydrolysis.
+142 of 212
+
+hydrolase
+
+A _____ is an enzyme involved in
+
+formation of double bonds.
+143 of 212
+
+lyase
+
+A _______ is an enzyme involved in
+
+joining two molecules.
+144 of 212
+
+ligase or synthetase
+
+In an oxidation reaction a substance (gains/loses) an electron, (gains/loses) an oxygen,
+
+and (gains/loses) a hydrogen
+145 of 212
+
+loses ; gains ; loses
+
+In a reduction reaction a substance (gains/loses) an electron, (gains/loses) an oxygen, and (gains/loses) a hydrogen
+146 of 212
+
+gains ; loses ; gains
+
+The enzyme that catalyzes a oxidation-reduction reaction is called an _____.
+147 of 212
+
+oxidoreductase
+
+An _____transferase transfers an amino groups between two molecules and a ____ transferase transfers a phosphoryl group between two molecules.
+148 of 212
+
+amino ; phospho
+
+Hydrolases are enzymes that break bonds through (addition/removal) of a water.
+149 of 212
+
+addition
+
+_____ enzymes result in the removal of an ammonia.
+150 of 212
+
+Deaminase
+
+_______ enzymes result in removal of a
+
+carbon dioxide.
+151 of 212
+
+Decarboxylase
+
+____ enzymes join two molecules forming a
+
+covalent bond.
+152 of 212
+
+Ligase
+
+____ carboxylase forms a carbon-carbon bond and ______ synthase forms a carbon-sulfur bond.
+153 of 212
+
+Pyruvate ; acetyl-CoA
+
+In a chemical reaction, the difference in energy between reactants and products is called _________.
+154 of 212
+
+Gibbs free energy changeNotated as triangle G
+
+If the energy of products is greater than energy of reactants energy is (released/absorbed).
+155 of 212
+
+absorbed
+
+If the energy of the products is less than that of the reactants, then energy has been (released/absorbed)
+156 of 212
+
+released
+
+A chemical reaction where energy is absorbed is called (endergonic/exergonic) and a chemical reaction where energy is released is called (endergonic/exergonic).
+157 of 212
+
+endergonic ; exergonic
+
+Endergonic reactions are (spontaneous/nonspontaneous).
+158 of 212
+
+nonspontaneous
+
+The greater the transition state (triangle G) the (faster/slower) a reaction is.
+159 of 212
+
+slower
+
+A fast reaction has a (high/low) transition state.
+160 of 212
+
+low
+
+An enzyme (lowers/raises) the transition state resulting in an increase in the reaction's rate.
+161 of 212
+
+lowers
+
+True or False: An enzyme increases the amount of products created in a reaction.
+162 of 212
+
+FalseIt only increases the speed of the reaction-- not the product amount
+
+An enzyme's ______ point occurs when all of the available enzyme is bound to substrate and there is not more available enzyme for binding.
+163 of 212
+
+saturation
+
+At the saturation point of an enzyme the rate of the reaction is at its (maximum/minimum) and the rate remains unchanged despite the addition of more substrate.
+164 of 212
+
+maximum
+
+In (zero/first) order kinetics of an enzyme-substrate reaction, the rate of the reaction depends on the
+
+concentration of one reactant. This occurs when there are is a lower level of reactants
+165 of 212
+
+first
+
+In (zero/first) order kinetics of an enzyme-substrate reaction, the rate of the reaction is independent of reactant concentration and occurs at higher concentrations of reactants
+166 of 212
+
+zero
+
+Km is also known as the ______ constant.
+167 of 212
+
+Michaelis
+
+The Michaelis constant is a measure of enzyme-substrate (effectivity/affinity).
+168 of 212
+
+affinity
+
+Km is the ______ concentration when enzyme-reactant reaction is at 1/2Vmax.
+169 of 212
+
+substrate
+
+1/2Vmax is where a _____ rate is at half of its' maximum velocity.
+170 of 212
+
+reaction
+
+The Michaelis-Menten equation is V=?
+171 of 212
+
+V= Vmax[substrate]/([substrate]+Km)
+
+In the Michaelis-Menten equation, V is _____
+172 of 212
+
+the rate of the reaction
+
+Vmax is ______.
+173 of 212
+
+The maximum rate of a reaction where enzymes are all occupied by substrate and there are not more free enzymes to react.
+
+In the Michaelis-Menten equation Km is ?
+174 of 212
+
+The Michaelis constant
+
+A high Km values indicates (strong/weak) enzyme-substrate binding and a low Km indicates (strong/weak) enzyme-substrate binding.
+175 of 212
+
+weak ; strong
+
+The Lineweaver-Burk plot of an enzyme allows for the determination of the values ___ and ___.
+176 of 212
+
+Km and Vmax
+
+In the Lineweaver-Burk plot the x-axis is ____ and the y-axis is ____.
+177 of 212
+
+X = (1/substrate) & y = (1/reaction velocity)
+
+In the Lineweaver-Burk plot the y-intercept represents
+178 of 212
+
+1/Vmax
+
+______ decrease an enzyme's activities.
+179 of 212
+
+Inhibitors
+
+The classes of enzyme inhibitors are:
+180 of 212
+
+competitive, noncompetitive,
+uncompetitive and mixed
+
+___________ inhibitors bind to the
+
+enzyme-substrate complex.
+181 of 212
+
+Uncompetitive
+
+Inhibitors to enzymes can bind _____ and _____.
+182 of 212
+
+reversible and irreversible
+
+______ inhibitors permanently alter enzyme structure or bind very strongly.
+183 of 212
+
+Irreversible
+
+A competitive inhibitor binds to an enzyme's ____ site and prevents the target substrate from binding.
+184 of 212
+
+active
+
+In competitive inhibition a portion of the inhibitor usually has similar structure to the enzyme's ____.
+185 of 212
+
+substrate
+
+______ inhibitors do not enter the active site but bind to another region of the enzyme.
+186 of 212
+
+Noncompetitive
+
+Competitive inhibition can be overcome by ______.
+187 of 212
+
+increasing the amount of substrate.
+
+True or False: in noncompetitive inhibition, inhibition can be overcome by increasing the amount of substrate
+188 of 212
+
+FALSE
+
+Using the Lineweaver-Burk plot, in the presence of a noncompetitive inhibitor the Km value is expected to _____
+189 of 212
+
+remain unchanged
+
+Using the Lineweaver-Burk plot, in the presence of a competitive inhibitor the Vmax
+
+value is expected to ________
+190 of 212
+
+remain unchanged
+
+An ________ enzyme has a regulatory site that a regulator binds to resulting in a conformational change in the enzyme into its active form.
+191 of 212
+
+allosteric
+
+____ or ____ are the different forms of the same enzyme that may have different kinematic and velocity values.
+192 of 212
+
+isozyme ; isoenzymes
+
+In ______ modification a group, such as a phosphoryl group, can be attached to an enzyme to activate it
+193 of 212
+
+covalent
+
+An inactive form of an enzyme is called a ___ or ____.
+194 of 212
+
+proenzyme or zymogen.
+
+A proenzyme or zymogen undergoes irreversible change to its active form often through hydrolysis of ____ bonds.
+195 of 212
+
+peptide
+
+The basic formula for a carbohydrate is :
+196 of 212
+
+CnH2nOn
+
+A simple sugar containing 3-9 carbons
+
+ is called a ________.
+197 of 212
+
+Monosaccharide
+
+A polymer of monosaccharides form a __________.
+198 of 212
+
+polysaccharide
+
+Two monosaccharides joined together
+
+ are called a _______.
+199 of 212
+
+disaccharide
+
+Three to ten monosaccharides joined together are called an __________.
+200 of 212
+
+oligosaccharide
+
+Biochemistry
+ Deck 3 of 7
+100 flashcards
+
+Carbohydrate names often end in ____.
+201 of 212
+
+-oseEx. glucose, lactose, fructose, sucrose
+
+A pentose is a ___carbon carbohydrate and a hexose is a __carbon carbohydrate.
+202 of 212
+
+5 ; 6
+
+Glucose (blood sugar) is also known as ______.
+203 of 212
+
+dextrose
+
+Blood glucose levels are regulated by____ which is produced in the organ the _____.
+204 of 212
+
+insulin ; pancreas
+
+In a healthy person, fasting blood sugar is <___ mg glucose/dL of blood and <___ mg glucose/dL of blood after 2 hours of eating
+205 of 212
+
+100 ; 140
+
+Diabetes is associated with a fasting glucose level of ___ and a ____ mg/dL of blood 2 hours after a sweet beverage.
+206 of 212
+
+126; 200
+
+D-ribose and D-deoxyribose are  (carbohydrates/proteins/lipids) used to form _____.
+207 of 212
+
+carbohydrates ; nucleic acids
+
+_____ linkages hold monomers of a
+
+polysaccharide together.
+208 of 212
+
+Glycoside
+
+Sucrose =
+209 of 212
+
+Glucose + Fructose
+
+Maltose =
+210 of 212
+
+Glucose + Glucose
+
+Starch and cellulose are examples of ________.
+211 of 212
+
+polysaccharide carbohydrates
+
+Glycogen is a polymer of _______ and is used as energy storage in animals.
+212 of 212
+
+glucose

@@ -1,0 +1,1139 @@
+ATP from AMP or ADP.
+1 of 211
+
+adenylate kinase
+
+Glucose produces ____ ATP molecules.
+2 of 211
+
+36
+
+Glycerol, from the break down of a fat molecule, produces ___ ATP molecules
+3 of 211
+
+18-19
+
+A catabolic reaction breaks down molecules and (creates/uses) energy.
+4 of 211
+
+creates
+
+Anabolic reactions build molecules and (create/use) energy.
+5 of 211
+
+use
+
+Glycolysis is an (aerobic/anaerobic) process that converts glucose into 2 molecules of ________.
+6 of 211
+
+anaerobic ; pyruvate
+
+Immediately when glucose enters a cell, the enzyme ______ uses ATP energy to transform the glucose into glucose___________ to prevent it
+
+from escaping the cell.
+7 of 211
+
+hexokinase ; glucose-6-phosphate
+
+In glycolysis, the enzyme ________ changes glucose-6-phosphate into fructose-6-phosphate
+8 of 211
+
+phosphoglucose-isomerase
+
+The enzyme ___________ uses ATP to change fructose-6-phosphate into fructose-1,6-bisphosphate
+9 of 211
+
+phosphofructokinaseHexokinase is another enzyme that USES ATP during glycolysis
+
+In the first phase of glycolysis, the two enzymes that require the use of ATP are:
+10 of 211
+
+hexokinase and phosphofructokinase
+
+Phosphofructokinase is inhibited by
+
+ increased levels of __________.
+11 of 211
+
+ATP
+
+In glycolysis, _________ is broken down by aldolase to form dihydroxyacetone phosphate and glyceraldehyde-3-phosphate
+12 of 211
+
+fructose-1,6-bisphosphate
+
+The end of the first phase of glycolysis results in the formation of 2 molecules of _____ and uses ___ molecules of ATP.
+13 of 211
+
+glyceraldehyde-3-phosphate ; 2
+
+The transfer of phosphate from 1,3-bisphosphoglycerate to ADP to form ATP is an example of (oxidative/substrate level) phosphorylation
+14 of 211
+
+substrate level
+
+The transfer of a phosphate from PEP (phosphoenolpyruvate) to ADP to form ATP is an example of (oxidative/substrate level) phosphorylation.
+15 of 211
+
+substrate level
+
+The ions needed for glycolysis to occur are:
+16 of 211
+
+magnesium and potassium
+
+When oxygen is present, pyruvate is converted to _____, and if oxygen is absent pyruvate
+
+is converted to _______
+17 of 211
+
+Acetyl CoA; lactate
+
+Glycolysis creates ___ ATP, ___NADH
+
+and ____ pyruvate
+18 of 211
+
+2 ; 2 ; 2
+
+_________ is the process that makes glucose from nonglucose sources.
+19 of 211
+
+Gluconeogenesis
+
+Yeast ferment pyruvate into _______.
+20 of 211
+
+ethanol
+
+The aerobic processes of carbohydrate metabolism are the _______ & _______.
+21 of 211
+
+Kreb's cycle and oxidative phosphorylation
+
+The other names of the Kreb's cycle are:
+22 of 211
+
+citric acid cycle and tricarboxylic acid cycle (TCA).
+
+Glycolysis occurs in the cellular ____ and the TCA and oxidative phosphorylation occur
+
+in the cellular ______.
+23 of 211
+
+cytosol ; mitochondria
+
+To enter TCA and oxidative phosphorylation, pyruvate from glycolysis must be converted to (lactic acid / acetyl coenzyme A)
+24 of 211
+
+acetyl coenzyme A
+
+In the TCA cycle, acetyl-CoA interacts with oxaloacetate to form:
+25 of 211
+
+citrate
+
+During the TCA cycle, ATP serves as a (negative/positive) feedback product and ADP serves as a (negative/positive) feedback product
+26 of 211
+
+negative ; positive
+
+The TCA cycle starts with the interaction of acetyl CoA with _____ and ends with the formation of ______.
+27 of 211
+
+oxaloacetate; oxaloacetate
+
+__________ is the transfer of an amino group from one molecule to another.
+28 of 211
+
+Transamination
+
+Mammals convert ammonium
+
+into _____ to be excreted.
+29 of 211
+
+urea
+
+The body may use _____ instead of carbohydrates as a source of energy during
+
+hypoglycemia, starvation, or fasting
+30 of 211
+
+amino acids (proteins)
+
+To be used as energy, amino acids typically will enter ______ as an intermediate such as succinyl-coA, fumarate, alpha-ketoglutarate or oxaloacetate
+31 of 211
+
+citric acid cycle
+
+___ or ___ produced by the citric acid cycle are used in oxidative phosphorylation.
+32 of 211
+
+NADH and FADH2
+
+The final electron acceptor in oxidative phosphorylation is:
+33 of 211
+
+oxygen
+
+_____ and ____ are the reduced coenzymes that provide electrons gained from the
+
+oxidation of pyruvate.
+34 of 211
+
+NADH and FADH2
+
+(Oxidation/Reduction) involves the loss of an electron and a (oxidation/reduction) reaction involves the gain of an electron.
+35 of 211
+
+Oxidation ; reduction
+
+(NADH/NAD) is oxidized and
+
+(NADH/NAD) is reduced.
+36 of 211
+
+NAD ; NADH
+
+Coenzyme Q is an example of a _______.
+37 of 211
+
+ubiquinone
+
+On the electron transport chain, _____ are proteins that contain heme and iron
+38 of 211
+
+cytochromes
+
+Cytochrome ______ is the final protein that transfers the final electron to oxygen on the electron transport chain.
+39 of 211
+
+oxidase
+
+NADH can create ___ ATP and FADH2 can create ___ATP on the electron transport chain.
+40 of 211
+
+3 ; 2
+
+The ___ gradient created by the electron transport chain serves as a primary potential energy source for the creation of ATP.
+41 of 211
+
+hydrogen
+
+The creation of the hydrogen gradient in the electron transport chain occurs on the (inner/outer) mitochondrial membrane.
+42 of 211
+
+inner
+
+The oxidation of glucose creates ___ ATP, and the oxidation of 2 pyruvate creates ___ additional ATP
+43 of 211
+
+6; 30
+
+The breakdown of fatty acids to create
+
+energy is called ___________.
+44 of 211
+
+beta-oxidation
+
+Beta-oxidation occurs in the (cytosol/mitochondria).
+45 of 211
+
+mitochondria
+
+Fatty _____ needs to be activated by the use of ATP for beta-oxidation to occur.
+46 of 211
+
+Acyl-coA
+
+Each cycle of beta-oxidation creates ____ ATP, __NADP, and ___FADH2
+47 of 211
+
+10;1;1
+
+Excess acetyl-CoA is transformed into _______.
+48 of 211
+
+ketone bodies
+
+In _____ the body does not have enough carbohydrates to metabolize for energy and metabolizes fat instead.
+49 of 211
+
+ketosis
+
+High levels of ketones in the blood can cause (alkalosis/acidosis).
+50 of 211
+
+acidosis
+
+The ____ is the organ where fatty
+
+acid synthesis occurs.
+51 of 211
+
+liver
+
+Humans cannot synthesize the
+
+following fatty acids:
+52 of 211
+
+linoleic and linolenic
+
+______ fatty acids and ____ amino acids need to be obtained the the diet.
+53 of 211
+
+Essential ; essential
+
+Humans can synthesize __ of the ___ amino acids. The rest must be taken in in the diet.
+54 of 211
+
+11 ; 20
+
+Alanine, Asparagine, aspartate, glutamine, proline and serine can all be derived from the amino acid:
+55 of 211
+
+glutamate
+
+Excess phenylalanine can be converted
+
+ into the amino acid:
+56 of 211
+
+tyrosine
+
+Methionine and serine can combine to
+
+form the amino acid:
+57 of 211
+
+cysteine
+
+Humans eliminate nitrogen as ____.
+58 of 211
+
+urea
+
+5-phospho-alpha-D-ribose 1-pyrophosphate (PRPP) is involved in the formation of ________.
+59 of 211
+
+nucleotides (purines and pyrimidines)
+
+_____ amino acids are ones that can be broken down to form pyruvate to form glucose.
+60 of 211
+
+Glucogenic
+
+The only amino acid that is SOLELY ketogenic and has no glucogenic ability is:
+61 of 211
+
+leucine
+
+_____ amino acids are ones that can be broken down to form a-keto acid and then into acetyl-coA and acetoacetic acid.
+62 of 211
+
+Ketogenic
+
+Ketogenic amino acids transform from amino acids into intermediates for the _______.
+63 of 211
+
+Kreb's cycle
+
+Hemoglobin and myoglobin both contain ____.
+64 of 211
+
+heme and oxygen
+
+Iron in the body is stored as _____.
+65 of 211
+
+ferritin
+
+Free heme in the body is stored
+
+ in the __________ as _______.
+66 of 211
+
+gallbladder ; bilirubin
+
+The amino acid ________ serves as storage and transport of nitrogen.
+67 of 211
+
+glutamine
+
+The urea cycle is the conversion of ___ to ___ for elimination.
+68 of 211
+
+nitrogen ; urea
+
+______ is a condition that occurs from the overproduction of uric acid.
+69 of 211
+
+Gout
+
+In the condition gout, sodium urate can cause____ in the kidneys and the build up of
+
+crystals in _________
+70 of 211
+
+kidney stones ; joints and extremities
+ (especially the big toe)
+
+Like gout, the condition Lesch-Nyhan syndrome occurs when there is a build up of uric acid due to inadequate ________ catabolism
+71 of 211
+
+purine
+
+X-linked traits occur more often in (men/women).
+72 of 211
+
+men
+
+(Men/Women) have one X chromosome and (men/women) have two X chromosomes.
+73 of 211
+
+Men ; women
+
+Albinism is a (recessive/dominant) trait that occurs due to an error in _____ metabolism.
+74 of 211
+
+recessive ; tyrosine
+
+The precursor to the pigment
+
+melanin is the amino acid _______.
+75 of 211
+
+tyrosine
+
+Phenylketonuria is due to a problem with the metabolism of the amino acid __________.
+76 of 211
+
+phenylalanine
+
+Biochemistry
+ Deck 6 of 7
+100 flashcards
+
+DNA is wrapped around a protein called a ________.
+77 of 211
+
+histone
+
+Eight DNA wrapped histones form a ________.
+78 of 211
+
+nucleosome
+
+A coding portion of DNA is called an (intron/exon) and a non-coding portion of DNA is
+
+called an (intron/exon).
+79 of 211
+
+exon ; intron
+
+DNA synthesis occurs from the (5'/3') end to the (5'/3') end.
+80 of 211
+
+5' ; 3'
+
+The discontinuous fragments called ____________ are discontinuous copies of DNA that form during replication of the antiparallel 3 to 5 DNA strand.
+81 of 211
+
+Okazaki fragments
+
+The enzyme needed for DNA replication is called :
+82 of 211
+
+DNA polymerase
+
+In order for DNA polymerase to initiate replication of DNA it needs a short (RNA/DNA)_______.
+83 of 211
+
+RNA primer
+
+______ enzymes separate double stranded DNA before it can be replicated.
+84 of 211
+
+Helicase
+
+(Polymerases/Exonucleases) add nucleotides to DNA strands and (polymerases/exonucleases) remove nucleotides from DNA strands.
+85 of 211
+
+Polymerases ; exonucleases
+
+Nucleotides always get added to the (3'/5') end of the growing DNA strand.
+86 of 211
+
+3'
+
+_______ generates the RNA primer needed for DNA polymerase to begin DNA replication.
+87 of 211
+
+RNA polymerase
+
+Proofreading of DNA by DNA polymerase is done in the (3' to 5' /5' to 3') direction.
+88 of 211
+
+3'to5'
+
+_____ is the name given to the RNA polymerase that creates the RNA primer needed for DNA replication.
+89 of 211
+
+Primase
+
+The ________ is the point where DNA is separated in order for replication to begin.
+90 of 211
+
+replication fork
+
+Replication on the (leading/lagging) strand of DNA is continuous, and replication on the (leading/lagging) strand of DNA is discontinuous
+91 of 211
+
+leading ; lagging
+
+The leading strand of DNA is the (parallel/antiparallel) strand running (3'to5'/ 5'to3')
+92 of 211
+
+parallel ; 3'to5'
+
+The lagging strand of DNA is the (parallel/antiparallel) strand running (3'to5'/5'to3')
+93 of 211
+
+antiparallel ; 5'to3'
+
+The enzyme __________ joins the discontinuous fragments of DNA (created by the antiparallel strand replication) into a single continuous strand.
+94 of 211
+
+DNA ligase
+
+The leading strand requires (one/many) RNA primers and the lagging strand requires (one/many) RNA primers to replicate.
+95 of 211
+
+one ; many
+
+DNA polymerase (I / II / III) makes DNA on the lagging and leading steands and DNA polymerase (I / II / III) makes DNA between Okazaki fragments and processes primers.
+96 of 211
+
+III ; I
+
+______ are DNA segments at the end of DNA with hundreds of repeating units.
+97 of 211
+
+Telomeres
+
+The enzyme ________ recognizes the telomere sequence at the end of DNA and
+
+completes the strand.
+98 of 211
+
+telomerase
+
+A ______ dimer is an example of
+
+DNA damage caused by _____.
+99 of 211
+
+thymine ; UV
+
+Over the lifetime of an organism, their DNA telomeres (grow/degrade)
+100 of 211
+
+degrade
+
+Cancer cells tend to have (shortened/extended) telomeres.
+101 of 211
+
+extended
+
+Thymine dimers, an error of DNA where two pyrimidines are joined together rather than joining a pyrimidine to a  purine, are repaired by the enzyme _____.
+102 of 211
+
+photolyase
+
+In a DNA ____excision repair an incorrect or faulty or pyrimidine is removed and replaced.
+103 of 211
+
+base
+
+In a DNA ____excision repair, a whole segment of DNA is removed and replaced
+104 of 211
+
+nucleotide
+
+A (transition/transversion) substitution mutation occurs when one purine is replace
+
+with another purine.
+105 of 211
+
+transition
+
+A (transition/transversion) substitution mutation occurs when one purine is replaced with an pyrimidine or vise versa
+106 of 211
+
+transversion
+
+If a change in nucleotide sequence results in a change in ______ sequence, protein structure and function may be affected
+107 of 211
+
+amino acid
+
+A change in a DNA sequence is called a genetic _____ and it may, or may not, have
+
+good or bad consequences
+108 of 211
+
+mutation
+
+Acatalasia is a condition due to a
+
+defective ______ enzyme in red blood cells.
+109 of 211
+
+catalase
+
+___________ is a genetic disease with a defect in CF transmembrane conductance regulator.
+110 of 211
+
+Cystic fibrosis
+
+Fabry's disease is a genetic condition due to a defect in the enzyme:
+111 of 211
+
+alpha-galactosidase
+
+Gaucher's disease is a genetic condition due to a defect in the enzyme:
+112 of 211
+
+glucocerebrosidase
+
+A genetic defect resulting in defective enzyme iodotyrosine dehalogenase occurs in the condition:
+113 of 211
+
+goiter
+
+The genetic disease hemochromatosis results from the defective  ______ protein resulting in a impaired ability to absorb iron from food.
+114 of 211
+
+HFE
+
+Hemophilia is a genetic condition that is due to a defect in the ______ protein.
+115 of 211
+
+antihemophilic factor (factor VIII)
+
+A defect in the protein ornithine transcarbamylase results in the genetic condition:
+116 of 211
+
+hyperammonemia
+
+McArdle's syndrome is a genetic condition that occurs due to a defective _______ protein.
+117 of 211
+
+muscle phosphorylase
+
+Niemann-Pick disease is a genetic condition due to a defect in the enzyme  ______.
+118 of 211
+
+sphingomyelinase
+
+_______ is a genetic disease that occurs due to a defective enzyme phenylalanine hydroxylase.
+119 of 211
+
+Phenylketonuria
+
+An alpha1-antitrypsin deficiency results in the in the genetic disease ______.
+120 of 211
+
+pulmonary emphysema
+
+Sickle cell anemia is a genetic condition that occurs due to a defect in _____ proteins.
+121 of 211
+
+hemoglobin
+
+________ is a genetic condition caused by a defect in the enzyme hexosaminidase A.
+122 of 211
+
+Tay-Sachs
+
+__________ is a condition caused by a defect in the blood protein ceruloplasmin.
+123 of 211
+
+Wilson's disease
+
+________ enzymes cut DNA into fragments.
+124 of 211
+
+Restriction
+
+In (vitro/vivo) means in a test tube and in (vitro/vivo) means in a cell.
+125 of 211
+
+vitro ; vivo
+
+_______ DNA technology can be used to add new genes into existing DNA.
+126 of 211
+
+Recombinant
+
+In order to reproduce a fragment of DNA ______ enzymes can remove the fragment and attach it to a _____ such as a plasmid.
+127 of 211
+
+restriction ; vector
+
+Plasmids are (linear/circular) DNA.
+128 of 211
+
+circular
+
+In gel electrophoresis, substances that are small with a positive charge will be closer to the (positive/negative) (anode/cathode)
+129 of 211
+
+negative cathode
+
+(Southern/Northern/Western) blotting uses radioactive phosphate incorporated into nucleotides to determine a DNA sequence.
+130 of 211
+
+Southern
+
+(Southern/Northern/Western) blotting uses radioactive phosphate incorporated into nucleotides to determine a RNA sequence.
+131 of 211
+
+Northern
+
+(Southern/Northern/Western) blotting is used to identify proteins.
+132 of 211
+
+Western
+
+(Cooling/Heating) is used to denature DNA.
+133 of 211
+
+Heating
+
+_________ is a method used to replicate a DNA sequence in order to increase the amount of sample that can be analyzed in other procedures.
+134 of 211
+
+Polymerase chain reaction
+
+In a polymerase chain reaction DNA is denatured and separated into two strands and a primer is added to the sequence being targeted. Next, the enzyme __________ is added to replicate the target sequence where the primers attached
+135 of 211
+
+DNA polymerase
+
+In RFLP (restriction fragment length polymorphism) a _________ cuts the  DNA and the fragments
+
+are run on a _______.
+136 of 211
+
+restriction endonuclease ; gel electrophoresis
+
+In STR (short tandem repeat) analysis, a DNA sample is examined for ___ specific regions
+137 of 211
+
+13
+
+______ is used to treat heritable conditions through DNA modifications.
+138 of 211
+
+Gene therapy
+
+Sickle cell anemia is a genetic condition that results in a faulty _____ protein due to the substitution of the amino acid ____ for _____.
+139 of 211
+
+hemoglobin ; valine ; glutamateNormal hemoglobin has glutamate
+
+In sickle cell anemia, hemoglobin structure is altered due to the fact that (valine/glutamate), a (polar/non polar) amino acid is replaced with the amino acid (valine/glutamate) which is a (polar/non polar) amino acid
+140 of 211
+
+glutamate; polar ; valine ; nonpolarNormal hemoglobin has glutamate
+
+It is proposed that the condition sickle cell provides a benefit of resistance against the disease ______.
+141 of 211
+
+malaria
+
+In the condition _________ faulty red blood cells occlude small blood vessel and cause pain. Additionally, these blood cells have a shorter than expected lifetime, resulting in chronic anemia
+142 of 211
+
+sickle cell anemia
+
+Hemochromatosis is a genetic condition that causes the body to absorb and store too (little/much) iron.
+143 of 211
+
+much
+
+Cystic fibrosis is a genetic disease that affects the mucous glands in the _____ and _____ systems.
+144 of 211
+
+respiratory and digestive
+
+Daughters of a hemophiliac father and a nonhemophiliac mother will be ________.
+145 of 211
+
+carriers of the gene
+
+If a woman with hemophilia has a son with a nonhemophiliac father, there is a ____ chance the son will have hemophilia and a ____ chance her daughters will be carriers
+146 of 211
+
+50% ; 50%
+
+The synthesis of RNA from DNA is called :
+147 of 211
+
+transcription
+
+In transcription of RNA, the nucleotide base thymine is replaced with ______
+148 of 211
+
+uracilThymine does not exist in the world of RNA
+
+In DNA, thymine pairs with _____ and in
+
+RNA uracil pairs with _______
+149 of 211
+
+adenine ; adenine
+
+Once RNA is created, it can be used as a
+
+template to synthesize ____
+150 of 211
+
+proteins
+
+RNA formation occurs in the (cytosol/nucleus).
+151 of 211
+
+nucleus
+
+The enzyme ________ joins nucleotides
+
+together to create RNA.
+152 of 211
+
+RNA polymerase
+
+RNA is made from (5'/3') end to (5'/3') end.
+153 of 211
+
+5' to 3'
+
+Which is more stable, RNA or DNA?
+154 of 211
+
+DNA
+
+mRNA carries information
+
+from the ____ to the ______.
+155 of 211
+
+nucleus ; ribosomes in the cytosol
+
+_____ RNA slices together components of mRNA.
+156 of 211
+
+Small nuclear (snRNA)
+
+In order for transcription to start, RNA polymerase must bind to the _______ site of DNA
+157 of 211
+
+promoter
+
+A  structural gene is a gene that codes for a _____.
+158 of 211
+
+protein
+
+In eukaryotic cells the promoter sequence of DNA is located at the _____ box, the _____box
+
+or the _____ box
+159 of 211
+
+TATA ;  CAAT ; GC
+
+After transcription a ___ is added to the 5' end of the RNA and a ____ is added to the 3' end
+
+of the RNA.
+160 of 211
+
+cap ; poly(A) tail
+
+The three stages of RNA transcription are :
+161 of 211
+
+initiation elongation and termination
+
+_______ factors interact with RNA polymerase to regulate transcription via activation or repression.
+162 of 211
+
+Transcription
+
+After transcription, mRNA (introns/exons) are spliced out of the sequence prior to translation
+163 of 211
+
+introns
+
+In prokaryotic cells transcription occurs in the ____ and translation occurs in the _____.
+164 of 211
+
+cytoplasm ; cytoplasm
+
+In eukaryotes transcription occurs in the ______ and translation occurs in the _____.
+165 of 211
+
+nucleus ; cytosol (cytoplasm)
+
+Segments of mRNA that code for proteins are called (introns/exons).
+166 of 211
+
+exons
+
+(Promoters/Enhancers) are segments of DNA where RNA polymerase binds to start transcription and (promoters/enhancers) are segments of DNA that increase the effectiveness of RNA polymerase.
+167 of 211
+
+Promotors; enhancers
+
+Promoters are (cis/trans) acting elements and enhancers are (cis/trans) acting elements.
+168 of 211
+
+cis ; trans
+
+Before RNA polymerase can bind to its promotor region a _________binds to it to allow for DNA unwinding.
+169 of 211
+
+transcription factor
+
+At the 3' end of an mRNA molecule that enzyme poly(A) polymerase adds about 250 ________ residues.
+170 of 211
+
+adenylate
+
+The enzymes that splice out (introns/exons) and join together the remaining (introns/exons) are called _______.
+171 of 211
+
+introns ; exons ; spliceosomes
+
+mRNA interacts with __RNA at ribosomes to
+
+create proteins.
+172 of 211
+
+t
+
+tRNA is made up of these 2 elements:
+173 of 211
+
+anticodon and amino acid
+
+The anticodon of tRNA is complementary
+
+to the _____ of mRNA.
+174 of 211
+
+codon
+
+Amino acids are attached to tRNA anticodons
+
+via the enzyme:
+175 of 211
+
+aminoacyl-tRNA synthetase
+
+A codon is made up of ___ bases.
+176 of 211
+
+three
+
+Biochemistry
+ Deck 7 of 7
+35 flashcards
+
+The four possible bases in a tRNA anticodon are:
+177 of 211
+
+adenine, guanine, cytosine and uracil
+
+The the stop codons which signal the end of protein production at ribosomes are:
+178 of 211
+
+UAA ; UAG; UGA
+
+In eukaryotes, the starting codon that initiates protein synthesis is ____
+179 of 211
+
+AUG
+
+An mRNA that is able to code for more than one protein is called ______.
+180 of 211
+
+polygenic
+
+An ______ is a series of genes and enzymes that coordinate the expression of a particular protein only when it is needed.
+181 of 211
+
+operon
+
+A complex of a cell's DNA and associated proteins, such as histones is called ____
+182 of 211
+
+chromatin
+
+Histones are rich in the amino acids ____ and ____.
+183 of 211
+
+arginine and lysine
+
+Methyl groups on DNA  cytosines (simulate/interfere) with DNA expression.
+184 of 211
+
+interfere
+
+Steroid hormones can bind to nuclear receptors causing conformational change in
+
+DNA needed for ______.
+185 of 211
+
+transcription
+
+If an mRNA codon is AUG, the matching tRNA anticodon will be:
+186 of 211
+
+UAC
+
+The two subunits of a prokaryotic ribosome are:
+187 of 211
+
+50S and 30S
+
+The three sites of a ribosome are:
+188 of 211
+
+E site, P site, A site
+
+The (E/P/A) site of a ribosome is the area where a tRNA  is after it delivers its amino acid.
+189 of 211
+
+E (exit)
+
+The (E/P/A) site of a ribosome is the area where the initial amino acid or the C-terminal amino acid is occupied.
+190 of 211
+
+P (peptidyl)
+
+The (E/P/A) site is the area of a ribosome that holds the tRNA that is attached to the next amino
+
+acid to be added.
+191 of 211
+
+A (aminoacyl)
+
+The amino acid that signals the start
+
+of translation is _____.
+192 of 211
+
+methionine
+
+Protein production occurs from (carboxyl/amino) end to (carboxyl/amino) end.
+193 of 211
+
+amino; carboxyl
+
+During the (initiation/activation) stage of protein synthesis, an amino acid interacts with ATP to eventually create functional tRNA
+194 of 211
+
+activation
+
+During the (initiation/activation) stage of protein synthesis, mRNA and tRNA interact at the ribosome via matching of codons and anticodons
+195 of 211
+
+activation
+
+The codon of mRNA is found at the
+
+P site of the (40/60) S subunit.
+196 of 211
+
+40
+
+The amino acid to be added to a polypeptide chain is found at the P site of the (40/60) S subunit.
+197 of 211
+
+60
+
+When the 40 S and 60 S subunits combine to allow tRNA to interact with both parts,
+
+it forms a ___ S subunit
+198 of 211
+
+80
+
+_________ factors are proteins that bring mRNA and tRNA to the ribosome.
+199 of 211
+
+Initiation
+
+During the elongation phase of translation a new tRNA is brought to the (A/P) site of a ribosome by elongation factors.
+200 of 211
+
+A
+
+In Prokaryotes transcription and translation occurs (separately / simultaneously).
+201 of 211
+
+simultaneously
+
+_____ factors are proteins that respond to stop codons to terminate translation.
+202 of 211
+
+Release
+
+The subunits of a eukaryotic ribosome are :
+203 of 211
+
+40S and 60S
+
+In eukaryotes the initiator-tRNA is methionine and in prokaryotes the initiator-tRNA is:
+204 of 211
+
+formyl-methionine
+
+The _____ test is used to determine if a substance can potentially mutate DNA.
+205 of 211
+
+Ames
+
+A test that detects human chorionic gonadotropin hormone is used to test for _____.
+206 of 211
+
+pregnancy
+
+Hereditary forms are breast cancer are associated to the ____ genes.
+207 of 211
+
+BRCA
+
+Prenatal genetic testing involves looking for potential genetic defects in ________ patients.
+208 of 211
+
+fetal patients
+
+_________ is taking a sample of amniotic fluid to test for genetic defects.
+209 of 211
+
+Amniocentesis
+
+Genetic __________ involves taking a gene from one organism and putting it in another.
+210 of 211
+
+engineering
+
+Gene ____ involves replacing a disease causing gene with a healthy one.
+211 of 211
+
+therapy
