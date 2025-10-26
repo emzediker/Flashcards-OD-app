@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Split + Renumber Flashcards (2 Decks)</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:18px;background:#fff;color:#111}
+  .card{max-width:880px;margin:auto;border:1px solid #ddd;border-radius:12px;padding:18px}
+  h1{font-size:20px;margin:0 0 12px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0}
+  input[type=file]{padding:9px 12px;border:1px solid #ccc;border-radius:8px}
+  button{padding:10px 14px;border:1px solid #999;border-radius:8px;background:#0a7;color:#fff;font-weight:600;cursor:pointer}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  .muted{color:#666;font-size:13px}
+  .box{padding:10px;border:1px dashed #bbb;border-radius:8px;background:#fafafa;margin-top:10px}
+  .ok{color:#0a7}
+  .warn{color:#b46900}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Split + Renumber Flashcards into 2 Decks</h1>
+  <div class="row">
+    <input id="file" type="file" accept=".txt,text/plain">
+    <button id="splitBtn">Split + Renumber</button>
+  </div>
+  <div class="muted">
+    Upload your merged and renumbered TXT file (with anchors like “1 of 315”).  
+    This will split into two decks and renumber each half starting from 1.
+  </div>
+
+  <div id="result" class="box">
+    <div id="status">Waiting for file…</div>
+    <button id="dl1" disabled>Download Deck 1</button>
+    <button id="dl2" disabled>Download Deck 2</button>
+  </div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const fileInput = $('#file');
+const splitBtn = $('#splitBtn');
+const statusEl = $('#status');
+const dl1 = $('#dl1');
+const dl2 = $('#dl2');
+let deck1Blob=null, deck2Blob=null;
+
+// Helpers
+function readAsText(f){return new Promise((res,rej)=>{const r=new FileReader();r.onload=()=>res(String(r.result||''));r.onerror=rej;r.readAsText(f);});}
+function cleanLine(s){return s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').replace(/\uFFFD/g,'').trim();}
+function findAnchors(lines){
+  const re = /^\s*(\d+)\s+of\s+(\d+)\s*$/i;
+  const idx=[];for(let i=0;i<lines.length;i++){if(re.test(lines[i]))idx.push(i);}
+  return idx;
+}
+
+function splitDecks(text){
+  const lines = text.replace(/\r/g,'').split('\n').map(cleanLine);
+  const anchors = findAnchors(lines);
+  if(!anchors.length) return { decks:[], count:0 };
+  const blocks=[];
+  for(let i=0;i<anchors.length;i++){
+    const start=anchors[i];
+    const end=(i+1<anchors.length)?anchors[i+1]:lines.length;
+    blocks.push(lines.slice(start,end));
+  }
+  const total=blocks.length;
+  const half=Math.ceil(total/2);
+  const first=blocks.slice(0,half);
+  const second=blocks.slice(half);
+
+  // Renumber
+  for(let i=0;i<first.length;i++) first[i][0]=`${i+1} of ${first.length}`;
+  for(let i=0;i<second.length;i++) second[i][0]=`${i+1} of ${second.length}`;
+
+  return {
+    decks: [
+      first.map(b=>b.join('\n')).join('\n'),
+      second.map(b=>b.join('\n')).join('\n')
+    ],
+    count: total
+  };
+}
+
+splitBtn.onclick=async()=>{
+  dl1.disabled=true; dl2.disabled=true; statusEl.textContent='Reading file…';
+  const f=fileInput.files[0];
+  if(!f){statusEl.innerHTML='<span class="warn">Please choose a TXT file.</span>';return;}
+  try{
+    const txt=await readAsText(f);
+    const {decks,count}=splitDecks(txt);
+    if(!count){statusEl.innerHTML='<span class="warn">No anchors (“X of Y”) found.</span>';return;}
+    deck1Blob=new Blob([decks[0]],{type:'text/plain'});
+    deck2Blob=new Blob([decks[1]],{type:'text/plain'});
+    dl1.disabled=false; dl2.disabled=false;
+    statusEl.innerHTML=`<span class="ok">Split ${count} cards → Deck 1 (${count - Math.floor(count/2)} cards) + Deck 2 (${Math.floor(count/2)} cards)</span>`;
+  }catch(e){console.error(e);statusEl.innerHTML='<span class="warn">Error reading file.</span>';}
+};
+
+dl1.onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(deck1Blob);a.download='ocularmotor_sensory_1.txt';a.click();};
+dl2.onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(deck2Blob);a.download='ocularmotor_sensory_2.txt';a.click();};
+</script>
+</body>
+</html>
