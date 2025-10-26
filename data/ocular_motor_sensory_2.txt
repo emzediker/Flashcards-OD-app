@@ -188,7 +188,7 @@ As interpupillary distance increases, stereoacuity (increases/decreases).
 
 increases - Wider spread eyes have better stereopsis-- like frogs.
 
-As viewing distance decreases, stereoacuity (increases/decreases)
+As viewing distance decreases, stereoacuity (increases/decreases).
 39 of 157
 
 increases
@@ -370,7 +370,7 @@ radiations
 __________ points are line up across layers of the LGN in projection columns.
 74 of 157
 
-corresponding retinal
+Corresponding retinal
 
 It is suggested that the interlaminar areas between the 6 layers of the LGN play an (excitatory/inhibitory) role in phenomena such as binocular _______ and ______.
 75 of 157
@@ -425,7 +425,7 @@ simple or complex
 When a binocular cell in the striate cortex has a response that is greater than two times of either eyes individual response, this is called binocular __________.
 85 of 157
 
-facilitation - Facilitation is "two eyes are better than two"
+facilitation - Facilitation is "two eyes are better than two."
 
 When a binocular cell in the striate cortex has a response that is greater when both eyes are stimulated rather that one eye individually, this is called binocular ________.
 86 of 157
@@ -465,7 +465,7 @@ Orientation
 A ________ consist of both ocular dominance columns and orientation columns in one location of the visual field.
 93 of 157
 
-Hypercolumn
+hypercolumn
 
 For each receptive field of one eye, there is (one / many) receptive field(s) in the fellow eye that will interact with it.
 94 of 157
@@ -660,12 +660,12 @@ diplopia
 Amblyopia that results from unequal refractive errors between the two eyes is referred to as ___________ amblyopia.
 132 of 157
 
-anisometropic -The anisometropic amblyogenic factors are +1.00DS -3.00DS and -1.50 cyl.
+anisometropic - The anisometropic amblyogenic factors are +1.00DS -3.00DS and -1.50 cyl.
 
 In a patient with anisometropic amblyopia one eye has an blurry image relative to the other due to consensual _________.
 133 of 157
 
-accommodation Both eyes accommodate the same amount.
+accommodation - Both eyes accommodate the same amount.
 
 Amblyopia that results from relatively equally high refractive errors between the two eyes is called _______ amblyopia
 134 of 157
