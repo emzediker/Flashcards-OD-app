@@ -221,6 +221,7 @@ Henderson-Hasselbalch
 The two forms of the Henderson-Hasselbalch equation are:
 45 of 212
 
+See equations below.
 
 For a buffer to resist pH change as much as possible, the concentrations of conjugate acid-base pair should be (unequal/equal) and (low/high).
 46 of 212
