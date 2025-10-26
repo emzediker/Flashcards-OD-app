@@ -1,0 +1,824 @@
+1 of 157
+
+stays stillPrism should elicit eye movement
+
+If a patient is suppressing during vergence ranges testing, the image the patient is receiving with the nonsuppressing eye will appear to move in the direction of the (base/apex) of the nonsuppressing eye
+2 of 157
+
+apex
+
+The view through a Bagolini lens with striations at 045 degrees will be seen as a line with an orientation of ____ degrees.
+3 of 157
+
+135And if striations are 135, they will be seen as 045
+
+The depth of suppression using a Bagolini lens can be measured by placing a neutral density filter in front of the (suppressing/nonsuppressing) eye.
+4 of 157
+
+suppressingIf the checkerboard pattern is not seen, one of the eyes is suppressing
+
+__________ occurs when the information from each individual eye is combined resulting in a greater visual performance that when one eye is used alone.
+5 of 157
+
+Binocular summationEx. Monocular VA may be 20/20 and binocular VA may be 20/13
+
+Under normal binocular conditions, critical flicker frequency will be (higher/the same/ lower) under binocular conditions than under
+monocular conditions
+6 of 157
+
+higherDue to binocular summation more flickers per second can be seen
+
+There is a ___ improvement, or ___% improvement in binocular viewing activities compared to monocular viewing activities
+7 of 157
+
+1.4 ; 40%
+
+(Probability / Neural) summation is the the degree of improvement expected by using two eyes without considering a binocular combination of information. This type of summation depends on statistical information to explain binocular summation.
+8 of 157
+
+Probability
+
+(Probability/Neural) summation  is the degree of improvement expected by using two eyes that can be explained by a combination of the precept by a cortical binocular process.
+9 of 157
+
+Neural
+
+A test of (neural/probability) summation requires stimulation of corresponding points, and a test of (neural/probability) summation requires stimulation of noncorresponding points
+10 of 157
+
+neural ; probabilityCorresponding points activate the same cortical binocular neuron
+
+In Fetchner's paradox, under binocular conditions where one eye has a neutral density filter, the image appears (darker/brighter) than under monocular unfiltered conditions alone
+11 of 157
+
+darkerEven though one eye is penalized, it still looks brighter binocularly
+
+________ stimuli are only perceived by the binocular visual system and cannot be seen under monocular conditions.
+12 of 157
+
+Cyclopean
+
+According to Emmett's law, the perceived size of an object producing a retinal image of a given fixed size is proportional to its perceived ______
+13 of 157
+
+distanceIf it looks far away it is seen as being larger than the retinal image
+
+The same after image viewed twice as far away will be perceived as being
+(smaller/larger/the same size).
+14 of 157
+
+larger
+
+Size _______ is a perceptual scaling of a perceived size of an object according to its estimated distance.
+15 of 157
+
+constancy
+
+The ________ effect is an example of shape from motion, where one can infer from a moving shadow that an object is not flat due to the changing contours of the shadow as the object is rotated
+16 of 157
+
+kinetic depth effect
+
+_______ is the only direct means of seeing depth and occurs under binocular conditions.
+17 of 157
+
+Stereopsis
+
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is becoming (smaller/larger)
+18 of 157
+
+smaller
+
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is moving
+(closer/further away)
+19 of 157
+
+closer
+
+In a normal binocular vision system, when base in prism is increasingly introduced, a patient will perceive that an object is becoming (smaller/larger)
+20 of 157
+
+larger
+
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that an object is moving
+(closer/further away)
+21 of 157
+
+further away
+
+SOLI and SILO effects are a
+consequence of ___________.
+22 of 157
+
+size constancysmall out / large in" refers to the effect of prism on a normal system
+
+For stereopsis to occur in a normal patient, images my fall on (corresponding/noncorresponding) points (inside/outside) of Panum's fusional area."
+23 of 157
+
+noncorresponding points ; inside
+
+If an object is in front of a point of fixation, its image will fall on the (nasal/temporal) retina resulting in (crossed/uncrossed) disparity
+24 of 157
+
+temporal; crossed
+
+If an object is behind a point of fixation, its image will fall on the (nasal/temporal) retina, resulting in (crossed/uncrossed) disparity
+25 of 157
+
+nasal; uncrossed
+
+(Absolute/Relative) depth is the distance between an object and an observer and (absolute/relative) depth is the distance between two objects from an observer.
+26 of 157
+
+Absolute ; relative
+
+The diffrequency effect (where two gratings of different spatial frequencies are presented to a single eye each) has a similar effect to the tiled effects noted in _______.
+27 of 157
+
+aniseikonia
+
+Placing a neutral density filter in front of one eye while viewing a moving object will result the perception of different (spatial/temporal) frequencies.
+28 of 157
+
+temporal
+
+In the Pulfrich phenomenon where an neutral density filter is placed in front of the right eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise)
+29 of 157
+
+counterclockwise
+
+In the Pulfrich phenomenon where an neutral density filter is placed in front of the left eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise)
+30 of 157
+
+clockwise
+
+In longitudinal chromatic aberration, (blue/red) light is refracted more than (blue/red) light due to its (shorter/longer) wavelength
+31 of 157
+
+blue ; red ; shorter
+
+In the transverse chromatic effect, longer wavelengths, such as red light, are displaced (nasally/temporally) compared to short wavelengths, such as blue light
+32 of 157
+
+temporallyThis causes a relative crossed
+disparity compared to blue
+
+In chromostereopsis, two objects (one long wavelength red and one short wavelength blue) on the same fixation distance will be perceived as being from differing distances. The (red/blue) object will be seen as closer
+33 of 157
+
+red
+
+In chromostereopsis, a red object may be perceived as being closer than a blue object despite being the same fixation distance due to the red object having more (uncrossed/crossed) disparity
+34 of 157
+
+crossed
+
+True or false: a color blind patient can
+experience chromostereopsis.
+35 of 157
+
+TRUE
+
+_____ acuity is the smaller depth difference a patient can see.
+36 of 157
+
+Stereo
+
+Stereo acuity and Vernier acuity are
+both _____ acuities.
+37 of 157
+
+hyper
+
+As interpupillary distance increases, stereoacuity (increases/decreases)
+38 of 157
+
+increasesWider spread eyes have better stereopsis-- like frogs
+
+As viewing distance decreases, stereoacuity (increases/decreases)
+39 of 157
+
+increases
+
+Small receptive fields are found at the (peripheral retina/ fovea) and large receptive fields are found at the (peripheral retina / fovea).
+40 of 157
+
+fovea ; peripheral retina
+
+(Red/Blue/Green) cones have the largest receptive fields and therefore are expected to have (poorer/greater) stereoacuity.
+41 of 157
+
+Blue ; poorer
+
+(Monocular/Binocular) blur has a greater
+effect on stereoacuity.
+42 of 157
+
+monocularA difference in perceived image effects stereoacuity greatly
+
+Oculomotor & Sensory Function
+Deck 3 of 4
+100 flashcards
+
+Vector graphic presentations use (red-green / Polaroid ) glasses and anaglyphic presentations use (red-green / Polaroid) glasses.
+43 of 157
+
+Polaroid ; red-green
+
+Local stereopsis requires (monocular / binocular) cues and global stereopsis requires (monocular / binocular) cues.
+44 of 157
+
+monocular ; binocular
+
+Random-dot stereograms are a form of (global / local) stereopsis.
+45 of 157
+
+global
+
+A lesion in the _______ cortex will
+impair global stereopsis.
+46 of 157
+
+inferotemporal
+
+Fine stereopsis is mediated by the (parvo/magno) system and coarse stereopsis is mediated
+by the (parvo/magno) system.
+47 of 157
+
+parvo ; magno
+
+The first structure in the visual pathway that contributes to the COMBINATION of binocular information is the ___________.
+48 of 157
+
+optic chiasm
+
+In hemiducussation of the optic nerves, the (nasal/temporal) optic nerve fibers cross at the optic ______ to the contralateral LGN
+49 of 157
+
+nasal ; chiasm
+
+In hemidecussation of the optic nerves, the (nasal/temporal) optic nerve fibers do not cross at the optic ______ and instead project to the ipsilateral LGN
+50 of 157
+
+temporal ; chiasm
+
+The amount of optic nerve fibers that cross at the optic chiasm are proportional to the size of the ________ visual field.
+51 of 157
+
+binocular
+
+(Prechiasmal / Postchiasmal / Chiasmal) lesions result in vision loss only in one eye.
+52 of 157
+
+Prechiasmal
+
+(Prechiasmal / Postchiasmal / Chiasmal) lesions result in vision loss in the same directional visual field of each eye (example the right visual field of each eye).
+53 of 157
+
+Postchiasmal
+
+(Prechiasmal / Postchiasmal / Chiasmal) lesions result in vision loss in each eye in opposite directional visual fields (example the temporal field of each eye).
+54 of 157
+
+Chiasmal
+
+In patients with the condition _________,  both nasal and temporal hemiretinas may cross at the chiasm to the contralateral LGN
+55 of 157
+
+albinismTypically only the nasal fibers cross
+
+The lateral geniculate nucleus has ___ layers.
+56 of 157
+
+6The optic tracts go to the LGN
+
+Magnocellular neurons respond to (high/low) spatial frequencies, (high/low) temporal frequencies, and (fast/slow) velocities of motion
+57 of 157
+
+low ; high ; fast
+
+The ventral layers of the LGN consist of ___ layers and is made of
+(magnocellular / parvo cellular) neurons.
+58 of 157
+
+2 ; magnocellular
+
+Magnocellular neurons are (chromatic/achromatic).
+59 of 157
+
+achromaticThey do not see color
+
+Parvocellular neurons have (faster/slower) conduction velocities that magnocellular neurons.
+60 of 157
+
+slower
+
+Parvocellular neurons are responsive to (high/low) spatial frequencies, (high/low) temporal frequencies, and (fast/slow) velocities of motion
+61 of 157
+
+high ; low ; slow
+
+Parvocellular neurons are (chromatic /achromatic).
+62 of 157
+
+Chromatic They respond to color
+
+(Magno/Parvo) cellular neurons are best at interpreting motion.
+63 of 157
+
+Magno
+
+(Magno/Parvo) cellular neurons are best at interpreting patterns.
+64 of 157
+
+Parvo
+
+In the LGN, the (medial/lateral)
+portion represents the fovea
+65 of 157
+
+medial
+
+In the LGN, the anterior portion represents the (upper/lower) visual field
+66 of 157
+
+lower
+
+In the LGN  the posterior portion represents the (upper/lower) visual field.
+67 of 157
+
+upper
+
+In the LGN, layer 1 is the most (dorsal/ventral) and layer 6 is the most (dorsal/ventral)
+68 of 157
+
+ventral ; dorsal
+
+Each layer of the LGN contains cells that are (binocular / monocular).
+69 of 157
+
+monocularThe first binocular cells are in the striate cortex
+
+The LGN is within the ____.
+70 of 157
+
+ThalamusHence the name ophTHALmology
+
+Optic nerve fibers from the ipsilateral (crossed/uncrossed) eye synapse at the LGN at layers _______.
+71 of 157
+
+uncrossed 2 3 and 5
+
+Optic nerve fibers from the contralateral (crossed/uncrossed) eye synapse at the LGN at layers ____.
+72 of 157
+
+crossed 1 4 and 6
+
+The optic _____ travel from the LGN to the cortex.
+73 of 157
+
+radiations
+
+__________ points are line up across layers of the LGN in projection columns.
+74 of 157
+
+corresponding retinal
+
+It is suggested that the interlaminar areas between the 6 layers of the LGN play an (excitatory/inhibitory) role in phenomena such as binocular _______ and ______.
+75 of 157
+
+inhibitory ; suppression and rivalry.
+
+The __________ is a bundle of nerve fibers that interconnects the two cerebral hemispheres.
+76 of 157
+
+corpus callosumSeparation of the corpus callosum is one treatment for seizures
+
+Optic nerve fibers at the visual field midline cross at the optic chiasm and the ______.
+77 of 157
+
+corpus callosum
+
+The corpus collosum is vital for stereopsis for (crossed/uncrossed) disparities
+on the vertical midline.
+78 of 157
+
+crossed
+
+A lesion to the corpus collosum would only affect stereopsis at __________.
+79 of 157
+
+the vertical midline
+
+A cell's _____________ is the area in space to which the individual cell is responsive.
+80 of 157
+
+receptive field
+
+The optic radiations from the LGN terminate in layer ___ of the ________.
+81 of 157
+
+4 of the striate cortex
+
+The cells in layer 4 of the striate cortex are (monocular/binocular).
+82 of 157
+
+monocular
+
+The first truly binocular cell of the visual system occur in the ______ in the layers above
+or below layer __.
+83 of 157
+
+striate cortex ; 4
+
+The cells of the striate cortex are
+called _____ or ____ cells.
+84 of 157
+
+simple or complex
+
+When a binocular cell in the striate cortex has a response that is greater than two times of either eyes individual response, this is called
+binocular __________
+85 of 157
+
+facilitationFacilitation is "two eyes are better than two"
+
+When a binocular cell in the striate cortex has a response that is greater when both eyes are stimulated rather that one eye individually, this is called binocular ________
+86 of 157
+
+summationSummation is "two eyes are better than one"
+
+A VEP with a larger response binocularly than monocularly, may be due to (disruption of fusion / binocular summation)
+87 of 157
+
+binocular summation
+
+A VEP with a response equal under binocular and monocular conditions may be due to (disruption of fusion / binocular summation).
+88 of 157
+
+disruption of fusionSuch as suppression
+
+In a binocular beat VEP the stimulus to the eye vary in _________ frequency.
+89 of 157
+
+temporal
+
+Ocular ______ occurs in the monocular cells of layer 4 of the LGN, as a group of cells on one column may receive more input from one
+eye than the other
+90 of 157
+
+dominanceDominance columns can be very unevenly distributed in amblyopia
+
+____________ are groups of cells that exist in slabs that run perpendicular to the surface
+of the striate cortex.
+91 of 157
+
+Ocular dominance columns.
+
+________ columns are a group of cells in the visual cortex that are selective for a particular orientation of an object.
+92 of 157
+
+Orientation
+
+A ________ consist of both ocular dominance columns and orientation columns in one location of the visual field.
+93 of 157
+
+Hypercolumn
+
+For each receptive field of one eye, there is (one / many) receptive field(s) in the fellow eye
+that will interact with it
+94 of 157
+
+many
+
+The four types of binocular disparity processing cells in the visual cortex are :
+95 of 157
+
+tuned excitatory cells, tune inhibitory cells,
+near cells, far cells
+
+_________ cells in the visual cortex respond
+to zero disparity.
+96 of 157
+
+tune excitatory
+
+____ disparity means that an object is the same distance as a point your a fixating.
+97 of 157
+
+ZeroZero disparity means two objects are exactly side by side
+
+_______ cells in the visual cortex respond to an object that is not directly next to a point of fixation.
+98 of 157
+
+Tuned inhibitory cellsAn object may be slightly behind of in front of a fixation point
+
+_____ cells of the striate cortex respond to one single particular disparity.
+99 of 157
+
+Tuned
+
+____ cells of the striate cortex are not tuned to a particular disparity and only detect if a stimulus is closer than a fixation point.
+100 of 157
+
+Near
+
+____ cells of the striate cortex are not tuned to a particular disparity and only detect if a stimulus are more distance to a fixation point.
+101 of 157
+
+Far
+
+True or False: There are more binocular cells in V2 than in V1.
+102 of 157
+
+TRUE
+
+In area V2, the thin stripes receive information from the ______ of V1
+103 of 157
+
+blobs
+
+In area V2, the "interstripes" receive information from the _____ of V1
+104 of 157
+
+interblobs
+
+The thin stripes and interstripes of V2 receive information along the (magno/parvo) pathway.
+105 of 157
+
+parvo
+
+The thin stripes and interstripes of V2 respond well to (high/low) spatial frequency, (high/low) temporal frequency, and (chromatic/achromatic) stimuli
+106 of 157
+
+high ; low; chromatic
+
+The thick stripes of V2 receive information form (simple/complex) cells of
+the (parvo/magno) pathway.
+107 of 157
+
+complex ; magno
+
+In V2, the (thick/thin/inter) stripes contain cells selective for motion and binocular disparity
+108 of 157
+
+thick
+
+In V2, the thick stripes respond well to (high/low) spatial frequency, (high/low) temporal frequency, and (chromatic/achromatic) stimuli
+109 of 157
+
+low ; high ; achromatic
+
+The (thin/thick/interstripes) of V2 have cells responsible for fine stereopsis.
+110 of 157
+
+interstripes
+
+The (thin/thick/interstripes) of V2 have cells responsible for coarse stereopsis.
+111 of 157
+
+thick
+
+Disparity is processed in the (magno/parvo) processing stream.
+112 of 157
+
+magno and parvoMagno is coarse stereopsis and
+parvo is fine stereopsis
+
+The middle temporal cortex is V__.
+113 of 157
+
+5
+
+The (MT/IT) cortex is responsible for processing motion in depth.
+114 of 157
+
+MT
+
+On a VEP, a stereoscopic stimulus that is perceived will have a (shorter/longer) latency than a nonstereoscopic stimulus
+115 of 157
+
+longer
+
+The ______ period of development is the age range in which visual input has a powerful effect on the structure and function of the
+developing visual system
+116 of 157
+
+criticalAmblyopia is largely treatable prior
+to the critical period
+
+The visual experience has its greatest effects on visual development at about ______ and then it has less effects until age _____.
+117 of 157
+
+6 months ; 6 years
+
+Light detection, critical flicker frequency, color discrimination and motion sensitivity all develop (early/late) in visual development
+118 of 157
+
+earlyThey all develop within the first 6 months of life
+
+___ VEPs can be used to estimate the VA of an infant.
+119 of 157
+
+Sweep
+
+A patient with a lesion to the extrastriate cortex will have impaired vision and (normal/abnormal) VEPs.
+120 of 157
+
+normal
+
+Teller Acuity Cards tests a patient's visual acuity via a _______ method.
+121 of 157
+
+force preferential looking
+
+True or False: Retinal correspondence develops prior to motor fusion.
+122 of 157
+
+TRUE
+
+Of all eye movements _____ develops the slowest.
+123 of 157
+
+vergence
+
+A visual cliff is a table created to measure an infant's ability to perceive _____.
+124 of 157
+
+depth
+
+The development of binocular depth perception is (gradual/abrupt) and occurs first for (crossed/uncrossed) disparities.
+125 of 157
+
+abrupt ; crossed
+
+During early development, the axons of cells from the LGN going to layer 4C of the striate cortex (grow / prune)
+126 of 157
+
+prune
+
+Abnormal spatial development results in _______, which is reduced visual acuity that cannot be attributed to refractive error or ocular pathology
+127 of 157
+
+amblyopia
+
+The process that puts a patient at risk for amblyopia is called an ______________.
+128 of 157
+
+amblyogenic factorThey can be refractive, strabismic, or deprivation
+
+Strabismic amblyopia is (unilateral/bilateral) and (constant/intermittent).
+129 of 157
+
+unilateral and constant
+
+A patient who develops strabismus at the age of 3 is more likely to experience (diplopia/suppression) than a patient who develops strabismus
+at the age of 30.
+130 of 157
+
+suppressionSuppression is the minds adaptation to the strabismus
+
+A patient who develops strabismus at the age of 30 is more likely to experience (diplopia/suppression) than a patient who develops strabismus
+at the age of 3.
+131 of 157
+
+diplopia
+
+Amblyopia that results from unequal refractive errors between the two eyes is referred to as ___________ amblyopia.
+132 of 157
+
+"anisometropic| The anisometropic amblyogenic factors are +1.00DS -3.00DS and -1.50 cyl."
+
+In a patient with anisometropic amblyopia one eye has an blurry image relative to the other due to consensual _________.
+133 of 157
+
+accommodationBoth eyes accommodate the same amount
+
+Amblyopia that results from relatively equally high refractive errors between the two eyes is called _______ amblyopia
+134 of 157
+
+refractive isometropicIsometropic factors are +5.00 DS -8.00 DS and -2.50 cyl
+
+___________ is the time of the critical period where a young patient will have a reduction in refractive error consistent with normal development.
+135 of 157
+
+Emmetropization
+
+Patients with anisometropic amblyopia have (less/more) spatial distortions than patients with strabismic amblyopia.
+136 of 157
+
+less
+
+Due to spatial distortions, strabismic amblyopes may have a (better/worse) Snellen acuity than grating acuity
+137 of 157
+
+worse
+
+(Strabismic/Anisometropic) amblyopes are expected to have a larger deficit in their
+field of vision.
+138 of 157
+
+Anisometropic
+
+Patients with amblyopia may have impaired perception of (fast/slow) motion, but preserved perception of (fast/slow) motion
+139 of 157
+
+slow; fast
+
+Slow motion is processed by (large/small)
+receptive fields.
+140 of 157
+
+small
+
+Congenital or traumatic cataracts, congenital ptosis, or congenital or traumatic corneal opacities that are left untreated can result in _______ amblyopia
+141 of 157
+
+stimulus deprivation
+
+___________ amblyopia is the deepest
+form of amblyopia.
+142 of 157
+
+stimulus deprivation
+
+Oculomotor & Sensory Function
+Deck 4 of 4
+15 flashcards
+
+___________ amblyopia is caused by large astigmatic refractive errors.
+143 of 157
+
+meridional
+
+________ occurs when an extrafoveal point is used for fixation even under monocular conditions.
+144 of 157
+
+Eccentric fixation
+
+A suppression scotoma is a condition where the retinal locus of one eye is inhibited under (monocular/binocular) conditions.
+145 of 157
+
+binocular
+
+In normal infancy there is OKN asymmetry where monocular (nasal/temporal) OKN movements have higher gain than temporal----in amblyopes this asymmetry can remain.
+146 of 157
+
+nasal
+
+In an ocular dominance histogram, category ___ cells are monocular, and category ___ are binocular
+147 of 157
+
+1 & 7 ; 4
+
+In an ocular dominance histograms categories 2 3 5 and 6 are binocular, however they represent areas of _________
+148 of 157
+
+Ocular dominance
+
+In patients with amblyopia, the ocular dominance columns corresponding to the non amblyopic eye are (thicker/thinner)
+149 of 157
+
+Thicker
+
+The Hirschberg test checks for the
+presence of ______.
+150 of 157
+
+strabismusIt depends on the reflection of light on the cornea
+
+Binocular competition first occurs in the (retina/LGN/striate cortex).
+151 of 157
+
+striate cortex
+
+In patients with monocular amblyopia, the medial portion of the LGN representing the (binocular / monocular) area of the visual field is reduced and the (binocular / monocular) portion of the visual field is spared
+152 of 157
+
+binocular ; monocular
+
+Degradation of the LGN cells in amblyopia is an example of (anterograde / retrograde) degeneration.
+153 of 157
+
+retrograde
+
+In the treatment of unilateral amblyopia, patching for a longer than therapeutic time period can result in _________ amblyopia of the fellow eye
+154 of 157
+
+occlusionWith patching treatment, one must not "over do it"
+
+The binocular vision critical period starts __-__ months and ends ___-___ months.
+155 of 157
+
+Starts 6-12 months and ends 12-24 months
+
+During development of vision, levels of ____ receptors increase as ocular dominance columns develop and then diminish as the
+critical period ends
+156 of 157
+
+NMDA (N-methyl-D-aspartate)
+
+During visual development of the striate cortex NMDA release strengthens the connections between pre-synaptic (binocular/monocular) neurons and post-synaptic (binocular/monocular) neurons.
+157 of 157
+
+monocular ; binocular
