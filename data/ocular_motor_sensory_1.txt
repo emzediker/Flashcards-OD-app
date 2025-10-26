@@ -11,12 +11,12 @@ The binocular field of view is ____ degrees laterally and _____ degrees vertical
 A patient with a constant strabismus cannot maintain _______ fixation but a patient with a heterophoria can.
 3 of 158
 
-Bifoveal - Phoric bifoveal misalignment occurs ONLY when an eye is covered.
+bifoveal - Phoric bifoveal misalignment occurs ONLY when an eye is covered.
 
 One's surroundings are known as (object/visual) space and the perception of those surroundings are known as (object/visual) space.
 4 of 158
 
-Object ; visual
+object ; visual
 
 ______ is the process that combines two sensory images into one.
 5 of 158
@@ -26,12 +26,12 @@ Sensory fusion - Sensory fusion is needed to see becausewe have two eyes!
 Binocular _________ is the phenomenon that results in the visual capabilities of two eyes being greater than that of one alone.
 6 of 158
 
-Summation - Example of VA summation is: OD 20/20 OS 20/20--- but OU 20/15!
+summation - Example of VA summation is: OD 20/20 OS 20/20--- but OU 20/15!
 
 The binocular form of depth perception is called ________.
 7 of 158
 
-Stereopsis - Depth perception is our ability to tell how close or far an object is.
+stereopsis - Depth perception is our ability to tell how close or far an object is.
 
 _______ is the smallest measure, or limit, of  binocular depth perception
 8 of 158
@@ -41,57 +41,57 @@ Stereoacuity - This is measured in clinic with Stereo Fly or Randot Stereograms.
 ______ ranges are the largest depths tha can be perceived without diplopia.
 9 of 158
 
-"Panum's - Outside of Panum's ranges images are seen as double.
+Panum's - Outside of Panum's ranges images are seen as double.
 
 Binocular (suppression/rivalry) occurs when the images perceived by the two eyes do not fully combine, and binocular (suppression/rivalry) occurs when the image seen by one of those eyes is not perceived cortically.
 10 of 158
 
-Rivalry ; suppression
+rivalry ; suppression
 
 ______ is unequal retinal image sizes between the two eyes.
 11 of 158
 
-Aniseikonia - Aniseikonia can result from wide antimetropia; for example OD +5.00 OS -1.00
+Aniseikonia - Aniseikonia can result from wide antimetropia, for example OD +5.00 OS -1.00.
 
 The different vantage points of the two eyes are separated by the _______ distance.
 12 of 158
 
-Interocular
+interocular
 
 The visual line (aka line of sight), projects from a point on the retina, through the ________ and into physical space.
 13 of 158
 
-Entrance pupil
+entrance pupil
 
 All points on a visual line share the same ______.
 14 of 158
 
-Direction
+direction
 
 The visual axis projects from a point on the _____ through the entrance pupil into physical space.
 15 of 158
 
-Fovea - The line of sight is any retinal point & the visual axis is fovea only.
+fovea - The line of sight is any retinal point & the visual axis is fovea only.
 
 The (principal/secondary) visual direction is signaled by the fovea, and the (principal/secondary) visual direction is signaled by eccentric points to the fovea.
 16 of 158
 
-Principal; secondary - Generally the primary visual direction is where one is trying to look.
+principal; secondary - Generally the primary visual direction is where one is trying to look.
 
 In _______ fixation, a point other than the fovea is used to determine the primary visual direction and this extrafoveal point is used to fixate objects
 17 of 158
 
-Eccentric - Since it is a nonfoveal point, visual acuity will be reduced.
+eccentric - Since it is a nonfoveal point, visual acuity will be reduced.
 
 In ______ viewing, the primary visual direction is the fovea, however the patient voluntary uses an extrafoveal loci for viewing.
 18 of 158
 
-Eccentric - Those with foveal AMD may use this view because it is all they can see.
+eccentric - Those with foveal AMD may use this view because it is all they can see.
 
 The clinical test used to test for primary visual direction is ________ and is often performed with an ophthalmoscope.
 19 of 158
 
-Visuoscopy
+visuoscopy
 
 Interpret the following visuoscopy:
 20 of 158
@@ -233,7 +233,7 @@ To eliminate diplopia and confusion, strabismus patients may rely on ______, whi
 
 suppression
 
-To eliminate diplopia or confusion, a strabismus patient may use a retinal locus outside of the fovea for fixation in the deviated eye. This recalibration of corresponding retinal points, which would be noncorresponding in nonpathological cases, is called __________
+To eliminate diplopia or confusion, a strabismus patient may use a retinal locus outside of the fovea for fixation in the deviated eye. This recalibration of corresponding retinal points, which would be noncorresponding in nonpathological cases, is called __________.
 48 of 158
 
 anomalous retinal correspondence
@@ -338,7 +338,7 @@ Unlike the cover test, clinical testing such as such as a Wesson card or AO vect
 
 associated - Recall fixation disparity does not result in diplopia.
 
-The amount of prism needed to eliminate a ________ disparity is the "associated phoria"
+The amount of prism needed to eliminate a ________ disparity is the "associated phoria."
 69 of 158
 
 fixation
@@ -441,7 +441,7 @@ angle of anomaly - Cover test is an objective test and Maddox Rod is a subjectiv
 In patient with harmonious anomalous retinal correspondence, the angle of anatomy is _______.
 89 of 158
 
-equal to the objective angle of strabismu - This is because the subjective angle of strabismus is equal to zero.
+equal to the objective angle of strabismus - This is because the subjective angle of strabismus is equal to zero.
 
 In normal retinal correspondence the angle of anomaly is _______.
 90 of 158
@@ -456,7 +456,7 @@ positive - You must hold the eyes together from their natural outward posture.
 To overcome esophoria, (negative/positive) fusional vergence is required.
 92 of 158
 
-Negative - They must pull the eyes apart from their naturally inward position.
+negative - They must pull the eyes apart from their naturally inward position.
 
 Negative fusional vergence is associated to the (convergence / divergence ) of the eyes.
 93 of 158
@@ -570,7 +570,7 @@ Shape
 The calculation for shape factor is:
 114 of 158
 
-1/[1 - (thickness/index)front surface power] - Shape factor can allow you to manipulate resultant image size.
+1/[1-(thickness/index)front surface power] - Shape factor can allow you to manipulate resultant image size.
 
 A _______ magnifier does not have any influence of power factor on its magnification ability- only shape factor.
 115 of 158
@@ -585,7 +585,7 @@ horizontal
 The (geometric/induced) effect occurs when a meridional magnifier with axis 90 is presented in front of the eye.
 117 of 158
 
-geometric -Resulting in magnification of the horizontal meridian.
+geometric - Resulting in magnification of the horizontal meridian.
 
 In the geometric effect, the horopter is tilted (toward/away from) the eye that is magnified and the apparent fronto parallel plane is tilted (toward/away from) the magnified eye.
 118 of 158
@@ -650,7 +650,7 @@ minification ; magnification
 Photoreceptors in (axial/refractive) myopes may have reduced anatomical density.
 130 of 158
 
-Axial
+axisl
 
 Axial myope should be corrected with ____ and refractive myopes should be corrected with _____ to avoid aniseikonia.
 131 of 158
@@ -716,7 +716,7 @@ consciousness
 Intermittent and alternating suppression occurs with binocular ________.
 143 of 158
 
-Rivalry
+rivalry
 
 Binocular rivalry is more likely to occur when images in each eye are (similar/dissimilar).
 144 of 158
