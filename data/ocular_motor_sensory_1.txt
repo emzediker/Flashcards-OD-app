@@ -1,1 +1,828 @@
+1 of 158
 
+inward
+
+An exo fixation disparity will displace the phoropter (inward/outward).
+2 of 158
+
+outward
+
+As fixation distance increases (up to 6 meters) the horopter becomes more curved (toward / away from) the observer.
+3 of 158
+
+away from
+
+The ______ distance is the viewing distance where the horopter is flat.
+4 of 158
+
+abathic
+
+The abathic distance, where the horopter is
+flat, is calculated as:
+5 of 158
+
+(2 * interpupillary distance) / fixation distance
+
+For most observers, the abathic distance (where the horopter is flat) is typically
+ around ______ meters
+6 of 158
+
+6
+
+A notch in the horopter may represent _______.
+7 of 158
+
+anomalous retinal correspondence
+
+In __________ there is an avoidance of fusion and it is thought that the patient has no corresponding points or corresponding points that
+shift in real time.
+8 of 158
+
+horror fusionis
+
+(Optical/Neural) aniseikonia maybe axial,
+refractive or induced
+9 of 158
+
+Optical
+
+________ is a difference in magnification between the two eyes.
+10 of 158
+
+Aniseikonia
+
+The calculation for power factor is:
+11 of 158
+
+"1/[1-(vertex distance * back vertex power)]|Power factor can allow you to
+manipulate resultant image size
+
+_____ factor is the amount of magnification induced by the refractive power of a lens.
+12 of 158
+
+Power
+
+______ factor is the amount of magnification induced by the thickness and the
+base curve of a lens.
+13 of 158
+
+Shape
+
+The calculation for shape factor is:
+14 of 158
+
+1/[1 - (thickness/index)front surface power]Shape factor can allow you to
+manipulate resultant image size
+
+A _______ magnifier does not have any influence of power factor on its magnification
+ability- only shape factor.
+15 of 158
+
+afocal
+
+When an afocal meridional magnifier is placed with axis 90 in front of the eye, its magnification occurs in the (horizontal/vertical) meridian
+16 of 158
+
+horizontal
+
+The (geometric/induced) effect occurs when a meridional magnifier with axis 90 is presented in front of the eye.
+17 of 158
+
+"geometric| Resulting in magnification of the horizontal meridian."
+
+In the geometric effect, the horopter is tilted (toward/away from) the eye that is magnified and the apparent fronto parallel plane is tilted (toward/away from) the magnified eye
+18 of 158
+
+toward ; away from
+
+In the geometric effect, the patient feels that the world is tilted (away from / toward) the
+magnified eye
+19 of 158
+
+away from
+
+The leaf room is void of (monocular/binocular) cues to depth.
+20 of 158
+
+monocular
+
+An axis 180 meridional size lens will magnify an image (vertically/horizontally).
+21 of 158
+
+vertically
+
+The (geometric/induced) effect occurs when a size lens axis 180 is introduced to the eye.
+22 of 158
+
+induced
+
+In the induced effect, the horopter is tilted (toward/away from) the eye with the lens, and the observer perceived the world as being tilted (toward/away from) they eye with the lens
+23 of 158
+
+away ; toward
+
+For each diopter of refractive difference between two eyes there is about ____% change in magnification
+24 of 158
+
+1.4
+
+Binocular vision is disrupted about about ___% aniseikonia difference between the two eyes.
+25 of 158
+
+7
+
+Oblique magnification results in the _______ effects, and induces _____ disparity
+26 of 158
+
+inclination / declination ; cyclo
+
+(Axial/Refractive) anisometropes will have image magnification or minification when corrected with contact lenses but (axial/refractive) anisometropes will not.
+27 of 158
+
+Axial ; refractive
+
+_____ law predicts the visual effects of aniseikonia in axial and refractive anisometropia.
+28 of 158
+
+Knapp's
+
+Aniseikonia patients may experience (minification/magnification) with minus lenses and (minification/magnification) with plus lenses.
+29 of 158
+
+minification ; magnification
+
+Photoreceptors in (axial/refractive) myopes may have reduced anatomical density.
+30 of 158
+
+Axial
+
+Axial myope should be corrected with ____ and refractive myopes should be corrected with _____ to avoid aniseikonia.
+31 of 158
+
+spectacles ; contact lenses
+
+The leaf room and the ____________ are used to measure aniseikonia.
+32 of 158
+
+space eikonometerThe "EIKON"ometer measures anis"EIKON"ia
+
+The three values of an iseikonic lens that can be manipulated to alter degrees of magnification are:
+33 of 158
+
+front surface curvature, thickness, refractive indexAltering these takes advantage of power factor or shape factor
+
+Prisms create (uniform/nonuniform) magnification and refractive lenses create (uniform/nonuniform) magnification.
+34 of 158
+
+nonuniform ; uniform
+
+For a prism, magnification occurs at the (apex/base)
+35 of 158
+
+base
+
+Base out prism causes the horopter to bend (in/out) and causes visual space to curve (in/out).
+36 of 158
+
+out ; in
+
+Base in prism causes the horopter to bend (in / out) and causes visual space to curve (in / out).
+37 of 158
+
+in; out
+
+The apparent fronto parallel plane is a(n) (exact image / mirror image) a patient's horopter.
+38 of 158
+
+mirror image
+
+The nasal retina has relative (magnification/minification) compared to the temporal retina.
+39 of 158
+
+minification
+
+As fixation distance is increased, the horopter becomes more tilted (toward/away from)
+the observer
+40 of 158
+
+away from
+
+When dissimilar images are formed on corresponding points this results in (diplopia/confusion).
+41 of 158
+
+confusion
+
+In binocular suppression, one image does not reach the (retina/consciousness)
+42 of 158
+
+consciousness
+
+Intermittent and alternating suppression occurs with binocular ________.
+43 of 158
+
+Rivalry
+
+Binocular rivalry is more likely to occur when images in each eye are (similar/dissimilar).
+44 of 158
+
+dissimilar
+
+In (exclusive/mosaic) dominance, an eye's entire image may be suppressed, and in (exclusive/mosaic) dominance, any given location, or part, of an image may be suppressed
+45 of 158
+
+exclusive; mosaic
+
+When presented with a dichoptic view one with contours, and one without- the eye imaging the view (with/without) contours is more
+likely to be suppressed
+46 of 158
+
+without
+
+Small, single localized dissimilar dichoptic contours tend to be (rivalrous / suppressed) and groups of dissimilar contours or large areas of contours tend to be (rivalrous / suppressed)
+47 of 158
+
+suppressed ; rivalrous
+
+In binocular ________, two dichoptic images of the same contours but differing color contrast results in a shiny or metallic type of appearance
+48 of 158
+
+luster
+
+Unlike color luster, color _____, two dichoptic images of the same contours, but differing color contrast, results in suppression of one image
+49 of 158
+
+rivalry
+
+True or False: After effects, such as that seen in motion after effects or tilt after effects, will not present themselves in an eye that has
+been suppressed
+50 of 158
+
+FALSEThe after image will travel to the fellow eye by way of the brain
+
+Stimulus to the (temporal/nasal) retina tend to be dominant to stimulus presented to the (temporal/nasal) retina of the follow eye.
+51 of 158
+
+nasal ; temporal
+
+(Esotropes/Exotropes) are more likely to develop amblyopia.
+52 of 158
+
+Esotropes
+
+The worth four-dot test has four dots, __ green, __ red, and __ white
+53 of 158
+
+2;1;1
+
+In the worth 4 dot test, a patient experiencing fusion sees __ dots and a patient experiencing diplopia sees ___ dots
+54 of 158
+
+4 ; 5
+
+In a patient with suppression, they will see ___ or ___ dots on W4D testing depending on which eye is being suppressed
+55 of 158
+
+2 or 3If there are less than 4, something is being suppressed
+
+In a patient with a tropia, their fixating eye may view an image, and the deviated eye will view that image through an extrafoveal point. The area of retina between the fovea of the deviating eye and the extrafoveal point of fixation will be suppressed. This region is called the ___________
+56 of 158
+
+binocular suppression scotoma
+
+In the condition______ one eye is suppressed to the degree that it remains abnormal even when the fellow eye is uncovered (under monocular conditions).
+57 of 158
+
+amblyopia
+
+Suppression can be detected using the four (base-in / base-out) test.
+58 of 158
+
+base-out
+
+In the 4 base out test, an eye may be suppressing if when introduced with 4 base out prism, the eye (moves/stays still)
+59 of 158
+
+stays stillPrism should elicit eye movement
+
+If a patient is suppressing during vergence ranges testing, the image the patient is receiving with the nonsuppressing eye will appear to move in the direction of the (base/apex) of the nonsuppressing eye
+60 of 158
+
+apex
+
+The view through a Bagolini lens with striations at 045 degrees will be seen as a line with an orientation of ____ degrees.
+61 of 158
+
+135And if striations are 135, they will be seen as 045
+
+The depth of suppression using a Bagolini lens can be measured by placing a neutral density filter in front of the (suppressing/nonsuppressing) eye.
+62 of 158
+
+suppressingIf the checkerboard pattern is not seen, one of the eyes is suppressing
+
+__________ occurs when the information from each individual eye is combined resulting in a greater visual performance that when one eye is used alone.
+63 of 158
+
+Binocular summationEx. Monocular VA may be 20/20 and binocular VA may be 20/13
+
+Under normal binocular conditions, critical flicker frequency will be (higher/the same/ lower) under binocular conditions than under
+monocular conditions
+64 of 158
+
+higherDue to binocular summation more flickers per second can be seen
+
+There is a ___ improvement, or ___% improvement in binocular viewing activities compared to monocular viewing activities
+65 of 158
+
+1.4 ; 40%
+
+(Probability / Neural) summation is the the degree of improvement expected by using two eyes without considering a binocular combination of information. This type of summation depends on statistical information to explain binocular summation.
+66 of 158
+
+Probability
+
+(Probability/Neural) summation  is the degree of improvement expected by using two eyes that can be explained by a combination of the precept by a cortical binocular process.
+67 of 158
+
+Neural
+
+A test of (neural/probability) summation requires stimulation of corresponding points, and a test of (neural/probability) summation requires stimulation of noncorresponding points
+68 of 158
+
+neural ; probabilityCorresponding points activate the same cortical binocular neuron
+
+In Fetchner's paradox, under binocular conditions where one eye has a neutral density filter, the image appears (darker/brighter) than under monocular unfiltered conditions alone
+69 of 158
+
+darkerEven though one eye is penalized, it still looks brighter binocularly
+
+________ stimuli are only perceived by the binocular visual system and cannot be seen under monocular conditions.
+70 of 158
+
+Cyclopean
+
+According to Emmett's law, the perceived size of an object producing a retinal image of a given fixed size is proportional to its perceived ______
+71 of 158
+
+distanceIf it looks far away it is seen as being larger than the retinal image
+
+The same after image viewed twice as far away will be perceived as being
+(smaller/larger/the same size).
+72 of 158
+
+larger
+
+Size _______ is a perceptual scaling of a perceived size of an object according to its estimated distance.
+73 of 158
+
+constancy
+
+The ________ effect is an example of shape from motion, where one can infer from a moving shadow that an object is not flat due to the changing contours of the shadow as the object is rotated
+74 of 158
+
+kinetic depth effect
+
+_______ is the only direct means of seeing depth and occurs under binocular conditions.
+75 of 158
+
+Stereopsis
+
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is becoming (smaller/larger)
+76 of 158
+
+smaller
+
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is moving
+(closer/further away)
+77 of 158
+
+closer
+
+In a normal binocular vision system, when base in prism is increasingly introduced, a patient will perceive that an object is becoming (smaller/larger)
+78 of 158
+
+larger
+
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that an object is moving
+ (closer/further away)
+79 of 158
+
+further away
+
+SOLI and SILO effects are a
+consequence of ___________.
+80 of 158
+
+size constancysmall out / large in" refers to the effect of prism on a normal system
+
+For stereopsis to occur in a normal patient, images my fall on (corresponding/noncorresponding) points (inside/outside) of Panum's fusional area."
+81 of 158
+
+noncorresponding points ; inside
+
+If an object is in front of a point of fixation, its image will fall on the (nasal/temporal) retina resulting in (crossed/uncrossed) disparity
+82 of 158
+
+temporal; crossed
+
+If an object is behind a point of fixation, its image will fall on the (nasal/temporal) retina, resulting in (crossed/uncrossed) disparity
+83 of 158
+
+nasal; uncrossed
+
+(Absolute/Relative) depth is the distance between an object and an observer and (absolute/relative) depth is the distance between two objects from an observer.
+84 of 158
+
+Absolute ; relative
+
+The diffrequency effect (where two gratings of different spatial frequencies are presented to a single eye each) has a similar effect to the tiled effects noted in _______.
+85 of 158
+
+aniseikonia
+
+Placing a neutral density filter in front of one eye while viewing a moving object will result the perception of different (spatial/temporal) frequencies.
+86 of 158
+
+temporal
+
+In the Pulfrich phenomenon where an neutral density filter is placed in front of the right eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise)
+87 of 158
+
+counterclockwise
+
+In the Pulfrich phenomenon where an neutral density filter is placed in front of the left eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise)
+88 of 158
+
+clockwise
+
+In longitudinal chromatic aberration, (blue/red) light is refracted more than (blue/red) light due to its (shorter/longer) wavelength
+89 of 158
+
+blue ; red ; shorter
+
+In the transverse chromatic effect, longer wavelengths, such as red light, are displaced (nasally/temporally) compared to short wavelengths, such as blue light
+90 of 158
+
+temporallyThis causes a relative crossed
+disparity compared to blue
+
+In chromostereopsis, two objects (one long wavelength red and one short wavelength blue) on the same fixation distance will be perceived as being from differing distances. The (red/blue) object will be seen as closer
+91 of 158
+
+red
+
+In chromostereopsis, a red object may be perceived as being closer than a blue object despite being the same fixation distance due to the red object having more (uncrossed/crossed) disparity
+92 of 158
+
+crossed
+
+True or false: a color blind patient can
+experience chromostereopsis.
+93 of 158
+
+TRUE
+
+_____ acuity is the smaller depth difference a patient can see.
+94 of 158
+
+Stereo
+
+Stereo acuity and Vernier acuity are
+ both _____ acuities.
+95 of 158
+
+hyper
+
+As interpupillary distance increases, stereoacuity (increases/decreases)
+96 of 158
+
+increasesWider spread eyes have better stereopsis-- like frogs
+
+As viewing distance decreases, stereoacuity (increases/decreases)
+97 of 158
+
+increases
+
+Small receptive fields are found at the (peripheral retina/ fovea) and large receptive fields are found at the (peripheral retina / fovea).
+98 of 158
+
+fovea ; peripheral retina
+
+(Red/Blue/Green) cones have the largest receptive fields and therefore are expected to have (poorer/greater) stereoacuity.
+99 of 158
+
+Blue ; poorer
+
+(Monocular/Binocular) blur has a greater
+effect on stereoacuity.
+100 of 158
+
+monocularA difference in perceived image effects stereoacuity greatly
+
+Oculomotor & Sensory Function
+ Deck 3 of 4
+100 flashcards
+
+Vector graphic presentations use (red-green / Polaroid ) glasses and anaglyphic presentations use (red-green / Polaroid) glasses.
+101 of 158
+
+Polaroid ; red-green
+
+Local stereopsis requires (monocular / binocular) cues and global stereopsis requires (monocular / binocular) cues.
+102 of 158
+
+monocular ; binocular
+
+Random-dot stereograms are a form of (global / local) stereopsis.
+103 of 158
+
+global
+
+A lesion in the _______ cortex will
+impair global stereopsis.
+104 of 158
+
+inferotemporal
+
+Fine stereopsis is mediated by the (parvo/magno) system and coarse stereopsis is mediated
+by the (parvo/magno) system.
+105 of 158
+
+parvo ; magno
+
+The first structure in the visual pathway that contributes to the COMBINATION of binocular information is the ___________.
+106 of 158
+
+optic chiasm
+
+In hemiducussation of the optic nerves, the (nasal/temporal) optic nerve fibers cross at the optic ______ to the contralateral LGN
+107 of 158
+
+nasal ; chiasm
+
+In hemidecussation of the optic nerves, the (nasal/temporal) optic nerve fibers do not cross at the optic ______ and instead project to the ipsilateral LGN
+108 of 158
+
+temporal ; chiasm
+
+The amount of optic nerve fibers that cross at the optic chiasm are proportional to the size of the ________ visual field.
+109 of 158
+
+binocular
+
+(Prechiasmal / Postchiasmal / Chiasmal) lesions result in vision loss only in one eye.
+110 of 158
+
+Prechiasmal
+
+(Prechiasmal / Postchiasmal / Chiasmal) lesions result in vision loss in the same directional visual field of each eye (example the right visual field of each eye).
+111 of 158
+
+Postchiasmal
+
+(Prechiasmal / Postchiasmal / Chiasmal) lesions result in vision loss in each eye in opposite directional visual fields (example the temporal field of each eye).
+112 of 158
+
+Chiasmal
+
+In patients with the condition _________,  both nasal and temporal hemiretinas may cross at the chiasm to the contralateral LGN
+113 of 158
+
+albinismTypically only the nasal fibers cross
+
+The lateral geniculate nucleus has ___ layers.
+114 of 158
+
+6The optic tracts go to the LGN
+
+Magnocellular neurons respond to (high/low) spatial frequencies, (high/low) temporal frequencies, and (fast/slow) velocities of motion
+115 of 158
+
+low ; high ; fast
+
+The ventral layers of the LGN consist of ___ layers and is made of
+(magnocellular / parvo cellular) neurons.
+116 of 158
+
+2 ; magnocellular
+
+Magnocellular neurons are (chromatic/achromatic).
+117 of 158
+
+achromaticThey do not see color
+
+Parvocellular neurons have (faster/slower) conduction velocities that magnocellular neurons.
+118 of 158
+
+slower
+
+Parvocellular neurons are responsive to (high/low) spatial frequencies, (high/low) temporal frequencies, and (fast/slow) velocities of motion
+119 of 158
+
+high ; low ; slow
+
+Parvocellular neurons are (chromatic /achromatic).
+120 of 158
+
+Chromatic They respond to color
+
+(Magno/Parvo) cellular neurons are best at interpreting motion.
+121 of 158
+
+Magno
+
+(Magno/Parvo) cellular neurons are best at interpreting patterns.
+122 of 158
+
+Parvo
+
+In the LGN, the (medial/lateral)
+portion represents the fovea
+123 of 158
+
+medial
+
+In the LGN, the anterior portion represents the (upper/lower) visual field
+124 of 158
+
+lower
+
+In the LGN  the posterior portion represents the (upper/lower) visual field.
+125 of 158
+
+upper
+
+In the LGN, layer 1 is the most (dorsal/ventral) and layer 6 is the most (dorsal/ventral)
+126 of 158
+
+ventral ; dorsal
+
+Each layer of the LGN contains cells that are (binocular / monocular).
+127 of 158
+
+monocularThe first binocular cells are in the striate cortex
+
+The LGN is within the ____.
+128 of 158
+
+ThalamusHence the name ophTHALmology
+
+Optic nerve fibers from the ipsilateral (crossed/uncrossed) eye synapse at the LGN at layers _______.
+129 of 158
+
+uncrossed 2 3 and 5
+
+Optic nerve fibers from the contralateral (crossed/uncrossed) eye synapse at the LGN at layers ____.
+130 of 158
+
+crossed 1 4 and 6
+
+The optic _____ travel from the LGN to the cortex.
+131 of 158
+
+radiations
+
+__________ points are line up across layers of the LGN in projection columns.
+132 of 158
+
+corresponding retinal
+
+It is suggested that the interlaminar areas between the 6 layers of the LGN play an (excitatory/inhibitory) role in phenomena such as binocular _______ and ______.
+133 of 158
+
+inhibitory ; suppression and rivalry.
+
+The __________ is a bundle of nerve fibers that interconnects the two cerebral hemispheres.
+134 of 158
+
+corpus callosumSeparation of the corpus callosum is one treatment for seizures
+
+Optic nerve fibers at the visual field midline cross at the optic chiasm and the ______.
+135 of 158
+
+corpus callosum
+
+The corpus collosum is vital for stereopsis for (crossed/uncrossed) disparities
+on the vertical midline.
+136 of 158
+
+crossed
+
+A lesion to the corpus collosum would only affect stereopsis at __________.
+137 of 158
+
+the vertical midline
+
+A cell's _____________ is the area in space to which the individual cell is responsive.
+138 of 158
+
+receptive field
+
+The optic radiations from the LGN terminate in layer ___ of the ________.
+139 of 158
+
+4 of the striate cortex
+
+The cells in layer 4 of the striate cortex are (monocular/binocular).
+140 of 158
+
+monocular
+
+The first truly binocular cell of the visual system occur in the ______ in the layers above
+or below layer __.
+141 of 158
+
+striate cortex ; 4
+
+The cells of the striate cortex are
+called _____ or ____ cells.
+142 of 158
+
+simple or complex
+
+When a binocular cell in the striate cortex has a response that is greater than two times of either eyes individual response, this is called
+binocular __________
+143 of 158
+
+facilitationFacilitation is "two eyes are better than two"
+
+When a binocular cell in the striate cortex has a response that is greater when both eyes are stimulated rather that one eye individually, this is called binocular ________
+144 of 158
+
+summationSummation is "two eyes are better than one"
+
+A VEP with a larger response binocularly than monocularly, may be due to (disruption of fusion / binocular summation)
+145 of 158
+
+binocular summation
+
+A VEP with a response equal under binocular and monocular conditions may be due to (disruption of fusion / binocular summation).
+146 of 158
+
+disruption of fusionSuch as suppression
+
+In a binocular beat VEP the stimulus to the eye vary in _________ frequency.
+147 of 158
+
+temporal
+
+Ocular ______ occurs in the monocular cells of layer 4 of the LGN, as a group of cells on one column may receive more input from one
+eye than the other
+148 of 158
+
+dominanceDominance columns can be very unevenly distributed in amblyopia
+
+____________ are groups of cells that exist in slabs that run perpendicular to the surface
+of the striate cortex.
+149 of 158
+
+Ocular dominance columns.
+
+________ columns are a group of cells in the visual cortex that are selective for a particular orientation of an object.
+150 of 158
+
+Orientation
+
+A ________ consist of both ocular dominance columns and orientation columns in one location of the visual field.
+151 of 158
+
+Hypercolumn
+
+For each receptive field of one eye, there is (one / many) receptive field(s) in the fellow eye
+that will interact with it
+152 of 158
+
+many
+
+The four types of binocular disparity processing cells in the visual cortex are :
+153 of 158
+
+tuned excitatory cells, tune inhibitory cells,
+near cells, far cells
+
+_________ cells in the visual cortex respond
+to zero disparity.
+154 of 158
+
+tune excitatory
+
+____ disparity means that an object is the same distance as a point your a fixating.
+155 of 158
+
+ZeroZero disparity means two objects are exactly side by side
+
+_______ cells in the visual cortex respond to an object that is not directly next to a point of fixation.
+156 of 158
+
+Tuned inhibitory cellsAn object may be slightly behind of in front of a fixation point
+
+_____ cells of the striate cortex respond to one single particular disparity.
+157 of 158
+
+Tuned
+
+____ cells of the striate cortex are not tuned to a particular disparity and only detect if a stimulus is closer than a fixation point.
+158 of 158
+
+Near
+
+____ cells of the striate cortex are not tuned to a particular disparity and only detect if a stimulus are more distance to a fixation point.
