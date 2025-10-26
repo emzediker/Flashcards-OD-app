@@ -8,16 +8,12 @@ Hyaluronic acid and heparin are both examples of acidic polysaccharides with rep
 
 disaccharide
 
-Heparin binds to _____ proteins to
-
-increase their efficiency.
+Heparin binds to _____ proteins to increase their efficiency.
 3 of 212
 
 anticlotting
 
-Proteins with a carbohydrate attached
-
-are called ______.
+Proteins with a carbohydrate attached are called ______.
 4 of 212
 
 glycoproteins
@@ -47,31 +43,27 @@ nonpolar ; polar
 
 Lipids
 
-Arachidonic acid is a ___ acid that is a
-
-precursor to _____ and ____.
+Arachidonic acid is a ___ acid that is a precursor to _____ and ____.
 10 of 212
 
 fatty ; leukotrienes ; prostaglandins
 
-Arachidonic acid, fatty acids and steroids are all (protein/carbohydrate/lipid) compounds
+Arachidonic acid, fatty acids and steroids are all (protein/carbohydrate/lipid) compounds.
 11 of 212
 
 lipid
 
-Lipids can form a micelle, a membrane like structure where the (polar/nonpolar)(fatty acid tail/head) form the outside of the membrane which is adjacent to water, and the (polar/nonpolar)(fatty acid tail/head) forms the inside of the membrane unexposed to water
+Lipids can form a micelle, a membrane like structure where the (polar/nonpolar)(fatty acid tail/head) form the outside of the membrane which is adjacent to water, and the (polar/nonpolar)(fatty acid tail/head) forms the inside of the membrane unexposed to water.
 12 of 212
 
 polar head; nonpolar fatty acid tail.
 
-Nonpolar substances tend to migrate
-
-(into/out of) a micelle.
+Nonpolar substances tend to migrate (into/out of) a micelle.
 13 of 212
 
 into
 
-Fatty acids form cell membranes, they are typically 10-20 ____ atoms long, they have an even number of ___ atoms, and if double bonds are present they are in the (cis/trans) formation
+Fatty acids form cell membranes, they are typically 10-20 ____ atoms long, they have an even number of ___ atoms, and if double bonds are present they are in the (cis/trans) formation.
 14 of 212
 
 carbon ; carbon ; cis
@@ -106,9 +98,7 @@ _________ is the process that changes double carbon bonds to single carbon bonds
 
 Hydrogenation
 
-Partial hydrogenation can lead to
-
-formation of (cis/trans) fats.
+Partial hydrogenation can lead to formation of (cis/trans) fats.
 21 of 212
 
 trans
@@ -118,7 +108,7 @@ Trans fats can (increase/decrease) HDL cholesterol and (increase/decrease) LDL c
 
 decrease ; increase
 
-During digestion, ___ enzymes break down fat and ______ make the broken down products water soluble via micelle formation
+During digestion, ___ enzymes break down fat and ______ make the broken down products water soluble via micelle formation.
 23 of 212
 
 lipase ; bile salts
@@ -128,14 +118,12 @@ Phospholipids and sphingolipids are (simple/complex) lipids.
 
 complex
 
-Plasmalogens and phosphatides are
-
-examples of ______lipids.
+Plasmalogens and phosphatides are examples of ______lipids.
 25 of 212
 
-phospholipidsSpecifically phosphoglycerides known as glycophospholipids
+phospholipids - Specifically phosphoglycerides known as glycophospholipids
 
-Glycosphingolipids and sphingophospholipids are examples of _____lipids
+Glycosphingolipids and sphingophospholipids are examples of _____lipids.
 26 of 212
 
 sphingo
@@ -180,19 +168,17 @@ _______ is a sphingophospholipid found in the myelin sheath around the axons of 
 
 Sphingomyelin
 
-In a lipid bilayer, the phospholipid head is typically (charged/uncharged) (polar/nonpolar) and (hydrophobic/hydrophilic)
+In a lipid bilayer, the phospholipid head is typically (charged/uncharged) (polar/nonpolar) and (hydrophobic/hydrophilic).
 35 of 212
 
 charged ; polar ; hydrophilic
 
-In a lipid bilayer, the inner phospholipid fatty acids are typically (charge/uncharged)(polar/nonpolar) and (hydrophobic/hydrophilic)
+In a lipid bilayer, the inner phospholipid fatty acids are typically (charge/uncharged)(polar/nonpolar) and (hydrophobic/hydrophilic).
 36 of 212
 
 uncharged ; nonpolar ; hydrophobic
 
-Three potential components of a
-
-cell membrane are:
+Three potential components of a cell membrane are:
 37 of 212
 
 phospholipid bilayer, proteins and cholesterol
@@ -202,14 +188,12 @@ The carbohydrate on a glycolipid is found on the (outside/inside) of a cell memb
 
 outside
 
-In a cell membrane, the head of a phospholipid prevents (hydrophobic/hydrophilic) molecules from passing through and the tails of a phospholipids prevents (hydrophobic/hydrophilic) molecules from passing
+In a cell membrane, the head of a phospholipid prevents (hydrophobic/hydrophilic) molecules from passing through and the tails of a phospholipids prevents (hydrophobic/hydrophilic) molecules from passing.
 39 of 212
 
-hydrophobic; hydrophilicSmall lipid hydrophobic molecules may still pass through
+hydrophobic; hydrophilic - Small lipid hydrophobic molecules may still pass through.
 
-A (peripheral/integral) protein is on the membranes surface and a (peripheral/integral) protein extends into the lipid bilayer or
-
-completely though it.
+A (peripheral/integral) protein is on the membranes surface and a (peripheral/integral) protein extends into the lipid bilayer or completely though it.
 40 of 212
 
 peripheral ; integral
@@ -219,14 +203,12 @@ The carbohydrate component on a glycoprotein is important to intercellular _____
 
 recognition
 
-A lipid bilayer is impermeable to
-
-(polar/nonpolar) molecules.
+A lipid bilayer is impermeable to (polar/nonpolar) molecules.
 42 of 212
 
 polar
 
-To transport hydrophilic materials through a cell membrane, a cell may use a ____ which involves using energy to work against a concentration gradient, or a ____ which does not use energy and is passive due to moving with a concentration gradient
+To transport hydrophilic materials through a cell membrane, a cell may use a ____ which involves using energy to work against a concentration gradient, or a ____ which does not use energy and is passive due to moving with a concentration gradient.
 43 of 212
 
 pump; channel
@@ -266,7 +248,7 @@ A _____ is a pump that uses ATP to move substances through a cell membrane.
 
 ATPase
 
-Compared to the extracellular environment, cells have a higher (sodium/potassium) concentration and a lower (sodium/potassium) concentration
+Compared to the extracellular environment, cells have a higher (sodium/potassium) concentration and a lower (sodium/potassium) concentration.
 51 of 212
 
 potassium; sodium
@@ -286,7 +268,7 @@ ______ are channels that take advantage of a single concentration gradient to mo
 
 Cotransporters
 
-A _______ is a type of cotransporter that moves substances across membranes in the same direction, and ______ is a type of cotransporter that moves substances in opposite directions
+A _______ is a type of cotransporter that moves substances across membranes in the same direction, and ______ is a type of cotransporter that moves substances in opposite directions.
 55 of 212
 
 symporter ; antiporter
@@ -296,9 +278,7 @@ Channels can be selective to what passes through them based on ___ and___  of th
 
 size ; charge ; gated
 
-A _____ gated channel is regulated by the potential, or electric charge between the outside and
-
-inside of a cell
+A _____ gated channel is regulated by the potential, or electric charge between the outside and inside of a cell.
 57 of 212
 
 voltage
@@ -318,23 +298,17 @@ Acetylcholine is involved in ___ impulses.
 
 nerve
 
-Acetylcholine is released a neuron
-
-junctions called a ____.
+Acetylcholine is released a neuron junctions called a ____.
 61 of 212
 
 synapse
 
-In animal cells, increased levels of ____ results
-
- in less fluid membranes
+In animal cells, increased levels of ____ results in less fluid membranes.
 62 of 212
 
 cholesterol
 
-Which crosses the membrane quicker,
-
-proteins or lipids?
+Which crosses the membrane quicker, proteins or lipids?
 63 of 212
 
 lipids
@@ -354,36 +328,32 @@ The most abundant precursor to steroids is ______.
 
 cholesterol
 
-If there is not enough cholesterol in the diet, the body depends on the ___ to create more cholesterol
+If there is not enough cholesterol in the diet, the body depends on the ___ to create more cholesterol.
 67 of 212
 
 liver
 
-Arachidonic acid is a precursor for
+Arachidonic acid is a precursor for:
 68 of 212
 
 prostaglandins, thromboxanes and leukotrienes
 
-Arachidonic acid is a __ carbon (saturated/unsaturated/polyunsaturated)
-
-fatty acid.
+Arachidonic acid is a __ carbon (saturated/unsaturated/polyunsaturated) fatty acid.
 69 of 212
 
-20 polyunsaturated
+20, polyunsaturated
 
-Prostaglandin, thromboxanes and leukotrienes
-
-are ________ hormones
+Prostaglandin, thromboxanes and leukotrienes are ________ hormones.
 70 of 212
 
 local
 
-True or False: Prostaglandins , thromboxanes and leukotrienes are transported in the blood
+True or False: Prostaglandins , thromboxanes and leukotrienes are transported in the blood.
 71 of 212
 
 FALSE
 
-Prostaglandins, thromboxanes, and leukotrienes are all ____ that act as local hormones
+Prostaglandins, thromboxanes, and leukotrienes are all ____ that act as local hormones.
 72 of 212
 
 eicosanoids
@@ -391,7 +361,7 @@ eicosanoids
 The roles of prostaglandins are to:
 73 of 212
 
-Lower blood pressure, contract smooth muscles and are part of the inflammatory response
+Lower blood pressure, contract smooth muscles and are part of the inflammatory response.
 
 _______ are eicosanoids that promote vasoconstriction to induce platelet aggregation and blood clotting.
 74 of 212
@@ -418,7 +388,7 @@ The animal based supplement ________ inhibits formation of leukotrienes and thro
 
 fish oil
 
-_______ form DNA, which contains the information needed to synthesize _____
+_______ form DNA, which contains the information needed to synthesize _____.
 79 of 212
 
 Nucleic acids ; proteins
@@ -443,9 +413,7 @@ A Nucleotide =
 
 Nitrogen base + 5-carbon sugar + phosphoric acid
 
-The two categories of nucleotide
-
-nitrogen bases are :
+The two categories of nucleotide nitrogen bases are:
 84 of 212
 
 purines and pyrimidines
@@ -479,16 +447,12 @@ The nucleotide base only found in RNA, and not found in DNA is:
 
 uracil
 
-Nucleotide pairs are joined
-
-together via _____ bonds.
+Nucleotide pairs are joined together via _____ bonds.
 90 of 212
 
 hydrogen
 
-The __-carbon sugars found in nuclei
-
-are D-_____ and D-_____.
+The __-carbon sugars found in nuclei are D-_____ and D-_____.
 91 of 212
 
 5 ; ribose ; deoxyribose
@@ -498,7 +462,7 @@ Different nucleotides link together through their _____________ portions.
 
 phosphoric acid
 
-To form a nucleic acid, first a ______ must be formed and then a ______ must be formed
+To form a nucleic acid, first a ______ must be formed and then a ______ must be formed.
 93 of 212
 
 nucleoside ; nucleotide
@@ -528,16 +492,12 @@ The starting end of a DNA or RNA polymer is denoted with (3'/5') and the end of 
 
 5' ; 3'
 
-The central ____ of genetics states that DNA is replicated into more DNA or RNA and that all the information is transferred to
-
-allow for life and function.
+The central ____ of genetics states that DNA is replicated into more DNA or RNA and that all the information is transferred to allow for life and function.
 99 of 212
 
 dogma
 
-The human genome contains
-
-3 (million/billion) nucleotides.
+The human genome contains 3 (million/billion) nucleotides.
 100 of 212
 
 billion
@@ -562,14 +522,12 @@ ____ travels from the DNA to the ribosome to relay information regarding the ami
 
 mRNA
 
-______ are found in RNA, coenzymes like FAD and NAD+ as well as cellular regulators
-
-such a cyclic AMP
+______ are found in RNA, coenzymes like FAD and NAD+ as well as cellular regulators, such a cyclic AMP.
 105 of 212
 
 Ribonucleotides
 
-The secondary structure of DNA is a ______ consisting of _____ bonds
+The secondary structure of DNA is a ______ consisting of _____ bonds.
 106 of 212
 
 double helix ; hydrogen bonds
@@ -584,22 +542,22 @@ The two strands of a DNA double helix are (parallel/antiparallel) to one another
 
 antiparallel
 
-In DNA, the more (hydrophilic/hydrophobic) group is the (nitrogen base / phosphate) and is found on the inner portion of DNA
+In DNA, the more (hydrophilic/hydrophobic) group is the (nitrogen base / phosphate) and is found on the inner portion of DNA.
 109 of 212
 
 hydrophobic ; nitrogen base
 
-In DNA, the more (hydrophilic/hydrophobic) group is the (nitrogen base/ phosphate) and is found on the outer portion of the DNA
+In DNA, the more (hydrophilic/hydrophobic) group is the (nitrogen base/ phosphate) and is found on the outer portion of the DNA.
 110 of 212
 
 hydrophilic ; phosphate
 
-Adenine can form ____ hydrogen bonds to thymine. Guanine can form ___ hydrogen bonds to cytosine
+Adenine can form ____ hydrogen bonds to thymine. Guanine can form ___ hydrogen bonds to cytosine.
 111 of 212
 
 2 ; 3
 
-In RNA, ______ can bind to uracil
+In RNA, ______ can bind to uracil.
 112 of 212
 
 adenine
@@ -624,7 +582,7 @@ Vitamin B1 is also known as _______.
 
 thiamine
 
-Thiamine (B1) deficiency can cause _____, a deterioration of the _________
+Thiamine (B1) deficiency can cause _____, a deterioration of the _________.
 117 of 212
 
 Beriberi, nervous system
@@ -644,9 +602,7 @@ Vitamin B3 is ______.
 
 niacin
 
-B2 (Riboflavin) is used in the
-
-synthesis of _____and _____.
+B2 (Riboflavin) is used in the synthesis of _____and _____.
 121 of 212
 
 FMN and FAD
@@ -666,9 +622,7 @@ Vitamin B6 is also known as ______.
 
 pyridoxine
 
-Vitamin B6 (pyridoxine) is used in the
-
-conversion of ______ and ____.
+Vitamin B6 (pyridoxine) is used in the conversion of ______ and ____.
 125 of 212
 
 alpha-keto acids and amino acids
@@ -713,9 +667,7 @@ Vitamin B5 is also called _______.
 
 pantothenic acid
 
-Vitamin B5 / pantothenic acid is
-
-needed to create _______.
+Vitamin B5 / pantothenic acid is needed to create _______.
 134 of 212
 
 Coenzyme A
@@ -725,9 +677,7 @@ Vitamin B12 is also called ______.
 
 cyanocobalamin
 
-Vitamins B12 / cyanocobalamin
-
- deficiency results in _____.
+Vitamins B12 / cyanocobalamin deficiency results in _____.
 136 of 212
 
 pernicious anemia
@@ -752,7 +702,7 @@ Vitamin ___ is found in the retina and mucous membranes of the eye.
 
 A
 
-When light activates vitamin A in the retina, it changes from its ____ structure to ___
+When light activates vitamin A in the retina, it changes from its ____ structure to ___.
 141 of 212
 
 11-cis to all-trans
@@ -780,8 +730,7 @@ scurvy
 Vitamin C is essential in the maintenance of ______.
 146 of 212
 
-collagen  in connective tissues such as
-ligaments or tendons.
+collagen in connective tissues such as ligaments or tendons
 
 Vitamin D is activated in the body via ____.
 147 of 212
@@ -803,7 +752,7 @@ Vitamin D3 is also known as ________.
 
 cholecalciferol
 
-Ergosterol is activated into vitamin ___
+Ergosterol is activated into vitamin ___.
 151 of 212
 
 D2
@@ -813,7 +762,7 @@ D2
 
 D3
 
-Vitamins D1 is _____
+Vitamins D1 is _____.
 153 of 212
 
 A mixture of D2 and D3.
@@ -823,9 +772,7 @@ Vitamin D is needed for absorption of __________.
 
 calcium and phosphorous
 
-The disease associated with
-
-vitamin D deficiency is _________.
+The disease associated with vitamin D deficiency is _________.
 155 of 212
 
 osteomalacia or rickets
@@ -835,7 +782,7 @@ _______ are compounds with vitamin E activity.
 
 Tocopherols
 
-Vitamin K is needed to produce the coenzyme ______, which helps_____
+Vitamin K is needed to produce the coenzyme ______, which helps_____.
 157 of 212
 
 prothrombin, clot blood
@@ -850,9 +797,7 @@ Signs of a vitamin K deficiency are:
 
 poor blood clotting and bruising
 
-Hormones are created in ____ and travel
-
-in the ___ to their target.
+Hormones are created in ____ and travel in the ___ to their target.
 160 of 212
 
 glands ; blood
@@ -862,12 +807,12 @@ glands ; blood
 
 Endocrine ; autocrine and paracrine
 
-(Autocrine/Paracrine) hormones affect the same cells they are produced by, and (autocrine/paracrine) hormones affect nearby cells
+(Autocrine/Paracrine) hormones affect the same cells they are produced by, and (autocrine/paracrine) hormones affect nearby cells.
 162 of 212
 
 Autocrine ; paracrine
 
-The hypothalamus, pituitary, pancreas, adrenals, liver, testes and ovaries are all _____ glands
+The hypothalamus, pituitary, pancreas, adrenals, liver, testes and ovaries are all _____ glands.
 163 of 212
 
 endocrine
@@ -877,14 +822,12 @@ The three structural groups of hormones are:
 
 proteins, steroids, amines
 
-Protein hormones are (hydrophobic/hydrophilic), amine hormones are (hydrophobic/hydrophilic) and lipid hormones are (hydrophobic/hydrophilic)
+Protein hormones are (hydrophobic/hydrophilic), amine hormones are (hydrophobic/hydrophilic) and lipid hormones are (hydrophobic/hydrophilic).
 165 of 212
 
 hydrophilic ; hydrophilic ; hydrophobic
 
-(Hydrophobic/Hydrophilic) hormones interact with membrane receptors and active
-
- them to produce ________.
+(Hydrophobic/Hydrophilic) hormones interact with membrane receptors and active them to produce ________.
 166 of 212
 
 Hydrophilic ; second messengers
@@ -904,12 +847,12 @@ Protein hormones are also called ______ hormones.
 
 polypeptide
 
-The hypothalamus, pituitary, and pancreas all make (protein/lipid/amine) hormones
+The hypothalamus, pituitary, and pancreas all make (protein/lipid/amine) hormones.
 170 of 212
 
 protein
 
-The ovaries, testes, and adrenal glands all make (protein/lipid/amine) hormones
+The ovaries, testes, and adrenal glands all make (protein/lipid/amine) hormones.
 171 of 212
 
 lipid
@@ -919,14 +862,12 @@ Steroids are (protein/lipid/amine) hormones derived from ________.
 
 lipid ; cholesterol
 
-Female sex hormones are called _____,
-
-and male sex hormones are called _____
+Female sex hormones are called _____, and male sex hormones are called _____.
 173 of 212
 
 estrogens ; androgens
 
-Aldosterone, cortisol, and _____cortical hormones and are steroids
+Aldosterone, cortisol, and _____cortical hormones and are steroids.
 174 of 212
 
 adrenal
@@ -946,9 +887,7 @@ Thyroxine is an (lipid/amine/protein) hormone produced by the ______gland.
 
 amine ; thyroid
 
-A _______ is the dormant / inactive
-
-form of a hormone.
+A _______ is the dormant / inactive form of a hormone.
 178 of 212
 
 prohormone
@@ -978,9 +917,7 @@ Angiotensinogen is a prohormone of ____________.
 
 Angiotensin
 
-Angiotensin II signals the _______ to
-
-release the hormone ______.
+Angiotensin II signals the _______ to release the hormone ______.
 184 of 212
 
 adrenal cortex ; aldosterone
@@ -995,9 +932,7 @@ _______ is the enzyme that converts angiotensinogen to ________.
 
 Renin ; angiotensin I
 
-In a _____ feedback loop, the action of a hormone signals the gland producing it to
-
-stop its own production
+In a _____ feedback loop, the action of a hormone signals the gland producing it to stop its own production.
 187 of 212
 
 negative
@@ -1011,21 +946,17 @@ Biochemistry
  Deck 5 of 7
 100 flashcards
 
-The ________ signals the hypothalamus to release hormone "releasing factors" to signal the _____ to release hormones into the blood
+The ________ signals the hypothalamus to release hormone "releasing factors" to signal the _____ to release hormones into the blood.
 189 of 212
 
 nervous system ; pituitary
 
-The two hormones of the posterior
-
-pituitary gland are :
+The two hormones of the posterior pituitary gland are :
 190 of 212
 
 oxytocin and vasopressin
 
-The hormone responsible for
-
-lactation is _____ from the _____
+The hormone responsible for lactation is _____ from the _____.
 191 of 212
 
 Prolactin from the anterior pituitary is responsible for lactation.
@@ -1040,7 +971,7 @@ The hormones from the anterior pituitary are:
 
 growth hormone, thyrotropic hormone, adrenal corticotropin, prolactin, follicle stimulating hormone, and luteinizing hormone
 
-The _____ activates the _________ to produce growth hormone which can affect bones, as well as stimulate the _____ to secrete ______
+The _____ activates the _________ to produce growth hormone which can affect bones, as well as stimulate the _____ to secrete ______.
 194 of 212
 
 hypothalamus; anterior pituitary; liver; insulin-like growth factor (IGF-1)
@@ -1048,12 +979,9 @@ hypothalamus; anterior pituitary; liver; insulin-like growth factor (IGF-1)
 The _______ activates the _____ to secrete thyrotropic hormone which causes the ____ to secrete _____.
 195 of 212
 
-hypothalamus ; anterior pituitary ;
-thyroid ; thyroxine
+hypothalamus ; anterior pituitary ; thyroid ; thyroxine
 
-The ______ activates the ____ to secrete adrenal corticotropin which activates the _____ to
-
-release ______.
+The ______ activates the ____ to secrete adrenal corticotropin which activates the _____ to release ______.
 196 of 212
 
 hypothalamus; anterior pituitary ; adrenal cortex ; adrenal cortical hormones
@@ -1061,8 +989,7 @@ hypothalamus; anterior pituitary ; adrenal cortex ; adrenal cortical hormones
 The _____ activates the _____ to secrete prolactin which acts on the ______.
 197 of 212
 
-hypothalamus ; anterior pituitary ;
-mammary glands
+hypothalamus ; anterior pituitary ; mammary glands
 
 The _____ activates the _____ to secrete follicle stimulating hormone which activates the _____ to secrete testosterone.
 198 of 212
@@ -1079,9 +1006,7 @@ ________ is the ability of one hormone to bind to a single receptor and to cause
 
 Amplification
 
-____ and ___ hormones can cross
-
-cell membranes and enter a cell.
+____ and ___ hormones can cross cell membranes and enter a cell.
 201 of 212
 
 Steroid and thyroid
@@ -1091,9 +1016,7 @@ The receptors for steroid hormones are (on the cell membrane/ in the cytosol).
 
 in the cytosol
 
-(Anabolism/Catabolism) is building up molecules and (anabolism/catabolism)
-
-breaking down molecules.
+(Anabolism/Catabolism) is building up molecules and (anabolism/catabolism) breaking down molecules.
 203 of 212
 
 Anabolism ; catabolism
@@ -1103,12 +1026,12 @@ Metabolic processes that absorb energy are (endergonic/exergonic) and those that
 
 endergonic ; exergonic
 
-Free energy of a reaction, denoted as triangle G, is equal to _______ minus _____
+Free energy of a reaction, denoted as triangle G, is equal to _______ minus _____.
 205 of 212
 
 energy of products minus energy of reactants
 
-Reactions that produce energy have a (positive/negative) free energy value and are (spontaneous/nonspontaneous)
+Reactions that produce energy have a (positive/negative) free energy value and are (spontaneous/nonspontaneous).
 206 of 212
 
 Negative ; spontaneous
@@ -1123,9 +1046,7 @@ The key supplier of cellular energy is:
 
 ATP
 
-ATP is needed for (endergonic/exergonic)
-
-(spontaneous/nonspontaneous) reactions.
+ATP is needed for (endergonic/exergonic) (spontaneous/nonspontaneous) reactions.
 209 of 212
 
 endergonic ; nonspontaneous
@@ -1145,4 +1066,4 @@ Hydrolysis of ADP into ____ releases energy.
 
 AMP
 
-The enzyme _______________ can produce
+
