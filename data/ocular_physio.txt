@@ -306,7 +306,7 @@ equator germination zone
 Differentiate normal tear electrolytes vs a dry/sick tear layer
 61 of 70
 
-Normal= LOWER: Na+,K+, Cl-, Ca++ , IgG- HIGHER: lysozymes, cytokines, mucins, IgA - SICK= HIGHER: SALT OSMOLARITY Na+, cytokines, mucin, IgG-LOWER:  lysozymes, mucins, IgA
+Normal= LOWER: Na+,K+, Cl-, Ca++ , IgG HIGHER: lysozymes, cytokines, mucins, IgA - SICK= HIGHER: SALT OSMOLARITY Na+, cytokines, mucin, IgG LOWER:  lysozymes, mucins, IgA
 
 List the 11 amino acids in tears (LOW MOLECULAR WEIGHT PARTICLES IN TEARS).
 62 of 70
@@ -341,7 +341,7 @@ The aqueous is saltier (has more Na+). - Think: It needs to be salty to pull the
 True or False? There is a high concentration of amino acids in the vitreous.
 68 of 70
 
-False-  Think: The vitreous needs to be optically clear. It has 1/5th the amount of amino acids compared to plasma.
+False - Think: The vitreous needs to be optically clear. It has 1/5th the amount of amino acids compared to plasma.
 
 What does the term "high extravascular pressure" mean in reference to the eye.
 69 of 70
