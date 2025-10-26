@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Flashcard Splitter & Renumber (Biochemistry)</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111}
+  .wrap{max-width:900px;margin:auto}
+  h1{font-size:22px;margin:0 0 12px}
+  .row{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:10px 0}
+  input[type=file],input[type=text],input[type=number],button{padding:10px;border:1px solid #ddd;border-radius:8px}
+  button{font-weight:600;background:#fff}
+  .out{margin-top:16px;border:1px solid #eee;border-radius:10px;padding:14px}
+  .note{color:#666;font-size:13px;margin-top:6px}
+  .ok{color:#0a7a27;font-weight:600}
+  .warn{color:#b25a00}
+  code{background:#f6f6f6;padding:2px 6px;border-radius:6px}
+  ul{margin:8px 0 0 20px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Flashcard Splitter & Renumber — Biochemistry</h1>
+
+  <div class="row">
+    <input id="file" type="file" accept=".txt" />
+    <input id="base" type="text" placeholder="Base name (e.g., biochem)" style="min-width:220px">
+    <label>Decks:
+      <input id="numDecks" type="number" min="2" max="8" value="3" style="width:70px">
+    </label>
+    <button id="go">Split & Renumber</button>
+  </div>
+
+  <div class="note">
+    • Your TXT must have anchor lines like <code>12 of 635</code> (any total is fine).<br>
+    • This tool finds each anchor, grabs the question line above it, and all content up to the next card’s question.<br>
+    • Each output deck is renumbered to <code>1 of N</code>, <code>2 of N</code>, … within that deck.
+  </div>
+
+  <div id="status" class="out" style="display:none"></div>
+</div>
+
+<script>
+const fileEl  = document.getElementById('file');
+const baseEl  = document.getElementById('base');
+const decksEl = document.getElementById('numDecks');
+const goEl    = document.getElementById('go');
+const status  = document.getElementById('status');
+
+function escHtml(s){return s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
+
+goEl.onclick = async () => {
+  const f = fileEl.files && fileEl.files[0];
+  if(!f){ alert('Choose your big Biochemistry TXT first.'); return; }
+  const base = (baseEl.value || 'biochem').trim();
+  const numDecks = Math.max(2, Math.min(8, parseInt(decksEl.value||'3',10)));
+
+  const txt = await f.text();
+  const out = splitAndRenumber(txt, numDecks);
+
+  status.style.display='block';
+  status.innerHTML = renderResult(out, base);
+};
+
+function renderResult(result, base){
+  const {cards, chunks, sizes, warnings} = result;
+  let html = `<div><span class="ok">Found ${cards.length} cards.</span> Split into ${chunks.length} deck(s): ${sizes.join(' / ')}.</div>`;
+  if(warnings.length){
+    html += `<div class="warn" style="margin-top:6px">Warnings:</div><ul>`;
+    warnings.forEach(w=> html += `<li>${escHtml(w)}</li>`);
+    html += `</ul>`;
+  }
+  html += `<div style="margin-top:10px"><strong>Downloads:</strong></div>`;
+  chunks.forEach((blob, i)=>{
+    const name = `${base}_${i+1}.txt`;
+    const a = URL.createObjectURL(blob);
+    html += `<div style="margin-top:8px"><a download="${name}" href="${a}">${name}</a></div>`;
+  });
+  html += `<div class="note">Tip: Save each file to your repo’s <code>/data/</code> folder as shown above. Then wire them in your student/admin HTML like usual.</div>`;
+  return html;
+}
+
+function splitAndRenumber(allText, numDecks){
+  const warnings = [];
+  const text = allText.replace(/\r/g,'');
+  const lines = text.split('\n');
+  const isAnchor = (s)=> /^\d+\s+of\s+\d+$/i.test((s||'').trim());
+
+  // Find indices of anchor lines
+  const anchorIdx = [];
+  lines.forEach((ln, i)=>{ if(isAnchor(ln)) anchorIdx.push(i); });
+
+  if(anchorIdx.length === 0){
+    warnings.push('No anchor lines like "x of y" were found. Check your TXT format.');
+    return {cards:[],chunks:[],sizes:[],warnings};
+  }
+
+  // For each anchor, find the "question" line immediately above it (first non-empty line up)
+  const qStartIdx = anchorIdx.map(ai => {
+    let j = ai - 1;
+    while(j >= 0 && lines[j].trim() === '') j--;
+    return Math.max(0, j); // question line index
+  });
+
+  // Build card segments [start..end)
+  const cards = [];
+  for(let i=0;i<anchorIdx.length;i++){
+    const start = qStartIdx[i];
+    let end;
+    if(i < anchorIdx.length - 1){
+      // next card's question start
+      end = qStartIdx[i+1];
+    }else{
+      end = lines.length;
+    }
+    if(start >= end){
+      // Fallback: include at least the anchor line itself if weird spacing
+      const s = Math.max(0, anchorIdx[i]-1);
+      const e = (i<anchorIdx.length-1) ? anchorIdx[i+1] : lines.length;
+      cards.push({start:s, end:e, anchorAt:anchorIdx[i]});
+    }else{
+      cards.push({start, end, anchorAt:anchorIdx[i]});
+    }
+  }
+
+  // Decide sizes per deck (even distribution)
+  const total = cards.length;
+  const base = Math.floor(total / numDecks);
+  const rem  = total % numDecks;
+  const sizes = Array.from({length:numDecks}, (_,i)=> base + (i<rem?1:0));
+
+  // Slice into decks
+  const chunks = [];
+  let cursor = 0;
+  for(let d=0; d<numDecks; d++){
+    const take = sizes[d];
+    const deckCards = cards.slice(cursor, cursor+take);
+    cursor += take;
+
+    // Assemble text, renumber the anchor inside each card to "k of take"
+    let k = 0;
+    const outLines = [];
+    deckCards.forEach(card=>{
+      k++;
+      for(let idx = card.start; idx < card.end; idx++){
+        const line = lines[idx];
+        if(idx === card.anchorAt){
+          outLines.push(`${k} of ${take}`);
+        }else{
+          outLines.push(line);
+        }
+      }
+      // ensure a blank line between cards (nice to have)
+      if(outLines.length && outLines[outLines.length-1].trim() !== '') outLines.push('');
+    });
+
+    // Blob
+    const blob = new Blob([outLines.join('\n')], {type:'text/plain'});
+    chunks.push(blob);
+  }
+
+  // Sanity check: re-count anchors after renumber (not strictly necessary here)
+  return {cards, chunks, sizes, warnings};
+}
+</script>
+</body>
+</html>
