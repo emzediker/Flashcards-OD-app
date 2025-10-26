@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Merge + Renumber Flashcards</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:18px;background:#fff;color:#111}
+  .card{max-width:860px;margin:auto;border:1px solid #ddd;border-radius:12px;padding:18px}
+  h1{font-size:20px;margin:0 0 12px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0}
+  input[type=file]{padding:9px 12px;border:1px solid #ccc;border-radius:8px}
+  button{padding:10px 14px;border:1px solid #999;border-radius:8px;background:#0a7;color:#fff;font-weight:600;cursor:pointer}
+  button:disabled{opacity:.5;cursor:not-allowed}
+  .muted{color:#666;font-size:13px}
+  .box{padding:10px;border:1px dashed #bbb;border-radius:8px;background:#fafafa;margin-top:10px}
+  .ok{color:#0a7}
+  .warn{color:#b46900}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Merge + Renumber Flashcards (no split)</h1>
+  <div class="row">
+    <input id="files" type="file" multiple accept=".txt,text/plain">
+    <button id="mergeBtn">Merge + Renumber</button>
+  </div>
+  <div class="muted">Select all your TXT files (any order). This will merge, clean, and renumber “X of Y” anchors sequentially.</div>
+
+  <div id="result" class="box">
+    <div id="status">Waiting for files…</div>
+    <button id="downloadBtn" disabled>Download Merged File</button>
+  </div>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+const filesInput = $('#files');
+const mergeBtn = $('#mergeBtn');
+const statusEl = $('#status');
+const dlBtn = $('#downloadBtn');
+let outputBlob = null;
+
+// Read as text
+function readAsText(f){return new Promise((res,rej)=>{const r=new FileReader();r.onload=()=>res(String(r.result||''));r.onerror=rej;r.readAsText(f);});}
+
+// Clean weird unicode
+function cleanLine(s){
+  return s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').replace(/\uFFFD/g,'')
+          .replace(/[“”]/g,'"').replace(/[‘’]/g,"'").replace(/\u2013|\u2014/g,'-')
+          .replace(/[ \t]+$/,'');
+}
+
+// Find anchors
+function findAnchors(lines){
+  const re = /^\s*(\d+)\s+of\s+(\d+)\s*$/i;
+  const anchors=[];
+  for(let i=0;i<lines.length;i++){const m=lines[i].match(re);if(m)anchors.push(i);}
+  return anchors;
+}
+
+// Renumber anchors
+function renumberAnchors(text){
+  const lines = text.replace(/\r/g,'').split('\n').map(cleanLine);
+  const anchors = findAnchors(lines);
+  if(!anchors.length)return{text, count:0};
+  const blocks=[];
+  for(let i=0;i<anchors.length;i++){
+    const start=anchors[i];
+    const end=(i+1<anchors.length)?anchors[i+1]:lines.length;
+    blocks.push(lines.slice(start,end));
+  }
+  const total=blocks.length;
+  for(let i=0;i<total;i++) blocks[i][0]=`${i+1} of ${total}`;
+  return{text:blocks.map(b=>b.join('\n')).join('\n'), count:total};
+}
+
+// Make download
+function makeDownload(blob,name){
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);a.download=name;document.body.appendChild(a);
+  a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove();},2000);
+}
+
+mergeBtn.onclick=async()=>{
+  dlBtn.disabled=true;statusEl.innerHTML='Reading files…';
+  const files=[...(filesInput.files||[])];
+  if(!files.length){statusEl.innerHTML='<span class="warn">No files selected.</span>';return;}
+  try{
+    const texts=await Promise.all(files.map(readAsText));
+    const merged=texts.join('\n');
+    statusEl.innerHTML='Renumbering anchors…';
+    const {text, count}=renumberAnchors(merged);
+    if(!count){statusEl.innerHTML='<span class="warn">No “X of Y” anchors found.</span>';return;}
+    outputBlob=new Blob([text],{type:'text/plain'});
+    dlBtn.disabled=false;
+    statusEl.innerHTML=`<span class="ok">Merged ${files.length} files, found ${count} cards.</span>`;
+  }catch(e){console.error(e);statusEl.innerHTML='<span class="warn">Error reading files.</span>';}
+};
+
+dlBtn.onclick=()=>{if(outputBlob)makeDownload(outputBlob,'oculomotor_sensory_merged.txt');};
+</script>
+</body>
+</html>
