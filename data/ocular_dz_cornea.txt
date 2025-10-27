@@ -1,13 +1,14 @@
+True or False. Descemet's does not regenerate when ruptured.
 1 of 204
 
 TRUE
 
-In Fuchs dystrophy, as endothelial "pumping cells" die  off, there is a characteristic signs called:
+In Fuchs dystrophy, as endothelial "pumping cells" die off, there is a characteristic signs called:
 2 of 204
 
 guttae
 
-Fuchs dystrophy shows signs that the endothelial pumping cells have died off. The results from a build-up of:
+Fuchs dystrophy shows signs that the endothelial pumping cells have died off. This results from a build-up of:
 3 of 204
 
 VIII collagen atypically built up on endothelium
@@ -25,14 +26,9 @@ pleomorphism
 Mnemonic for polymegathism vs pleomorphism
 6 of 204
 
-Mega is how fat a cell is.
+Mega is how fat a cell is. In a ballet, a "plie" is bending shape of legs to hexagon. - pleo =  hexagonality
 
-In a ballet, a "plie" is bending shape of legs to
-hexagon.
-
-pleo =  hexagonality
-
-In young adults, the cell density is about___ cells/mm2.
+In young adults, the cell density is about___ cells/mm^2.
 7 of 204
 
 2500-3500
@@ -52,16 +48,10 @@ ____ provides a provisional matrix during the first phase of epithelial wound he
 
 Fibronectin
 
-In the cornea, superficial epithelial cells are joined together  by ____.
-
-Basal epithelial cells are joined by _____.
-
-Stroma cells are joined by ______.
-
-Endo cells are joined by ______.
+In the cornea, superficial epithelial cells are joined together  by ____. Basal epithelial cells are joined by _____. Stroma cells are joined by ______. Endothelial cells are joined by ______.
 11 of 204
 
-1. Surface: adherens junctions/tight junctions2. Basal: hemidesmosomes 3. Stroma: gap junctions 4. Endothelium: zona occludens and macula occludens
+1. Surface: adherens junctions/tight junctions 2. Basal: hemidesmosomes 3. Stroma: gap junctions 4. Endothelium: zona occludens and macula occludens
 
 The corneal stroma wants to suck in / absorb fluid. This is called:
 12 of 204
@@ -71,19 +61,17 @@ imbibition
 True or False: Endothelial cell density in the healthy human cornea increases with age.
 13 of 204
 
-False. Even in a healthy cornea endothelial cells die as we age.
+False - Even in a healthy cornea endothelial cells die as we age.
 
 Most of the sensory nerves in the cornea are derived from the ____  nerves of the ophthalmic branch of the ___ nerve.
 14 of 204
 
 ciliary nerves of the trigeminal nerve
 
-Degeneration or dysfunction of sensory nerves (trigeminal nerve branches) in the cornea can result in delayed healing of corneal injuries and the development of neurotrophic ulcer / neurotrophic keratopathy.
-
-This is a due to a decrease in:
+Degeneration or dysfunction of sensory nerves (trigeminal nerve branches) in the cornea can result in delayed healing of corneal injuries and the development of neurotrophic ulcer / neurotrophic keratopathy. This is a due to a decrease in:
 15 of 204
 
-Substance P (think of it as substance Pain, without it, in neurotrophic keratitis there is a painless ulcer)
+Substance P - Think of it as substance "Pain." Without it, in neurotrophic keratitis there is a painless ulcer.
 
 In order for the cornea to have metabolic activity, oxygen diffuses from the  ____ and glucose diffuses from ___.
 16 of 204
@@ -98,20 +86,17 @@ lactate
 List three  common causes of CORNEAL EPITHELIAL edema.
 18 of 204
 
-*endothelial dysfunction (such as in Fuch's or milkweed poisoning)
-*epithelial hypoxia (such as in PMMA contact lens wear)
-*epithelial trauma
+*endothelial dysfunction (such as in Fuch's or milkweed poisoning) *epithelial hypoxia (such as in PMMA contact lens wear) *epithelial trauma
 
 List two examples of corneal epithelial cysts:
 19 of 204
 
-* rapidly multiplying cysts (ex: Meesmann's dystrophy) 
-* degenerating cysts (ex: ABMD anterior basement membrane dystrophy)
+*rapidly multiplying cysts (ex: Meesmann's dystrophy) *degenerating cysts (ex: ABMD anterior basement membrane dystrophy)
 
 Mnemonic for Meesmann's epithelial dystrophy:
 20 of 204
 
- Mice go EP! EP!  EP! (epithelial dystrophy)
+Mice go EP! EP!  EP! (epithelial dystrophy)
 
 In corneal allograft rejection, the donor epithelium may be attacked by sensitized ____.
 21 of 204
@@ -138,10 +123,10 @@ The most common cause of drug induced corneal whorl keratopathy is:
 
 amiodarone
 
-White " stuck on" lesions on the corean that start at Bowmans and rise up are called:
+White "stuck on" lesions on the corean that start at Bowmans and rise up are called:
 26 of 204
 
-Salzmann's Nodules (consisting of hyaline and basement membrane)
+Salzmann's Nodules - consisting of hyaline and basement membrane
 
 Name a disease where the cornea becomes keratinized / sickly and can stick to the palpebral conjunctiva.
 27 of 204
@@ -176,22 +161,17 @@ Schnyder's crystalline dystrophy = CHOLESTEROL in the ANTERIOR STROMA
 Differences between corneal degeneration vs. corneal dystrophy:
 33 of 204
 
-degeneration is usually unilateral/ related to trauma or inflammation
-dystrophy is usually genetic and bilateral
+degeneration is usually unilateral/ related to trauma or inflammation and dystrophy is usually genetic and bilateral.
 
 Mnemonic for the stromal deposits found in stromal corneal dystrophies:
 34 of 204
 
-Marilyn Monroe Gets High
-In
-LA
+Marilyn Monroe Gets High In LA
 
 Describe a dermoid cyst on the cornea:
 35 of 204
 
-A dermoid is fleshy skin-like cyst on the cornea.
-
-It is nonpathogenic tissue that just randomly grows where it isn't supposed to be (...skin isn't suppose to be on the cornea).
+A dermoid is fleshy skin-like cyst on the cornea. - It is nonpathogenic tissue that just randomly grows where it isn't supposed to be (...skin isn't suppose to be on the cornea).
 
 If you hear "congenital defect on Descemet's" (invagination of Descemet's) automatically think of which condition?
 36 of 204
@@ -201,17 +181,12 @@ Peters anomaly
 Describe the appearance of Peters anomaly
 37 of 204
 
-There is a cloudy central cornea due to poor Descemet's function, with a clear periphery.
-
-The condition leads to glaucoma, amblyopia, and often has graft failure.
-
-Other clinical features: cleft lip, cleft palate, short stature, abnormal ears, and intellectual disability.
+There is a cloudy central cornea due to poor Descemet's function, with a clear periphery. The condition leads to glaucoma, amblyopia, and often has graft failure. - Other clinical features: cleft lip, cleft palate, short stature, abnormal ears, and intellectual disability.
 
 Mnemonic for Peters anomaly:
 38 of 204
 
-Peter
-COTTON tail
+Peter COTTON tail
 
 Name the dystrophy characterized by:
 
@@ -235,9 +210,7 @@ True or false: Corneal arcus is lipid deposits on the Bowman's layer.
 
 False. Lipid deposits in arcus are on Descemet's.
 
-Endothelial cells phagocytose pigment in disorders such as pigment dispersion syndrome.
-
-This results in a fine pigmented vertical line on the endothelium called.
+Endothelial cells phagocytose pigment in disorders such as pigment dispersion syndrome. This results in a fine pigmented vertical line on the endothelium called.
 43 of 204
 
 Krukenberg's spindle
@@ -247,27 +220,20 @@ Whorl Keratopathy is also known as:
 
 corneal verticillata
 
-The routine media for isolating bacteria from the cornea, conjunctiva, and eyelids are broth-based agar with 5% sheep blood, chocolate agar, and mannitol salt agar.
-
-Which species grow on chocolate agar?
+The routine media for isolating bacteria from the cornea, conjunctiva, and eyelids are broth-based agar with 5% sheep blood, chocolate agar, and mannitol salt agar. Which species grow on chocolate agar?
 45 of 204
 
-Haemophilus species
-Neisseria gonorrhoeae & Nutrient Variant Streptococcus species
+Haemophilus species, Neisseria gonorrhoeae & Nutrient Variant Streptococcus species
 
 Mannitol salt agar is an optional medium that is very helpful to the microbiologist for differentiating ____ species.
 46 of 204
 
 Staphylococcus
 
-The best agar to test for suspected fungal corneal infection is:
-
-(remember fungal ulcers have fluffy borders and causes are often due to vegetative trauma)
+The best agar to test for suspected fungal corneal infection is:(remember fungal ulcers have fluffy borders and causes are often due to vegetative trauma)
 47 of 204
 
 Sabouraud
-
-
 
 Acanthamoeba grows in cysts called:
 48 of 204
@@ -277,9 +243,7 @@ trophozoites
 Acanthamoeba grows on plates plated with ________ to use as food.
 49 of 204
 
-E.coli &
-Enterobacter
-aerogenes
+E.coli & Enterobacter aerogenes
 
 True or False:  Acanthamoeba and Viral DNA can both be cultured in PCR.
 50 of 204
@@ -289,24 +253,21 @@ TRUE
 Adenovirus can be detected from ocular specimens using these four methods:
 51 of 204
 
-1. cell culture isolation2. shell vial3. rapid antigen testing4.  PCR
+1. cell culture isolation 2. shell vial 3. rapid antigen testing 4. PCR
 
-Name the corneal dystrophy:
-
- ____ is caused by poor adhesion of epithelium to the basal lamina.
+Name the corneal dystrophy: ____ is caused by poor adhesion of epithelium to the basal lamina.
 
 This results in symptomatic recurrent erosions and visual disturbances of glare and blue.
 
-Here the cornea epithelium can look like map whirls.
+In this condition, the corneal epithelium can look like map whirls:
 52 of 204
 
 EBMD (Epithelial Basement Membrane Dystrophy)
 
-
 Four interchangeable names for Anterior Basement Membrane Dystrophy:
 53 of 204
 
-* Anterior Basement Membrane Dystrophy (ABMD)* Epithelial Basement Membrane Dystrophy (EBMD)* Cogan's Dystrophy* Map-Dot Dystrophy
+*Anterior Basement Membrane Dystrophy (ABMD) *Epithelial Basement Membrane Dystrophy (EBMD) *Cogan's Dystrophy *Map-Dot Dystrophy
 
 What is the gene implicated in Meesmann Dystrophy?
 54 of 204
@@ -331,38 +292,30 @@ Reis-Bucklers corneal dystrophy (RBCD) & Thiel-Behnke corneal dystrophy (TBCD)
 Describe Reis Bucklers and its inheritance pattern
 58 of 204
 
-Autosomal DOMINANT: bilateral subepithelial reticular opacities that focally elevate the epithelium, appearing symmetrically in both corneas beginning around the age of 5.The opacities remain asymptomatic until they produce recurrent erosions.
+Autosomal DOMINANT: bilateral subepithelial reticular opacities that focally elevate the epithelium, appearing symmetrically in both corneas beginning around the age of 5. - The opacities remain asymptomatic until they produce recurrent erosions.
 
 Describe Thiel-Behnke
 59 of 204
 
-Thiel-Behnke corneal dystrophy is similar to RBCD  by subepithelial corneal opacities associated with RCE.
-
-However, opacities can be differentiated by their honeycomb pattern and a clear zone near the corneoscleral limbus. TB DOES NOT EXTEND TO THE LIMBUS.
+Thiel-Behnke corneal dystrophy is similar to RBCD  by subepithelial corneal opacities associated with RCE. -8 However, opacities can be differentiated by their honeycomb pattern and a clear zone near the corneoscleral limbus. TB DOES NOT EXTEND TO THE LIMBUS.
 
 ___ is an exocrinopathy (exocrine glands atrophy) in which the lacrimal and salivary glands are targeted by an autoimmune process associated to Rheumatoid Arthritis. Here, CD4 and CD8 T-cell cascades cause inflammatory death of tear producing cells.
 60 of 204
 
 Sjogren syndrome (SS)
 
-Name the type of dry eye: ____ is a condition of obstructed oil-producing glands of the eyelid which leads to tear film instability, increased evaporation, and ocular surface alterations.
-
-Signs of the condition occur due to the diminished delivery of protective lipids to the tear film.
+Name the type of dry eye: ____ is a condition of obstructed oil-producing glands of the eyelid which leads to tear film instability, increased evaporation, and ocular surface alterations. Signs of the condition occur due to the diminished delivery of protective lipids to the tear film.
 61 of 204
 
 Meibomian gland dysfunction (MGD) is a condition of obstructed meibomian glands that leads to tear film instability, increased evaporation, and ocular surface alterations because of the diminished delivery of protective lipids to the tear film.
 
-Most corneal dystrophies are autosomal dominant. Name 5 dystrophies that stand out  for having a different inheritance pattern.
+Most corneal dystrophies are autosomal dominant. Name 5 dystrophies that stand out for having a different inheritance pattern.
 62 of 204
 
-MACULAR, GELATINOUS DROP-LIKE & CHED:
-AUTOSOMAL RECESSIVE LISCH and X-LINKED ENDO:
-X LINKED
+MACULAR, GELATINOUS DROP-LIKE & CHED: AUTOSOMAL RECESSIVE - LISCH and X-LINKED ENDO:
+X-LINKED
 
-Test your knowledge.
-
-Name the corneal layers and
-associated dystrophies.
+Test your knowledge: Name the corneal layers and associated dystrophies.
 63 of 204
 
 
@@ -371,45 +324,32 @@ Bowman's layer dystrophies are normally associated to what genetic mutation?
 
 TGFb1
 
-Name the corneal dystrophy:
-
-This is a combined granular and lattice dystrophy. Histology shows both hyaline and amyloid deposits in the stroma.
+Name the corneal dystrophy: This is a combined granular and lattice dystrophy. Histology shows both hyaline and amyloid deposits in the stroma.
 65 of 204
 
 Avellino dystrophy
 
-Name the corneal dystrophy:
-
-This dystrophy represents a defect in corneal lipid metabolism. Fifty percent of patients have raised serum cholesterol levels. Histology shows deposits of phospholipids and cholesterol.
+Name the corneal dystrophy: This dystrophy represents a defect in corneal lipid metabolism. Fifty percent of patients have raised serum cholesterol levels. Histology shows deposits of phospholipids and cholesterol.
 66 of 204
 
 Schnyder crystalline corneal dystrophy
 
-Name the corneal dystrophy:
-
-Appearance of  crocodile shagreen or hexagonal crocodile skin with polygonal cloudy grey opacities in posterior stroma giving a leather-like appearance.
+Name the corneal dystrophy: Appearance of  crocodile shagreen or hexagonal crocodile skin with polygonal cloudy grey opacities in posterior stroma giving a leather-like appearance.
 67 of 204
 
 Central Cloudy Dystrophy of Francois
 
-Name the corneal dystrophy:
-
-This dystrophy usually manifests after the age of 50 and commonly in females. Features include corneal guttata and beaten metal appearance. It is associated with endothelial failure and stromal edema.
+Name the corneal dystrophy: This dystrophy usually manifests after the age of 50 and commonly in females. Features include corneal guttata and beaten metal appearance. It is associated with endothelial failure and stromal edema.
 68 of 204
 
 Fuchs corneal dystrophy
 
-Name the corneal dystrophy:
-
-A rare subtype of endothelial corneal dystrophy characterized by a diffuse ground glass appearance of the corneas and marked corneal thickening.
+Name the corneal dystrophy: A rare subtype of endothelial corneal dystrophy characterized by a diffuse ground glass appearance of the corneas and marked corneal thickening.
 
 Characterized by bilateral edema from birth.
 69 of 204
 
-Congenital
-Hereditary
-Endothelial
-Dystrophy
+Congenital Hereditary Endothelial Dystrophy (CHED)
 
 Another name for dry eye:
 70 of 204
