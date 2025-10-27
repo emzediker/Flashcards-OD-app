@@ -1,32 +1,32 @@
 <!doctype html>
 <html>
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
 <title>Ocular Disease — Admin</title>
 <style>
-  :root{--bd:#e6e6e6;--fg:#111;--mut:#666;--btn:#0a7;}
-  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:var(--fg)}
-  .wrap{max-width:1100px;margin:auto}
-  h1{font-size:22px;margin:0 0 14px}
-  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
-  select,input[type=search],button{padding:9px 10px;border:1px solid var(--bd);border-radius:8px;background:#fff}
-  .btn-primary{background:var(--btn);color:#fff;border-color:#0a7}
-  .card{border:1px solid var(--bd);border-radius:12px;padding:16px;min-height:120px;background:#fff}
-  .front{font-weight:600}
+  :root { --b:#e5e7eb; --t:#111; --m:#666; --acc:#0a7; }
+  body{font-family:system-ui,Arial,sans-serif;margin:0;background:#fff;color:var(--t)}
+  .wrap{max-width:1040px;margin:24px auto;padding:0 16px}
+  h1{font-size:22px;margin:0 0 12px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0 16px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid var(--b);border-radius:8px;background:#fff}
+  .card{border:1px solid var(--b);border-radius:12px;padding:16px;background:#fff}
+  .front{font-weight:700}
   .back{margin-top:10px}
-  .ans{font-weight:700;margin:2px 0 6px}
-  .exp{color:#555}
-  .meta{display:flex;justify-content:space-between;align-items:center;margin:10px 0;color:var(--mut)}
-  .nav{display:flex;gap:8px}
-  .nav button{flex:1;font-weight:600}
-  .imgrow{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
-  .box{border:1px dashed var(--bd);border-radius:10px;padding:10px;min-height:140px}
-  .box h3{margin:0 0 8px;font-size:14px;color:#333}
-  .box img{max-width:100%;height:auto;border-radius:8px}
-  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
-  .mut{color:var(--mut)}
-  .note{margin-top:10px;font-size:12px;color:var(--mut)}
+  .meta{display:flex;justify-content:space-between;align-items:center;color:var(--m);margin:10px 0}
+  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
+  .pane{border:1px solid var(--b);border-radius:10px;padding:10px}
+  .pane h3{margin:0 0 8px;font-size:14px;color:#333}
+  .apply{display:flex;gap:6px}
+  .note{color:var(--m);font-size:13px;margin-top:6px}
+  .picker{display:flex;gap:6px;align-items:center}
+  .picker select{flex:1}
+  .sp{height:8px}
+  .small{font-size:12px;color:var(--m)}
+  .btn{cursor:pointer}
+  .accent{background:var(--acc);color:#fff;border-color:var(--acc)}
+  .hidden{display:none}
 </style>
 </head>
 <body>
@@ -35,82 +35,90 @@
 
   <div class="bar">
     <label>Deck:
-      <select id="deck"></select>
+      <select id="deck">
+        <!-- IDs must match data/ files and images/ folders -->
+        <option value="ocular_dz_cornea">Cornea</option>
+        <option value="ocular_dz_crystalline">Crystalline Lens &amp; Uvea</option>
+        <option value="ocular_dz_neuro">Neurology</option>
+        <option value="ocular_dz_trauma">Ocular Trauma</option>
+        <option value="ocular_dz_adnexa">Adnexa</option>
+        <option value="ocular_dz_conj_sclera">Conjunctiva &amp; Sclera</option>
+        <option value="ocular_dz_optic_bv">Optic Nerve &amp; Blood Vessels</option>
+        <option value="ocular_dz_retina">Retina</option>
+      </select>
     </label>
     <label>Search:
-      <input id="q" type="search" placeholder="Find text...">
+      <input id="q" type="search" placeholder="Find text…">
     </label>
-    <button id="admin" class="btn-primary" aria-pressed="false">Admin Mode</button>
-    <input id="importMap" type="file" accept=".json" style="display:none">
-    <button id="importBtn">Import Mapping</button>
-    <button id="exportBtn">Export Mapping</button>
+    <button id="admin" class="btn">Admin Mode</button>
+    <button id="import" class="btn">Import Mapping</button>
+    <button id="export" class="btn">Export Mapping</button>
   </div>
 
-  <div class="card">
+  <div class="card" id="card">
     <div class="front" id="front"></div>
     <div class="back" id="back"></div>
   </div>
 
   <div class="meta">
-    <div id="status"></div>
-    <div class="nav">
-      <button id="prev">◀ Prev</button>
-      <button id="next">Next ▶</button>
+    <div><button id="prev" class="btn">◀ Prev</button>
+         <button id="next" class="btn">Next ▶</button></div>
+    <div id="counter">0 / 0</div>
+  </div>
+
+  <!-- Image choosers (auto-populated from images/<deck_id>/ via GitHub API) -->
+  <div class="row">
+    <div class="pane">
+      <h3>Front image</h3>
+      <div class="picker">
+        <select id="pickFront"><option value="">(loading folder…)</option></select>
+        <button id="applyFront" class="btn">Apply</button>
+      </div>
+      <div class="note small">Tip: folder is <code id="frontPathHint">images/DECK_ID/</code></div>
+    </div>
+    <div class="pane">
+      <h3>Back image</h3>
+      <div class="picker">
+        <select id="pickBack"><option value="">(loading folder…)</option></select>
+        <button id="applyBack" class="btn">Apply</button>
+      </div>
+      <div class="note small">Use Export to save JSON as <code>DECK_ID_image_map.json</code></div>
     </div>
   </div>
 
-  <div id="adminPanel" style="display:none">
-    <div class="imgrow">
-      <div class="box">
-        <h3>Front image</h3>
-        <div class="row">
-          <input id="frontPath" placeholder="images/DECK_ID/filename.jpg" style="flex:1;padding:8px;border:1px solid var(--bd);border-radius:8px">
-          <button id="frontApply">Apply</button>
-        </div>
-        <div class="note">Tip: path is relative to repo (e.g., <code>images/ocular_dz_cornea/IMG_1234.jpeg</code>).</div>
-        <div id="frontPrev" class="mut" style="margin-top:8px"></div>
-      </div>
-      <div class="box">
-        <h3>Back image</h3>
-        <div class="row">
-          <input id="backPath" placeholder="images/DECK_ID/filename.jpg" style="flex:1;padding:8px;border:1px solid var(--bd);border-radius:8px">
-          <button id="backApply">Apply</button>
-        </div>
-        <div class="note">You can paste/adjust filenames quickly; export JSON when done.</div>
-        <div id="backPrev" class="mut" style="margin-top:8px"></div>
-      </div>
-    </div>
-  </div>
-
-  <div class="note">Click a field, type a relative path, press “Apply”. Use Export to download <code>{deckId}_image_map.json</code> and commit it to <code>/images/</code>.</div>
+  <div class="sp"></div>
+  <div class="small">Click the question (front) or answer (back) text to toggle which side you’re attaching an image to when Admin Mode is ON.</div>
 </div>
 
 <script>
-/* ---------------------------- 1) Decks ---------------------------------- */
-/* Eight single-deck sections */
+/* ====== configuration (repo → used to list images) ====== */
+const GH_OWNER = 'emzediker';
+const GH_REPO  = 'Flashcards-OD-app';
+const GH_REF   = 'main';
+
+/* ====== decks (one TXT per deck) ====== */
 const DECKS = [
-  { id:'ocular_dz_cornea',             title:'Cornea',                        dataUrl:'data/ocular_dz_cornea.txt' },
-  { id:'ocular_dz_crystalline_lens_uvea', title:'Crystalline Lens & Uvea',   dataUrl:'data/ocular_dz_crystalline_lens_uvea.txt' },
-  { id:'ocular_dz_neurology',          title:'Neurology',                     dataUrl:'data/ocular_dz_neurology.txt' },
-  { id:'ocular_dz_ocular_trauma',      title:'Ocular Trauma',                 dataUrl:'data/ocular_dz_ocular_trauma.txt' },
-  { id:'ocular_dz_adnexa',             title:'Adnexa',                        dataUrl:'data/ocular_dz_adnexa.txt' },
-  { id:'ocular_dz_conj_sclera',        title:'Conjunctiva & Sclera',          dataUrl:'data/ocular_dz_conj_sclera.txt' },
-  { id:'ocular_dz_optic_nerve_bv',     title:'Optic Nerve & Blood Vessels',   dataUrl:'data/ocular_dz_optic_nerve_bv.txt' },
-  { id:'ocular_dz_retina',             title:'Retina',                        dataUrl:'data/ocular_dz_retina.txt' },
+  { id:'ocular_dz_cornea',       title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
+  { id:'ocular_dz_crystalline',  title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline.txt' },
+  { id:'ocular_dz_neuro',        title:'Neurology',                   dataUrl:'data/ocular_dz_neuro.txt' },
+  { id:'ocular_dz_trauma',       title:'Ocular Trauma',               dataUrl:'data/ocular_dz_trauma.txt' },
+  { id:'ocular_dz_adnexa',       title:'Adnexa',                      dataUrl:'data/ocular_dz_adnexa.txt' },
+  { id:'ocular_dz_conj_sclera',  title:'Conjunctiva & Sclera',        dataUrl:'data/ocular_dz_conj_sclera.txt' },
+  { id:'ocular_dz_optic_bv',     title:'Optic Nerve & Blood Vessels', dataUrl:'data/ocular_dz_optic_bv.txt' },
+  { id:'ocular_dz_retina',       title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
 ];
 
-/* ----------------------- 2) Parsing rules (strict " - ") ----------------- */
-function escapeHtml(s){return s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
-function cleanLine(s){return s?s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim():'';}
+/* ====== parsing (ONLY split explanation on " - ") ====== */
+const escapeHtml=s=>s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));
+const cleanLine=s=>s? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : '';
 function splitAnsExpl(line){
   if(!line) return {a:'',e:''};
-  const m=line.match(/^(.+?)\s-\s(.+)$/);       // ONLY split on space-hyphen-space
-  if(m) return {a:m[1].trim(), e:m[2].trim()};
-  return {a:line.trim(), e:''};
+  const m = line.match(/^(.+?)\s-\s(.+)$/);       // <— space-hyphen-space only
+  return m ? {a:m[1].trim(), e:m[2].trim()} : {a:line.trim(), e:''};
 }
 function parseTxt(txt, deckId){
   const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
-  const isAnchor=(s)=>/^\d+\s+of\s+\d+$/i.test(s);
+  const isAnchor=s=>/^\d+\s+of\s+\d+$/i.test(s);
   const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
   const out=[];
   for(let p=0;p<anchors.length;p++){
@@ -124,141 +132,121 @@ function parseTxt(txt, deckId){
   return out;
 }
 
-/* ----------------------- 3) State & elements ----------------------------- */
+/* ====== state & DOM ====== */
 const els = {
-  deck: document.getElementById('deck'),
-  q: document.getElementById('q'),
-  front: document.getElementById('front'),
-  back: document.getElementById('back'),
-  prev: document.getElementById('prev'),
-  next: document.getElementById('next'),
-  status: document.getElementById('status'),
-  adminBtn: document.getElementById('admin'),
-  adminPanel: document.getElementById('adminPanel'),
-  frontPath: document.getElementById('frontPath'),
-  backPath: document.getElementById('backPath'),
-  frontApply: document.getElementById('frontApply'),
-  backApply: document.getElementById('backApply'),
-  frontPrev: document.getElementById('frontPrev'),
-  backPrev: document.getElementById('backPrev'),
-  importBtn: document.getElementById('importBtn'),
-  importMap: document.getElementById('importMap'),
-  exportBtn: document.getElementById('exportBtn'),
+  deck: deck, q: q, admin: admin, exportBtn: export, importBtn: import,
+  front: front, back: back, prev: prev, next: next, counter: counter,
+  pickFront: pickFront, pickBack: pickBack, applyFront: applyFront, applyBack: applyBack,
+  frontPathHint: frontPathHint
 };
-let CURRENT=null, CARDS=[], VIEW=[], idx=0, admin=false;
-let IMAGE_MAP={}; // { "deckId-n": {front:"path", back:"path"} }
+let CURRENT=null, CARDS=[], idx=0, adminOn=false, attachSide='back';
+let IMAGE_MAP = {};        // loaded/edited per deck
+let IMAGE_LIST = [];       // files in images/<deckId>/
 
-/* ----------------------- 4) Rendering ------------------------------------ */
 function render(){
-  if(!VIEW.length){
-    els.front.innerHTML='<em>No cards match.</em>';
-    els.back.innerHTML='';
-    els.status.textContent='0 / 0';
-    return;
-  }
-  const c=VIEW[idx], map=IMAGE_MAP[c.id]||{};
-  els.front.innerHTML = c.front + (map.front?`<div style="margin-top:8px"><img src="${map.front}" alt=""></div>`:'');
-  els.back.innerHTML =
-    (c.backAns?`<div class="ans">${c.backAns}</div>`:'')
-   +(c.backExp?`<div class="exp">${c.backExp}</div>`:'')
-   +(map.back?`<div style="margin-top:8px"><img src="${map.back}" alt=""></div>`:'');
-  els.status.textContent = `${idx+1} / ${VIEW.length}`;
-  // Admin input defaults
-  if(admin){
-    els.frontPath.value = map.front || '';
-    els.backPath.value  = map.back  || '';
-    els.frontPrev.innerHTML = map.front?`<img src="${map.front}">`:'<span class="mut">No image</span>';
-    els.backPrev.innerHTML  = map.back ?`<img src="${map.back}">` :'<span class="mut">No image</span>';
-  }
+  if(!CARDS.length){ els.front.innerHTML=''; els.back.innerHTML=''; els.counter.textContent='0 / 0'; return; }
+  const c=CARDS[idx];
+  els.front.innerHTML = c.front || '<em>(no front)</em>';
+  const backHtml = (c.backAns?`<div class="ans">${c.backAns}</div>`:'') + (c.backExp?`<div class="exp">${c.backExp}</div>`:'');
+  els.back.innerHTML = backHtml || '<em>(no back)</em>';
+  els.counter.textContent = (idx+1)+' / '+CARDS.length;
 }
-function applyFilters(){
-  const term=(els.q.value||'').toLowerCase();
-  VIEW = CARDS.filter(c => !term || (c.front+c.backAns+c.backExp).toLowerCase().includes(term));
-  if(idx>=VIEW.length) idx=Math.max(0,VIEW.length-1);
-  render();
+function applySearch(){
+  const t=(els.q.value||'').toLowerCase();
+  if(!t) { render(); return; }
+  let n = CARDS.findIndex(c => (c.front+c.backAns+c.backExp).toLowerCase().includes(t));
+  if(n>=0){ idx=n; render(); }
 }
+function prevCard(){ if(!CARDS.length) return; idx=(idx-1+CARDS.length)%CARDS.length; render(); }
+function nextCard(){ if(!CARDS.length) return; idx=(idx+1)%CARDS.length; render(); }
 
-/* ----------------------- 5) Image map helpers ---------------------------- */
-function setMap(side, path){
-  if(!VIEW.length) return;
-  const id = VIEW[idx].id;
-  IMAGE_MAP[id] = IMAGE_MAP[id] || {};
-  IMAGE_MAP[id][side] = path.trim();
-  render();
-}
-els.frontApply.onclick = ()=> setMap('front', els.frontPath.value);
-els.backApply.onclick  = ()=> setMap('back',  els.backPath.value);
-
-els.importBtn.onclick = ()=> els.importMap.click();
-els.importMap.onchange = async (e)=>{
-  const f = e.target.files[0]; if(!f) return;
+/* ====== image picking (GitHub Contents API) ====== */
+async function loadImageList(deckId){
+  const url = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/images/${deckId}?ref=${GH_REF}`;
   try{
-    const text = await f.text();
-    const obj = JSON.parse(text);
-    IMAGE_MAP = obj || {};
-    render();
-    alert('Mapping imported into memory. Remember to Export when finished.');
-  }catch(err){ alert('Invalid JSON file.'); }
-};
+    const r = await fetch(url, {headers:{'Accept':'application/vnd.github+json'}});
+    if(!r.ok) throw 0;
+    const data = await r.json();
+    IMAGE_LIST = (Array.isArray(data)?data:[]).filter(x => x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
+      .map(x => `images/${deckId}/${x.name}`);
+  }catch(e){
+    IMAGE_LIST = [];
+  }
+  fillPickers();
+}
+function fillPickers(){
+  const mk = sel => {
+    sel.innerHTML = '';
+    const opt0 = document.createElement('option'); opt0.value=''; opt0.textContent = IMAGE_LIST.length? '(choose image…)':'(no images in folder)';
+    sel.appendChild(opt0);
+    IMAGE_LIST.forEach(p => { const o=document.createElement('option'); o.value=p; o.textContent=p.split('/').pop(); sel.appendChild(o); });
+  };
+  mk(els.pickFront); mk(els.pickBack);
+}
 
-els.exportBtn.onclick = ()=>{
-  if(!CURRENT) return;
-  // Export only keys for current deck for a tidy per-deck file
-  const prefix = CURRENT.id + '-';
-  const scoped = {};
-  Object.keys(IMAGE_MAP).forEach(k=>{ if(k.startsWith(prefix)) scoped[k]=IMAGE_MAP[k]; });
-  const blob = new Blob([JSON.stringify(scoped,null,2)],{type:'application/json'});
-  const a=document.createElement('a');
-  a.href=URL.createObjectURL(blob);
-  a.download = `${CURRENT.id}_image_map.json`;
-  a.click(); URL.revokeObjectURL(a.href);
-};
+/* ====== mapping import/export ====== */
+function download(text, filename){
+  const blob = new Blob([text], {type:'application/json'}), a=document.createElement('a');
+  a.href = URL.createObjectURL(blob); a.download = filename; a.click(); URL.revokeObjectURL(a.href);
+}
+function exportMap(){
+  const fn = `${CURRENT.id}_image_map.json`;
+  download(JSON.stringify(IMAGE_MAP, null, 2), fn);
+}
+function importMap(){
+  const inp=document.createElement('input'); inp.type='file'; inp.accept='application/json';
+  inp.onchange=async ()=>{ const f=inp.files[0]; if(!f) return; const t=await f.text(); try{ IMAGE_MAP = JSON.parse(t)||{}; alert('Mapping loaded ✓'); }catch{ alert('Invalid JSON'); } };
+  inp.click();
+}
 
-/* ----------------------- 6) Navigation ----------------------------------- */
-els.prev.onclick = ()=>{ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; render(); };
-els.next.onclick = ()=>{ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; render(); };
-els.q.oninput = applyFilters;
-
-els.adminBtn.onclick = ()=>{
-  admin = !admin;
-  els.adminBtn.setAttribute('aria-pressed', String(admin));
-  els.adminPanel.style.display = admin ? 'block' : 'none';
-  render();
-};
-
-/* ----------------------- 7) Load deck ------------------------------------ */
+/* ====== load/save per deck ====== */
 async function loadDeck(id){
   CURRENT = DECKS.find(d=>d.id===id);
-  idx=0; els.status.textContent='Loading…';
-  IMAGE_MAP = {}; // reset, then try to fetch existing per-deck map
+  idx=0; IMAGE_MAP = {}; IMAGE_LIST=[];
+  els.frontPathHint.textContent = `images/${CURRENT.id}/`;
+  // load data
+  try{ const r=await fetch(CURRENT.dataUrl,{cache:'no-store'}); const t=await r.text(); CARDS=parseTxt(t, CURRENT.id); }catch(e){ CARDS=[]; }
+  // try fetch existing mapping JSON (optional)
   try{
-    const r = await fetch(CURRENT.dataUrl,{cache:'no-store'}); 
-    if(!r.ok) throw new Error('deck text not found');
-    const t = await r.text();
-    CARDS = parseTxt(t, CURRENT.id);
-  }catch(e){ CARDS=[]; }
-
-  // Try to fetch existing mapping JSON if present
-  try{
-    const mapUrl = `images/${CURRENT.id}_image_map.json`;
-    const m = await fetch(mapUrl,{cache:'no-store'});
-    if(m.ok){ IMAGE_MAP = await m.json(); }
-  }catch(e){ /* ignore */ }
-
-  // Build view & render
-  VIEW = [...CARDS];
+    const r=await fetch(`images/${CURRENT.id}_image_map.json?${Date.now()}`);
+    if(r.ok){ IMAGE_MAP = await r.json(); }
+  }catch(e){}
+  await loadImageList(CURRENT.id);
   render();
 }
 
-/* ----------------------- 8) Init ----------------------------------------- */
-(function init(){
-  // Populate deck dropdown
-  els.deck.innerHTML='';
-  DECKS.forEach(d=>{ const o=document.createElement('option'); o.value=d.id; o.textContent=d.title; els.deck.appendChild(o); });
-  // Default deck
-  if(DECKS.length){ els.deck.value = DECKS[0].id; loadDeck(DECKS[0].id); }
-  // Change handler
-  els.deck.onchange = ()=> loadDeck(els.deck.value);
+/* ====== apply selected image to current card ====== */
+function apply(side, path){
+  if(!CARDS.length || !path) return;
+  const id = CARDS[idx].id;
+  IMAGE_MAP[id] = IMAGE_MAP[id] || {front:'', back:''};
+  IMAGE_MAP[id][side] = path;
+  alert(`Applied to ${side}: ${path}`);
+}
+
+/* ====== events ====== */
+els.prev.onclick = prevCard;
+els.next.onclick = nextCard;
+els.q.oninput = applySearch;
+els.deck.onchange = ()=>loadDeck(els.deck.value);
+els.applyFront.onclick = ()=>apply('front', els.pickFront.value);
+els.applyBack.onclick  = ()=>apply('back',  els.pickBack.value);
+els.exportBtn.onclick = exportMap;
+els.importBtn.onclick = importMap;
+
+els.admin.onclick = ()=>{
+  adminOn = !adminOn;
+  els.admin.classList.toggle('accent', adminOn);
+  els.admin.textContent = adminOn ? 'Admin Mode: ON' : 'Admin Mode';
+};
+els.front.onclick = ()=>{ if(adminOn) attachSide='front'; };
+els.back.onclick  = ()=>{ if(adminOn) attachSide='back'; };
+
+/* init */
+(function(){
+  // ensure deck dropdown matches DECKS order/titles (safety if edited later)
+  // (You can skip; left as-is to match the list above.)
+  loadDeck(els.deck.value);
 })();
 </script>
 </body>
