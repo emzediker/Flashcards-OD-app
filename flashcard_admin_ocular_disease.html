@@ -1,0 +1,265 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ocular Disease — Admin</title>
+<style>
+  :root{--bd:#e6e6e6;--fg:#111;--mut:#666;--btn:#0a7;}
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:var(--fg)}
+  .wrap{max-width:1100px;margin:auto}
+  h1{font-size:22px;margin:0 0 14px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid var(--bd);border-radius:8px;background:#fff}
+  .btn-primary{background:var(--btn);color:#fff;border-color:#0a7}
+  .card{border:1px solid var(--bd);border-radius:12px;padding:16px;min-height:120px;background:#fff}
+  .front{font-weight:600}
+  .back{margin-top:10px}
+  .ans{font-weight:700;margin:2px 0 6px}
+  .exp{color:#555}
+  .meta{display:flex;justify-content:space-between;align-items:center;margin:10px 0;color:var(--mut)}
+  .nav{display:flex;gap:8px}
+  .nav button{flex:1;font-weight:600}
+  .imgrow{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
+  .box{border:1px dashed var(--bd);border-radius:10px;padding:10px;min-height:140px}
+  .box h3{margin:0 0 8px;font-size:14px;color:#333}
+  .box img{max-width:100%;height:auto;border-radius:8px}
+  .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .mut{color:var(--mut)}
+  .note{margin-top:10px;font-size:12px;color:var(--mut)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Ocular Disease — Admin</h1>
+
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+    <button id="admin" class="btn-primary" aria-pressed="false">Admin Mode</button>
+    <input id="importMap" type="file" accept=".json" style="display:none">
+    <button id="importBtn">Import Mapping</button>
+    <button id="exportBtn">Export Mapping</button>
+  </div>
+
+  <div class="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+  </div>
+
+  <div class="meta">
+    <div id="status"></div>
+    <div class="nav">
+      <button id="prev">◀ Prev</button>
+      <button id="next">Next ▶</button>
+    </div>
+  </div>
+
+  <div id="adminPanel" style="display:none">
+    <div class="imgrow">
+      <div class="box">
+        <h3>Front image</h3>
+        <div class="row">
+          <input id="frontPath" placeholder="images/DECK_ID/filename.jpg" style="flex:1;padding:8px;border:1px solid var(--bd);border-radius:8px">
+          <button id="frontApply">Apply</button>
+        </div>
+        <div class="note">Tip: path is relative to repo (e.g., <code>images/ocular_dz_cornea/IMG_1234.jpeg</code>).</div>
+        <div id="frontPrev" class="mut" style="margin-top:8px"></div>
+      </div>
+      <div class="box">
+        <h3>Back image</h3>
+        <div class="row">
+          <input id="backPath" placeholder="images/DECK_ID/filename.jpg" style="flex:1;padding:8px;border:1px solid var(--bd);border-radius:8px">
+          <button id="backApply">Apply</button>
+        </div>
+        <div class="note">You can paste/adjust filenames quickly; export JSON when done.</div>
+        <div id="backPrev" class="mut" style="margin-top:8px"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="note">Click a field, type a relative path, press “Apply”. Use Export to download <code>{deckId}_image_map.json</code> and commit it to <code>/images/</code>.</div>
+</div>
+
+<script>
+/* ---------------------------- 1) Decks ---------------------------------- */
+/* Eight single-deck sections */
+const DECKS = [
+  { id:'ocular_dz_cornea',             title:'Cornea',                        dataUrl:'data/ocular_dz_cornea.txt' },
+  { id:'ocular_dz_crystalline_lens_uvea', title:'Crystalline Lens & Uvea',   dataUrl:'data/ocular_dz_crystalline_lens_uvea.txt' },
+  { id:'ocular_dz_neurology',          title:'Neurology',                     dataUrl:'data/ocular_dz_neurology.txt' },
+  { id:'ocular_dz_ocular_trauma',      title:'Ocular Trauma',                 dataUrl:'data/ocular_dz_ocular_trauma.txt' },
+  { id:'ocular_dz_adnexa',             title:'Adnexa',                        dataUrl:'data/ocular_dz_adnexa.txt' },
+  { id:'ocular_dz_conj_sclera',        title:'Conjunctiva & Sclera',          dataUrl:'data/ocular_dz_conj_sclera.txt' },
+  { id:'ocular_dz_optic_nerve_bv',     title:'Optic Nerve & Blood Vessels',   dataUrl:'data/ocular_dz_optic_nerve_bv.txt' },
+  { id:'ocular_dz_retina',             title:'Retina',                        dataUrl:'data/ocular_dz_retina.txt' },
+];
+
+/* ----------------------- 2) Parsing rules (strict " - ") ----------------- */
+function escapeHtml(s){return s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
+function cleanLine(s){return s?s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim():'';}
+function splitAnsExpl(line){
+  if(!line) return {a:'',e:''};
+  const m=line.match(/^(.+?)\s-\s(.+)$/);       // ONLY split on space-hyphen-space
+  if(m) return {a:m[1].trim(), e:m[2].trim()};
+  return {a:line.trim(), e:''};
+}
+function parseTxt(txt, deckId){
+  const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor=(s)=>/^\d+\s+of\s+\d+$/i.test(s);
+  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
+  const out=[];
+  for(let p=0;p<anchors.length;p++){
+    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
+    let j=at-1; while(j>=0 && !lines[j]) j--;
+    const front=escapeHtml(lines[j]||'');
+    let k=at+1; while(k<next && !lines[k]) k++;
+    const se=splitAnsExpl(lines[k]||'');
+    out.push({ id:`${deckId}-${p+1}`, front, backAns:escapeHtml(se.a), backExp:escapeHtml(se.e) });
+  }
+  return out;
+}
+
+/* ----------------------- 3) State & elements ----------------------------- */
+const els = {
+  deck: document.getElementById('deck'),
+  q: document.getElementById('q'),
+  front: document.getElementById('front'),
+  back: document.getElementById('back'),
+  prev: document.getElementById('prev'),
+  next: document.getElementById('next'),
+  status: document.getElementById('status'),
+  adminBtn: document.getElementById('admin'),
+  adminPanel: document.getElementById('adminPanel'),
+  frontPath: document.getElementById('frontPath'),
+  backPath: document.getElementById('backPath'),
+  frontApply: document.getElementById('frontApply'),
+  backApply: document.getElementById('backApply'),
+  frontPrev: document.getElementById('frontPrev'),
+  backPrev: document.getElementById('backPrev'),
+  importBtn: document.getElementById('importBtn'),
+  importMap: document.getElementById('importMap'),
+  exportBtn: document.getElementById('exportBtn'),
+};
+let CURRENT=null, CARDS=[], VIEW=[], idx=0, admin=false;
+let IMAGE_MAP={}; // { "deckId-n": {front:"path", back:"path"} }
+
+/* ----------------------- 4) Rendering ------------------------------------ */
+function render(){
+  if(!VIEW.length){
+    els.front.innerHTML='<em>No cards match.</em>';
+    els.back.innerHTML='';
+    els.status.textContent='0 / 0';
+    return;
+  }
+  const c=VIEW[idx], map=IMAGE_MAP[c.id]||{};
+  els.front.innerHTML = c.front + (map.front?`<div style="margin-top:8px"><img src="${map.front}" alt=""></div>`:'');
+  els.back.innerHTML =
+    (c.backAns?`<div class="ans">${c.backAns}</div>`:'')
+   +(c.backExp?`<div class="exp">${c.backExp}</div>`:'')
+   +(map.back?`<div style="margin-top:8px"><img src="${map.back}" alt=""></div>`:'');
+  els.status.textContent = `${idx+1} / ${VIEW.length}`;
+  // Admin input defaults
+  if(admin){
+    els.frontPath.value = map.front || '';
+    els.backPath.value  = map.back  || '';
+    els.frontPrev.innerHTML = map.front?`<img src="${map.front}">`:'<span class="mut">No image</span>';
+    els.backPrev.innerHTML  = map.back ?`<img src="${map.back}">` :'<span class="mut">No image</span>';
+  }
+}
+function applyFilters(){
+  const term=(els.q.value||'').toLowerCase();
+  VIEW = CARDS.filter(c => !term || (c.front+c.backAns+c.backExp).toLowerCase().includes(term));
+  if(idx>=VIEW.length) idx=Math.max(0,VIEW.length-1);
+  render();
+}
+
+/* ----------------------- 5) Image map helpers ---------------------------- */
+function setMap(side, path){
+  if(!VIEW.length) return;
+  const id = VIEW[idx].id;
+  IMAGE_MAP[id] = IMAGE_MAP[id] || {};
+  IMAGE_MAP[id][side] = path.trim();
+  render();
+}
+els.frontApply.onclick = ()=> setMap('front', els.frontPath.value);
+els.backApply.onclick  = ()=> setMap('back',  els.backPath.value);
+
+els.importBtn.onclick = ()=> els.importMap.click();
+els.importMap.onchange = async (e)=>{
+  const f = e.target.files[0]; if(!f) return;
+  try{
+    const text = await f.text();
+    const obj = JSON.parse(text);
+    IMAGE_MAP = obj || {};
+    render();
+    alert('Mapping imported into memory. Remember to Export when finished.');
+  }catch(err){ alert('Invalid JSON file.'); }
+};
+
+els.exportBtn.onclick = ()=>{
+  if(!CURRENT) return;
+  // Export only keys for current deck for a tidy per-deck file
+  const prefix = CURRENT.id + '-';
+  const scoped = {};
+  Object.keys(IMAGE_MAP).forEach(k=>{ if(k.startsWith(prefix)) scoped[k]=IMAGE_MAP[k]; });
+  const blob = new Blob([JSON.stringify(scoped,null,2)],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download = `${CURRENT.id}_image_map.json`;
+  a.click(); URL.revokeObjectURL(a.href);
+};
+
+/* ----------------------- 6) Navigation ----------------------------------- */
+els.prev.onclick = ()=>{ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; render(); };
+els.next.onclick = ()=>{ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; render(); };
+els.q.oninput = applyFilters;
+
+els.adminBtn.onclick = ()=>{
+  admin = !admin;
+  els.adminBtn.setAttribute('aria-pressed', String(admin));
+  els.adminPanel.style.display = admin ? 'block' : 'none';
+  render();
+};
+
+/* ----------------------- 7) Load deck ------------------------------------ */
+async function loadDeck(id){
+  CURRENT = DECKS.find(d=>d.id===id);
+  idx=0; els.status.textContent='Loading…';
+  IMAGE_MAP = {}; // reset, then try to fetch existing per-deck map
+  try{
+    const r = await fetch(CURRENT.dataUrl,{cache:'no-store'}); 
+    if(!r.ok) throw new Error('deck text not found');
+    const t = await r.text();
+    CARDS = parseTxt(t, CURRENT.id);
+  }catch(e){ CARDS=[]; }
+
+  // Try to fetch existing mapping JSON if present
+  try{
+    const mapUrl = `images/${CURRENT.id}_image_map.json`;
+    const m = await fetch(mapUrl,{cache:'no-store'});
+    if(m.ok){ IMAGE_MAP = await m.json(); }
+  }catch(e){ /* ignore */ }
+
+  // Build view & render
+  VIEW = [...CARDS];
+  render();
+}
+
+/* ----------------------- 8) Init ----------------------------------------- */
+(function init(){
+  // Populate deck dropdown
+  els.deck.innerHTML='';
+  DECKS.forEach(d=>{ const o=document.createElement('option'); o.value=d.id; o.textContent=d.title; els.deck.appendChild(o); });
+  // Default deck
+  if(DECKS.length){ els.deck.value = DECKS[0].id; loadDeck(DECKS[0].id); }
+  // Change handler
+  els.deck.onchange = ()=> loadDeck(els.deck.value);
+})();
+</script>
+</body>
+</html>
