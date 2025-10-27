@@ -424,7 +424,7 @@ Cornea plana is a congenital condition where the cornea is flattened and the ang
 Microcornea with posterior embryotoxon could indicate the presence of what systemic disease?
 84 of 204
 
-Alagille syndrome (liver malfunction)
+Alagille syndrome (liver malfunction)
 
 A conical protrusion of the crystalline lens (called lenticonus) with the presence of painful recurrent corneal erosions at birth can be a sign of what systemic disease?
 85 of 204
@@ -499,7 +499,7 @@ keratoconus
 True or False: DSEK keratoplasty is appropriate for the keratoconus patients without deep stromal scarring and has the advantage of eliminating the potential for endothelial rejection.
 99 of 204
 
-False. Surgeons choose Deep Anterior Lamellar Keratoplasties (DALKS) for KCN as scarring is anterior. A DSEK is posterior.
+False - Surgeons choose Deep Anterior Lamellar Keratoplasties (DALKS) for KCN as scarring is anterior. A DSEK is posterior.
 
 Name the corneal disease associated with corneal protrusion above a band of inferior corneal thinning as well as a crab claw pattern on inferior topography.
 100 of 204
@@ -523,7 +523,7 @@ CorneaDeck 2 of 2
 Calcific band keratopathy may be associated with:
 103 of 204
 
-* hypercalcemia* hyperphosphatemia* hypervitaminosis D* chronic renal insufficiency* hyperparathyroidism
+*hypercalcemia *hyperphosphatemia *hypervitaminosis D *chronic renal insufficiency *hyperparathyroidism
 
 Name the term given to iron deposits that may be seen at the advancing edge of a pterygium.
 104 of 204
@@ -552,30 +552,24 @@ Salzmann's Nodular Degeneration
 Name some causes of Salzmann Nodular Degeneration:
 108 of 204
 
-Think: Degeneration. So it degenerates after an event like viral infection or refractive surgery…
-
-After vernal keratoconjunctivitis, trachoma, measles, scarlet fever interstitial keratitis, epithelial basement membrane dystrophy, rigid contact lens wear, and postoperative corneal surgery.
+Think: Degeneration. So it degenerates after an event like viral infection or refractive surgery - Examples are after vernal keratoconjunctivitis, trachoma, measles, scarlet fever interstitial keratitis, epithelial basement membrane dystrophy, rigid contact lens wear, and postoperative corneal surgery.
 
 True or False: Terrien's marginal degeneration is inflammatory in nature.
 109 of 204
 
-False. Terrien's marginal degeneration is an uncommon, noninflammatory marginal thinning disorder of the cornea that appears to be degenerative in nature.
+False - Terrien's marginal degeneration is an uncommon, noninflammatory marginal thinning disorder of the cornea that appears to be degenerative in nature.
 
 Describe the difference between Peripheral Ulcerative Keratitis (PUK) and Terrien's Marginal Degeneration:
 110 of 204
 
-PUK is large open ulcer (epithelium is broken) and unilateral.
-Terrien's is a dip down with thinning of cornea superiorly
-The epithelium remains INTACT. Typically bilateral.
+PUK is large open ulcer (epithelium is broken) and unilateral. - Terrien's is a dip down with thinning of cornea superiorly The epithelium remains INTACT. Typically bilateral.
 
 What is the major concern for Terrien's Marginal Degeneration?
 111 of 204
 
 Ectatic areas (areas where the cornea are very very thin) are at risk for perforation with minor trauma and may result in iris prolapse.
 
-Name the corneal degeneration: Corneal microcysts (dots), map-like deposits & putty-like whorl deposits on the epithelium that can mimic fingerprints.
-
-Clinically they have negative NaFl staining.
+Name the corneal degeneration: Corneal microcysts (dots), map-like deposits & putty-like whorl deposits on the epithelium that can mimic fingerprints. Clinically they have negative NaFl staining.
 112 of 204
 
 Anterior Basement Membrane Degeneration (ABMD aka EBMD)
@@ -585,9 +579,7 @@ LASIK complications:
 Inflammatory cells that build up at the flap interface are called _____  VS non-inflammatory PUTTY-LIKE cells are called ___________.
 113 of 204
 
-INFLAMMATORY= DIFFUSE LAMELLAR KERATITIS (DLK- treat with steroid drops)
-
-NON-INFLAMMATORY= Epi- INGROWTH (steroid cannot treat epi in growth because it is non-inflammatory.
+INFLAMMATORY= DIFFUSE LAMELLAR KERATITIS (DLK- treat with steroid drops) - NON-INFLAMMATORY= Epi- INGROWTH (steroid cannot treat epi in growth because it is non-inflammatory.
 
 ___ are the most common contact lens-associated pathogen in bacterial keratitis.
 114 of 204
@@ -602,27 +594,20 @@ gram-negative (treated with fortified tobramycin)
 Describe a unique characteristic of acanthamoeba keratitis.
 116 of 204
 
-Starting off: Pain is out of proportion to small pinpoint signs
-
-Then: A ring ulcer forms.
-
-Histology: SHOWS CELLED OFF DOUBLE WALLED CYSTS UNDER CONFOCAL MICROSCOPY CALLED TROPHOZIOTES.
+Starting off: Pain is out of proportion to small pinpoint signs. Then: A ring ulcer forms. - Histology: SHOWS CELLED OFF DOUBLE WALLED CYSTS UNDER CONFOCAL MICROSCOPY CALLED TROPHOZIOTES.
 
 Treatment: acanthamoeba
 117 of 204
 
-POOL CLEANER STRENGTH MEDICATION BUST THROUGH CELLED-OFF TROPHOZOITES.
+POOL CLEANER STRENGTH MEDICATION TO BUST THROUGH CELLED-OFF TROPHOZOITES. - chlorhexidine or biguanidine is common. 
 
- (chlorhexidine or biguanidine is common)
-
-Name the differences between the penetrating keratoplasties (corneal transplants): 
+Name the differences between the penetrating keratoplasties (corneal transplants):
 DALK, DSEK (or DMEK) & Penetrating keratoplasty
 118 of 204
 
+See chart below.
 
-Crosslinking for keratoconus:
-
-Describe the  method & purpose
+Crosslinking for keratoconus: Describe the  method & purpose.
 119 of 204
 
 Riboflavin is used with light to strengthen the cornea and halt keratoconus progression.
@@ -630,7 +615,7 @@ Riboflavin is used with light to strengthen the cornea and halt keratoconus prog
 True or False: Herpes Simplex has only one KNOWN HOST-humans.
 120 of 204
 
-True (attempts have been made to replicate HSV  in mice and pigs and the virus did not grow)
+True - Attempts have been made to replicate HSV  in mice and pigs and the virus did not grow.
 
 Which neural ganglia is infected in herpes simplex keratitis (to show a true dendrite).
 121 of 204
@@ -645,40 +630,32 @@ DNA
 Does herpes simplex virus show as papillae or follicles?
 123 of 204
 
-Viral
-
-Think: Viral is usually follicles ("CHAT" with follicles)
+Follicles - Think: Viral is usually follicles ("CHAT" with follicles)
 
 Describe the active life cycle of herpes simplex virus:
 124 of 204
 
-1. small punctate vesicles (diffuse)2. dendrite3. trophic geographic ulcer4. neurotrophic ulcer
+1. small punctate vesicles (diffuse) 2. dendrite 3. trophic geographic ulcer 4. neurotrophic ulcer
 
-True or False
-
- Herpes Simplex Virus keratitis is only seen by a dendrite on the epithelium of the cornea. No other layers of the cornea are involved.
+True or False: Herpes Simplex Virus keratitis is only seen by a dendrite on the epithelium of the cornea. No other layers of the cornea are involved.
 125 of 204
 
-False. All layers of the cornea can be involved in HSV.
+False - All layers of the cornea can be involved in HSV.
 
 Describe disciform keratitis.
 126 of 204
 
-Round-shaped cornea edema associated with HSV. Localized in the stroma due to endotheliitis (malfunction of the endothelial pumps).Think: A disc is round.
+Round-shaped cornea edema associated with HSV. Localized in the stroma due to endotheliitis (malfunction of the endothelial pumps). - Think: A disc is round.
 
 Is IOP usually elevated or decreased in ocular herpes simplex virus?
 127 of 204
 
-Higher IOP in HSV typically.
-
-HSV has High IOP.
+Higher IOP in HSV typical. - "H"SV has "H"igh IOP. 
 
 Describe granulomatous vs non-granulomatous keratic precipitates (KPs).
 128 of 204
 
-Inflammatory cells built up on the back side of the corneal endothelium are KPs.
-Granulomatous are mutton fat, big, greasy and associated to chronic uveitis.
-Nongranulomatous are small specks and typically acute..
+Inflammatory cells built up on the back side of the corneal endothelium are KPs. Granulomatous are mutton fat, big, greasy and associated to chronic uveitis. Nongranulomatous are small specks and typically acute.
 
 Name some causes of granulomatous KPs (mutton fat).
 129 of 204
@@ -703,21 +680,17 @@ Acute herpes zoster includes _____days of prodromal symptoms including fever, ma
 What is the role dermatomes in the pathology of herpes zoster virus?
 133 of 204
 
-HZV only affects one side of the body due to dermatome mapping (a collection of nerve endings off of the spine to a designated part of the skin),
+HZV only affects one side of the body due to dermatome mapping (a collection of nerve endings off of the spine to a designated part of the skin)
 
 Describe a maculopapular rash.
 134 of 204
 
-A maculopapular rash is characterized by a mix of a flat, discolored area of skin (macule) and raised bumps (papules).
-
-ASSOCIATED WITH VESICLES ON FOREHEAD FOR HZV.
+A maculopapular rash is characterized by a mix of a flat, discolored area of skin (macule) and raised bumps (papules). - ASSOCIATED WITH VESICLES ON FOREHEAD FOR HZV.
 
 Describe pseudodendrites vs true dendrites.
 135 of 204
 
-Pseudodendrite (think: HZV and TB) do not stain with fluress/NaFl and do not have terminal bulbs.
-
- A true dendrite stains and has bulbs (HSV)
+Pseudodendrite (think: HZV and TB) do not stain with fluress/NaFl and do not have terminal bulbs. - A true dendrite stains and has bulbs (HSV)
 
 Describe a prodrome.
 136 of 204
@@ -727,41 +700,29 @@ Signs a virus is coming: itchy eyebrows, tingling forehead.
 Mycobacteria is specifically associated with:
 137 of 204
 
-Tubercuolosis
+Tubercuolosis - It has very thick, waxy, lipid-rich hydrophobic cell walls. Isoniazid, rifampin, pyrazinamide, and ethambutol are the only drugs proven to break thick cell walls. Less common mycobacteria is leprosy.
 
-It has very thick, waxy, lipid-rich hydrophobic cell walls.
-
-Isoniazid, rifampin, pyrazinamide, and ethambutol are the only drugs proven to break thick cell walls.
-
-Less common mycobacteria is leprosy.
-
-Fungi are eukaryotic (have a nucleus and other organelles).
-
-Unicellular fungi are called___and multicellular are called ____ microorganisms.
+Fungi are eukaryotic (have a nucleus and other organelles). Unicellular fungi are called___and multicellular are called ____ microorganisms.
 138 of 204
 
-unicellular (yeasts)
-vs.
-multicellular (filamentous / molds)
+unicellular (yeasts) vs. multicellular (filamentous / molds)
 
 Can fungi penetrate an intact corneal epithelium?
 139 of 204
 
 No, fungi need a break in epithelium to infect it (like vegetative trauma).
 
-Name some common hot VS
-cold environmental fungi.
+Name some common hot VS cold environmental fungi.
 140 of 204
 
-HOT: filamentous fungi (Aspergillus species, Fusarium species)  
-COLD:  Candida species (C and C)
+HOT: filamentous fungi (Aspergillus species, Fusarium species) - COLD:  Candida species ("C"old and "C"andida)
 
 Mycotic keratitis is also known as:
 141 of 204
 
 fungal keratitis
 
-Describe a "hyphenate" ulcer plus FEATHERY borders.
+Describe a "hyphenate" ulcer plus FEATHERY borders.
 142 of 204
 
 This mean the ulcer is branching (think: fungal).
@@ -769,20 +730,14 @@ This mean the ulcer is branching (think: fungal).
 Name three common corneal fungal ulcer treatments.
 143 of 204
 
-1. amphotericin B2. natamycin3. -azoles
+1. amphotericin B 2. natamycin 3. -azoles
 
-If you read:
-
- Soft or rigid lens wearers, trauma, SWIMMING in contact lenses, noncompliance with contact lens disinfection systems, or HOT TUBS.
-
-Think:
+If you read: Soft or rigid lens wearers, trauma, SWIMMING in contact lenses, noncompliance with contact lens disinfection systems, or HOT TUBS. Think:
 144 of 204
 
 Acanthamoeba
 
-If you see: "ring ulcer"
-
-Think:
+If you read: "ring ulcer" Think:
 145 of 204
 
 Acanthamoeba
@@ -790,30 +745,24 @@ Acanthamoeba
 Describe xerophthalmia:
 146 of 204
 
-Caused by severe vitamin A deficiency (dryness then corneal opacification, and death of rods and cones).
+Caused by severe vitamin A deficiency (dryness then corneal opacification, and death of rods and cones). - Associated with childhood blindness in third world countries.
 
-Associated with childhood blindness in third world countries.
-
-Describe
-Onchocerciasis
+Describe Onchocerciasis
 147 of 204
 
-River blindness is a chronic parasitic infection caused by Onchocerca volvulus.
-
-Presents with:* skin lesions* severe itching*corneal and retinal scarring *intraocular damage from uveitis
+River blindness is a chronic parasitic infection caused by Onchocerca volvulus. -Presents with:*skin lesions *severe itching *corneal and retinal scarring *intraocular damage from uveitis
 
 Describe syphilitic keratitis in kids vs adults.
 148 of 204
 
-Kids: bilateral in children in late congenital syphilis.
-Adults: unilateral in adults with late latent acquired syphilis.
+Kids: bilateral in children in late congenital syphilis. - Adults: unilateral in adults with late latent acquired syphilis.
 
 Describe the causative organism in syphilis.
 149 of 204
 
-Gram  Negative BacteriaSpecial shape called SpirocheteName: Treponema pallidum
+Gram-negative bacteria in a special shape called spirochete - Name: Treponema pallidum
 
-The combination of 1. stromal keratitis 2. notched teeth 3.deafness in late congenital syphilis is called:
+The combination of 1. stromal keratitis 2. notched teeth 3. deafness in late congenital syphilis is called:
 150 of 204
 
 Hutchinson's triad
@@ -821,8 +770,7 @@ Hutchinson's triad
 Differentiate Hutchinson triad VS Hutchinson sign
 151 of 204
 
-Triad: Congenital syphilis with dental problems and deafness
-Sign: Tip of nose has vesicles in zoster that is a strong predictor that the eye be affected by the virus.
+Triad: Congenital syphilis with dental problems and deafness. - Sign: Tip of nose has vesicles in zoster that is a strong predictor that the eye be affected by the virus.
 
 Name the common treatment for syphilis.
 152 of 204
@@ -832,9 +780,9 @@ penicillin
 Name the three most common tests for syphilis.
 153 of 204
 
-Venereal Disease Research Laboratory (VDRL)Rapid Plasma Reagin (RPR)Fluorescent Treponemal Antibody Absorption (FTA-ABS)
+Venereal Disease Research Laboratory (VDRL), Rapid Plasma Reagin (RPR), Fluorescent Treponemal Antibody Absorption (FTA-ABS)
 
-Lost the corneal indications for serologic testing for congenital  syphilis.
+List the corneal indications for serologic testing for congenital syphilis.
 154 of 204
 
 BILATERAL stromal keratitis or keratouveitis with DEAFNESS
