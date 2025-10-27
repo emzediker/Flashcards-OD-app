@@ -5,26 +5,27 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Ocular Disease — Admin</title>
 <style>
-  :root { --b:#e5e7eb; --m:#666; --ok:#0a7; }
+  :root{--bd:#e5e5e5;--mut:#777}
   body{font-family:system-ui,Arial,sans-serif;margin:0;background:#fff;color:#111}
-  .wrap{max-width:1040px;margin:24px auto;padding:0 16px}
-  h1{font-size:22px;margin:0 0 12px}
-  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0 16px}
-  select,input[type=search],button{padding:9px 10px;border:1px solid var(--b);border-radius:8px;background:#fff}
-  .card{border:1px solid var(--b);border-radius:12px;background:#fff;padding:16px}
-  .front{font-weight:700}
-  .back{margin-top:10px}
-  .meta{display:flex;justify-content:space-between;align-items:center;color:var(--m);margin:10px 0}
-  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
-  .pane{border:1px solid var(--b);border-radius:10px;padding:10px}
-  .pane h3{margin:0 0 8px;font-size:14px}
-  .picker{display:flex;gap:6px;align-items:center}
-  .picker select{flex:1}
-  .small{font-size:12px;color:var(--m)}
-  .btn{cursor:pointer}
-  .accent{background:var(--ok);color:#fff;border-color:var(--ok)}
-  .ans{font-weight:700;margin:2px 0 6px}
-  .exp{color:#555;line-height:1.35}
+  .wrap{max-width:1100px;margin:24px auto;padding:0 16px}
+  h1{font-size:22px;margin:0 0 14px}
+  .bar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid var(--bd);border-radius:8px;background:#fff}
+  .card{border:1px solid var(--bd);border-radius:12px;padding:16px 18px;min-height:120px;background:#fff}
+  .q{font-weight:600;white-space:pre-wrap}
+  .a{white-space:pre-wrap;margin-top:10px;color:#333}
+  .row{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:12px 0}
+  .slot{flex:1 1 520px;border:1px solid var(--bd);border-radius:10px;padding:10px 12px}
+  .slot h3{margin:0 0 8px;font-size:14px;color:#333}
+  .slot small{color:var(--mut)}
+  .slot .ctl{display:flex;gap:8px;align-items:center}
+  .slot select,.slot input{flex:1}
+  .slot img{display:block;max-width:100%;height:auto;margin-top:10px;border-radius:8px;border:1px solid var(--bd)}
+  .meta{display:flex;gap:8px;align-items:center;margin:10px 0;color:var(--mut)}
+  .nav{display:flex;gap:8px;margin:10px 0}
+  .nav button{flex:1;font-weight:600}
+  .mut{color:var(--mut);font-size:13px}
+  .tag{display:inline-block;background:#f5f5f5;border:1px solid var(--bd);border-radius:8px;padding:3px 8px;font-size:12px;margin-left:6px}
 </style>
 </head>
 <body>
@@ -33,68 +34,61 @@
 
   <div class="bar">
     <label>Deck:
-      <select id="deck">
-        <option value="ocular_dz_cornea">Cornea</option>
-        <option value="ocular_dz_crystalline_uvea">Crystalline Lens &amp; Uvea</option>
-        <option value="ocular_dz_neurology">Neurology</option>
-        <option value="ocular_dz_trauma">Ocular Trauma</option>
-        <option value="ocular_dz_adnexa">Adnexa</option>
-        <option value="ocular_dz_conj_sclera">Conjunctiva &amp; Sclera</option>
-        <option value="ocular_dz_onh_bv">Optic Nerve &amp; Blood Vessels</option>
-        <option value="ocular_dz_retina">Retina</option>
-      </select>
+      <select id="deck"></select>
     </label>
     <label>Search:
       <input id="q" type="search" placeholder="Find text…">
     </label>
-    <button id="admin" class="btn">Admin Mode</button>
-    <button id="import" class="btn">Import Mapping</button>
-    <button id="export" class="btn">Export Mapping</button>
+    <button id="admin">Admin Mode</button>
+    <button id="importBtn">Import Mapping</button>
+    <button id="exportBtn">Export Mapping</button>
   </div>
 
   <div class="card">
-    <div class="front" id="front"></div>
-    <div class="back" id="back"></div>
+    <div id="front" class="q"></div>
+    <div id="back" class="a"></div>
   </div>
 
   <div class="meta">
-    <div>
-      <button id="prev" class="btn">◀ Prev</button>
-      <button id="next" class="btn">Next ▶</button>
-    </div>
-    <div id="counter">0 / 0</div>
+    <span id="counter">0 / 0</span>
+    <span class="tag">Only “space–hyphen–space” ( <b> - </b> ) creates an explanation line.</span>
   </div>
 
   <div class="row">
-    <div class="pane">
+    <div class="slot">
       <h3>Front image</h3>
-      <div class="picker">
-        <select id="pickFront"><option>(loading…)</option></select>
-        <button id="applyFront" class="btn">Apply</button>
+      <div class="ctl">
+        <select id="frontSel"><option>(loading…)</option></select>
+        <button id="frontApply">Apply</button>
       </div>
-      <div class="small">Folder: <code id="hintFront">images/DECK_ID/</code></div>
+      <small>Folder: <code id="frontFolder">images/DECK_ID/</code></small>
+      <img id="frontImg" alt="">
     </div>
-    <div class="pane">
+
+    <div class="slot">
       <h3>Back image</h3>
-      <div class="picker">
-        <select id="pickBack"><option>(loading…)</option></select>
-        <button id="applyBack" class="btn">Apply</button>
+      <div class="ctl">
+        <select id="backSel"><option>(loading…)</option></select>
+        <button id="backApply">Apply</button>
       </div>
-      <div class="small">Export will save <code>DECK_ID_image_map.json</code></div>
+      <small>Export will save <code id="mapName">DECK_ID_image_map.json</code></small>
+      <img id="backImg" alt="">
     </div>
   </div>
 
-  <div class="small" style="margin-top:10px">
-    Click question (front) or answer (back) while Admin Mode is ON to choose which side you’re attaching to.  
-    Only “space–hyphen–space” (<code> - </code>) creates an explanation line on the back.
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
   </div>
+
+  <p class="mut">Click question (front) or answer (back) while Admin Mode is ON to choose which side you’re attaching to. Images list loads from <code>/images/&lt;deckId&gt;/_files.json</code> in your repo. If that file is missing, you can paste paths manually into the dropdown (type to search) and click “Apply”.</p>
 </div>
 
 <script>
-/* ---------- Repo info (used to list images from your repo) ---------- */
-const GH_OWNER='emzediker', GH_REPO='Flashcards-OD-app', GH_REF='main';
-
-/* ---------- Decks: IDs MUST match your student page ---------- */
+/* ------------------------------------------------------------------ */
+/* 1) Deck list (IDs must match student page + /data/*.txt)           */
+/* ------------------------------------------------------------------ */
 const DECKS = [
   { id:'ocular_dz_cornea',            title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
   { id:'ocular_dz_crystalline_uvea',  title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline_uvea.txt' },
@@ -106,129 +100,187 @@ const DECKS = [
   { id:'ocular_dz_retina',            title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
 ];
 
-/* ---------- Parser (same rules as student; split ONLY on " - ") ---------- */
-const escapeHtml=s=>s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));
-const clean=s=>s? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : '';
-function splitAnsExpl(line){
-  if(!line) return {a:'',e:''};
-  const m=line.match(/^(.+?)\s-\s(.+)$/);
-  return m?{a:m[1].trim(),e:m[2].trim()}:{a:line.trim(),e:''};
+/* Helpers */
+const $ = sel => document.getElementById(sel);
+const els = {
+  deck: $('deck'), q: $('q'), admin: $('admin'),
+  front: $('front'), back: $('back'), reveal: $('reveal'),
+  prev: $('prev'), next: $('next'), counter: $('counter'),
+  frontSel: $('frontSel'), backSel: $('backSel'),
+  frontApply: $('frontApply'), backApply: $('backApply'),
+  frontImg: $('frontImg'), backImg: $('backImg'),
+  frontFolder: $('frontFolder'), mapName: $('mapName')
+};
+let CURRENT=null, CARDS=[], idx=0, showAnswer=false, ADMIN_MODE=false;
+
+/* Parser: split only on " - " and anchors "d of n" */
+function clean(s){return s? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim():''}
+function splitAB(line){
+  const m=line? line.match(/^(.+?)\s-\s(.+)$/) : null;
+  return m? {a:m[1].trim(), e:m[2].trim()} : {a:(line||'').trim(), e:''};
 }
 function parseTxt(txt, deckId){
-  const lines=txt.replace(/\r/g,'').split(/\n/).map(clean);
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(clean);
   const isAnchor=s=>/^\d+\s+of\s+\d+$/i.test(s);
-  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
+  const idxs=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) idxs.push(i);
   const out=[];
-  for(let p=0;p<anchors.length;p++){
-    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
+  for(let p=0;p<idxs.length;p++){
+    const at=idxs[p], next=(p+1<idxs.length?idxs[p+1]:lines.length);
     let j=at-1; while(j>=0 && !lines[j]) j--;
-    const front=escapeHtml(lines[j]||'');
     let k=at+1; while(k<next && !lines[k]) k++;
-    const se=splitAnsExpl(lines[k]||'');
-    out.push({ id:`${deckId}-${p+1}`, front, backAns:escapeHtml(se.a), backExp:escapeHtml(se.e) });
+    const front=(lines[j]||''), se=splitAB(lines[k]||'');
+    out.push({ id:`${deckId}-${p+1}`, front, backAns:se.a, backExp:se.e });
   }
   return out;
 }
 
-/* ---------- State ---------- */
-const els={deck:deck,q:q,front:front,back:back,prev:prev,next:next,counter:counter,
-           pickFront:pickFront,pickBack:pickBack,applyFront:applyFront,applyBack:applyBack,
-           importBtn:import, exportBtn:export, admin:admin, hintFront:hintFront};
-let CURRENT=null, CARDS=[], idx=0, ADMIN=false;
-let IMAGE_LIST=[];            // images in images/<deckId>/
-let IMAGE_MAP={};             // { "deckId-#": {front:"...",back:"..."} }
+/* Mapping state { cardId: {front: 'path', back: 'path'} } */
+let MAP={}, CURRENT_SIDE='back';
 
-/* ---------- Render ---------- */
-function render(){
-  if(!CARDS.length){ els.front.innerHTML=''; els.back.innerHTML=''; els.counter.textContent='0 / 0'; return; }
-  const c=CARDS[idx];
-  els.front.innerHTML = c.front || '<em>(no front)</em>';
-  els.back.innerHTML  = (c.backAns?`<div class="ans">${c.backAns}</div>`:'') + (c.backExp?`<div class="exp">${c.backExp}</div>`:'') || '<em>(no back)</em>';
-  els.counter.textContent = (idx+1)+' / '+CARDS.length;
-}
-function findFirst(term){
-  const t=(term||'').toLowerCase();
-  if(!t) return;
-  const n = CARDS.findIndex(c => (c.front+c.backAns+c.backExp).toLowerCase().includes(t));
-  if(n>=0){ idx=n; render(); }
-}
-
-/* ---------- GitHub API: list images in images/<deckId>/ ---------- */
+/* Load images list from /images/<deckId>/_files.json (optional) */
 async function loadImageList(deckId){
-  const url=`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/images/${deckId}?ref=${GH_REF}`;
+  const base=`images/${deckId}/`;
+  els.frontFolder.textContent = `images/${deckId}/`;
+  els.mapName.textContent = `${deckId}_image_map.json`;
+  const url=`${base}_files.json?cachebust=${Date.now()}`;
+  let list=[];
   try{
-    const r=await fetch(url,{headers:{'Accept':'application/vnd.github+json'}});
-    if(!r.ok) throw 0;
-    const data=await r.json();
-    IMAGE_LIST = (Array.isArray(data)?data:[])
-      .filter(x=>x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
-      .map(x=>`images/${deckId}/${x.name}`);
-  }catch{ IMAGE_LIST=[]; }
-  fillPickers();
-}
-function fillPickers(){
-  function fill(sel){
+    const r=await fetch(url,{cache:'no-store'});
+    if(r.ok){ list = await r.json(); }
+  }catch(e){}
+  // Fallback to a single "(none)" option
+  if(!Array.isArray(list)) list=[];
+  const opts = ['(none)', ...list.map(fn=>base+fn)];
+  for(const sel of [els.frontSel, els.backSel]){
     sel.innerHTML='';
-    const o0=document.createElement('option'); o0.value=''; o0.textContent=IMAGE_LIST.length?'(choose image…)':'(no images found)'; sel.appendChild(o0);
-    IMAGE_LIST.forEach(p=>{ const o=document.createElement('option'); o.value=p; o.textContent=p.split('/').pop(); sel.appendChild(o); });
+    opts.forEach(v=>{ const o=document.createElement('option'); o.value=v; o.textContent=v; sel.appendChild(o); });
   }
-  fill(els.pickFront); fill(els.pickBack);
 }
 
-/* ---------- Import / Export mapping ---------- */
-function download(text, filename){
-  const blob=new Blob([text],{type:'application/json'});
-  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=filename; a.click(); URL.revokeObjectURL(a.href);
-}
-function exportMap(){ download(JSON.stringify(IMAGE_MAP,null,2), `${CURRENT.id}_image_map.json`); }
-function importMap(){
-  const input=document.createElement('input'); input.type='file'; input.accept='application/json';
-  input.onchange=async()=>{ const f=input.files[0]; if(!f) return; try{IMAGE_MAP=JSON.parse(await f.text())||{}; alert('Mapping loaded ✓');}catch{alert('Invalid JSON');} };
-  input.click();
+/* Render */
+function render(){
+  if(!CARDS.length){
+    els.front.textContent=''; els.back.textContent='';
+    els.counter.textContent='0 / 0'; return;
+  }
+  const c=CARDS[idx];
+  els.front.textContent = c.front || '';
+  const back = (c.backAns || '') + (c.backExp? `\n${c.backExp}` : '');
+  els.back.textContent = showAnswer? back : '';
+  els.counter.textContent = `${idx+1} / ${CARDS.length}`;
+
+  const m = MAP[c.id]||{};
+  els.frontImg.src = m.front ? m.front : '';
+  els.backImg.src  = m.back  ? m.back  : '';
+
+  // Clear selects (so user can paste a path manually if list missing)
+  els.frontSel.value = m.front || '(none)';
+  els.backSel.value  = m.back  || '(none)';
 }
 
-/* ---------- Load deck ---------- */
+/* Navigation */
+function next(){ if(!CARDS.length) return; idx=(idx+1)%CARDS.length; showAnswer=false; render(); }
+function prev(){ if(!CARDS.length) return; idx=(idx-1+CARDS.length)%CARDS.length; showAnswer=false; render(); }
+
+/* Deck switch */
 async function loadDeck(id){
   CURRENT = DECKS.find(d=>d.id===id);
-  idx=0; IMAGE_MAP={}; IMAGE_LIST=[];
-  els.hintFront.textContent = `images/${CURRENT.id}/`;
-  // load TXT
-  try{ const r=await fetch(CURRENT.dataUrl,{cache:'no-store'}); const t=await r.text(); CARDS=parseTxt(t, CURRENT.id); }catch{ CARDS=[]; }
-  // try to pre-load existing image map (optional)
-  try{ const r=await fetch(`images/${CURRENT.id}_image_map.json?${Date.now()}`); if(r.ok) IMAGE_MAP=await r.json(); }catch{}
+  idx=0; showAnswer=false; MAP={}; // reset mapping view (user can import afterwards)
+  els.frontImg.removeAttribute('src'); els.backImg.removeAttribute('src');
+
+  // load cards
+  try{
+    const r=await fetch(CURRENT.dataUrl,{cache:'no-store'});
+    const t=await r.text(); CARDS = parseTxt(t, CURRENT.id);
+  }catch(e){ CARDS=[]; }
+
   await loadImageList(CURRENT.id);
   render();
 }
 
-/* ---------- Apply selected image to current card ---------- */
-function apply(side, path){
-  if(!CARDS.length || !path) return;
-  const id=CARDS[idx].id;
-  IMAGE_MAP[id]=IMAGE_MAP[id]||{front:'',back:''};
-  IMAGE_MAP[id][side]=path;
-  alert(`Applied to ${side}: ${path}`);
+/* Apply selection to mapping */
+function apply(side){
+  if(!CARDS.length) return;
+  const c=CARDS[idx];
+  const val = (side==='front'? els.frontSel.value : els.backSel.value).trim();
+  if(!MAP[c.id]) MAP[c.id] = {};
+  MAP[c.id][side] = (val && val!=='(none)') ? val : '';
+  render();
 }
 
-/* ---------- Events ---------- */
-els.prev.onclick = ()=>{ if(!CARDS.length) return; idx=(idx-1+CARDS.length)%CARDS.length; render(); };
-els.next.onclick = ()=>{ if(!CARDS.length) return; idx=(idx+1)%CARDS.length; render(); };
-els.q.oninput = e=>findFirst(e.target.value);
-els.deck.onchange = ()=>loadDeck(els.deck.value);
-els.applyFront.onclick = ()=>apply('front', els.pickFront.value);
-els.applyBack.onclick  = ()=>apply('back',  els.pickBack.value);
-els.exportBtn.onclick = exportMap;
-els.importBtn.onclick = importMap;
+/* Import/Export JSON mapping */
+function download(filename, text){
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([text],{type:'application/json'}));
+  a.download=filename; a.click(); URL.revokeObjectURL(a.href);
+}
+function exportMap(){
+  const name = `${CURRENT.id}_image_map.json`;
+  download(name, JSON.stringify(MAP, null, 2));
+}
+function importMap(){
+  const inp=document.createElement('input'); inp.type='file'; inp.accept='application/json';
+  inp.onchange=async e=>{
+    const f=e.target.files[0]; if(!f) return;
+    try{ const t=await f.text(); const j=JSON.parse(t); MAP=j||{}; render(); }catch(err){}
+  };
+  inp.click();
+}
 
-els.admin.onclick = ()=>{
-  ADMIN=!ADMIN;
-  els.admin.classList.toggle('accent', ADMIN);
-  els.admin.textContent = ADMIN? 'Admin Mode: ON' : 'Admin Mode';
-};
-els.front.onclick=()=>{ if(ADMIN) els.pickFront.focus(); };
-els.back.onclick =()=>{ if(ADMIN) els.pickBack.focus(); };
+/* Admin mode: click front/back area to choose target side */
+function toggleAdmin(){
+  ADMIN_MODE=!ADMIN_MODE;
+  els.admin.textContent = ADMIN_MODE ? 'Admin Mode (ON)' : 'Admin Mode';
+  if(ADMIN_MODE){
+    els.front.style.border='2px dashed #6aa0ff';
+    els.back.style.border='2px dashed #6aa0ff';
+  }else{
+    els.front.style.border=''; els.back.style.border='';
+  }
+}
+els.front.addEventListener('click', ()=>{ if(ADMIN_MODE){ CURRENT_SIDE='front'; alert('Target side: FRONT'); }});
+els.back.addEventListener('click',  ()=>{ if(ADMIN_MODE){ CURRENT_SIDE='back';  alert('Target side: BACK');  }});
 
-/* init */
-loadDeck(document.getElementById('deck').value);
+/* Wire up */
+(function init(){
+  // deck dropdown
+  els.deck.innerHTML='';
+  DECKS.forEach(d=>{ const o=document.createElement('option'); o.value=d.id; o.textContent=d.title; els.deck.appendChild(o); });
+  els.deck.value = DECKS[0].id;
+  loadDeck(DECKS[0].id);
+
+  els.deck.onchange=()=>loadDeck(els.deck.value);
+  els.prev.onclick=prev; els.next.onclick=next;
+  els.reveal.onclick=()=>{ showAnswer=!showAnswer; render(); };
+  els.admin.onclick=toggleAdmin;
+  els.exportBtn.onclick=exportMap;
+  els.importBtn.onclick=importMap;
+
+  els.frontApply.onclick=()=>apply('front');
+  els.backApply.onclick=()=>apply('back');
+
+  // type-to-paste fallback: allow user to type full path into select
+  for(const sel of [els.frontSel, els.backSel]){
+    sel.addEventListener('keydown', e=>{
+      // no-op – mobile browsers show native picker; paste path via long-press in the field
+    });
+  }
+
+  // search
+  els.q.addEventListener('input', ()=>{
+    const term=(els.q.value||'').toLowerCase();
+    if(!term){ render(); return; }
+    const i = CARDS.findIndex(c => (c.front+c.backAns+c.backExp).toLowerCase().includes(term));
+    if(i>=0){ idx=i; showAnswer=false; render(); }
+  });
+
+  document.addEventListener('keydown', e=>{
+    const k=e.key.toLowerCase();
+    if(k==='arrowright') next();
+    else if(k==='arrowleft') prev();
+    else if(k==='r') { showAnswer=!showAnswer; render(); }
+  });
+})();
 </script>
 </body>
 </html>
