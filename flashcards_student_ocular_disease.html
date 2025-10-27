@@ -3,98 +3,70 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Ocular Disease — Admin</title>
+<title>Ocular Disease — Flashcards</title>
 <style>
-  :root { --b:#e5e7eb; --m:#666; --ok:#0a7; }
-  body{font-family:system-ui,Arial,sans-serif;margin:0;background:#fff;color:#111}
-  .wrap{max-width:1040px;margin:24px auto;padding:0 16px}
-  h1{font-size:22px;margin:0 0 12px}
-  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0 16px}
-  select,input[type=search],button{padding:9px 10px;border:1px solid var(--b);border-radius:8px;background:#fff}
-  .card{border:1px solid var(--b);border-radius:12px;background:#fff;padding:16px}
-  .front{font-weight:700}
-  .back{margin-top:10px}
-  .meta{display:flex;justify-content:space-between;align-items:center;color:var(--m);margin:10px 0}
-  .row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
-  .pane{border:1px solid var(--b);border-radius:10px;padding:10px}
-  .pane h3{margin:0 0 8px;font-size:14px}
-  .picker{display:flex;gap:6px;align-items:center}
-  .picker select{flex:1}
-  .small{font-size:12px;color:var(--m)}
-  .btn{cursor:pointer}
-  .accent{background:var(--ok);color:#fff;border-color:var(--ok)}
-  .ans{font-weight:700;margin:2px 0 6px}
-  .exp{color:#555;line-height:1.35}
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
+  .wrap{max-width:980px;margin:auto;}
+  h1{font-size:22px;margin:0 0 12px;}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff}
+  .card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;position:relative}
+  .front{font-weight:600}
+  .back{display:none;margin-top:12px}
+  .ans{font-weight:700;font-size:1.06rem;margin:2px 0 6px}
+  .exp{color:#555;font-size:0.96rem;line-height:1.35}
+  .card img{max-width:100%;height:auto;border-radius:8px;margin-top:10px}
+  .fav{position:absolute;top:10px;right:10px;border:1px solid #ddd;border-radius:999px;padding:6px 10px;background:#fff;cursor:pointer}
+  .fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
+  .meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
+  .nav{display:flex;gap:8px;margin-top:10px}
+  .nav button{flex:1;font-weight:600}
+  .note{margin-top:8px;font-size:13px;color:#666}
 </style>
 </head>
 <body>
 <div class="wrap">
-  <h1>Ocular Disease — Admin</h1>
+  <h1>Ocular Disease — Flashcards</h1>
 
   <div class="bar">
     <label>Deck:
-      <select id="deck">
-        <option value="ocular_dz_cornea">Cornea</option>
-        <option value="ocular_dz_crystalline_uvea">Crystalline Lens &amp; Uvea</option>
-        <option value="ocular_dz_neurology">Neurology</option>
-        <option value="ocular_dz_trauma">Ocular Trauma</option>
-        <option value="ocular_dz_adnexa">Adnexa</option>
-        <option value="ocular_dz_conj_sclera">Conjunctiva &amp; Sclera</option>
-        <option value="ocular_dz_onh_bv">Optic Nerve &amp; Blood Vessels</option>
-        <option value="ocular_dz_retina">Retina</option>
+      <select id="deck"></select>
+    </label>
+    <label>Show:
+      <select id="show">
+        <option value="all">All</option>
+        <option value="fav">Favorites</option>
       </select>
     </label>
     <label>Search:
-      <input id="q" type="search" placeholder="Find text…">
+      <input id="q" type="search" placeholder="Find text...">
     </label>
-    <button id="admin" class="btn">Admin Mode</button>
-    <button id="import" class="btn">Import Mapping</button>
-    <button id="export" class="btn">Export Mapping</button>
   </div>
 
-  <div class="card">
+  <div class="card" id="card">
     <div class="front" id="front"></div>
     <div class="back" id="back"></div>
+    <button id="fav" class="fav" aria-pressed="false" title="Favorite">★</button>
   </div>
 
   <div class="meta">
-    <div>
-      <button id="prev" class="btn">◀ Prev</button>
-      <button id="next" class="btn">Next ▶</button>
-    </div>
     <div id="counter">0 / 0</div>
+    <div id="status"></div>
   </div>
 
-  <div class="row">
-    <div class="pane">
-      <h3>Front image</h3>
-      <div class="picker">
-        <select id="pickFront"><option>(loading…)</option></select>
-        <button id="applyFront" class="btn">Apply</button>
-      </div>
-      <div class="small">Folder: <code id="hintFront">images/DECK_ID/</code></div>
-    </div>
-    <div class="pane">
-      <h3>Back image</h3>
-      <div class="picker">
-        <select id="pickBack"><option>(loading…)</option></select>
-        <button id="applyBack" class="btn">Apply</button>
-      </div>
-      <div class="small">Export will save <code>DECK_ID_image_map.json</code></div>
-    </div>
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
   </div>
 
-  <div class="small" style="margin-top:10px">
-    Click question (front) or answer (back) while Admin Mode is ON to choose which side you’re attaching to.  
-    Only “space–hyphen–space” (<code> - </code>) creates an explanation line on the back.
-  </div>
+  <div class="note">Tip: ←/→ to move, R to reveal/hide, S to star. Favorites save per device & per deck.</div>
 </div>
 
 <script>
-/* ---------- Repo info (used to list images from your repo) ---------- */
-const GH_OWNER='emzediker', GH_REPO='Flashcards-OD-app', GH_REF='main';
-
-/* ---------- Decks: IDs MUST match your student page ---------- */
+/* ------------------------------------------------------------------ */
+/* 1) DECKS                                                           */
+/* ------------------------------------------------------------------ */
 const DECKS = [
   { id:'ocular_dz_cornea',            title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
   { id:'ocular_dz_crystalline_uvea',  title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline_uvea.txt' },
@@ -106,17 +78,36 @@ const DECKS = [
   { id:'ocular_dz_retina',            title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
 ];
 
-/* ---------- Parser (same rules as student; split ONLY on " - ") ---------- */
-const escapeHtml=s=>s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));
-const clean=s=>s? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : '';
+/* Optional image map per deck (placed at /images/<deckId>_image_map.json) */
+async function fetchImageMap(deckId){
+  try{
+    const r = await fetch(`images/${deckId}_image_map.json`, {cache:'no-store'});
+    if(r.ok) return await r.json();
+  }catch(e){}
+  return {};
+}
+let IMAGE_MAP = {};
+
+/* ------------------------------------------------------------------ */
+/* 2) FAVORITES                                                       */
+/* ------------------------------------------------------------------ */
+const FAV_KEY = (deckId) => `fc_favs_student_v1::${deckId}`;
+function loadFavs(deckId){ try{return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId))||'[]'));}catch{return new Set();} }
+function saveFavs(deckId,set){ localStorage.setItem(FAV_KEY(deckId), JSON.stringify([...set])); }
+
+/* ------------------------------------------------------------------ */
+/* 3) TEXT PARSER — split ONLY on " - "                               */
+/* ------------------------------------------------------------------ */
+function escapeHtml(s){return s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
+function cleanLine(s){return s?s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim():'';}
 function splitAnsExpl(line){
   if(!line) return {a:'',e:''};
-  const m=line.match(/^(.+?)\s-\s(.+)$/);
-  return m?{a:m[1].trim(),e:m[2].trim()}:{a:line.trim(),e:''};
+  const m = line.match(/^(.+?)\s-\s(.+)$/);  // space-hyphen-space only
+  return m ? {a:m[1].trim(), e:m[2].trim()} : {a:line.trim(), e:''};
 }
 function parseTxt(txt, deckId){
-  const lines=txt.replace(/\r/g,'').split(/\n/).map(clean);
-  const isAnchor=s=>/^\d+\s+of\s+\d+$/i.test(s);
+  const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor=(s)=>/^\d+\s+of\s+\d+$/i.test(s);
   const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
   const out=[];
   for(let p=0;p<anchors.length;p++){
@@ -125,110 +116,77 @@ function parseTxt(txt, deckId){
     const front=escapeHtml(lines[j]||'');
     let k=at+1; while(k<next && !lines[k]) k++;
     const se=splitAnsExpl(lines[k]||'');
-    out.push({ id:`${deckId}-${p+1}`, front, backAns:escapeHtml(se.a), backExp:escapeHtml(se.e) });
+    out.push({
+      id:`${deckId}-${p+1}`,
+      front,
+      backAns:escapeHtml(se.a),
+      backExp:escapeHtml(se.e)
+    });
   }
   return out;
 }
 
-/* ---------- State ---------- */
-const els={deck:deck,q:q,front:front,back:back,prev:prev,next:next,counter:counter,
-           pickFront:pickFront,pickBack:pickBack,applyFront:applyFront,applyBack:applyBack,
-           importBtn:import, exportBtn:export, admin:admin, hintFront:hintFront};
-let CURRENT=null, CARDS=[], idx=0, ADMIN=false;
-let IMAGE_LIST=[];            // images in images/<deckId>/
-let IMAGE_MAP={};             // { "deckId-#": {front:"...",back:"..."} }
+/* ------------------------------------------------------------------ */
+/* 4) UI + LOGIC                                                      */
+/* ------------------------------------------------------------------ */
+const els={deck:deck,show:show,q:q,front:front,back:back,favBtn:fav,counter:counter,status:status,prev:prev,next:next,reveal:reveal};
+let CURRENT=null, CARDS=[], VIEW=[], FAVS=new Set(), idx=0, showing=false;
 
-/* ---------- Render ---------- */
+function imgTag(src){ return src ? `<img src="${src}" alt="">` : ''; }
+
+function applyFilters(){
+  const term=(els.q.value||'').toLowerCase(), favOnly=els.show.value==='fav';
+  VIEW=CARDS.filter(c=>(!term||(c.front+c.backAns+c.backExp).toLowerCase().includes(term))&&(!favOnly||FAVS.has(c.id)));
+  if(idx>=VIEW.length) idx=Math.max(0,VIEW.length-1);
+  showing=false; render();
+}
 function render(){
-  if(!CARDS.length){ els.front.innerHTML=''; els.back.innerHTML=''; els.counter.textContent='0 / 0'; return; }
-  const c=CARDS[idx];
-  els.front.innerHTML = c.front || '<em>(no front)</em>';
-  els.back.innerHTML  = (c.backAns?`<div class="ans">${c.backAns}</div>`:'') + (c.backExp?`<div class="exp">${c.backExp}</div>`:'') || '<em>(no back)</em>';
-  els.counter.textContent = (idx+1)+' / '+CARDS.length;
-}
-function findFirst(term){
-  const t=(term||'').toLowerCase();
-  if(!t) return;
-  const n = CARDS.findIndex(c => (c.front+c.backAns+c.backExp).toLowerCase().includes(t));
-  if(n>=0){ idx=n; render(); }
-}
-
-/* ---------- GitHub API: list images in images/<deckId>/ ---------- */
-async function loadImageList(deckId){
-  const url=`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/images/${deckId}?ref=${GH_REF}`;
-  try{
-    const r=await fetch(url,{headers:{'Accept':'application/vnd.github+json'}});
-    if(!r.ok) throw 0;
-    const data=await r.json();
-    IMAGE_LIST = (Array.isArray(data)?data:[])
-      .filter(x=>x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
-      .map(x=>`images/${deckId}/${x.name}`);
-  }catch{ IMAGE_LIST=[]; }
-  fillPickers();
-}
-function fillPickers(){
-  function fill(sel){
-    sel.innerHTML='';
-    const o0=document.createElement('option'); o0.value=''; o0.textContent=IMAGE_LIST.length?'(choose image…)':'(no images found)'; sel.appendChild(o0);
-    IMAGE_LIST.forEach(p=>{ const o=document.createElement('option'); o.value=p; o.textContent=p.split('/').pop(); sel.appendChild(o); });
+  if(!VIEW.length){
+    els.front.innerHTML='<em>No cards match.</em>'; els.back.style.display='none'; els.back.innerHTML='';
+    els.favBtn.setAttribute('aria-pressed','false'); els.counter.textContent='0 / 0';
+    els.reveal.textContent='Reveal Answer'; els.status.textContent=CURRENT?CURRENT.title:''; return;
   }
-  fill(els.pickFront); fill(els.pickBack);
+  const c=VIEW[idx]; const map=IMAGE_MAP[c.id]||{};
+  els.front.innerHTML = (c.front||'') + (map.front?imgTag(map.front):'');
+  els.back.innerHTML  =
+    (c.backAns?`<div class="ans">${c.backAns}</div>`:'') +
+    (c.backExp?`<div class="exp">${c.backExp}</div>`:'') +
+    (map.back?imgTag(map.back):'');
+  els.back.style.display=showing?'block':'none';
+  els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id)?'true':'false');
+  els.counter.textContent=(idx+1)+' / '+VIEW.length;
+  els.reveal.textContent=showing?'Hide Answer':'Reveal Answer';
+  els.status.textContent=CURRENT.title + (els.show.value==='fav'?' (Favorites)':'');
 }
+function nextCard(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; showing=false; render(); }
+function prevCard(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render(); }
+function toggleReveal(){ showing=!showing; render(); }
+function toggleFav(){ if(!VIEW.length) return; const c=VIEW[idx]; FAVS.has(c.id)?FAVS.delete(c.id):FAVS.add(c.id); saveFavs(CURRENT.id,FAVS); render(); }
 
-/* ---------- Import / Export mapping ---------- */
-function download(text, filename){
-  const blob=new Blob([text],{type:'application/json'});
-  const a=document.createElement('a'); a.href=URL.createObjectURL(blob); a.download=filename; a.click(); URL.revokeObjectURL(a.href);
-}
-function exportMap(){ download(JSON.stringify(IMAGE_MAP,null,2), `${CURRENT.id}_image_map.json`); }
-function importMap(){
-  const input=document.createElement('input'); input.type='file'; input.accept='application/json';
-  input.onchange=async()=>{ const f=input.files[0]; if(!f) return; try{IMAGE_MAP=JSON.parse(await f.text())||{}; alert('Mapping loaded ✓');}catch{alert('Invalid JSON');} };
-  input.click();
-}
-
-/* ---------- Load deck ---------- */
-async function loadDeck(id){
+/* load a deck */
+async function loadDeckById(id){
   CURRENT = DECKS.find(d=>d.id===id);
-  idx=0; IMAGE_MAP={}; IMAGE_LIST=[];
-  els.hintFront.textContent = `images/${CURRENT.id}/`;
-  // load TXT
-  try{ const r=await fetch(CURRENT.dataUrl,{cache:'no-store'}); const t=await r.text(); CARDS=parseTxt(t, CURRENT.id); }catch{ CARDS=[]; }
-  // try to pre-load existing image map (optional)
-  try{ const r=await fetch(`images/${CURRENT.id}_image_map.json?${Date.now()}`); if(r.ok) IMAGE_MAP=await r.json(); }catch{}
-  await loadImageList(CURRENT.id);
-  render();
+  idx=0; showing=false; els.counter.textContent='Loading…'; els.status.textContent=CURRENT.title;
+  try{
+    const res = await fetch(CURRENT.dataUrl,{cache:'no-store'}); 
+    const txt = await res.text(); 
+    CARDS = parseTxt(txt, CURRENT.id);
+  }catch(e){ CARDS=[]; }
+  FAVS = loadFavs(CURRENT.id);
+  IMAGE_MAP = await fetchImageMap(CURRENT.id);
+  applyFilters();
 }
-
-/* ---------- Apply selected image to current card ---------- */
-function apply(side, path){
-  if(!CARDS.length || !path) return;
-  const id=CARDS[idx].id;
-  IMAGE_MAP[id]=IMAGE_MAP[id]||{front:'',back:''};
-  IMAGE_MAP[id][side]=path;
-  alert(`Applied to ${side}: ${path}`);
-}
-
-/* ---------- Events ---------- */
-els.prev.onclick = ()=>{ if(!CARDS.length) return; idx=(idx-1+CARDS.length)%CARDS.length; render(); };
-els.next.onclick = ()=>{ if(!CARDS.length) return; idx=(idx+1)%CARDS.length; render(); };
-els.q.oninput = e=>findFirst(e.target.value);
-els.deck.onchange = ()=>loadDeck(els.deck.value);
-els.applyFront.onclick = ()=>apply('front', els.pickFront.value);
-els.applyBack.onclick  = ()=>apply('back',  els.pickBack.value);
-els.exportBtn.onclick = exportMap;
-els.importBtn.onclick = importMap;
-
-els.admin.onclick = ()=>{
-  ADMIN=!ADMIN;
-  els.admin.classList.toggle('accent', ADMIN);
-  els.admin.textContent = ADMIN? 'Admin Mode: ON' : 'Admin Mode';
-};
-els.front.onclick=()=>{ if(ADMIN) els.pickFront.focus(); };
-els.back.onclick =()=>{ if(ADMIN) els.pickBack.focus(); };
 
 /* init */
-loadDeck(document.getElementById('deck').value);
+(function(){
+  els.deck.innerHTML='';
+  DECKS.forEach(d=>{ const o=document.createElement('option'); o.value=d.id; o.textContent=d.title; els.deck.appendChild(o); });
+  if(DECKS.length){ els.deck.value=DECKS[0].id; loadDeckById(DECKS[0].id); }
+  els.deck.onchange=()=>loadDeckById(els.deck.value);
+  els.show.onchange=applyFilters; els.q.oninput=applyFilters;
+  els.prev.onclick=prevCard; els.next.onclick=nextCard; els.reveal.onclick=toggleReveal; els.favBtn.onclick=toggleFav;
+  document.addEventListener('keydown',e=>{const k=e.key.toLowerCase(); if(k==='arrowright')nextCard(); else if(k==='arrowleft')prevCard(); else if(k==='r')toggleReveal(); else if(k==='s')toggleFav();});
+})();
 </script>
 </body>
 </html>
