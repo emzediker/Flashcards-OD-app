@@ -1,0 +1,282 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ocular Disease Flashcards — Admin</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
+  .wrap{max-width:980px;margin:auto;}
+  h1{font-size:22px;margin:0 0 12px;}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff}
+  .card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;position:relative}
+  .front{font-weight:600}
+  .back{display:none;margin-top:12px}
+  .ans{font-weight:700;font-size:1.06rem;margin:2px 0 6px}
+  .exp{color:#555;font-size:0.96rem;line-height:1.35}
+  .card img{max-width:100%;height:auto;border-radius:8px;margin-top:10px}
+  .meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
+  .nav{display:flex;gap:8px;margin-top:10px}
+  .nav button{flex:1;font-weight:600}
+  .pill{padding:2px 8px;border:1px solid #ddd;border-radius:999px;font-size:12px;background:#fff}
+  .admin{border:1px dashed #bbb;border-radius:10px;padding:12px;background:#fafafa;margin-top:12px}
+  .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .tiny{font-size:12px;color:#666}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Ocular Disease Flashcards — Admin</h1>
+
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+    <span class="pill" id="badge">Admin mode</span>
+    <button id="exportMap" style="margin-left:auto;">Export mapping</button>
+    <label id="importWrap" title="Import mapping JSON">
+      <input id="importMap" type="file" accept="application/json">
+    </label>
+  </div>
+
+  <div class="card" id="card">
+    <div class="front" id="front"></div>
+    <div class="back" id="back"></div>
+  </div>
+
+  <div class="admin" id="adminArea">
+    <div class="row" style="justify-content:space-between">
+      <strong>Attach images to this card</strong>
+      <span class="tiny">Images load from <code>/images/&lt;deckId&gt;/</code> in your repo.</span>
+    </div>
+
+    <div class="row" style="margin-top:8px">
+      <label>Front image:
+        <select id="frontImg"></select>
+      </label>
+      <label>Back image:
+        <select id="backImg"></select>
+      </label>
+      <button id="saveMap">Save for this card</button>
+      <span id="saveStatus" class="pill" style="display:none">Saved</span>
+    </div>
+
+    <div class="row" style="margin-top:8px">
+      <button id="reloadImages">Reload image list</button>
+      <input id="customUrl" type="text" placeholder="or paste path (e.g., images/ocular_cornea/pannus.png)" style="min-width:320px">
+      <button id="useAsFront">Use as Front</button>
+      <button id="useAsBack">Use as Back</button>
+    </div>
+  </div>
+
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div id="status"></div>
+  </div>
+
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
+
+  <div class="tiny" style="margin-top:10px">
+    Tip: After mapping, click “Export mapping”. Commit the JSON to <code>/images/&lt;deckId&gt;_image_map.json</code> so students see the images.
+  </div>
+</div>
+
+<script>
+/* ----------------------- 1) DECKS — Ocular Disease ----------------------- */
+const DECKS = [
+  { id:'ocular_cornea',           title:'Cornea',                        dataUrl:'data/ocular_cornea.txt',        imageFolder:'images/ocular_cornea' },
+  { id:'ocular_lens_uvea',        title:'Crystalline Lens & Uvea',       dataUrl:'data/ocular_lens_uvea.txt',     imageFolder:'images/ocular_lens_uvea' },
+  { id:'ocular_neurology',        title:'Neurology',                     dataUrl:'data/ocular_neurology.txt',     imageFolder:'images/ocular_neurology' },
+  { id:'ocular_trauma',           title:'Ocular Trauma',                 dataUrl:'data/ocular_trauma.txt',        imageFolder:'images/ocular_trauma' },
+  { id:'ocular_adnexa',           title:'Adnexa',                        dataUrl:'data/ocular_adnexa.txt',        imageFolder:'images/ocular_adnexa' },
+  { id:'ocular_conj_sclera',      title:'Conjunctiva & Sclera',          dataUrl:'data/ocular_conj_sclera.txt',   imageFolder:'images/ocular_conj_sclera' },
+  { id:'ocular_optic_vessels',    title:'Optic Nerve & Blood Vessels',   dataUrl:'data/ocular_optic_vessels.txt', imageFolder:'images/ocular_optic_vessels' },
+  { id:'ocular_retina',           title:'Retina',                        dataUrl:'data/ocular_retina.txt',        imageFolder:'images/ocular_retina' },
+];
+
+/* ----------------------- 2) State ----------------------- */
+const els = {
+  deck: deck, q: q, front: front, back: back,
+  prev: prev, next: next, reveal: reveal, counter: counter, status: status,
+  exportMap: exportMap, importMap: importMap,
+  frontImg: frontImg, backImg: backImg, saveMap: saveMap, saveStatus: saveStatus,
+  reloadImages: reloadImages, customUrl: customUrl, useAsFront: useAsFront, useAsBack: useAsBack
+};
+let currentDeck=null, cards=[], view=[], i=0, showing=false, imgMap={}, imageList=[];
+
+/* ----------------------- 3) Helpers ----------------------- */
+function setStatus(t){ els.status.textContent=t||''; }
+function escapeHtml(s){return (s||'').replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
+function cleanLine(s){ return s ? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : ''; }
+function splitAnsExpl(line){
+  if(!line) return {a:'',e:''};
+  const m = line.match(/^(.+?)\s-\s(.+)$/);
+  if(m) return {a:m[1].trim(), e:m[2].trim()};
+  return {a:line.trim(), e:''};
+}
+function parseTxt(txt){
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor = (s)=>/^\d+\s+of\s+\d+$/i.test(s);
+  const anchors=[]; for(let x=0;x<lines.length;x++) if(isAnchor(lines[x])) anchors.push(x);
+  const out=[];
+  for(let p=0;p<anchors.length;p++){
+    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
+    let j=at-1; while(j>=0 && !lines[j]) j--;
+    const front = escapeHtml(lines[j]||'');
+    let k=at+1; while(k<next && !lines[k]) k++;
+    const se = splitAnsExpl(lines[k]||'');
+    out.push({ id:`${currentDeck.id}-${out.length+1}`, front, backAns:escapeHtml(se.a), backExp:escapeHtml(se.e) });
+  }
+  return out;
+}
+
+/* ----------------------- 4) Render ----------------------- */
+function imgTag(src){return src?`<img src="${src}" alt="">`:'';}
+function applyFilters(){
+  const term=(els.q.value||'').toLowerCase();
+  view = cards.filter(c => !term || (c.front+c.backAns+c.backExp).toLowerCase().includes(term));
+  if(i>=view.length) i=Math.max(0,view.length-1);
+  showing=false; render();
+}
+function render(){
+  if(!view.length){
+    els.front.innerHTML='<em>No cards.</em>';
+    els.back.style.display='none'; els.back.innerHTML='';
+    els.counter.textContent='0 / 0';
+    els.reveal.textContent='Reveal';
+    setStatus(currentDeck?currentDeck.title:'');
+    populateImageSelects();
+    return;
+  }
+  const c=view[i];
+  const attach=imgMap[c.id]||{};
+  els.front.innerHTML=(c.front||'') + (attach.front?imgTag(attach.front):'');
+  els.back.innerHTML =(c.backAns?`<div class="ans">${c.backAns}</div>`:'')
+                     + (c.backExp?`<div class="exp">${c.backExp}</div>`:'')
+                     + (attach.back?imgTag(attach.back):'');
+  els.back.style.display=showing?'block':'none';
+  els.counter.textContent=(i+1)+' / '+view.length;
+  els.reveal.textContent=showing?'Hide Answer':'Reveal Answer';
+  setStatus(currentDeck.title);
+
+  const f=attach.front||'(none)', b=attach.back||'(none)';
+  if(f && !imageList.includes(f)) imageList.unshift(f);
+  if(b && !imageList.includes(b)) imageList.unshift(b);
+  populateImageSelects();
+  els.frontImg.value=f||'(none)'; els.backImg.value=b||'(none)';
+  els.saveStatus.style.display='none';
+}
+function nextCard(){ if(!view.length) return; i=(i+1)%view.length; showing=false; render(); }
+function prevCard(){ if(!view.length) return; i=(i-1+view.length)%view.length; showing=false; render(); }
+function toggleReveal(){ showing=!showing; render(); }
+
+/* ---------------- 5) Image list via GitHub API ---------------- */
+function detectOwnerRepo(){
+  const owner = location.hostname.replace('.github.io','');
+  const repo = (location.pathname.split('/').filter(Boolean)[0]||'Flashcards-OD-app');
+  return {owner,repo};
+}
+async function fetchImageList(folder){
+  const {owner,repo}=detectOwnerRepo();
+  const api=`https://api.github.com/repos/${owner}/${repo}/contents/${folder}`;
+  try{
+    const r=await fetch(api,{cache:'no-store'});
+    if(!r.ok) throw new Error('GitHub API: '+r.status);
+    const data=await r.json();
+    return (Array.isArray(data)?data:[])
+      .filter(x=>x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
+      .map(x=>`${folder}/${x.name}`);
+  }catch(e){
+    console.warn('img list fail',e); return [];
+  }
+}
+function populateImageSelects(){
+  const opts=['(none)'].concat(imageList);
+  frontImg.innerHTML = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+  backImg.innerHTML  = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+}
+
+/* --------------- 6) Map persistence (local) ---------------- */
+function loadMap(deckId){ try{return JSON.parse(localStorage.getItem('fc_imgmap_v1::'+deckId)||'{}');}catch{return{};} }
+function saveMapLocal(deckId,map){ localStorage.setItem('fc_imgmap_v1::'+deckId, JSON.stringify(map)); }
+
+/* ----------------------- 7) Events ----------------------- */
+prev.onclick=prevCard; next.onclick=nextCard; reveal.onclick=toggleReveal;
+q.oninput=applyFilters;
+
+reloadImages.onclick=async()=>{
+  setStatus('Refreshing image list…');
+  imageList = await fetchImageList(currentDeck.imageFolder);
+  populateImageSelects();
+  setStatus(`Found ${imageList.length} images in ${currentDeck.imageFolder}/`);
+};
+useAsFront.onclick=()=>{ const v=customUrl.value.trim(); if(!v) return; if(!imageList.includes(v)) imageList.unshift(v); populateImageSelects(); frontImg.value=v; };
+useAsBack.onclick =()=>{ const v=customUrl.value.trim(); if(!v) return; if(!imageList.includes(v)) imageList.unshift(v); populateImageSelects(); backImg.value=v; };
+saveMap.onclick=()=>{
+  const c=view[i];
+  const f=(frontImg.value==='(none)')?'':frontImg.value;
+  const b=(backImg.value==='(none)')?'':backImg.value;
+  imgMap[c.id]={front:f,back:b};
+  saveMapLocal(currentDeck.id,imgMap);
+  saveStatus.style.display='inline-block';
+  setTimeout(()=>saveStatus.style.display='none',1200);
+  render();
+};
+
+exportMap.onclick=()=>{
+  const blob=new Blob([JSON.stringify(imgMap,null,2)],{type:'application/json'});
+  const a=document.createElement('a'); a.href=URL.createObjectURL(blob);
+  a.download=`${currentDeck.id}_image_map.json`; document.body.appendChild(a); a.click(); a.remove();
+  alert(`Download complete. Upload this to /images/${currentDeck.id}_image_map.json for students.`);
+};
+importMap.onchange=(e)=>{
+  const f=e.target.files?.[0]; if(!f) return;
+  const r=new FileReader();
+  r.onload=()=>{ try{
+      const obj=JSON.parse(r.result);
+      if(obj && typeof obj==='object'){ imgMap=obj; saveMapLocal(currentDeck.id,imgMap); render(); alert('Mapping imported.'); }
+    }catch(e){ alert('Invalid JSON.'); } };
+  r.readAsText(f);
+};
+
+/* ----------------------- 8) Load deck ----------------------- */
+async function loadDeckById(id){
+  currentDeck = DECKS.find(d=>d.id===id);
+  i=0; showing=false; setStatus('Loading deck…');
+  imageList=[]; populateImageSelects();
+  try{
+    const r=await fetch(currentDeck.dataUrl,{cache:'no-store'});
+    if(!r.ok) throw new Error('Deck file missing');
+    const txt=await r.text();
+    cards = parseTxt(txt);
+  }catch(e){ console.warn(e); cards=[]; }
+  imgMap  = loadMap(currentDeck.id);
+  imageList = await fetchImageList(currentDeck.imageFolder);
+  applyFilters();
+  setStatus(`Loaded ${cards.length} cards`);
+}
+
+/* ----------------------- 9) Init ----------------------- */
+(function init(){
+  deck.innerHTML='';
+  DECKS.forEach(d=>{ const o=document.createElement('option'); o.value=d.id; o.textContent=d.title; deck.appendChild(o); });
+  if(DECKS.length){ deck.value=DECKS[0].id; loadDeckById(deck.value); }
+  deck.onchange=()=>loadDeckById(deck.value);
+  document.addEventListener('keydown',e=>{
+    const k=e.key.toLowerCase();
+    if(k==='arrowright') nextCard();
+    else if(k==='arrowleft') prevCard();
+    else if(k==='r') toggleReveal();
+  });
+})();
+</script>
+</body>
+</html>
