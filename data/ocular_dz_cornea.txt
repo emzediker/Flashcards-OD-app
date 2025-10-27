@@ -787,16 +787,12 @@ List the corneal indications for serologic testing for congenital syphilis.
 
 BILATERAL stromal keratitis or keratouveitis with DEAFNESS
 
-Name the corneal disease:
-
-A disease characterized by the attachment of balled-up degenerated epithelial cells and mucus on the corneal surface usually with underlying severe dry eye.
+Name the corneal disease: A disease characterized by the attachment of balled-up degenerated epithelial cells and mucus on the corneal surface usually with underlying severe dry eye.
 155 of 204
 
 Filamentary Keratitis
 
-Treating the underlying dry eye is a first-line therapy in filamentary keratitis (ie cyclosporine in Restasis or serum tears).
-
-Name treat other common treatments in filamentary keratitis
+Treating the underlying dry eye is a first-line therapy in filamentary keratitis (ie cyclosporine in Restasis or serum tears). Name treat other common treatments in filamentary keratitis.
 156 of 204
 
 Bandage contact lens and N- Acetylcysteine (Mucomist)
@@ -806,45 +802,40 @@ How does N- Acetylcysteine help in filamentary keratitis?
 
 Mucolytic agents such as 10% N-acetylcysteine decreases the viscosity of mucus in the tear film. The ocular solution is a respiratory preparation compounded as an ophthalmic drop (mucomyst for lungs).
 
-Name the corneal disease:
-
-Clinical findings include multiple fine, elevated white to gray central corneal dotlike opacities. The conjunctiva is usually white and quiet. Remissions of foreign body sensation are common.
+Name the corneal disease: Clinical findings include multiple fine, elevated white to gray central corneal dotlike opacities. The conjunctiva is usually white and quiet. Remissions of foreign body sensation are common.
 158 of 204
 
 Superficial Punctate Keratitis of Thygeson (aka Thygeson's)
 
-Name a treatment of Thygeson's
+Name a treatment of Thygeson's.
 159 of 204
 
 Low-dose topical corticosteroids ophthalmic drops and/ or cyclosporine
 
-Name the corneal disease:
-
-____ is a degenerative disease of corneal epithelium characterized by impaired healing and a non-healing ulcer with rolled borders. There is no sensation on the corneal sensitivity cotton wisp test.
+Name the corneal disease: ____ is a degenerative disease of corneal epithelium characterized by impaired healing and a non-healing ulcer with rolled borders. There is no sensation on the corneal sensitivity cotton wisp test.
 160 of 204
 
-Neurotrophic keratitis (NK)
+Neurotrophic keratitis (NK) 
 
 Name some causes of neurotrophic keratitis.
 161 of 204
 
+See table below.
 
 True or False:  Substance K is the pain trigger that is decreased in neurotrophic keratitis.
 162 of 204
 
-False. Substance P (for pain) is decreased in NK.
+False - Substance P (for pain) is decreased in NK.
 
 Describe corneal hypesthesia.
 163 of 204
 
-A cornea without sensation.
-
-Ex. neurotrophic keratitis presents with an ulcer but patient cannot feel it. It is "unfeeling and slow healing"
+A cornea without sensation. - Ex. neurotrophic keratitis presents with an ulcer but patient cannot feel it. It is "unfeeling and slow healing."
 
 Name three common treatments of neurotrophic keratitis.
 164 of 204
 
-1. new Oxervate (growth factor) only FDA-approved for NK2. serum  tears (blood tears)3. amniotic membrane (AMT)
+1. new Oxervate (growth factor) only FDA-approved for NK 2. serum  tears (blood tears) 3. amniotic membrane (AMT)
 
 A common form of keratoconjunctivitis sicca (dry eye) associated with Rheumatoid Arthritis (RA) is known as:
 165 of 204
@@ -864,7 +855,7 @@ scleritis
 Name the 4 types of  ANTERIOR scleritis.
 168 of 204
 
-1. diffuse2. nodular3. necrotizing scleritis with inflammation4.  necrotizing scleritis without inflammation (scleromalacia perforans)
+1. diffuse 2. nodular 3. necrotizing scleritis with inflammation 4.  necrotizing scleritis without inflammation (scleromalacia perforans)
 
 Describe scleromalacia perforans.
 169 of 204
@@ -874,8 +865,7 @@ Necrotizing scleritis WITHOUT inflammation.
 SCLERITIS vessels (DO or DO NOT) blanch with topical application of Neo-Synephrine.
 170 of 204
 
-Scleritis vessels WILL NOT BLANCH  (too deep) .
-Episcleritis vessels will blanch (shallow).
+Scleritis vessels WILL NOT BLANCH  (the blood vessels are too deep) . Episcleritis vessels will blanch (the blood vessels are more superficial).
 
 Name the scleral disease:
 
@@ -887,12 +877,12 @@ Posterior scleritis
 Evidence of posterior scleral edema and inflammation can often be demonstrated on ultrasonography. This feature is called a:
 172 of 204
 
-T sign (fluid collecting in the posterior episcleral space and extending around the optic nerve to make a T)
+T sign - Fluid collecting in the posterior episcleral space and extending around the optic nerve to make a T.
 
 Is scleritis type III or type IV hypersensitivity?
 173 of 204
 
-Both. Type III (immune complex) and type IV (cell-mediated) hypersensitivity
+Both - Type III (immune complex) and type IV (cell-mediated) hypersensitivity
 
 True or False? Peripheral ulcerative keratitis is normally associated to inflammation like rheumatoid arthritis and causes a painful open gutter next to limbus with lots of blood vessel engorgement.
 174 of 204
@@ -904,17 +894,15 @@ True or False? Phlyctenular keratoconjunctivitis (PKC) and staphylococcal margin
 
 False.
 
-Phlyctenular keratoconjunctivitis (PKC) and Staphylococcal marginal keratitis are both hypersensitivity reactions to a microbial antigen (not a true infection of the cornea but a reaction to the bacterial toxins to trigger this response).
-
-Phlyctenular keratoconjunctivitis (PKC) is what type of hypersensitivity reaction?
+Phlyctenular keratoconjunctivitis (PKC) and Staphylococcal marginal keratitis are both hypersensitivity reactions to a microbial antigen (not a true infection of the cornea but a reaction to the bacterial toxins to trigger this response). Phlyctenular keratoconjunctivitis (PKC) is what type of hypersensitivity reaction?
 176 of 204
 
-type IV cell mediated
+type IV (cell mediated)
 
 Staphylococcal marginal keratitis is most likely a type___ hypersensitivity reaction.
 177 of 204
 
-Type III (Immune-mediated)
+Type III (immune-mediated)
 
 Describe the treatment phlyctenules and staph marginal keratitis.
 178 of 204
@@ -924,40 +912,29 @@ Treat the acute inflammation with topical corticosteroids and decrease the load 
 Differentiate Mooren Ulcer vs Peripheral Ulcerative Keratitis
 179 of 204
 
-Mooren ulcer: idiopathic peripheral ulcerative keratitis in the absence of systemic comorbidities.
-PUK: ulcer associated to inflammatory systemic disease (RA)
+Mooren ulcer: idiopathic peripheral ulcerative keratitis in the absence of systemic comorbidities. PUK: ulcer associated to inflammatory systemic disease (RA)
 
 Which is more damaging to the cornea?
 
 Alkali (basic ABOVE 7 pH) vs Acid (below 7 pH) toxicity
 180 of 204
 
-Alkali burns are more caustic than acid.
-
-List some examples of alkali burns:
+Alkali burns are more caustic than acid. List some examples of alkali burns:
 181 of 204
 
-cementammonia
-**lye**limepotassium hydroxidemagnesium hydroxide (fireworks)
+cement, ammonia. **lye,** lime, potassium hydroxide, magnesium hydroxide (fireworks)
 
 Describe toxic anterior segment syndrome (TASS).
 182 of 204
 
-TASS is a postoperative INFLAMMATORY reaction caused by a NONINFECTIOUS agent.
+TASS is a postoperative INFLAMMATORY reaction caused by a NONINFECTIOUS agent. Presents with: limbus to limbus corneal EDEMA 12-48 hours after intraocular SURGERY. TASS must be carefully followed because permanent endothelial cell loss can occur.
 
-Presents with: limbus to limbus corneal EDEMA 12-48 hours after intraocular SURGERY.
-
-TASS must be carefully followed because permanent endothelial cell loss can occur.
-
-Differentiate between TASS and Endophthalmitis
+Differentiate between TASS and Endophthalmitis.
 183 of 204
 
-TASS: non-infectious, happens fast (24 hours postop), edema, responds to steroids, limited to anterior segment.
-ENDOPHTHALMITIS: infectious, 4-7 days postop, entire anterior and posterior segment affected. Does not respond to steroids.
+TASS: non-infectious, happens fast (24 hours postop), edema, responds to steroids, limited to anterior segment. - ENDOPHTHALMITIS: infectious, 4-7 days postop, entire anterior and posterior segment affected. Does not respond to steroids.
 
-Name the complication after cataract surgery:
-
- Development of irreversible corneal edema after cataract surgery and intraocular lens (IOL) implantation. Initially, there is endothelial trauma, which is followed by progressive stromal and epithelial edema. MAY NEED A DMEK to correct.
+Name the complication after cataract surgery: Development of irreversible corneal edema after cataract surgery and intraocular lens (IOL) implantation. Initially, there is endothelial trauma, which is followed by progressive stromal and epithelial edema. MAY NEED A DMEK to correct.
 184 of 204
 
 Pseudophakic bullous keratopathy (PBK)
@@ -965,7 +942,7 @@ Pseudophakic bullous keratopathy (PBK)
 True or False? In the refractive surgery radial keratotomy (RK), a series of deep, radial stromal incisions are made to flatten the cornea and reduce HYPEROPIA- but cannot be used to treat myopia.
 185 of 204
 
-False. RK is only for myopia. It is not used in hyperopes.
+False - RK is only for myopia. It is not used in hyperopes.
 
 Three examples of FDA-approved disposable contact lenses for postoperative pain relief are:
 186 of 204
@@ -990,20 +967,15 @@ Seidel
 Describe a dellen.
 190 of 204
 
-Epithelized dip (usually next to an elevation like glaucoma bleb or pterygium). Fluress pools in this area.
-
-Corneal epithelium and Bowmans absorbs wavelengths BELOW 300 nm. Excessive absorption of  this short wavelength can lead to:
+Epithelized dip (usually next to an elevation like glaucoma bleb or pterygium). Fluress pools in this area. Corneal epithelium and Bowmans absorbs wavelengths BELOW 300 nm. Excessive absorption of  this short wavelength can lead to:
 191 of 204
 
-Photokeratitis 
-This happens within 48 hours after UV Blast. Results  from hyperactivation of K+ channels.
-
-Clinically shows dense SPK centrally.
+Photokeratitis - This happens within 48 hours after UV Blast. Results  from hyperactivation of K+ channels. Clinically shows dense SPK centrally.
 
 True or False? Anticholinergic medications and antihistamines help to trigger the lacrimal gland to make better quality tears.
 192 of 204
 
-False. Both are associated to dry eyes.
+False - Both are associated to dry eyes.
 
 Rule of thumb: How many microns are ablated away from the cornea for each diopter of LASIK correction?
 193 of 204
@@ -1013,7 +985,7 @@ Rule of thumb: How many microns are ablated away from the cornea for each diopte
 Describe the difference between LASIK and LASEK.
 194 of 204
 
-LASEK makes the flap with alcohol
+LASEK makes the flap with alcohol.
 
 Can conductive keratoplasty (CK) be used for myopia?
 195 of 204
@@ -1038,47 +1010,29 @@ Anterior subcapsular
 Describe Diffuse Lamellar Keratitis (DLK) aka Sands of Sahara
 199 of 204
 
-INFLAMMATORY, NONINFECTIOUS, fine granular sand-like infiltrates at LASIK FLAP interface.
-
-Appears 2-3 days after LASIK with foreign body sensation. Treated with steroid drops and taper.
+INFLAMMATORY, NONINFECTIOUS, fine granular sand-like infiltrates at LASIK FLAP interface. Appears 2-3 days after LASIK with foreign body sensation. Treated with steroid drops and taper.
 
 Describe Axenfeld Rieger vs Peters Anomaly
 200 of 204
 
-Both are anterior segment congenital malformations
+Both are anterior segment congenital malformations - Axenfeld: posterior embryotoxon, with IRIS STRANDS stuck to cornea and TM causing glaucoma. PETERS: IS CENTRAL OPACITY of cornea with dense edema.
 
-Axenfeld: posterior embryotoxon, with IRIS STRANDS stuck to cornea and TM causing glaucoma.
-
-PETERS: IS CENTRAL OPACITY of cornea with dense edema.
-
-Overall, corneal pumps move _____ into the stroma and ___ out into the aqueous.
-
-This maintains a gradient so the corneal won't stay swollen with too much edema (aka deturgescence).
+Overall, corneal pumps move _____ into the stroma and ___ out into the aqueous. This maintains a gradient so the corneal won't stay swollen with too much edema (aka deturgescence).
 201 of 204
 
-Na+ into stroma
+Na+ into stroma, K+ out to aqueous and HCO3-(bicarbonate) out to aqueous
 
- K+ out to aqueous
- HCO3-(bicarbonate) out to aqueous
-
-Name the anterior segment disease:
-
- _____ is a disorder of the corneal endothelium manifested by abnormal endothelial cell formation and a STICKY proliferating membrane of the  endothelium, chamber angle, and iris.
+Name the anterior segment disease: _____ is a disorder of the corneal endothelium manifested by abnormal endothelial cell formation and a STICKY proliferating membrane of the  endothelium, chamber angle, and iris.
 202 of 204
 
-Iridocorneal Syndrome (ICE)
+Iridocorneal Syndrome (ICE)
 
 True or False? ICE syndrome is hereditary.
 203 of 204
 
-False. ICE syndrome is not hereditary.
+False - ICE syndrome is not hereditary.
 
 Characteristics of a corneal degenerative process (not a dystrophy) are:
 204 of 204
 
-Degenerations often come after a trauma
-UNILATERAL
-PERIPHERAL
-Later onset
- Variable rate of progression
-Associated with neovascularization and inflammation
+Degenerations often come after a trauma, UNILATERAL, PERIPHERAL, later onset, variable rate of progression, associated with neovascularization and inflammation
