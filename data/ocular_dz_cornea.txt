@@ -359,25 +359,22 @@ keratoconjunctivitis sicca
 Bacteria that can penetrate through intact corneal epithelium include___.
 71 of 204
 
-*Corynebacterium diphtheriae* Neisseria meningitidis &  *Neisseria gonorrhoeae* Haemophilus influenzae* Listeria species
+*Corynebacterium diphtheriae *Neisseria meningitidis &  *Neisseria gonorrhoeae *Haemophilus influenzae *Listeria species
 
 Describe megalocornea vs. buphthalmos:
 72 of 204
 
-*Megalocornea*: large cornea over 13mm at birth with NO GLAUCOMA 
-*Buphthalmos*: large cornea due to congenital glaucoma, elevated IOP, Haab striae, optic disc changes, and enlargement of the entire globe.
+*Megalocornea*: large cornea over 13mm at birth with NO GLAUCOMA - *Buphthalmos*: large cornea due to congenital glaucoma, elevated IOP, Haab striae, optic disc changes, and enlargement of the entire globe.
 
 Haab striae are:
 73 of 204
 
-Haab striae are congenital breaks in Descemet's membrane that are usually oriented horizontally.
-
-They can indicate congenital glaucoma with a high IOP SPIKE. Vertical breaks are associated to birthing forceps.
+Haab striae are congenital breaks in Descemet's membrane that are usually oriented horizontally. They can indicate congenital glaucoma with a high IOP SPIKE. - Vertical breaks instead are associated to birthing forceps.
 
 Mnemonic to remember the direction of Descemet's breaks in Haab striae vs. Forceps:
 74 of 204
 
-Haab= Horizontal Hereditary High IOP vs. Forceps that can cut like scissors snip in a vertical V pattern
+Haab= Horizontal Hereditary High IOP (all start with H) vs. Forceps that can cut like scissors snip in a vertical V pattern
 
 Microcornea is diagnosed when the horizontal corneal diameter is less than or equal to _____in an otherwise normal-sized globe.
 75 of 204
@@ -392,8 +389,7 @@ The entire anterior segment is small.
 Differentiate microphthalmos vs nanophthalmos:
 77 of 204
 
-*MICRO*: entire eye is small and DISORGANIZED 
-*NANO*: entire eye is small but otherwise normal
+*MICRO*: entire eye is small and DISORGANIZED - *NANO*: entire eye is small but otherwise normal
 
 Describe sclerocornea:
 78 of 204
@@ -428,22 +424,17 @@ Cornea plana is a congenital condition where the cornea is flattened and the ang
 Microcornea with posterior embryotoxon could indicate the presence of what systemic disease?
 84 of 204
 
-
 Alagille syndrome (liver malfunction)
 
 A conical protrusion of the crystalline lens (called lenticonus) with the presence of painful recurrent corneal erosions at birth can be a sign of what systemic disease?
 85 of 204
 
-
-
-Alport syndrome (also characterized by hearing and kidney problems)
+Alport syndrome (also characterized by hearing and kidney problems)
 
 Name the congenital disease associated with very high congenital myopia,  high predisposition to cataracts, thin sclera and retinal detachment.
 86 of 204
 
-
-
-Sticklers syndrome (connective tissue disorder)
+Sticklers syndrome (connective tissue disorder)
 
 Name the congenital disease associated with a high prominent forehead, underdeveloped upper jaw, prominent eyes, fused fingers and/or toes (fused digits are pathognomonic).
 87 of 204
@@ -468,9 +459,7 @@ Bitot spots, xerosis, and keratomalacia
 Describe Bitot's spots
 91 of 204
 
-Specks of white keratinized hard nodules (<1mm) on the cornea-conjunctiva limbus (on the conjunctival side).
-
-ASSOCIATED WITH VITAMIN A DEFICIENCY
+Specks of white keratinized hard nodules (<1mm) on the cornea-conjunctiva limbus (on the conjunctival side). - ASSOCIATED WITH VITAMIN A DEFICIENCY
 
 Describe keratomalacia.
 92 of 204
@@ -517,14 +506,10 @@ Name the corneal disease associated with corneal protrusion above a band of infe
 
 pellucid marginal degeneration (PMD)
 
-Chandler vs Cogan-Reese versions of ICE
+Differentiate Chandler vs Cogan-Reese versions of ICE:
 101 of 204
 
-COGAN-REESE presents with iris nodules, sticky iris nevi with corneal endothelial abnormalities.
-
- VS
-
- CHANDLERS presents with is sticky iris, endothelium, and corneal edema
+COGAN-REESE presents with iris nodules, sticky iris nevi with corneal endothelial abnormalities. CHANDLERS presents with is sticky iris, endothelium, and corneal edema.
 
 True or False: ICE syndrome is UNILATERAL.
 102 of 204
