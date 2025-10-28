@@ -3,9 +3,7 @@ Ocular Disease
 Conjunctiva & Sclera
 75 flashcards
 
-Name the lesion: 
-
-Stellate pattern of capillaries on conjunctiva with pedunculated or umbilicated core.
+Name the lesion: Stellate pattern of capillaries on conjunctiva with pedunculated or umbilicated core.
 1 of 75
 
 conjunctival squamous papilloma
@@ -13,19 +11,17 @@ conjunctival squamous papilloma
 Describe dacryoadenoma.
 2 of 75
 
-A lesion that consists of a benign proliferation of lacrimal secretory-type cells originating from the conjunctival surface epithelium.
-
-The lesion presents as a long-standing, asymptomatic, soft, pinkish, mobile mass on the inferior epibulbar surface.
+A lesion that consists of a benign proliferation of lacrimal secretory-type cells originating from the conjunctival surface epithelium. - The lesion presents as a long-standing, asymptomatic, soft, pinkish, mobile mass on the inferior epibulbar surface.
 
 True or False? Conjunctival intraepithelial neoplasia (CIN) is a misnomer suggesting that it is a tumor that is confined /  noninvasive (i.e. confined to the epithelial layer by an intact basement membrane).
 3 of 75
 
 TRUE
 
-True or False: Conjunctival intraepithelial neoplasia (CIN) is less likely to develop in smokers, HIV, HPV patients.
+True or False? Conjunctival intraepithelial neoplasia (CIN) is less likely to develop in smokers, HIV, HPV patients.
 4 of 75
 
-False. CIN is more likely to show with smokers, HIV, and HPV.
+False - CIN is more likely to show with smokers, HIV, and HPV.
 
 Conjunctival intraepithelial neoplasia (CIN) is caused by a mutation in what gene?
 5 of 75
@@ -37,12 +33,12 @@ If conjunctival intraepithelial neoplasia(CIN) is non-invasive, why is worrisome
 
 CIN can be a precursor to invasive squamous cell carcinoma.
 
-Describe a conjunctival intraepithelial neoplasia  (CIN) lesion.
+Describe a conjunctival intraepithelial neoplasia (CIN) lesion.
 7 of 75
 
 A pink, gel-like, fleshy, sessile (not pedunculated), or minimally elevated lesion.
 
-Why is mitomycin C* used to remove conjunctival tumors?
+Why is mitomycin C used to remove conjunctival tumors?
 8 of 75
 
 It inhibits DNA synthesis and cross-links DNA at the N6 position of adenine and at the O6 and N2 positions of guanine (BUT IT CAN CAUSE SCLERAL MELT)
@@ -52,9 +48,7 @@ Describe Primary Acquired Melanosis (PAM).
 
 A painless flat brown spot on the eye that might superficially look like a freckle.
 
-If you read: Caucasian with new conjunctival nevi.
-
-Think: I need to rule out…
+If you read: Caucasian with new conjunctival nevi. Think: I need to rule out…
 10 of 75
 
 Primary acquired melanosis (PAM),which can be a precursor to melanoma.
@@ -92,31 +86,24 @@ topical steroid or immunosuppressant drops
 Name potential causes of phlyctenules.
 17 of 75
 
-*Staphylococcus aureus**Mycobacterium tuberculosis**Chlamydia* *Candida albicans**Parasites (Ascaris lumbricoides, Ancylostoma duodenale)*
+*Staphylococcus aureus* *Mycobacterium tuberculosis* *Chlamydia* *Candida albicans* *Parasites (Ascaris lumbricoides, Ancylostoma duodenale)*
 
 Differentiate the causes between follicle vs papillae 
 18 of 75
 
-“CHAT” with Follicles (chlamydia, herpes, adenoviral, trachoma)
- Papillae (allergies or bacterial)
+“CHAT” with Follicles (chlamydia, herpes, adenoviral, trachoma) - Papillae (allergies or bacterial)
 
-If you read: HYPERACUTE purulent mucus discharge
-“it started last night, all of the sudden all this mucus started pouring out”
- Think: this is the cause
+If you read: HYPERACUTE purulent mucus discharge - “it started last night, all of the sudden all this mucus started pouring out” Think: this is the cause...
 19 of 75
 
 Neisseria Gonorrhoeae
 
-If you read: non-hyperacute (white or green color) purulent mucus discharge.
-
-Think: this is this cause.
+If you read: non-hyperacute (white or green color) purulent mucus discharge. Think: this is this cause...
 20 of 75
 
 aerobic or anaerobic BACTERIAL (staph, strep, etc) conjunctivitis
 
-If you read: serous, sticky, clear discharge (possibly paired with a tender lymph nodule)
-
-Think: this is the cause.
+If you read: serous, sticky, clear discharge (possibly paired with a tender lymph nodule) Think: this is the cause...
 21 of 75
 
 viral conjunctivitis
@@ -124,14 +111,12 @@ viral conjunctivitis
 True or False? Both bacterial and viral microorganisms can cause a membrane or pseudomembrane on the conjunctiva.
 22 of 75
 
-True. Only way to tell is to culture and PCR.
+True - The only way to tell is to culture and PCR.
 
 Differentiate Atopic Keratoconjunctivitis (AKC) and Vernal Keratoconjunctivitis (VKC).
 23 of 75
 
-AKC is  a CHRONIC YEAR ROUND condition of older adults, involving lids more with atopic dermatitis.
-
-VKC is a SEASONAL condition of young males with inflammation more on the cornea.
+AKC is a CHRONIC YEAR ROUND condition of older adults, involving lids more with atopic dermatitis. - VKC is a SEASONAL condition of young males with inflammation more on the cornea.
 
 The cause of VKC is a…
 24 of 75
@@ -141,11 +126,9 @@ hypersensitivity or allergic reaction of the eyes to airborne allergens.
 True or False? VKC is from a viral invasion of the cornea.
 25 of 75
 
-False. VKC (and AKC) is purely inflammatory.
+False - VKC (and AKC) is purely inflammatory.
 
-Giant Papillary Conjunctivitis (GPC) is normally associated with VKC (vernal) or AKC (atopic). 
-
-If VKC and AKC have been ruled out, what is the other cause to GPC?
+Giant Papillary Conjunctivitis (GPC) is normally associated with VKC (vernal) or AKC (atopic). If VKC and AKC have been ruled out, what is the other cause to GPC?
 26 of 75
 
 GPC caused by secondary rubbing (contact lenses, prostheses, sutures)
@@ -153,7 +136,7 @@ GPC caused by secondary rubbing (contact lenses, prostheses, sutures)
 Differentiate palpebral vernal keratoconjunctivitis (VKC) vs Limbal VKC.
 27 of 75
 
-Papillary: cobblestone GPC on the superior tarsal plate Limbal: Horner's Trantas Dots at corneal limbus
+Papillary: cobblestone GPC on the superior tarsal plate - Limbal: Horner's Trantas Dots at corneal limbus
 
 Horner trantas dots can lead to what vision-threatening problem in vernal keratoconjunctivitis (VKC)?
 28 of 75
@@ -163,16 +146,14 @@ giant shield ulcer
 Name the pathognomonic clinical signs associated to VKC.
 29 of 75
 
-Cobblestone Papillae Superior TarsalLimbal Horner Trantas DotsGiant Shield Ulcer
+Cobblestone Papillae Superior Tarsal, Limbal Horner Trantas Dots, Giant Shield Ulcer
 
 Horner's trantas dots in vernal keratoconjunctivitis (VKC) are filled with what type of inflammatory cell.
 30 of 75
 
 eosinophils
 
-Name the keratoconjunctivitis:  
-
-NO evidence of infection. ISOLATED INFLAMMATION  ONLY AT THE UPPER tarsal and superior bulbar conjunctiva. Presence of fluorescein/rose bengal/ or lissamine green staining of the cornea  and superior conjunctiva. A VELVETY APPEARANCE SUPERIORLY.
+Name the keratoconjunctivitis: NO evidence of infection. ISOLATED INFLAMMATION  ONLY AT THE UPPER tarsal and superior bulbar conjunctiva. Presence of fluorescein/rose bengal/ or lissamine green staining of the cornea  and superior conjunctiva. A VELVETY APPEARANCE SUPERIORLY.
 31 of 75
 
 Superior Limbal Keratoconjunctivitis (SLK)
@@ -182,11 +163,7 @@ Will floppy lid syndrome present with follicles or papillae?
 
 papillae
 
-Name the keratoconjunctivitis:  
-
-A cyclic condition with continuous extraction of mucous strands from the eye initiated by ocular irritation.
- 
-Irritation makes mucus…pulling it out makes it irritated …so more mucus develops
+Name the keratoconjunctivitis: A cyclic condition with continuous extraction of mucous strands from the eye initiated by ocular irritation. Irritation makes mucus…pulling it out makes it irritated …so more mucus develops...
 33 of 75
 
 Mucus fishing syndrome (MFS)
@@ -206,10 +183,10 @@ What type of bacteria is chlamydia?
 
 gram-negative, anaerobic, intracellular obligates
 
-Differentiate Trachoma vs Inclusion Chlamydial ocular infections
+Differentiate Trachoma vs Inclusion Chlamydial ocular infections.
 37 of 75
 
-Trachoma- more common in kids (A-C Serotypes) from mother usually or flies (in third world countries) 
+Trachoma- more common in kids (A-C Serotypes) from mother usually or flies (in third world countries) - 
 Inclusion- more common in adults, passed from genital chlamydia (D-K serotypes)
 
 Name two types of granulomatous conjunctivitis.
@@ -220,12 +197,9 @@ Parinaud's and Sarcoidosis
 Differentiate conjunctival membrane vs pseudomembrane.
 39 of 75
 
-1. A True membrane causes bleeding when peeled off. 
-2. A pseudomembrane comes off without bleeding.
+1. A True membrane causes bleeding when peeled off. - 2. A pseudomembrane comes off without bleeding.
 
-Name the keratoconjunctivitis: 
-
-Usually induced by an allergy to SULFA or other antibiotic. Starts with flu-like symptoms, then leads to melting of all mucus membranes throughout the body.
+Name the keratoconjunctivitis: Usually induced by an allergy to SULFA or other antibiotic. Starts with flu-like symptoms, then leads to melting of all mucus membranes throughout the body.
 40 of 75
 
 Steven Johnsons Syndrome
@@ -235,9 +209,7 @@ Name the ocular sign typically associated with Steven Johnsons Syndrome.
 
 Conjunctival membranes (painful) with scarring and adhesions.
 
-Name the keratoconjunctivitis: An autoimmune disorder that occurs when the body's immune system attacks and destroys healthy body tissue by mistake.  
-
-The immune system attacks the proteins that attach the top layer of skin (epidermis) to the bottom layer of conjunctiva leading to membranes then scarring down of the conjunctiva.
+Name the keratoconjunctivitis: An autoimmune disorder that occurs when the body's immune system attacks and destroys healthy body tissue by mistake. The immune system attacks the proteins that attach the top layer of skin (epidermis) to the bottom layer of conjunctiva leading to membranes then scarring down of the conjunctiva.
 42 of 75
 
 Ocular cicatricial pemphigoid (OCP)
@@ -245,20 +217,14 @@ Ocular cicatricial pemphigoid (OCP)
 Why do babies in western countries receive ERYTHROMYCIN OINTMENT at the time of birth?
 43 of 75
 
-Newborns receive erythromycin eye ointment after birth to prevent ophthalmia neonatorum (ON). 
-
-The most common cause of ON is chlamydia, a sexually transmitted infection.
+Newborns receive erythromycin eye ointment after birth to prevent ophthalmia neonatorum (ON). - The most common cause of ON is chlamydia, a sexually transmitted infection.
 
 Name the three types of ADENOVIRAL conjunctivitis.
 44 of 75
 
-1. epidemic keratoconjunctivitis (EKC)2. pharyngeal conjunctival fever (PCF)3. nonspecific follicular conjunctivitis
+1. epidemic keratoconjunctivitis (EKC) 2. pharyngeal conjunctival fever (PCF) 3. nonspecific follicular conjunctivitis
 
-Name the keratoconjunctivitis: 
-
-___ is a highly contagious ADENOVIRAL  infection (serotypes 8 and 19). Transmission commonly occurs by direct contact. 
-
-Clinical symptoms are seen 8 days after exposure. Symptoms include a sudden onset of an acute, watery discharge, foreign body sensation, and mild photophobia. The infection generally involves first one eye and the second eye a few days later. Preauricular node enlargement. Subepithelial infiltrates (SEIs) on the cornea  7 to 10 days after onset.
+Name the keratoconjunctivitis: ___ is a highly contagious ADENOVIRAL  infection (serotypes 8 and 19). Transmission commonly occurs by direct contact. Clinical symptoms are seen 8 days after exposure. Symptoms include a sudden onset of an acute, watery discharge, foreign body sensation, and mild photophobia. The infection generally involves first one eye and the second eye a few days later. Preauricular node enlargement. Subepithelial infiltrates (SEIs) on the cornea  7 to 10 days after onset.
 45 of 75
 
 Epidemic keratoconjunctivitis (EKC)
@@ -266,11 +232,9 @@ Epidemic keratoconjunctivitis (EKC)
 True or False? Adenovirus serotype 8 is resistant to 70% isopropyl alcohol.
 46 of 75
 
-True! So EKC can spread in clinics from alcohol cleaned tonometry tips!
+True! - So EKC can spread in clinics from alcohol cleaned tonometry tips!
 
-Name the keratoconjunctivitis: 
-
-___ is an acute ADENOVIRAL (serotype 3 and 7) illness characterized by follicular conjunctivitis, pharyngitis, and fever. Submandibular lymph node enlargement is frequently present.
+Name the keratoconjunctivitis: ___ is an acute ADENOVIRAL (serotype 3 and 7) illness characterized by follicular conjunctivitis, pharyngitis, and fever. Submandibular lymph node enlargement is frequently present.
 47 of 75
 
 Pharyngoconjunctival fever (PCF)
@@ -278,19 +242,17 @@ Pharyngoconjunctival fever (PCF)
 Name the ORAL treatment recommended for inclusion chlamydial conjunctivitis.
 48 of 75
 
-Since this is an ocular manifestation of a systemic disease, treatment needs to be systemic.
- Doxycycline, 100mg twice a day for 7 to 14 days OR * a single oral dose of 1g azithromycin.
+Since this is an ocular manifestation of a systemic disease, treatment needs to be systemic. - Doxycycline, 100mg twice a day for 7 to 14 days OR a single oral dose of 1g azithromycin.
 
 Toxic papillary conjunctivitis presents as:
 49 of 75
 
 diffuse superficial punctate keratitis on the cornea and papillary conjunctivitis
 
-Differentiate Herbert's Pits vs Horners Trantas dots
+Differentiate Herbert's Pits vs Horners Trantas dots.
 50 of 75
 
-Herbert's pits are associated with TRACHOMA and are dark residual pits. 
-Horners trantas dots are white gel-like elevations from vernal keratoconjunctivitis.
+Herbert's pits are associated with TRACHOMA and are dark residual pits. - Horners trantas dots are white gel-like elevations from vernal keratoconjunctivitis.
 
 List the treatment for adult gonococcal conjunctivitis.
 51 of 75
@@ -302,7 +264,7 @@ Is adenoviral conjunctivitis caused by a DNA or RNA virus?
 
 DNA
 
-List the causes of acute hemorrhagic conjunctivitis (think viral with subconjunctival hemes)
+List the causes of acute hemorrhagic conjunctivitis (think viral with subconjunctival hemes).
 53 of 75
 
 Enterovirus and coxsackievirus
@@ -312,7 +274,7 @@ List common lab tests for chlamydial conjunctivitis.
 
 Because chlamydia is an intracellular obligate organism, it is important to sample epithelial cells and send cells for a Giemsa staining. Testing shows dark purple inclusion bodies in the cytoplasm of infected cells.
 
-name the scar across the upper eyelid from trachoma follicles (the scarring then leads to entropion, trichiasis, and the cornea scarring from the lashes rubbing the cornea)
+Name the scar across the upper eyelid from trachoma follicles (the scarring then leads to entropion, trichiasis, and the cornea scarring from the lashes rubbing the cornea).
 55 of 75
 
 Arlts Line
@@ -320,9 +282,7 @@ Arlts Line
 Parinaud oculoglandular syndrome is characterized by _____.
 56 of 75
 
-granulomatous conjunctivitis (WHITE OR RED NODULES ON PALPEBRAL OR BULBAR CONJUNCTIVA) with lymphadenopathy 
-
-unilateral nodular or ulcerative conjunctivitis associated with regional lymphadenopathy ASSOCIATED WITH A CAT SCRATCH
+granulomatous conjunctivitis (WHITE OR RED NODULES ON PALPEBRAL OR BULBAR CONJUNCTIVA) with lymphadenopathy, unilateral nodular or ulcerative conjunctivitis associated with regional lymphadenopathy - ASSOCIATED WITH A CAT SCRATCH
 
 The most common cause of Parinaud's Oculoglandular Syndrome is:
 57 of 75
@@ -352,12 +312,12 @@ Treponema pallidum
 True or False? Allergic conjunctivitis is characterized by itching, redness, clear watery SEROUS STICKY discharge, and puffy eyelids.
 62 of 75
 
-False. Allergic conjunctivitis is only clear discharge but not serous or sticky.
+False -  Allergic conjunctivitis is only clear discharge but not serous or sticky.
 
 Does allergic conjunctivitis present with papillae or follicles?
 63 of 75
 
-papillae (THE A in the “CHAT” MNEMONIC FOR FOLLICLES IS ADENOVIRAL– NOT ALLERGIES!!!)
+papillae - THE A in the “CHAT” MNEMONIC FOR FOLLICLES IS ADENOVIRAL– NOT ALLERGIES!!!
 
 Allergic conjunctivitis is a type _____ hypersensitivity reaction.
 64 of 75
@@ -369,11 +329,10 @@ Pruritus means:
 
 itching
 
-Quiz yourself. 
-
-Name mast cell stabilizers, vs antihistamines, vs combination drops to treat allergic conjunctivitis.
+Quiz yourself. Name mast cell stabilizers, vs antihistamines, vs combination drops to treat allergic conjunctivitis.
 66 of 75
 
+See table below.
 
 True or False? Mast cell stabilizers take one to two weeks to have any effect and require dosing frequency of four times a day due to their shorter half life.
 67 of 75
@@ -383,10 +342,7 @@ TRUE
 Mnemonic mast cell stabilizers drops.
 68 of 75
 
-CROMS
-
-massive heart  
-for ROM COMS
+CROMS - "massive heart for ROM COMS"
 
 Mnemonic antihistamines drops.
 69 of 75
@@ -401,8 +357,7 @@ Allergies Are Being Krazy Obnoxious
 Differentiate ketorolac vs ketotifen in allergic conjunctivitis treatment.
 71 of 75
 
-Ketorolac is an NSAID rarely used in the treatment of allergies that stops the cyclooxygenase pathway of prostaglandin production, thus inhibiting some of the mediators that mast cells release.
-Ketotifen is true mast cell and anti histamine blocker and is commonly used.
+Ketorolac is an NSAID rarely used in the treatment of allergies that stops the cyclooxygenase pathway of prostaglandin production, thus inhibiting some of the mediators that mast cells release. - Ketotifen is true mast cell and anti histamine blocker and is commonly used.
 
 Describe conjunctivochalasis.
 72 of 75
