@@ -1,17 +1,14 @@
+Describe the different marginal reflex distance measurements. MRD1 vs. MRD2
 1 of 107
 
-1. MRD1 is the distance from the pupil center to the upper eyelid.
- 2. MRD2 the distance from the pupil center to the lower eyelid.
-NEGATIVE NUMBERS INDICATE A COVERED PUPIL
+1. MRD1 is the distance from the pupil center to the upper eyelid. 2. MRD2 the distance from the pupil center to the lower eyelid. - NEGATIVE NUMBERS INDICATE A COVERED PUPIL.
 
 List the normal MRD measurement.
 2 of 107
 
-+2… meaning the lid is at least 2 mm above the pupil center. Negative numbers indicate the lid is  past the pupil center.
++2. Meaning the lid is at least 2 mm above the pupil center. Negative numbers indicate the lid is  past the pupil center.
 
-Most lid-induced problems are related to lid laxity.
-
- Name one common lid-induced condition that arise from TOO MUCH LID TENSION/ FRICTION.
+Most lid-induced problems are related to lid laxity. Name one common lid-induced condition that arise from TOO MUCH LID TENSION/ FRICTION.
 3 of 107
 
 superior limbal keratitis (SLK)
@@ -19,8 +16,8 @@ superior limbal keratitis (SLK)
 Differentiate trichiasis vs madarosis.
 4 of 107
 
-1. Trichiasis is a misdirection of growth of lashes toward the eye. 2. Madarosis is missing lashes.
-I'm mad I'm missing lashes. They tried to grow the wrong way!
+1. Trichiasis is a misdirection of growth of lashes toward the eye. 2. Madarosis is missing lashes. - 
+"I'm mad I'm missing lashes. They tried to grow the wrong way!"
 
 Describe epiblepharon.
 5 of 107
@@ -35,7 +32,7 @@ The junction between keratinized skin to non-keratinized conjunctiva at the lid 
 Differentiate sclerotic scatter vs specular reflection slit lamp techniques.
 7 of 107
 
-1. Sclerotic scatter: The lighthouse is at an angle and shined on the SCLERA. Here, internal reflection allows a diffuse view of the  cornea to be viewed. 2. Specular reflection: A PURKINJE image is shown on the cornea. In the shadows next to the image is the endothelium to allow for viewing of guttae.
+1. Sclerotic scatter: The lighthouse is at an angle and shined on the SCLERA. Here, internal reflection allows a diffuse view of the  cornea to be viewed. 2. Specular reflection: A PURKINJE image is shown on the cornea. In the shadows next to the image is the endothelium to allow for viewing of guttae.
 
 Most biomicroscopes / slit lamps  consist of a parallel ____ telescope design.
 8 of 107
@@ -50,7 +47,7 @@ TRUE
 True or False? Lissamine Green stain can kill some viruses, which can affect viral PCR cultures.
 10 of 107
 
-False, Lissamine Green has NO anti-viral properties.
+False. - Lissamine Green has NO anti-viral properties.
 
 True or False? Lissamine Green and Rose Bengal dyes are meant to stain conjunctival abnormalities.
 11 of 107
@@ -60,18 +57,14 @@ TRUE
 Differentiate Lissamine Green, Rose Bengal, and Trypan Blue ophthalmic dyes.
 12 of 107
 
-Both L. Green and R. Bengal are used to stain conjunctiva and soft tissues. R. Bengal is more toxic and painful and can stain early HSV.Trypan Blue is used in surgery for cataract capsules or tenon's capsule in enucleation.
+Both L. Green and R. Bengal are used to stain conjunctiva and soft tissues. R. Bengal is more toxic and painful and can stain early HSV. Trypan Blue is used in surgery for cataract capsules or tenon's capsule in enucleation.
 
 Values below ____mm of wetting are diagnostic of aqueous tear deficiency in Schirmer testing.
 13 of 107
 
 5.5mm
 
-Schirmer II IS
-
-??WITH OR WITHOUT??
-
-ANESTHESIA
+Schirmer II IS ??WITH OR WITHOUT?? ANESTHESIA.
 14 of 107
 
 (WITH anesthesia) to measure basal tear secretion i.e. unstimulated tears.
@@ -81,42 +74,35 @@ Schirmer I (without anesthesia) has become the generally accepted method for ass
 
 aqueous
 
-Name the test:
-
-Tear samples are dried on a slide and examined under a microscope. They display a crystalline pattern of tear mucin. In aqueous tear deficiency- this pattern resembles ferns.
+Name the test: Tear samples are dried on a slide and examined under a microscope. They display a crystalline pattern of tear mucin. In aqueous tear deficiency- this pattern resembles ferns.
 16 of 107
 
-tear ferning
-
-KNOW THIS IS TESTING MUCIN LEVELS: LESS MUCINS IS MORE DRY EYE
+tear ferning - KNOW THIS IS TESTING MUCIN LEVELS: LESS MUCINS IS MORE DRY EYE.
 
 True or False? In all types of dry eye disease, the tear film is in a HYPOosmolar state.
 17 of 107
 
-False. All types of dry eye have HYPERosmolar state (too salty).
+False - All types of dry eye have HYPERosmolar state (too salty).
 
 Differentiate entropion vs ectropion.
 18 of 107
 
-Entropion: EN-rolls in and causes abrasions or even ulcers.
-Ectropion: Eyelids rolled out, commonly causes epiphora.
+Entropion: EN-rolls in and causes abrasions or even ulcers. - Ectropion: Eyelids rolled out, commonly causes epiphora.
 
 Differentiate trichiasis vs distichiasis.
 19 of 107
 
-Trichiasis: posterior misdirection of eyelashes towards the cornea .Distichiasis: eyelashes originate from the meibomian gland orifices making another row.
+Trichiasis: posterior misdirection of eyelashes towards the cornea. - Distichiasis: eyelashes originate from the meibomian gland orifices making another row.
 
-Describe eyelid imbrication syndrome
+Describe eyelid imbrication syndrome.
 20 of 107
 
-the upper eyelid overlaps the lower eyelid during closure.
+The upper eyelid overlaps the lower eyelid during closure.
 
 Define involutional entropion.
 21 of 107
 
-A decline in the normal functions of the human body, or of an organ, that occurs with age.
-
-Here, lid laxity increases with age and the lid rolls into the globe.
+A decline in the normal functions of the human body, or of an organ, that occurs with age. - Here, lid laxity increases with age and the lid rolls into the globe.
 
 Describe cicatricial entropion.
 22 of 107
@@ -141,27 +127,27 @@ Incomplete eyelid closure. The lower lid cannot touch the upper lid margin.
 Describe acrochordon.
 26 of 107
 
-benign skin tag on the lid
+Benign skin tag on the lid
 
 Describe verruca vulgaris.
 27 of 107
 
-warts that appear as skin bumps with rough surfaces and tiny black specks. These come from HPV (human papillomavirus).
+Warts that appear as skin bumps with rough surfaces and tiny black specks. - These come from HPV (human papillomavirus).
 
 Describe epidermal inclusion cyst.
 28 of 107
 
-sebaceous cyst or epidermoid cyst that arises from the infundibulum of the hair follicle.
+Sebaceous cyst or epidermoid cyst that arises from the infundibulum of the hair follicle.
 
 Describe seborrheic keratoses.
 29 of 107
 
 A dark benign "stuck on" pigmented lesion in elderly.
 
-Describe the meaning of pedunculated.as
+Describe the meaning of pedunculated:
 30 of 107
 
-describes a lesion that is attached to a soft tissue with a stem.
+Describes the stem like segment that attaches a lesion to soft tissue.
 
 Describe milia.
 31 of 107
@@ -171,12 +157,9 @@ Small, raised, round, white, sharp cystic lesions of the eyelids. They are super
 Describe keratoacanthoma.
 32 of 107
 
-A dome-shaped nodule, with a central, keratin-filled crater and elevated, rolled margins.
+A dome-shaped nodule, with a central, keratin-filled crater and elevated, rolled margins. - ASSOCIATED WITH IMMUNOSUPPRESSED HIV PATIENTS. Can be precursor to squamous cell carcinoma.
 
-ASSOCIATED WITH IMMUNOSUPPRESSED HIV PATIENTS. Can be precursor to squamous cell carcinoma.
-
-Identify the lesion:
-These lesions have a yellow-brown or erythematous color, an oval shape, and are white and scaly. They arise from SUN EXPOSURE.
+Identify the lesion: These lesions have a yellow-brown or erythematous color, an oval shape, and are white and scaly. They arise from SUN EXPOSURE.
 33 of 107
 
 Actinic keratosis (solar keratosis)
@@ -184,7 +167,7 @@ Actinic keratosis (solar keratosis)
 A characteristic S-shaped curve to the upper lid margin is pathognomonic for____.
 34 of 107
 
-neurofibroma 1 (NF1)
+neurofibroma-1 (NF-1)
 
 A port wine stain of eyelids and cheeks is associated to what systemic disease?
 35 of 107
@@ -194,7 +177,7 @@ Sturge-Weber
 Describe Sturge Weber.
 36 of 107
 
-A systemic condition association with port wine stain,  abnormal blood vessels on the brain's surface, brain atrophy, and deposits of calcium in the cerebral cortex. This condition causes seizures and glaucoma.
+A systemic condition association with port wine stain, abnormal blood vessels on the brain's surface, brain atrophy, and deposits of calcium in the cerebral cortex. This condition causes seizures and glaucoma.
 
 Describe a capillary hemangioma.
 37 of 107
@@ -206,9 +189,7 @@ Describe a cavernous hemangioma.
 
 Purple grape-like clusters of capillaries swell, and form an angioma.
 
-Name the lesion:
-
-A pedunculated, reddish lesion with rapid growth. This lesion most commonly follows minor trauma or surgery.
+Name the lesion: A pedunculated, reddish lesion with rapid growth. This lesion most commonly follows minor trauma or surgery.
 39 of 107
 
 pyogenic granuloma
@@ -221,16 +202,14 @@ A sign of HYPERLIPIDEMIA. Yellow skin plaques medial on the eyelids.
 Describe nevus of Ota.
 41 of 107
 
-Blue skin coloration
-
-A benign dermal melanocytosis, that results in hyperpigmentation of the sclera and ipsilateral face. Rarely is associated to uveal melanomas.
+Blue skin coloration - A benign dermal melanocytosis, that results in hyperpigmentation of the sclera and ipsilateral face. Rarely is associated to uveal melanomas.
 
 Describe Kaposi sarcoma.
 42 of 107
 
 A cancer ASSOCIATED TO AIDS. Here, cancer cells cause red blotches throughout the body.
 
-Name the lesion: Nodular lesion appears as a firm, pearly, dome-shaped nodule, often displaying multiple telangiectatic vessels with an ulcerative core.
+Name the lesion: Nodular lesion appears as a firm, pearly, dome-shaped nodule, often displaying multiple telangiectatic vessels with an ulcerative core.
 43 of 107
 
 "rodent ulcer" or basal cell carcinoma
@@ -238,13 +217,9 @@ Name the lesion: Nodular lesion appears as a firm, pearly, dome-shaped nodule,
 Squamous cell carcinoma (SCC), a malignant neoplasm of the __.
 44 of 107
 
-epidermal keratinizing cells
+epidermal keratinizing cells - Often it presents as painless plaques or nodules with variable degrees of scale, crust, and ulceration.
 
-Often it presents as painless plaques or nodules with variable degrees of scale, crust, and ulceration.
-
-Name the lesion:
-
-This lesion has growth derived from the meibomian glands. It is a slowly enlarging, firm, and painless mass affecting the tarsal plate or the eyelid margin. These lesions may also exhibit varying degrees of yellow coloration due to the presence of lipid within the mass.
+Name the lesion: This lesion has growth derived from the meibomian glands. It is a slowly enlarging, firm, and painless mass affecting the tarsal plate or the eyelid margin. These lesions may also exhibit varying degrees of yellow coloration due to the presence of lipid within the mass.
 45 of 107
 
 sebaceous cell carcinoma
@@ -252,27 +227,19 @@ sebaceous cell carcinoma
 List the functions of meibum:
 46 of 107
 
-Prevents tear evaporation.
+Prevents tear evaporation. Prevents contamination of the tear film by providing a barrier to cutaneous sebum. Lowers the surface tension of tears. Provides a smooth optical surface.
 
-Prevents contamination of the tear film by providing a barrier to cutaneous sebum.
-
-Lowers the surface tension of tears.
-
-Provides a smooth optical surface.
-
-Name the finding:Rash on unilateral face and forehead from herpes zoster virus (HZV).
+Name the finding: - Rash on unilateral face and forehead from herpes zoster virus (HZV).
 47 of 107
 
 vesicles (or varicella virus)
 
-Name the finding:When herpes zoster virus rash affects the tip of nose and lip.
+Name the finding: - When herpes zoster virus rash affects the tip of nose and lip.
 48 of 107
 
 Hutchinson sign
 
-This increases risk of corneal involvement.
-
-Name the lesion:
+This increases risk of corneal involvement. Name the lesion:
 
 Skin-colored, dome-shaped papules, with a waxy curd-like UMBILICATED core.
 49 of 107
@@ -287,38 +254,32 @@ The pox virus molluscum contagiosum
 Differentiate between internal vs external hordeolum: styes
 51 of 107
 
-1. internal hordeolum involve meibomian glands 
-2.  external hordeolum involve glands of  Zeiss, Moll, or hair follicles (more external in anatomy)
+1. internal hordeolum involve meibomian glands - 2. external hordeolum involve glands of  Zeiss, Moll, or hair follicles (more external in anatomy)
 
 Differentiate hordeolum vs chalazion.
 52 of 107
 
-Hordeolum is soft, painful & tender. Topical medications can attack it!
-Chalazion is hard encapsulated, past the point of tenderness, topical meds usually doesn't attack it well, needs surgical incision and drainage.
+Hordeolum is soft, painful & tender. Topical medications can attack it! - Chalazion is hard encapsulated, past the point of tenderness, topical meds usually doesn't attack it well, needs surgical incision and drainage.
 
-True or False: Impetigo is a form OF VIRAL infection that presents with small diffuse painful nodules on face lips and lids.
+True or False? Impetigo is a form OF VIRAL infection that presents with small diffuse painful nodules on face lips and lids.
 53 of 107
 
-False. IMPETIGO IS BACTERIAL but looks viral. Common causes are staph or strep bacteria.
+False - IMPETIGO IS BACTERIAL but looks viral. Common causes are staph or strep bacteria.
 
 Chronic canaliculitis, usually caused by the bacteria  _____.
 54 of 107
 
-Actinomyces Israelii
+Actinomyces Israelii 
 
-Actinomyces israelii are gram-positive bacteria and are antibiotic resistant because they actively make a biofilm in the puncta and canals.
-
-They are sensitive to what oral antibiotics?
+Actinomyces israelii are gram-positive bacteria and are antibiotic resistant because they actively make a biofilm in the puncta and canals. They are sensitive to what oral antibiotics?
 55 of 107
 
-penicillin, cefazolin, fluoroquinolones, chloramphenicol, doxycycline, and erythromycin.
-
-Antibiotic therapy should last for a long period due to the ability that A. israelii has to form biofilms, which are more difficult to penetrate by antibiotic.
+penicillin, cefazolin, fluoroquinolones, chloramphenicol, doxycycline, and erythromycin. - Antibiotic therapy should last for a long period due to the ability that A. israelii has to form biofilms, which are more difficult to penetrate by antibiotic. 
 
 Describe phthiriasis palpebrarum.
 56 of 107
 
-THERE HE IS:  CRAB (pubic louse)
+THERE HE IS: CRAB (pubic louse)
 
 Describe the treatment of phthiriasis palpebrarum.
 57 of 107
@@ -328,23 +289,19 @@ plucking off or cutting lashes, using anti-pubic lice shampoo and suffocating th
 Differentiate dacryoadenitis vs dacryocystitis.
 58 of 107
 
-dacryoADENitis = LACRIMAL GLAND inflammation
-dacryoCYSTitis = NASOLACRIMAL SAC inflammation
+dacryoADENitis = LACRIMAL GLAND inflammation - dacryoCYSTitis = NASOLACRIMAL SAC inflammation
 
 Jones I and Jones II testing positive when:
 59 of 107
 
-yellow is found at the nose, so the punctal path is open.
-*POSITIVE IS PATENT*
+yellow is found at the nose, so the punctal path is open. - *POSITIVE IS PATENT*
 
 Differentiate Jones I vs Jones II techniques.
 60 of 107
 
-Jones I: NO SALINE wash, just fluress strip on palpebral conjunctiva and/or qtip and observed at the nose.
+Jones I: NO SALINE wash, just fluress strip on palpebral conjunctiva and/or qtip and observed at the nose. - Jones II: Uses a syringe needle to push saline down.
 
-Jones II: Uses a syringe needle to push saline down.
-
-Name the infestation of lashes: microscopic mite on lashes, that shows cylindrical dandruff on the base of lashes resulting in redness and foreign body sensation.
+Name the infestation of lashes: microscopic mite on lashes, that shows cylindrical dandruff on the base of lashes resulting in redness and foreign body sensation.
 61 of 107
 
 Demodex
@@ -354,9 +311,7 @@ Name a common bacteria that is associated with ANGULAR blepharitis and FOLLICULA
 
 MORAXELLA
 
-Name the diagnosis of the adnexa:
-
-AN INFECTION ANTERIOR to the orbital septum, presenting with eyelid edema, erythema, and warmth.
+Name the diagnosis of the adnexa: AN INFECTION ANTERIOR to the orbital septum, presenting with eyelid edema, erythema, and warmth.
 63 of 107
 
 preseptal cellulitis
