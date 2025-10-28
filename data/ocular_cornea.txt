@@ -58,7 +58,7 @@ The corneal stroma wants to suck in / absorb fluid. This is called:
 
 imbibition
 
-True or False: Endothelial cell density in the healthy human cornea increases with age.
+True or False? Endothelial cell density in the healthy human cornea increases with age.
 13 of 204
 
 False - Even in a healthy cornea endothelial cells die as we age.
@@ -116,7 +116,7 @@ Fleischer ring
 Mnemonic for WHORL Keratopathy deposits
 24 of 204
 
-Mr. Fabry WHORLS his CHAI T
+Mr. Fabry WHORLS his CHAI T
 
 The most common cause of drug induced corneal whorl keratopathy is:
 25 of 204
@@ -161,7 +161,7 @@ Schnyder's crystalline dystrophy = CHOLESTEROL in the ANTERIOR STROMA
 Differences between corneal degeneration vs. corneal dystrophy:
 33 of 204
 
-degeneration is usually unilateral/ related to trauma or inflammation and dystrophy is usually genetic and bilateral.
+Degeneration is usually unilateral/ related to trauma or inflammation and dystrophy is usually genetic and bilateral.
 
 Mnemonic for the stromal deposits found in stromal corneal dystrophies:
 34 of 204
@@ -205,12 +205,12 @@ The most common deposit in Descemet membrane is COPPER called:
 
 Kayser-Fleischer ring in Wilson's disease
 
-True or false: Corneal arcus is lipid deposits on the Bowman's layer.
+True or false? Corneal arcus is lipid deposits on the Bowman's layer.
 42 of 204
 
 False. Lipid deposits in arcus are on Descemet's.
 
-Endothelial cells phagocytose pigment in disorders such as pigment dispersion syndrome. This results in a fine pigmented vertical line on the endothelium called.
+Endothelial cells phagocytose pigment in disorders such as pigment dispersion syndrome. This results in a fine pigmented vertical line on the endothelium called ___.
 43 of 204
 
 Krukenberg's spindle
@@ -289,12 +289,12 @@ Name two Bowman's layer corneal dystrophies.
 
 Reis-Bucklers corneal dystrophy (RBCD) & Thiel-Behnke corneal dystrophy (TBCD)
 
-Describe Reis Bucklers and its inheritance pattern
+Describe Reis Bucklers and its inheritance pattern.
 58 of 204
 
 Autosomal DOMINANT: bilateral subepithelial reticular opacities that focally elevate the epithelium, appearing symmetrically in both corneas beginning around the age of 5. - The opacities remain asymptomatic until they produce recurrent erosions.
 
-Describe Thiel-Behnke
+Describe Thiel-Behnke:
 59 of 204
 
 Thiel-Behnke corneal dystrophy is similar to RBCD  by subepithelial corneal opacities associated with RCE. -8 However, opacities can be differentiated by their honeycomb pattern and a clear zone near the corneoscleral limbus. TB DOES NOT EXTEND TO THE LIMBUS.
@@ -309,15 +309,15 @@ Name the type of dry eye: ____ is a condition of obstructed oil-producing glands
 
 Meibomian gland dysfunction (MGD) is a condition of obstructed meibomian glands that leads to tear film instability, increased evaporation, and ocular surface alterations because of the diminished delivery of protective lipids to the tear film.
 
-Most corneal dystrophies are autosomal dominant. Name 5 dystrophies that stand out for having a different inheritance pattern.
+Most corneal dystrophies are autosomal dominant. Name 5 dystrophies that stand out for having a different inheritance pattern.
 62 of 204
 
-MACULAR, GELATINOUS DROP-LIKE & CHED: AUTOSOMAL RECESSIVE - LISCH and X-LINKED ENDO:
-X-LINKED
+MACULAR, GELATINOUS DROP-LIKE & CHED: AUTOSOMAL RECESSIVE - LISCH and X-LINKED ENDO: X-LINKED
 
 Test your knowledge: Name the corneal layers and associated dystrophies.
 63 of 204
 
+See table below.
 
 Bowman's layer dystrophies are normally associated to what genetic mutation?
 64 of 204
@@ -396,7 +396,7 @@ Describe sclerocornea:
 
 Sclerocornea is seen as a flat cornea with progressive scleralization peripherally and then centrally. The condition often requires corneal transplantation.
 
-True or False: Patients with keratoglobus have a diffusely thinned cornea and are at risk for perforation with mild trauma.
+True or False? Patients with keratoglobus have a diffusely thinned cornea and are at risk for perforation with mild trauma.
 79 of 204
 
 TRUE
@@ -479,9 +479,9 @@ benzalkonium chloride  (BAK)
 Describe  anesthetic drop abuse keratopathy.
 95 of 204
 
-persistent epithelial defects, ring-shaped infiltrates, and ultimately corneal perforation. The can occur with even dilute concentrations for a short duration.
+Persistent epithelial defects, ring-shaped infiltrates, and ultimately corneal perforation. This can occur with even dilute concentrations for a short duration.
 
-True or False: Topical NSAIDs can be associated with corneal melting, particularly in the setting of dry eye and Steven Johnson syndrome.
+True or False? Topical NSAIDs can be associated with corneal melting, particularly in the setting of dry eye and Steven Johnson syndrome.
 96 of 204
 
 TRUE
@@ -496,7 +496,7 @@ Thinning at the apex of cornea with protrusion is the hallmark of___.
 
 keratoconus
 
-True or False: DSEK keratoplasty is appropriate for the keratoconus patients without deep stromal scarring and has the advantage of eliminating the potential for endothelial rejection.
+True or False? DSEK keratoplasty is appropriate for the keratoconus patients without deep stromal scarring and has the advantage of eliminating the potential for endothelial rejection.
 99 of 204
 
 False - Surgeons choose Deep Anterior Lamellar Keratoplasties (DALKS) for KCN as scarring is anterior. A DSEK is posterior.
@@ -511,7 +511,7 @@ Differentiate Chandler vs Cogan-Reese versions of ICE:
 
 COGAN-REESE presents with iris nodules, sticky iris nevi with corneal endothelial abnormalities. CHANDLERS presents with is sticky iris, endothelium, and corneal edema.
 
-True or False: ICE syndrome is UNILATERAL.
+True or False? ICE syndrome is UNILATERAL.
 102 of 204
 
 TRUE
@@ -535,7 +535,7 @@ The swiss cheese holey appearance of band keratopathy caused by…
 
 Characteristic small, dark, round holes are seen within the band and are thought to represent corneal nerves passing through Bowman's layer.
 
-True or False: Band keratopathy is associated to a corneal acidic phase shift after silicone oil is placed in the treatment of a retinal detachment.
+True or False? Band keratopathy is associated to a corneal acidic phase shift after silicone oil is placed in the treatment of a retinal detachment.
 106 of 204
 
 TRUE
@@ -552,7 +552,7 @@ Salzmann's Nodular Degeneration
 Name some causes of Salzmann Nodular Degeneration:
 108 of 204
 
-Think: Degeneration. So it degenerates after an event like viral infection or refractive surgery - Examples are after vernal keratoconjunctivitis, trachoma, measles, scarlet fever interstitial keratitis, epithelial basement membrane dystrophy, rigid contact lens wear, and postoperative corneal surgery.
+Think: Degeneration. So it degenerates after an event like viral infection or refractive surgery. - Examples are after vernal keratoconjunctivitis, trachoma, measles, scarlet fever interstitial keratitis, epithelial basement membrane dystrophy, rigid contact lens wear, and postoperative corneal surgery.
 
 True or False: Terrien's marginal degeneration is inflammatory in nature.
 109 of 204
@@ -612,7 +612,7 @@ Crosslinking for keratoconus: Describe the  method & purpose.
 
 Riboflavin is used with light to strengthen the cornea and halt keratoconus progression.
 
-True or False: Herpes Simplex has only one KNOWN HOST-humans.
+True or False? Herpes Simplex has only one KNOWN HOST-humans.
 120 of 204
 
 True - Attempts have been made to replicate HSV  in mice and pigs and the virus did not grow.
@@ -737,7 +737,7 @@ If you read: Soft or rigid lens wearers, trauma, SWIMMING in contact lenses, non
 
 Acanthamoeba
 
-If you read: "ring ulcer" Think:
+If you read: "ring ulcer." Think:
 145 of 204
 
 Acanthamoeba
@@ -750,7 +750,7 @@ Caused by severe vitamin A deficiency (dryness then corneal opacification, and d
 Describe Onchocerciasis
 147 of 204
 
-River blindness is a chronic parasitic infection caused by Onchocerca volvulus. -Presents with:*skin lesions *severe itching *corneal and retinal scarring *intraocular damage from uveitis
+River blindness is a chronic parasitic infection caused by Onchocerca volvulus. - Presents with:*skin lesions *severe itching *corneal and retinal scarring *intraocular damage from uveitis
 
 Describe syphilitic keratitis in kids vs adults.
 148 of 204
@@ -865,7 +865,7 @@ Necrotizing scleritis WITHOUT inflammation.
 SCLERITIS vessels (DO or DO NOT) blanch with topical application of Neo-Synephrine.
 170 of 204
 
-Scleritis vessels WILL NOT BLANCH  (the blood vessels are too deep) . Episcleritis vessels will blanch (the blood vessels are more superficial).
+Scleritis vessels WILL NOT BLANCH  (the blood vessels are too deep). - Episcleritis vessels will blanch (the blood vessels are more superficial).
 
 Name the scleral disease:
 
@@ -892,7 +892,7 @@ TRUE
 True or False? Phlyctenular keratoconjunctivitis (PKC) and staphylococcal marginal keratitis are both INFECTIONS.
 175 of 204
 
-False.
+False
 
 Phlyctenular keratoconjunctivitis (PKC) and Staphylococcal marginal keratitis are both hypersensitivity reactions to a microbial antigen (not a true infection of the cornea but a reaction to the bacterial toxins to trigger this response). Phlyctenular keratoconjunctivitis (PKC) is what type of hypersensitivity reaction?
 176 of 204
@@ -916,10 +916,12 @@ Mooren ulcer: idiopathic peripheral ulcerative keratitis in the absence of syste
 
 Which is more damaging to the cornea?
 
-Alkali (basic ABOVE 7 pH) vs Acid (below 7 pH) toxicity
+Differentiate alkali (basic ABOVE 7 pH) vs acidic (below 7 pH) toxicity:
 180 of 204
 
-Alkali burns are more caustic than acid. List some examples of alkali burns:
+Alkali burns are more caustic than acidic burns. 
+
+List some examples of alkali burns:
 181 of 204
 
 cement, ammonia. **lye,** lime, potassium hydroxide, magnesium hydroxide (fireworks)
@@ -970,7 +972,7 @@ Describe a dellen.
 Epithelized dip (usually next to an elevation like glaucoma bleb or pterygium). Fluress pools in this area. Corneal epithelium and Bowmans absorbs wavelengths BELOW 300 nm. Excessive absorption of  this short wavelength can lead to:
 191 of 204
 
-Photokeratitis - This happens within 48 hours after UV Blast. Results  from hyperactivation of K+ channels. Clinically shows dense SPK centrally.
+Photokeratitis - This happens within 48 hours after a UV blast. Results  from hyperactivation of K+ channels. Clinically shows dense SPK centrally.
 
 True or False? Anticholinergic medications and antihistamines help to trigger the lacrimal gland to make better quality tears.
 192 of 204
@@ -1007,12 +1009,12 @@ If there is low vault on ICL (implantable collamer lens) (normal is 200-700m) wh
 
 Anterior subcapsular
 
-Describe Diffuse Lamellar Keratitis (DLK) aka Sands of Sahara
+Describe Diffuse Lamellar Keratitis (DLK) aka Sands of Sahara.
 199 of 204
 
 INFLAMMATORY, NONINFECTIOUS, fine granular sand-like infiltrates at LASIK FLAP interface. Appears 2-3 days after LASIK with foreign body sensation. Treated with steroid drops and taper.
 
-Describe Axenfeld Rieger vs Peters Anomaly
+Describe Axenfeld Rieger vs Peters Anomaly.
 200 of 204
 
 Both are anterior segment congenital malformations - Axenfeld: posterior embryotoxon, with IRIS STRANDS stuck to cornea and TM causing glaucoma. PETERS: IS CENTRAL OPACITY of cornea with dense edema.
@@ -1035,4 +1037,4 @@ False - ICE syndrome is not hereditary.
 Characteristics of a corneal degenerative process (not a dystrophy) are:
 204 of 204
 
-Degenerations often come after a trauma, UNILATERAL, PERIPHERAL, later onset, variable rate of progression, associated with neovascularization and inflammation
+Degenerations often come after a trauma, UNILATERAL, PERIPHERAL, later onset, variable rate of progression, associated with neovascularization and inflammation.
