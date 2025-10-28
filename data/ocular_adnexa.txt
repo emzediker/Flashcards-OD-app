@@ -306,7 +306,7 @@ Name the infestation of lashes: microscopic mite on lashes, that shows cylindric
 
 Demodex
 
-Name a common bacteria that is associated with ANGULAR blepharitis and FOLLICULAR conjunctivitis (recall that bacteria are not usually associated with a follicular reaction)
+Name a common bacteria that is associated with ANGULAR blepharitis and FOLLICULAR conjunctivitis (recall that bacteria are not usually associated with a follicular reaction).
 62 of 107
 
 MORAXELLA
@@ -316,18 +316,12 @@ Name the diagnosis of the adnexa: AN INFECTION ANTERIOR to the orbital septum, p
 
 preseptal cellulitis
 
-Name 5 common causes of orbital cellulitis.Presenting as:
-A condition manifesting posterior to the orbital septum associated with eyelid pain, discoloration, swelling, fever/malaise, proptosis, impaired ocular movement, and impaired vision
+Name 5 common causes of orbital cellulitis. Presenting as: A condition manifesting posterior to the orbital septum associated with eyelid pain, discoloration, swelling, fever/malaise, proptosis, impaired ocular movement, and impaired vision.
 64 of 107
 
-1.ocular infection spreading from surrounding sinuses (ethmoid sinus)
-2. upper respiratory infection
+1.ocular infection spreading from surrounding sinuses (ethmoid sinus) 2. upper respiratory infection 3. penetrating insect bite 4. trauma with secondary infection 5. contagious spread of infection from dental or facial abscess
 
-3. penetrating insect bite
-4. trauma with secondary infection
-5. contagious spread of infection from dental or facial abscess
-
-Which condition will present with ORBITAL CONGESTION AKA ORBITAL COMPARTMENT SYNDROME: ??preseptal cellulitis or orbital cellulitis??
+Which condition will present with ORBITAL CONGESTION AKA ORBITAL COMPARTMENT SYNDROME: ??preseptal cellulitis or orbital cellulitis??
 65 of 107
 
 Orbital cellulitis is much more serious and will show orbital congestion.
@@ -335,10 +329,10 @@ Orbital cellulitis is much more serious and will show orbital congestion.
 Describe orbital compartment syndrome (aka orbital congestion).
 66 of 107
 
-*caused by orbital cellulitis*elevated intraocular pressure (IOP)*with or without a decrease in the visual acuity*proptosis*a tight orbit*a relative afferent pupillary defect*intraocular vascular changes*slow extraocular movements
+*caused by orbital cellulitis *elevated intraocular pressure (IOP) *with or without a decrease in the visual acuity *proptosis *a tight orbit *a relative afferent pupillary defect *intraocular vascular changes *slow extraocular movements
 *possible diplopia
 
-Orbical cellulitis is infection posterior to orbital septum. Name which sinus infection is a common cause.
+Orbical cellulitis is infection posterior to orbital septum. Name which sinus infection is a common cause.
 67 of 107
 
 ethmoid sinus (the infection spreads through the thin lamina papyracea)
@@ -351,25 +345,19 @@ orbital cellulitis
 Why is orbital cellulitis so concerning?
 69 of 107
 
-The condition ca spread to the brain and cause cavernous sinus thrombosis, brain abscess,
-or meningitis.
+The condition ca spread to the brain and cause cavernous sinus thrombosis, brain abscess, or meningitis.
 
 Describe mucormycosis.
 70 of 107
 
-A FUNGAL infection (from orbital cellulitis) that CAUSES BLACK NECROTIC TISSUE IN THE MOUTH AND NOSE.Think: diabetics with orbital cellulitis and black tissue.
+A FUNGAL infection (from orbital cellulitis) that CAUSES BLACK NECROTIC TISSUE IN THE MOUTH AND NOSE. Think: diabetics with orbital cellulitis and black tissue.
 
 An orbital fracture causing entrapment can disrupt what muscle and nerve?
 71 of 107
 
-Inferior rectus (can't look up)
-V2 (infraorbital/ zygomatic nerve): causing hypothesia of the cheek
+Inferior rectus (can't look up), V2 (infraorbital/ zygomatic nerve): causing hypothesia of the cheek
 
-The weakest bone in the orbit is the floor.
-
-Common this is broken in a "blowout fracture".
-
-Name the bone that forms the floor of the orbit that is prone to breaking in this case.
+The weakest bone in the orbit is the floor. Commonly, this is broken in a "blowout fracture". Name the bone that forms the floor of the orbit that is prone to breaking in this case.
 72 of 107
 
 maxillary bone
@@ -379,10 +367,10 @@ Describe crepitus.
 
 crackling sound. This can be heard when feeling lower bones after an orbital floor fracture.
 
-True or False:  Patients should NOT BLOW THEIR NOSE UNTIL 48 HOURS after orbital blowout fracture.
+True or False?  Patients should NOT BLOW THEIR NOSE UNTIL 48 HOURS after orbital blowout fracture.
 74 of 107
 
-True (to decrease the risk of infection and IOP spike)
+True - to decrease the risk of infection and IOP spike
 
 Describe ecchymosis.
 75 of 107
@@ -397,18 +385,17 @@ Grave's Disease
 Name something increases the risk of proptosis associated with Thyroid Eye Disease by 2-9x's.
 77 of 107
 
-smoking cigarettes especially in females
+Smoking cigarettes, especially in females.
 
-Thickening of extraocular muscles (EOMs) in Grave's is common due to TSH-inducing inflammation.
-
- What EOM is usually affected first?
+Thickening of extraocular muscles (EOMs) in Grave's is common due to TSH-inducing inflammation. What EOM is usually affected first?
 78 of 107
 
-Inferior rectus(then medial, superior, then lateral, and obliques)
+Inferior rectus (then medial, superior, then lateral, and obliques)
 
 Differentiate "IMSLO" vs. Spiral of Tillaux.
 79 of 107
 
+See image below.
 
 True or False? Graves can present with upper lid retraction and optic nerve compression.
 80 of 107
@@ -435,26 +422,17 @@ Describe the pathognomonic MRI finding on for Thyroid Eye Disease.
 
 TENDONS are spared in swelling, only EOMS are swollen.
 
-Differentiate blood work in HYPER vs HYPO thyroidism.
-
-Is TSH vs T3/T4 is high or low for each condition.
+Differentiate blood work in HYPER vs HYPO thyroidism. Is TSH vs T3/T4 is high or low for each condition?
 85 of 107
 
-Hyperthyroid: High T3/T4 but LOW TSHHypothyroidism: Low T3/T4 but HIGH TSH
-
-
-TSH LEVELS ARE THE OPPOSITE OF THE DIAGNOSIS. HYPO SHOWS HIGH TSH VS HYPER SHOWS LOW TSH.   T3/T4 level matches diagnosis.
+Hyperthyroid: High T3/T4 but LOW TSH  Hypothyroidism: Low T3/T4 but HIGH TSH. - TSH LEVELS ARE THE OPPOSITE OF THE DIAGNOSIS. HYPO SHOWS HIGH TSH VS HYPER SHOWS LOW TSH. T3/T4 level matches diagnosis.
 
 List Hertel exophthalmometry norms for for Asian, Caucasian, and African American populations.
 86 of 107
 
-12-18mm Asians
-12-22mm Caucasians
-12-24mm African Americans
+12-18mm Asians, 12-22mm Caucasians, 12-24mm African Americans
 
-Name the common benign orbital tumor in children usually resolves by age 7-10.
-
-Can rarely cause deprivation amblyopia if it blocks vision.
+Name the common benign orbital tumor in children usually resolves by age 7-10. It can rarely cause deprivation amblyopia if it blocks vision.
 87 of 107
 
 capillary hemangioma
@@ -486,12 +464,10 @@ Name a common orbital tumor affecting the Schwann cells.
 
 Neurilemmoma
 
-Name the condition associated with acute onset of unilateral pain, decreased vision, proptosis and EOM RESTRICTIONS.
-
-The presentation looks like a tumor, but there is no tumor finding on a MRI.
+Name the condition associated with acute onset of unilateral pain, decreased vision, proptosis and EOM RESTRICTIONS. The presentation looks like a tumor, but there is no tumor finding on a MRI.
 93 of 107
 
-Orbital Pseudotumor aka  Idiopathic Orbital Inflammatory Syndrome (IOIS)
+Orbital Pseudotumor aka Idiopathic Orbital Inflammatory Syndrome (IOIS)
 
 Name the finding is used to describe shrinkage of the globe and hypotony after trauma, infection, surgery.
 94 of 107
@@ -501,11 +477,10 @@ phthisis bulbi
 Differentiate enucleation vs evisceration vs exenteration.
 95 of 107
 
-ENUCLEATION: REMOVAL OF GLOBE 
-EVISCERATION: ONLY INNER CONTENTS REMOVED(sclera remains as hollow eye shell) 
+ENUCLEATION: REMOVAL OF GLOBE EVISCERATION: ONLY INNER CONTENTS REMOVED(sclera remains as hollow eye shell)
 EXENTERATION: All contents within the bony orbit including EOMS and FAT are ALL CUT OUT
 
-If you read: "telangiectasia and facial flushing" Think: what lid disease?
+If you read: "telangiectasia and facial flushing..." Think: what lid disease?
 96 of 107
 
 ocular rosacea
@@ -515,9 +490,7 @@ Contact dermatitis is a skin allergy (itching and scaling and redness) that is t
 
 type 4
 
-Name the severe conjunctival disease:
-
-Marked by mucus membranes / soft tissues  becoming scarred and fibrotic with very painful, bilateral symblepharon. More commonly occurring in female.
+Name the severe conjunctival disease: Marked by mucus membranes / soft tissues  becoming scarred and fibrotic with very painful, bilateral symblepharon. More commonly occurring in female.
 98 of 107
 
 ocular cicatricial pemphigoid
@@ -532,8 +505,7 @@ Steven Johnson Syndrome
 Differentiate ptosis vs dermatochalasis.
 100 of 107
 
-Ptosis: typically muscle weakening associated to eyelid droop.
- Dermatochalasis: weakened orbital septum with redundant SKIN along with eyelid droop.
+Ptosis: typically muscle weakening associated to eyelid droop. - Dermatochalasis: weakened orbital septum with redundant SKIN along with eyelid droop.
 
 Ocular Disease
 Adnexa Deck 2 of 2
@@ -542,8 +514,7 @@ Adnexa Deck 2 of 2
 Differentiate myokymia vs Benign Essential Blepharospasm (BEB).
 101 of 107
 
-Myokymia: twitching (non-worrisome). Typically monocular and involving the orbicularis muscle only.
- BEB: twitching and spasm of three muscles (orbicularis, procerus, and corrugator). Typically bilateral and non-worrisome still.
+Myokymia: twitching (non-worrisome). Typically monocular and involving the orbicularis muscle only. - BEB: twitching and spasm of three muscles (orbicularis, procerus, and corrugator). Typically bilateral and non-worrisome still.
 
 Describe Meige Syndrome.
 102 of 107
@@ -559,11 +530,7 @@ sebaceous gland carcinoma
 ABCDE Mnemonic of skin lesions that can be suspicious for cancer.
 105 of 107
 
-A  Asymmetry
-B Border irregular 
-C Color uneven
-D Diameter >6mm (pencil eraser size)
-E evolving
+(A)Asymmetry (B) Border irregular (C) Color uneven (D) Diameter >6mm (pencil eraser size) (E) evolving
 
 Acute dacryoadenitis can be associated to the systemic condition:
 106 of 107
