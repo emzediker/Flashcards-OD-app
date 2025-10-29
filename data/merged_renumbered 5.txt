@@ -1,0 +1,1403 @@
+1 of 239
+
+Amount of how much light bends inward (convergence) vs how much light bends outward (divergence).
+
+Diverging light is a ??positive or negative??
+
+ vergence
+2 of 239
+
+diverging= negative vergence
+
+Converging light is a ??positive or negative??
+
+ vergence
+3 of 239
+
+converging= positive vergence
+
+A measure useful to describe the curvature of a lens is:
+4 of 239
+
+radii
+
+Why is curvature of a lens important?
+5 of 239
+
+A combination lens curvature and refractive index can allow a lens to bend light to a necessary specific point.
+
+Difference between focal length of convex lens vs concave lens
+6 of 239
+
+CONVEX lens converges light: focal length is the distance between the center of lens to where the rays converge.
+ CONCAVE lenses diverge light and light rays originate from a point specific to the locations of the center of a lens.
+
+Learn the focal length approximation formula!
+
+It is an easy way to skip to a "close to" correct answer on multiple choice or to quickly double check your work.
+7 of 239
+
+
+Define sagitta "sag."
+8 of 239
+
+Distance from exact center of an arc to center of the lens base.
+
+Why is sag important in making optical lenses?
+9 of 239
+
+Locating the center of the radius of curvature (ie the center of the lens for the pupil line of sight).
+
+Describe rectilinear propagation.
+10 of 239
+
+Light waves tendency to travel in a straight line.
+
+Describe dioptric power
+11 of 239
+
+When light hits a medium with a refractive index, then light will bend. The strength / force that the lens can bend this light is the dioptric power.
+
+Nodal point and nodal ray
+12 of 239
+
+Light wants to stay straight. The nodal point is usually the very center of the lens that allows light to continue traveling straight (aka the nodal straight ray).
+
+Define apparent depth.
+13 of 239
+
+Distance from a surface to a virtual image.
+
+Snell's Law summarized
+14 of 239
+
+How much a light will bend when it comes into contact with two separate materials with different refractive indexes.
+n1 = index of 1st media
+n2 = index of 2nd media
+theta1 = angle of incidence
+theta2 = angle of refraction
+
+Differentiate between dioptric power and effective power.
+15 of 239
+
+Dioptric:
+The lens stays STILL. How much power it can bend the light?
+
+Effective:
+MOVE the lens to make it bend light a different way.
+
+Formula for dioptric power of a spectacle lens vs formula for effective power
+16 of 239
+
+
+If you move a lens away from the eye (toward the tip of the nose), what effective power are you inducing?
+17 of 239
+
+A lens that moves away BECOMES MORE POWERFUL PLUS.
+Ex. +4.00 at eye = +4.25 at tip of nose
+Ex. -4.00 at eye = -3.75 at tip of nose
+WHERE THE LENS SITS CHANGES HOW POWERFUL IT ACTS.
+
+If you move a lens closer in towards the eye (or up the bridge of the nose) towards, what effective power are you inducing?
+18 of 239
+
+A lens that moves towards BECOMES MORE POWERFUL MINUS.
+
+Ex. +7.00 at eye = +6.75 at bridge of nose
+Ex. -7.00 at eye = -7.25 at bridge of nose
+
+WHERE THE LENS SITS CHANGES HOW POWERFUL IT ACTS.
+
+Rule of thumb: Minus vs plus when does a lens become more EFFECTIVELY POWERFUL?
+19 of 239
+
+For plus lens: moving the lens away from the eye increases its effective power to a more + power.
+
+For minus lens: moving the lens away from the eyes decreases its effective power to a more - power.
+
+It is important to account for differences in effective powers when selecting lenses for high prescriptions.
+
+Ex. A -4.25 D spectacle myope needs a -4.00 D contact lens
+
+What is the clinical significance of understanding effective power?
+20 of 239
+
+The vertex distance change between spectacles to contact lenses alters the effective power of a given prescription.
+
+What is a good rule of thumb for easy vertex converting?
+21 of 239
+
+If a spectacle prescription is higher than +4 or -4
+GO MORE PLUS IN THE CONTACT LENS PRESCRIPTION.
+
+Explain vertex and effective power in terms of glasses and contact lens wear.
+22 of 239
+
+Changing corrective lenses from spectacles to contact lenses decreases the vertex distance between the lenses and the eye.
+
+The movement of that prescription alone makes the lens (effectively)a bit more minus.
+
+…You don't have to include all that induced minus, so adjust the prescription.
+
+Quick math: Between 4 D to 6 D (either sign + or -), about how much difference in spectacle to contact lens power adjustments need to be made?
+23 of 239
+
+GO MORE PLUS BY 0.50D.
+
+A -5.00 D spectacle prescription will need to be adjusted to a -4.50 for the correct contact lens prescription.
+
+Quick math: At 6 D ore greater (either sign + or -) how much does a contact lens prescription need to be adjusted from the glasses prescription in order to account for effective power?
+24 of 239
+
+The contact lens prescription needs to be MORE PLUS BY 1.00D.
+
+Ex. A +6.00 spectacle prescription will need be a +7.00 contact lens prescription.
+
+Define Prentice's rule
+25 of 239
+
+The further the optical center of the lens is from the pupillary center, the more prism you will induce.
+
+What unit of measurement is Prentice's in as listed in the following formula:
+
+Prism Diopters =
+(distance from optical center)(dioptric power of the lens)
+26 of 239
+
+Centimeters!!!
+
+Prentice's formula
+27 of 239
+
+Prism diopter=power x cm of decentration
+
+Define spherical aberration.
+28 of 239
+
+Even though the surface is spherical, it still creates scattered light.
+
+Define coma aberration.
+29 of 239
+
+Light hits OFF AXIS AND MAKES A COMET-LIKE TAIL
+
+Define Oblique astigmatism ABERRATION.
+30 of 239
+
+Light hits the peripheral cornea and then the crystalline lens and scatters before hitting the retina- creating SHADOWS.
+
+Define chromatic aberration
+31 of 239
+
+Color scatters so the wavelengths that don't focus on the retina show shadows of colors.
+
+Depth of field vs depth of focus
+32 of 239
+
+Field: keep the LENS STILL, MOVE OBJECT IN AND OUT. How long can it stay clear?
+ FOCUS: TILT THE LENS AND KEEP THE OBJECT STILL. How long can it stay clear?
+
+Define total internal reflection.
+33 of 239
+
+Light can't leave the original medium, it all gets reflected back into the original medium, when the ANGLE OF INCIDENCE IS BIGGER THAN THE CRITICAL ANGLE.
+
+What two conditions need to be met to achieve total internal reflection?
+34 of 239
+
+1. Light must be traveling from a denser medium to a rarer medium (higher to lower index)
+2. The angle the light strikes (angle of incidence)  in the dense medium is greater than the critical angle
+
+Describe the critical angle.
+35 of 239
+
+The angle of incidence where the refracted ray leaves at 90 degrees.
+
+What happens if the angle of incidence is LESS than the critical angle?
+36 of 239
+
+Refraction: it bends to travels through to the next medium.
+
+Mnemonic for 7 electromagnetic waves from low to high frequency.
+
+Remember high frequency waves have higher energy and shorter wavelengths.
+37 of 239
+
+
+
+
+
+
+
+RAYS MIXED IN VARIOUS USES! XCITING GUYS!
+(Radio, microwave, infrared, visible, ultraviolet, Xray, Gamma)
+
+Define "coherence" in relation to wavelengths.
+38 of 239
+
+Overlap of two differently phased wavelengths (in other words how they line up).
+
+Differentiate total vs partial coherence
+39 of 239
+
+Total: Two wavelengths completely lined up and in synch.Partial: Two wavelength incompletely lined up with only some overlap. Not completely in synch.
+
+Differentiate Rayleigh scatter vs Tyndall effect.
+40 of 239
+
+RAYLEIGH: when particles smaller than wavelength size scatter
+TYNDALL: when particles same size OR LARGER than wavelength scatter.
+
+Rayleigh light scatter example
+41 of 239
+
+Sugar is dissolved in water. The particles are smaller than the wavelength shined on it. The ray travels through the water but you do not see a ray as it goes through the glass of water
+
+Tyndall effect (type of light scatter) example.
+42 of 239
+
+When a ray hits a particle the same size or bigger than it, the ray starts to spread out and appear bigger than the initial ray (ie dust is bigger than the sunlight coming in the window).
+
+Differentiate solution vs colloid vs suspension.
+43 of 239
+
+Smallest particles to largest are: solution, colloid, suspension.
+
+Mnemonic for solution mixture.
+44 of 239
+
+"S"olution think "S"ALT dissolved in water so it is "s"maller than the wavelength.
+
+Mnemonic for colloid mixture.
+45 of 239
+
+C for "c"olloid and "c"alming because the molecules are not bigger or smaller than the wavelength.
+
+Mnemonic to remember suspension mixture.
+46 of 239
+
+When a wizard is floating in air or SUSPENDED, they are much bigger than the wavelength and make light bounce off to bigger dispersion rays.
+
+Mnemonic for solvent.
+47 of 239
+
+Solvent is the solution added to do the dissolving (water is the solvent to dissolve the salt)    Mnemonic: put dust in a vent and they dissolve
+
+Define light dispersion.
+48 of 239
+
+When light passes through an object, it will separate or disperse into different colors.
+
+List the ultraviolet UVA, UVB,  and UVC wavelength ranges.
+49 of 239
+
+It may be easier to remember to start at 400 then 80, 30, 90 (meaning subtract each interval. If asked on the test write out 400 then subtract 80, then 30, then 90)
+
+What UV range does the front surface of the eye absorb (tear, cornea, aqueous)?
+50 of 239
+
+All UV C is absorbed on the front surface so it never hits retina (THINK: C FOR CORNEA)
+
+True or False? Aphakic patients are less at risk for macular degeneration
+51 of 239
+
+False. Having the crystalline lens or even a pseudophakic lens implant helps to protect the retina from UVA and UVB damage.
+
+What type of laser is used in panretinal photocoagulation?
+52 of 239
+
+Argon THINK: DRAGON (looks like the word argon) BLASTS ALL OVER THE RETINA
+
+Type of laser is used in LASIK AND PRK for the ablation of the corneal tissue?
+53 of 239
+
+Excimer
+
+A thinned cornea after LASIK will make IOP show a falsely ??raised or lowered??
+
+reading with applanation?
+54 of 239
+
+Thin cornea = thinner IOP (IOP will be artificially lower as read with appalanation)
+
+List the flap thickness average in LASIK.
+55 of 239
+
+200 microns
+
+Rule of thumb for estimating ablation depth into the stroma per each diopter in LASIK correction.
+56 of 239
+
+The patient's cornea will be 12 microns thinner per each diopter of LASIK correction.
+
+ex. A -3.00 patient who is plano post-LASIK will be (12+12+12)=36 microns thinner.
+
+List the 3 main procedures YAG laser is used for.
+57 of 239
+
+1. Yag capsulotomy of posterior capsule after PCIOL surgery
+2. Selective Laser Trabeculoplasty (SLT) in POAG
+3.  Laser Peripheral Iridotomy (LPI) in narrow angles
+
+Differentiate between the lasers used in  yag-capsulotomy and yag-SLT.
+58 of 239
+
+Yag capsulotomy uses Neodymium (Nd)SLT uses Q-Switched (Nd) (photon switched)
+
+Differentiate between a femto-laser and excimer laser in LASIK.
+59 of 239
+
+Excimer is usually used to ablate the stroma. Femto is usually used to create the flap.
+
+Describe the speckle effect.
+60 of 239
+
+When a radar gun shoots a ray and as it lands on wall the beam looks "salt and pepper" or speckled due to how the waves are coherent or interfere.
+
+Describe the "speckle effect" in emmetropes, hyperopes, and myopes when light shines on the eye and they move their head.
+61 of 239
+
+emmetrope = no movementhyperope = with motionmyope = against motion
+
+Define spectral transmission.
+62 of 239
+
+The effectiveness of a lens to transmit light and not cause light scatter.
+
+How well light goes through a lens without scattering.
+
+Define visual acuity.
+63 of 239
+
+The distance at which a patient can see a letter that subtends 5 minutes of arc.
+
+Also state, how large an object subtends on the retina at a distance (ie The larger the object the larger the angle is on the retina).
+
+List the average corneal curvature in diopters.
+64 of 239
+
+40 to 46 diopters
+
+At what corneal curvature do you think the cornea is too steep (ie pathologically steep like in keratoconus).
+65 of 239
+
+Greater than or equal to 47D
+
+List average corneal thickness.
+66 of 239
+
+~550 microns
+(literature will vary)
+
+If a cornea is thinner than _____microns, the patient does not qualify for LASIK and must be switched to PRK.
+67 of 239
+
+~500 microns
+
+Differentiate between static and dynamic retinoscopy.
+68 of 239
+
+Static: is at distance and the accommodation is relaxed.Dynamic: is at near and activates accommodation.
+
+Gullstrand vs "reduced eye" model:
+
+List the index of the cornea and aqueous.
+69 of 239
+
+Gullstrand: approximately 1.36 reduced eye: approximately 1.33
+
+Far point formula
+70 of 239
+
+1/F
+
+Where is the far point for emmetropia?
+71 of 239
+
+Optical infinity
+
+Where will the far point of myopia be found?
+72 of 239
+
+Between the eye and infinity. SITTING IN FRONT OF THE RETINA.
+
+Where is the far point in hyperopia?
+73 of 239
+
+BEHIND THE RETINA (virtual)
+
+Describe latent hyperopia.
+74 of 239
+
+Young hyperopes accommodate through some of their total hyperopia, only showing a fraction on their subjective manifest refraction.
+
+Describe manifest hyperopia.
+75 of 239
+
+Only the plus a hyperopes prefer on subjective manifest refraction.
+
+There may be more left on the table but they don't feel comfortable wearing the full amount.
+
+Differentiate the trends of:Hyperopes VS Myopes between 6 and 11 years old.
+76 of 239
+
+Hyperopes usually get their final prescription at 6 years old and don't change much until age 45.
+ Myopes at 6 years old become more myopic every year from age 6 to 21.
+
+Unique characteristic of emmetropes and hyperopes after 45 years old.
+77 of 239
+
+Myopia progresses until 21 years old and then plateaus. Emmetropes and hyperopes plateau after 6 years old and then get more hyperopic at age 45.
+
+List two benefits of measuring interocular distance with a pupilometer vs relying on a standard ruler.
+78 of 239
+
+Pupilometer:
+takes away human error
+takes away parallax
+
+Differentiate resolution vs recognition visual acuities
+79 of 239
+
+RESOLUTION: The ability to actually see the spatial difference and details between the legs on the E (black vs white spaces).
+
+RECOGNITION: Your brain fills in and your can recognize a letter. We usually do much better on recognition acuities than resolution acuities.
+
+Describe minimum detectable acuity.
+80 of 239
+
+Think: The thinnest leg able to be seen on the E before it blends into one big blob. Or the ability to see a spec of pepper on a white piece of paper.
+
+(usually minimal detectable even better acuity than resolution and recognition acuity)
+
+Describe hyperacuity.
+81 of 239
+
+Directional visual acuity (such as tilts of alignment) from higher cortical processing.
+
+Define MAR.
+82 of 239
+
+Breaks down to "MINIMUM ANGLE OF RESOLUTION".
+
+What's the smallest ANGLE SEEN.
+
+Converting:
+
+MAR vs Snellen Fraction vs LogMar
+83 of 239
+
+To convert from Snellen to MAR, flip the Snellen fraction:
+ex. 20/40 = 40/20 = 2 MAR
+
+To convert from MAR to logMAR take the log of MAR:ex. 2 MAR = 0.30logMAR
+
+To convert from MAR to Snellen, multiply MAR by 20 to get the Snellen denominator:
+ex. 5 MAR = 20/100
+
+Each letter on Snellen chart is how many minutes of arc?
+84 of 239
+
+1 full letter on Snellen chart= 5 arc minutes
+
+Describe the "Just Noticeable Difference (JND)"
+85 of 239
+
+The acceptable range of two lenses that can be demonstrated to a patient to determine their manifest refraction.
+
+This is the minimum lens power change required for the patient to even tell you are showing them two different options.
+
+Snellen denominator over 100  (THEN DIVIDE THIS BY 2. THIS TO MAKE THE TWO OPTIONS ON MRX)
+
+Describe stenopaic slit.
+86 of 239
+
+A SLIT occluder is rotated until it is aligned to create clear vision. The direction of alignment is the  axis of astigmatism.
+
+Is Duochrome refraction is binocular or monocular?
+87 of 239
+
+DUO SOUNDS LIKE "MONO": MONOCULAR TEST
+
+In duochrome manifest refraction, does the green light land in front of or behind the red light?
+88 of 239
+
+Green lands in front.
+
+ To adjust the refraction use the acronym RAM GAP (red add minus & green add plus).  Meaning if the green side of the chart seems more clear than the red side add minus lenses until both sides are equal in clarity.
+
+In duochrome manifest refraction, does the red light land in front of or behind the green light?
+89 of 239
+
+Red lands behind green.
+
+Remember the acronym RAM GAP (red add minus green add plus) to determine how to adjust a refraction.
+
+Purpose of FOGGING REFRACTION.
+90 of 239
+
+TO PREVENT OVER MINUSING
+
+Mnemonic for FOGGING a manifest refraction.
+91 of 239
+
+FOGS= forget over-minus give surplus (Forget that, don't over minus)
+
+Differentiate between FOGGING AND BINOCULAR BALANCE
+92 of 239
+
+FOGGING: add clicks of plus lenses into the phoropter the until can only read two lines above their smallest BCVA, then add minus lenses until they can JUST READ original lowest line.
+
+BINOCULAR BALANCE dissociate the eyes and determine which eye is more clear after adding +0.75 OU. If they appear equally clear, stop. If one eye is more clear then add plus until that eye is blurred equally.
+
+List 3 circumstances when BINOCULAR BALANCE CANNOT BE PERFORMED.
+93 of 239
+
+1. strabismus2. suppression3. monocular status
+
+Describe Turville Infinity Binocular Balancing Manifest Refraction.
+94 of 239
+
+Dr. Turville made  a SEPTUM/ WALL.
+
+The patient is shown SNELLEN LINE SPLIT IN HALF BY A LINE. ONE EYE SEES HALF THE LETTERS , THE OTHER EYE SEES HALF LETTERS.
+
+Ask which letter set is more clear and add plus to the eye that sees more clearer until it is to equally blurred/clear to both eyes.
+
+Differentiate PRA vs NRA.
+95 of 239
+
+Positive Range of Accommodation (PRA): The amount a patient can stimulate their accommodation as measured by placing increasingly more negative lenses lenses in front of the eye while viewing a target at 40cm.
+Negative Range of Accommodation (NRA): The amount a patient can relax  their accommodation as measured by placing increasingly more positive lenses in front of the eye while viewing a target at 40cm.
+
+Method to remember AGE EXPECTED ADD POWERS
+96 of 239
+
+45-50=1.00 VS
+
+50-55=1.50-2
+
+VS 60-65 2.25
+
+VS 65+ 2.50on
+
+Define simple astigmatism.
+97 of 239
+
+One ray hits retina, and other DOES NOT HIT THE  RETINA (can be behind or in front).
+
+ Define compound astigmatism
+98 of 239
+
+BOTH RAYS DO NOT HIT THE RETINA, BUT BOTH ARE IN THE SAME "AREA," (both are in front of the retina or both are behind the retina)
+
+Define mixed astigmatism
+99 of 239
+
+Neither rays  hit the retina. One is in front of the retina  and one is behind the retina.
+
+Differentiate Oblique vs Irregular Astigmatism
+100 of 239
+
+OBLIQUE = Meridians land outside the "safe zone" of 30 degrees  to either side of 180 or 90 (ie they land in 30-60 or 120-150)
+IRREGULAR: two meridians are NOT 90 DEGREES APART!
+
+Optics
+Concepts in Geometrical & Ophthalmic Optics,
+Contact Lenses & Low Vision Deck 2 of 3
+100 flashcards
+
+WTR vs ATR minus spectacle axis
+101 of 239
+
+WTR is minus cyl 180 ATR minus cyl is 090
+
+Does WTR vs ATR spectacle cylinder in minus form match topography cylinder?
+102 of 239
+
+NO! Think: Ophthalmologists work with topography
+more, so the plus cyl matches topography.
+
+Mnemonic for plus cylinder matching topography ATR findings
+103 of 239
+
+Steep cylinder is like a bow tie (180 ATR in plus cyl) and I am positive that people who wear bowties are always against the rule.
+
+Rule of thumb power difference that patients will notice aniseikonia.
+104 of 239
+
+3D difference between the eyes (in either sph or cyl powers)
+
+Define aniseikonia.
+105 of 239
+
+Difference in image size between eyes due to unequal magnification between eyes (causes diplopia, nausea, headaches, etc)
+
+A patient has just had cataract surgery in one eye with a target of plano prescription for their distance vision. The remaining eye has a prescription of -7.00DS.
+
+After cataract surgery the patient is nauseated, has headaches, and imbalance walking. The IOP is good. What is the patient experiencing?
+106 of 239
+
+Aniseikonia. Spectacles over one eye and blank spectacle over operated eye will increase aniseikonia. It would be best to fit the patient in a contact lens.
+
+Method to calculate the difference in magnification between eyes with different spectacle lens powers.
+107 of 239
+
+Step 1: Calculate magnification attributed to each lens.
+magnification= power factor x shape factor
+
+Step 2: perform "total difference equation" to find the amount of aniseikonia.
+
+Spectacle magnification formula
+108 of 239
+
+
+TWO LENSES HAVE EQUAL POWER, SAME INDEX, SAME THICKNESS, AND SAME VERTEX DISTANCE…  …BUT DIFFERENT AMOUNT OF CURVATURE ON FRONT SURFACE (IE DIFFERENT FRONT SURFACE POWER)
+
+Which has greatest magnification?
+109 of 239
+
+"THE MORE CURVED SURFACE WILL PRODUCE GREATER MAGNIFICATION.Ex. +2D  front surface power vs +15 =  +15 will make a larger image.
+
+Total Difference In Lens Magnification Formula
+110 of 239
+
+
+Differentiate the typical vertex distance between back of spectacle to the corneal apex vs to the pupil entrance.
+111 of 239
+
+BACK OF SPEC TO CORNEAL APEX IS 12mm VS TO ENTRANCE PUPIL 15mm.
+
+Approximate corneal dioptric power vs lens associated dioptric power.
+112 of 239
+
+CORNEA: 40D VS LENS: 20D TOTAL:60
+
+List Purkinje Image 1-4.
+113 of 239
+
+Front to back: 1. P1 front surface cornea2. P2 back surface cornea3. P3 front surface lens4. P4 back surface lens
+
+Which is the only inverted purkinje image?
+114 of 239
+
+P4
+
+Describe Brewster's
+law of
+polarization
+115 of 239
+
+To achieve the maximum polarization of light by allowing the ray to fall on a transparent medium's surface so that the refracted ray becomes perpendicular to the reflected ray.
+
+Biconcave vs plano-concave spectacle lenses
+116 of 239
+
+BICONCAVE: Both front and back surface is curved inward toward the middle. (MINUS Lens).
+ PLANO CONCAVE: MINUS LENS THAT HAS A FLAT SURFACE.
+
+Biconvex vs plano-convex
+117 of 239
+
+Biconvex: Both front and back surfaces are curved out (Plus lens). Plano-convex: Plus lens that has a flat surface.
+
+Differentiate
+plano-concave vs plano-convex
+118 of 239
+
+Plano-concave has a flat surface at the front.
+ Planoconvex is flat on back (belly up front like pregnant lady).
+
+Describe the standard location for grinding in spherical powers vs cylindrical powers on a spectacle lens.
+119 of 239
+
+Sphere is on the front surface. Cylinder is on the back surface.
+
+Aspheric means:
+120 of 239
+
+Varying curvature along each meridian (not the same curvature all the way across) ie a cornea is steeper centrally than peripherally.
+
+What is a bitoric? And is it used in spectacles?
+121 of 239
+
+Bitoric means the front of a lens has cylinder correction and so does the back of the lens.
+
+BITORICS ARE NOT USED IN SPECS- only in hard contact lenses.
+
+Define base curve.
+122 of 239
+
+The starting reference curve (mid-point curve) that the rest of the lens curvature is BASED on.
+
+ If the middle curve starts steep, the peripheral curves follow suite.
+
+In toric surfaces, which meridian is selected for the base curve?
+123 of 239
+
+The flat meridian is selected for the base curve.
+
+Describe specific gravity of a lens.
+124 of 239
+
+Density of a lens divided by the density of water (how heavy it is)
+
+List the lowest specific gravity spectacle lens material.
+125 of 239
+
+Trivex
+
+Compare the specific gravity of polycarbonate vs trivex.
+126 of 239
+
+Polycarbonate 1.20 Trivex 1.11
+
+Describe an iseikonic lens.
+127 of 239
+
+A lens made to balance aniseikonia.
+
+Differentiate prism direction in a plus lens vs a minus lens.
+128 of 239
+
+Plus lenses have bases toward the middle middle vs minus lenses have bases toward the edge.
+
+Prism bends light toward the (apex/base).
+129 of 239
+
+BASE
+
+Prism bends images toward the (apex/base).
+130 of 239
+
+APEX
+
+Slab off prism is used for:
+131 of 239
+
+correcting vertical imbalance made IN A LINED BIFOCAL.
+
+Describe the slab off prism added to correct vertical prism imbalance.
+132 of 239
+
+Base UP is added to MORE MINUS lens
+(BUM= BUMinus)
+
+Reverse slab off means:
+133 of 239
+
+Base down prism is added to the more plus lens to correct vertical prism imbalance.
+
+The bifocal segment that most commonly causes the "image jump" is:
+134 of 239
+
+The round 28 bifocal has its optical center 14 mm below the top of the segment. This large distance creates significant image jump.
+
+Describe image jump vs vertical imbalance in bifocals.
+135 of 239
+
+IMAGE JUMP= The image quickly moves up when looking from distance to near through a bifocal. An executive bifocal creates the LEAST image jump.
+
+VERTICAL IMBALANCE= Prismatic effect is induced (causing nauseated or diplopia) when difference in lens power is more than 1.5PD between the two eyes. Corrected with BU slab off over the more minus lens.
+
+Segment Height of Progressive Addition Lens (PAL) vs Bifocal
+136 of 239
+
+PAL = measure at pupil.
+ Bifocal = top of lower lid margin (think: a line CAN'T be at the pupil because it will get in the way of sight!)
+
+The transmission spectrum of a filter tells you:
+137 of 239
+
+which wavelength of light can get through the filter.
+
+Describe Abbe number.
+138 of 239
+
+Symbolized "V", this value is how much chromatic aberration is made from a lens as visible light passes through.
+
+High V number =
+
+?? high chromatic aberration or low Chromatic aberration??
+139 of 239
+
+Abbe number and abberation levels are INVERSELY RELATED
+
+High V = Low chromatic aberration (A GOOD THING!)
+
+Name three lens indexes with high "V" Abbe numbers (i.e low aberrations).
+140 of 239
+
+crownflint glass (above 50) CR39
+
+Which as a higher V (Abbe) number:??1.6 index lens vs index 1.8 lens??
+141 of 239
+
+THE HIGHER THE INDEX THE LOWER THE V, so 1.8 has MORE aberrations (or a lower V) than 1.6!
+
+At what specific gravity (how heavy a lens is), is a lens material considered high index?
+142 of 239
+
+Greater than or equal to 1.6.
+
+List a unique characteristic to trivex.
+143 of 239
+
+Moderate high 1.43 V but low specific gravity (light / thin lens but low aberrations)
+
+Usually a light weight lens means more aberrations as a trade-off.
+
+What is ANSI Z87.1?
+144 of 239
+
+A standard adopted by OSHA SAFETY which requires markings on eye protection that relate directly to the device's ability to defend against specific hazards.
+
+List two tests for verifying OSHA safety lenses meant for impact resistance.
+145 of 239
+
+The Charpy pendulum impact test (ISO 179/ASTM D6110)
+
+The Izod test (ISO 180/ASTM D256)
+
+Doe the lensometer measures front or back vertex power of a spectacle?
+146 of 239
+
+back vertex power
+
+What does radioscopy do?
+147 of 239
+
+Measures the  radius of curvature of gas permeable contact lens.
+
+The distance between two positions on the radioscope is:
+148 of 239
+
+the radius of curvature.
+
+A lens clock measures:
+149 of 239
+
+Sagitta or base curve of a spectacle lens.
+
+A slit lamp biomicroscope is made up of what two telescopes?
+150 of 239
+
+Keplerian telescope makes up the eyepiece.Galilean telescope is used to magnify.
+
+Summary chart of differences between Keplerian and Galilean telescopes.
+151 of 239
+
+
+Differentiate high powered fundus lens (ie90) vs low powered fundus lens (ie 20)
+152 of 239
+
+Higher power= Low magnification, High field of view (think: 90D lens lets us see all of the fundus)
+Low power= High magnification, Low field of view (think: 20 in BIO zooms in on one spot)
+
+Axis tolerance degrees for ANSI
+153 of 239
+
+JUST REMEMBER OR WRITE IT BEFORE STARTING THE TEST! 14,7,5,3,2 say it out loud! 14,7,5,3,2 means each 0.25 to 0.50 jump, tolerance will change to these numbers.
+
+The most important ANSI axis degree tolerance to learn is:
+154 of 239
+
+Greater than (NOT EQUAL TO) 1.50 is only 2 degrees up or down.
+
+Impact lenses in agreement with ANSI standards resist a ___ size ball dropped from ___.
+155 of 239
+
+⅝ inch steel ball from 50 INCHES
+
+Differentiate high-mass impact vs high-velocity impact grading of lenses or frames
+156 of 239
+
+IMPACT IS MARKED WITH A "+"HIGH MASS= pointed projectile weighing 500g dropped from 50 inches
+
+HIGH VELOCITY: 0.25 steel ball fired at 150 ft/second
+
+Describe a meniscus lens:
+157 of 239
+
+convex front surface and concave back surface
+
+Describe a toric lens:
+158 of 239
+
+one spherical component one cylindrical component
+
+Describe the A vs B in the boxing system of frame measurements.
+159 of 239
+
+A is the HORIZONTAL measurement (from edge of outside line of the frame- not lens).
+B is the VERTICAL measurement.
+
+The major reference point (MRP) of a spectacle lens is:
+160 of 239
+
+the visual axis (usually measured at the pupil)
+
+Describe the seg drop of a bifocal.
+161 of 239
+
+The measurement from major reference point (MRP) to the top of the seg height.
+
+If the segment line is placed too high on the lens, what can be done to the tilt of frame to fix this?
+162 of 239
+
+Think: the line is in their vision, so induce pantoscopic tilt downward to lower the bifocal line out of the  line of sight.
+
+If the seg line is placed to low on a lens, what can be done to the nose pads of a frame to correct it?
+163 of 239
+
+Think: You need to "jump" the line up. By pinching or narrowing the nose pads it raises up the frame to a higher, more narrow part of the nose.
+
+What can be done to the frame bridge if the segment line is too low?
+164 of 239
+
+Think: You change the same basic mechanics as what you would do to nose pads. So if the seg is low you would narrow the nose pads- so you can also narrow the bridge to achieve the same result.
+
+Can there ever be vertical imbalance in contact lens?
+165 of 239
+
+No, pupils move with the lenses so no vertical imbalance in can be induced with contact lenses.
+
+1D of the power difference between eyes is equal to how much aniseikonia?
+166 of 239
+
+1% aniseikonia- THIS IS A RULE OF THUMB
+
+Define antimetropia.
+167 of 239
+
+One eye hyperopic and one eye myopic
+
+When is a bitoric gas permeable lens (cylinder correction on the front surface and back surface) needed?
+168 of 239
+
+After 2.50D of astigmatism
+
+Describe the saddleback surface bitoric is fit:
+169 of 239
+
+0.25 flatter than corneal keratometry in both meridians.
+
+Describe prism ballast in gas permeable contact lenses.
+170 of 239
+
+Base down prism is added to a rigid gas permeable lens for WEIGHT to keep the lens from rotating.
+
+Mnemonic to remember causes of flexure.
+171 of 239
+
+FLOATS (flexure loves oxygen, astigmatism, thin, steep)
+
+Under what center thickness is more flexure likely to occur?
+172 of 239
+
+~0.15mm
+
+If keratometry readings are toric over an RGP, what does that indicate?
+173 of 239
+
+Lens flexure
+
+The Dk of old PMMA material is:
+174 of 239
+
+0 ZERO! (Think: lots of corneal edema results!)
+
+List the patient with the highest need for high Dk lenes: myopes, aphakes, hyperopes.
+175 of 239
+
+Aphakic patients need the highest (Dk 100+).
+
+Hyperopes need moderate Dk.
+
+Myopes can get by with the lowest Dk.
+
+Differentiate changing base curve values (steeper or flatter) in soft contact lenses vs rigid gas permeable lenses.
+176 of 239
+
+There is NO "lacrimal lens" power in soft contacts, so altering the base curve (steeper or flatter) not change the power of soft contact.
+
+In gas permeables lenses the "lacrimal lens" power with increase or decrease with base curve changes so you need to adjust with "SAM FAP"
+
+Describe
+Truncation of rigid
+ gas permeable
+contact lenses
+177 of 239
+
+Cutting the bottom portion of the gas permeable lens off so it sits flat to the lower lid.  Truncation is made for bifocal contact lenses that the lid can push to move the add power up as the patient looks down to read.
+
+In toric contact lens fitting, Is "LARS" considered from the patient's view or the doctor's view?
+178 of 239
+
+Doctor's view. If the lens rotates to the left then add the degrees rotated to the axis power to get the final prescription vs if the lens is rotated to the right subtract insead.
+
+LARS = Left ADD Right SUBTRACT
+
+High modulus soft contact lens means:
+179 of 239
+
+Highly stiff or rigid (more water content lowers the modulus to become less rigid).
+
+High modulus (more rigid) contact lenses can be easier to handle.
+
+What are the cons of high modulus lenses?
+180 of 239
+
+Increase cases of GPC (giant papillary conjunctivitis) and SEALS (superior epithelial arcuate lesions)
+
+Hyperopes vs Myopes
+
+Who accommodates more with spectacles or contact lenses.
+181 of 239
+
+DRAW AN H,THE LETTER LOOKS MORE LIKE GLASSES WITH THE BRIDGE.
+Hyperopes accommodate more with spectacles.Myopes accommodate more in contact lenses.
+
+Why would a myope need reading glasses over their contact lenses even if they do not have a bifocal in their glasses yet.
+182 of 239
+
+Myopes accommodate more in contact lenses than in glasses, so when accommodation abilities decrease in presbyopia, they need more help at near while wearing contacts first.
+
+Do hyperopes get a bigger image with contact lenses or spectacles?
+183 of 239
+
+Spectacles create a bigger image size for hyperopes.
+
+Not only do glasses make a bigger image size in hyperopes, they also have a greater accommodative demand and convergence demand.
+
+Mnemonic for Keplerian vs Galilean telescopes.
+184 of 239
+
+1. F* KEPLIN= -FOV (high FOV)-keep everything plus -longer -inverted -not real
+ 2. GALILEAN: "U REAL GAL"  (upright, real image, Galilean alternating lenses)
+
+Properties of Keplerian telescope.
+185 of 239
+
+*F* KEPLIN
+ F=High Field of view
+KEP= Keep Everything Plus (two plus lenses)
+ L= longer in length
+
+I= Inverted image is inverted (so they need an extra mirror to flip it)
+N= Not real image
+(it's virtual image)
+
+Properties of Galilean telescope.
+186 of 239
+
+U REAL GAL= 
+U= upright
+REAL= Real image
+GAL= Galilean is alternating lenses (one plus & one minus)
+
+The reverse telescope is made of what system?
+187 of 239
+
+Galilean
+
+The reverse telescope is made to assist patients with type of eye diseases?
+188 of 239
+
+Conditions associated with peripheral vision loss: ie retinitis pigmentosa or glaucoma with tunnel vision
+
+The goal of reverse telescopes is:
+189 of 239
+
+to expand the patients field of view
+
+Ex. In a 4x reverse telescope, a 5 degree field of view is now 20 degrees. So they can so a wider view of a room instead of feeling like they are looking through a small tube. HOWEVER they MINIFY the SIZE of EVERYTHING by 4x also!
+
+A patient has a lateral hemianopia. Where does the prism go on the spectacles to try "open up" the vision.
+190 of 239
+
+BASE  TOWARD DANGER ZONE. The base of the prism always goes toward the same side of the defect. Think: now the image will go toward the apex.
+
+In the treatment of an hemianopia with prism, how many degrees will the visual field SHIFT per prism diopter prescribed?
+191 of 239
+
+1 degree = 2 Prism Diopters
+(so 0.5 degrees per 1 prism diopter)
+
+List the definition of legal blindness in the United States.
+192 of 239
+
+The patient cannot see 20/100 or better in their "good" eye or the patient only has a visual field of  20 degrees or less in their "good" eye.
+
+High powered (+4.00 and over) reading glasses used in low vision require what base prism?
+193 of 239
+
+Base-IN (BI) prism will reduce demand on convergence
+
+Wavelength of visible light in nanometers:
+194 of 239
+
+380-700 nm
+
+Wavelength of UVA:
+195 of 239
+
+320-400 nm
+
+Wavelength of UVB
+196 of 239
+
+280-320 nm
+
+Wavelength of UVC
+197 of 239
+
+100-280 nmTHINK: CUT SHORT FOR C
+
+Define dioptric power.
+198 of 239
+
+How much an lens can bend light (its refractive power).
+
+Define a real image.
+199 of 239
+
+Formed by converging rays.Real images are always INVERTED and have positive vergence.
+
+Describe a virtual Image.
+200 of 239
+
+Made by diverging rays.
+
+Virtual images are always erect and have negative vergence.
+
+Optics
+Concepts in Geometrical & Ophthalmic Optics,
+Contact Lenses & Low Vision Deck 3 of 3
+39 flashcards
+
+EFFECTIVE POWER OF MINUS AND PLUS LENS:
+
+WHEN DOES EFFECTIVE POWER INCREASE FOR EACH?
+201 of 239
+
+When a plus lens is moved away from the eyes it increases the effective power.
+When a minus lens is moved toward the eye it increases the effective power.
+
+PLUS LENS EFFECTIVE POWER RULE OF THUMB
+202 of 239
+
+Have you ever seen a presbyope take their lenses and sit it on end of nose (like Santa Claus?)
+
+They are asking for more power (they are inducing more effective power by moving plus away).
+THINK: Contact lenses require MORE PLUS than glasses. +10.00 spectacles "vertex" to +10.50 contacts). There is less effective power at the cornea, so the contact needs more power in the lens to make up for the loss in effective power.
+
+Minus lens effective power rule of thumb:
+203 of 239
+
+Think: a minus lens "vertexes" from -6.00D in  spectacles to -5.50D in contact lenses.
+There must be more effective power closer to the eye if the contact lens needs less power to make the same effect.
+
+The effective power of a contact lens is stronger closer toward the cornea, so the extra power in a contact lens needs to be reduced.
+
+
+Near Point of Accommodation (NPA)
+
+204 of 239
+
+Refractive error + accommodation to see how close someone can see something clearly. -3.00D myope can see well at near. They can see even more at near when they add accommodation.
+
+Negative Relative Accommodation
+205 of 239
+
+The maximum amount of PLUS (OFTEN EQUAL TO THEIR ADD) lenses a patient will accept to see letters clearly.It's called negative because you relax their accommodation to see clearly.
+
+Positive Relative Accommodation (PRA)
+206 of 239
+
+The maximum amount of negative lenses you can put over a patient's eyes and they can still see letters clearly.Called positive because you are inducing their accommodation to work harder.
+
+With a lensometer, do we measure front or back vertex power?
+207 of 239
+
+back
+
+Does a myope ?PUSH OR PULL? SPECTACLES ?to/ from? the eye to increase lens effectivity?
+208 of 239
+
+Myopes push spectacles toward the eye to artificially induce more minus and "make them stronger."
+
+This means spectacles are too weak and they need more power induced to clear things up.
+
+SHORTCUT: The values a hyperope's spectacles vertex to contact lenses.
+209 of 239
+
+0-4.00D: Negligible- less than 0.25D MORE PLUS (ie +2.75 spec goes to +2.82 CL).
+4.25-5.75D: Add +0.50 more plus to the contact lens Rx compared to the spectacle Rx.
+6-10.00D: Add +0.75 more plus to contact lens Rx compared to the spectacle Rx.
+
+SHORTCUT: The values a myope's spectacles vertex to contact lenses.
+
+210 of 239
+
+0-4:00D - Negligible - ADD MORE PLUS TO THE CONTACT LENS (OR LESS MINUS) by 0.25 (ie a -2.50D spectacle Rx changes to to - 2.30D in contact lenses)
+4.25-5.75D- Add +0.50 to the spectacle Rx  to get the best contact lens Rx ( -5.00 spec Rx changes to -4.50 CL)
+6-10.00D: Add +0.75  to the spectacle Rx to get the best contact lens Rx (-6.50 goes to a -5.75CL)
+
+Amplitudes of accommodation as related to age
+211 of 239
+
+10yo: 12.5020 yo: 9.75
+30yo: 7.2540yo: 4.0050yo: 2.5060yo: 1.2570 yo: 0.5075 yo:  0.00
+
+Pseudophakic at any age?? 0.00!
+
+Differentiate irregular astigmatism vs oblique astigmatism
+212 of 239
+
+Irregular: Meridians are NOT 90 degrees away from each other.
+Oblique: the meridians LAND OUTSIDE THE NORMAL 30 degree range to one side of the 180 or 90 (ie 40-70 is not within 30 degree of major meridians)
+
+Define prism diopter.
+213 of 239
+
+A prism that deviates a light ray 1 centimeter at a distance of 1 meter is one prism diopter.
+
+Describe lateral magnification(such as used in Low Vision)
+214 of 239
+
+An object is within the focal length of a plus lens, making a VIRTUAL IMAGE.
+
+Describe size magnification (such as in low vision)
+215 of 239
+
+The object is made physically larger.
+For example having a larger print library book.
+
+Describe relative distance magnification (such as in Low Vision)
+216 of 239
+
+An object is moved physically closer to eye.
+Ex. changing a working distance from 40cm to 20cm
+
+Describe angular magnification (such as in Low Vision)
+217 of 239
+
+The angle an object makes at the eye is increased.
+
+The "standard" viewing distance of stand magnifiers is:
+218 of 239
+
+25cm
+
+True or false? Mirrors have different signs than typical ophthalmic lenses?
+219 of 239
+
+True. For mirrors, concave mirrors are PLUS, and CONVEX are MINUS.
+
+Concave mirror: what does the image look like if the OBJECT IS OUTSIDE OF THE FOCAL LENGTH?
+220 of 239
+
+CONCAVE MIRRORIF OBJECT IS OUTSIDE FOCAL LENGTH THE IMAGE IS REAL, UPSIDE DOWN, AND MINIFIED.
+
+Describe images created by a concave mirror.
+221 of 239
+
+
+Concave mirror: What does the image look like if the object is INSIDE THE FOCAL LENGTH?
+222 of 239
+
+CONCAVE MIRROR:If the object is INSIDE THE FOCAL LENGTH, the image is VIRTUAL. ERECT & MAGNIFIED.
+
+True or false. Images created by CONVEX MIRRORS have different sizes and orientations depending on where the object is relative to the mirros focal length.
+223 of 239
+
+FALSE A convex mirror forms only virtual images that are erect and smaller than  their object.It does not matter if inside or outside of  the focal length.
+
+Give a real world example of a convex mirror.
+224 of 239
+
+car side mirrors (caution: objects appear smaller and closer - but they are right side up!)This gives a  large field of view so can see the car behind you and the surrounding area.
+
+Describe simple astigmatism.
+225 of 239
+
+One meridian HITS PLANO, the OTHER DOES NOT
+
+What is the difference between MIXED and COMPOUND astigmatism?
+226 of 239
+
+In reference to focal points:
+
+1. Mixed=ONE HITS IN FRONT OF THE RETINA AND ONE HITS BEHIND THE RETINA2. Compound= BOTH HIT ON SAME SIDE OF THE RETINA
+
+Mnemonic: MIXED astigmatism vs COMPOUND astigmatism
+227 of 239
+
+1. MIX= MYOPIC INTERMINGLED XFINITY 2. COMP= COMING OUTSIDE MAKES a PAIR
+
+When do you clarify whether a diagnosis is myopic or hyperopic astigmatism?
+228 of 239
+
+1. Simple myopic= one hits retina, the other hits in front2. Simple hyperopic= one hits retina, the other behind3. Compound Myopic= both hit in front4. Compound hyperopic= both hit behindTHERE IS NO MYOPIC" OR "HYPEROPIC" MIXED ASTIGMATISM. It is only called "mixed" astigmatism!
+
+Describe compound myopic astigmatism
+229 of 239
+
+Two focal points- BOTH landing in FRONT of the  retina.
+
+Describe compound astigmatism.
+230 of 239
+
+Both focal points are OFF OF RETINA
+*Both are either in front as a pair, or behind as a pair
+
+Describe compound hyperopic astigmatism.
+231 of 239
+
+NEITHER focal points HIT THE RETINA.
+Both HIT BEHIND THE RETINA.
+
+Describe mixed astigmatism.
+232 of 239
+
+ONE focal point hits in FRONT of retina and the OTHER focal point his BEHIND the retina.
+
+pl-2.00x090is an example of what type of astigmatism?
+233 of 239
+
+Simple Myopic Astigmatism
+
+Pl+2.00x090 is an example of what type of astigmatism?
+234 of 239
+
+Simple Hyperopic Astigmatism
+
+Trick Question: -2.00+2.00x180 is what type of astigmatism?
+235 of 239
+
+Simple Myopic Astigmatism (THINK: FCC -2.00 one meridian and the other is on plano)
+
+Helpful hint: sometimes switching to minus cyl form makes it easier to answer: plano-2.00x090
+
+-2.00-4.00x180 is what type of astigmatism?
+236 of 239
+
+BOTH FOCAL POINTS ARE IN FRONT OF THE RETINA SO IT IS COMPOUNDCompound Myopic Astigmatism
+
++2.00+4.00x180 is what type of astigmatism?
+237 of 239
+
+BOTH FOCAL POINTS LAND BEHIND THE RETINA so it is COMPOUND
+Compound Hyperopic Astigmatism
+
+-3.00+4.00x120 is what type of astigmatism?
+238 of 239
+
+Mixed Astigmatism
+
+Be familiar with ANSI markings
+
+….Dr. Amy says: "I would NOT memorize this."
+239 of 239
+
