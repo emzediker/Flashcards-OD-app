@@ -157,27 +157,23 @@ function prevCard(){ if(!view.length) return; i=(i-1+view.length)%view.length; s
 function toggleReveal(){ showing=!showing; render(); }
 
 /* 5) Image list via GitHub API */
-function detectOwnerRepo(){
-  const owner = location.hostname.replace('.github.io','');
-  const repo = (location.pathname.split('/').filter(Boolean)[0]||'Flashcards-OD-app');
-  return {owner,repo};
-}
+// Hard-code repo so the GitHub API always points to the right place
+const OWNER = 'emzediker';
+const REPO  = 'Flashcards-OD-app';
+
 async function fetchImageList(folder){
-  const {owner,repo}=detectOwnerRepo();
-  const api=`https://api.github.com/repos/${owner}/${repo}/contents/${folder}`;
+  const api = `https://api.github.com/repos/${OWNER}/${REPO}/contents/${folder}`;
   try{
-    const r=await fetch(api,{cache:'no-store'});
+    const r = await fetch(api,{cache:'no-store'});
     if(!r.ok) throw new Error('GitHub API: '+r.status);
-    const data=await r.json();
+    const data = await r.json();
     return (Array.isArray(data)?data:[])
       .filter(x=>x.type==='file' && /\.(png|jpe?g|gif|webp|svg)$/i.test(x.name))
       .map(x=>`${folder}/${x.name}`);
-  }catch(e){ console.warn('img list fail',e); return []; }
-}
-function populateImageSelects(){
-  const opts=['(none)'].concat(imageList);
-  frontImg.innerHTML = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
-  backImg.innerHTML  = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+  }catch(e){
+    console.warn('img list fail', e);
+    return [];
+  }
 }
 
 /* 6) Map persistence (local) */
