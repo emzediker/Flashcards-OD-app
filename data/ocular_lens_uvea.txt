@@ -3,17 +3,17 @@ Ocular Disease
 Crystalline Lens & Uvea
 109 flashcards
 
-Define corectopia
+Define corectopia.
 1 of 109
 
 Displacement of the eye's pupil from its normal, central position. (ex: pupil sits nasal).
 
-Describe aniridia
+Describe aniridia.
 2 of 109
 
 completely missing iris
 
-Describe coloboma
+Describe coloboma.
 3 of 109
 
 Coloboma is a condition where some tissue is missing in a part of the eye. (ex: iris keyhole)
@@ -46,7 +46,7 @@ HLA-B27 conditions, Behçet's disease, infections
 Describe Behçet's disease.
 9 of 109
 
-A widespread chronic condition, leading to inflammation in the blood vessels and artery/vein damage. Hallmark symptoms are mouth and skin sores.Think: eye, mouth, and genitals sores.
+A widespread chronic condition, leading to inflammation in the blood vessels and artery/vein damage. Hallmark symptoms are mouth and skin sores. - Think: eye, mouth, and genitals sores.
 
 If you read: uveitis, hypopyon, mouth sores and genital sores— Think:
 10 of 109
@@ -61,7 +61,7 @@ Koeppe: located at the pupillary margin, can be present in both granulomatous an
 List the systemic HLA-B27 associated diseases that can present with uveitis. 
 12 of 109
 
-1. Ankylosing spondylitis 2. Reactive arthritis3. Psoriatic arthropathy 4. Inflammatory bowel disease
+1. Ankylosing spondylitis 2. Reactive arthritis 3. Psoriatic arthropathy 4. Inflammatory bowel disease
 
 If you read: "fusing of the spine & uveitis..." Think:
 13 of 109
@@ -331,7 +331,7 @@ toxoplasmosis
 True or False? HISTOPLASMOSIS DOES NOT CAUSE POSTERIOR VITRITIS.
 66 of 109
 
-TRUE (toxoplasmosis causes posterior uveitis with vitritis)
+TRUE - toxoplasmosis causes posterior uveitis with vitritis.
 
 If you read: "cotton ball opacities in the posterior uvea (inferior vitreous)" Think:
 67 of 109
@@ -346,7 +346,7 @@ retinal vasculitis - sarcoid presents with “candle wax periphlebitis"
 Describe periphlebitis.
 69 of 109
 
-Inflammatory blood vessel diseases. Here, the small and medium-sized arteries become swollen and damaged. this produces painful, erythematous nodules.
+Inflammatory blood vessel diseases. Here, the small and medium-sized arteries become swollen and damaged. This produces painful, erythematous nodules.
 
 Does syphilis typically causes anterior, intermediate, or posterior uveitis?
 70 of 109
@@ -421,14 +421,14 @@ TASS is a sterile inflammatory reaction with diffuse edema.
 Describe Posterior Capsular Opacification (PCO) vs Posterior Subcapsular Cataract (PSC).
 84 of 109
 
-PCO forms on the lens capsule after cataract surgery and can be "blasted" away with yag capsulotomy laser. -PSC is a type of cataract on the posterior portion of the CRYSTALLINE LENS.
+PCO forms on the lens capsule after cataract surgery and can be "blasted" away with yag capsulotomy laser. - PSC is a type of cataract on the posterior portion of the CRYSTALLINE LENS.
 
 Describe the etiology of how posterior capsular opacification (PCO) forms:
 85 of 109
 
 Equatorial crystalline lens epithelial cells migrate to the posterior capsule, typically 3mos- 3years after cataract surgery with PCIOL implantation.
 
-Describe elschnig pearls
+Describe Elschnig pearls.
 86 of 109
 
 It is another name for posterior capsular opacification (PCO), but it looks like a pearl-strand.
@@ -438,7 +438,7 @@ Cystoid macular edema after cataract surgery is called____ and happens typically
 
 Irving Gas Syndrome happens at 6-10 weeks after cataract surgery.
 
-Describe Biometry
+Describe Biometry.
 88 of 109
 
 A scan testing. Measures axial length which is important in PCIOL implant calculations.
@@ -493,7 +493,7 @@ Name the condition: “Brushfire” retinal hemes with leading edge of active re
 
 CMV - cytomegalovirus (often an opportunistic infection in patients with severe HIV)
 
-If you read: HIV patients with retinopathy that shows NO hemes but  the presence of multifocal patches of deep retinal necrosis.Think:
+If you read: HIV patients with retinopathy that shows NO hemes but  the presence of multifocal patches of deep retinal necrosis. Think:
 99 of 109
 
 Progressive Outer Retinal Necrosis
@@ -516,7 +516,7 @@ IVFA: Multiple pinpoint leaking areas of hyperfluorescence at the level of the r
 Describe vitiligo.
 103 of 109
 
-Whitening of lashes or orbit - Think: Vitiligo associated to underlying VOGT KOYANAGI HARADA SYNDROME (VKH).
+Whitening of lashes or orbit - Think: Vitiligo can be associated to underlying VOGT KOYANAGI HARADA SYNDROME (VKH).
 
 Differentiate primary, secondary, and tertiary syphilis.
 104 of 109
@@ -528,7 +528,7 @@ Patches of vascularization and hyperemia (called iris roseola)  with fleshy, pin
 
 syphilis
 
-Name the condition: One eye has intraocular surgery. OTHER FELLOW EYE becomes inflamed and painful within 4-6 weeks. Then, both eyes show: Bilateral severe anterior chamber reaction: mutton-fat KPs & small depigmented nodulesat the level of the retinal pigment epithelium (Dalen Fuchs nodules)
+Name the condition: One eye has intraocular surgery. OTHER FELLOW EYE becomes inflamed and painful within 4-6 weeks. Then, both eyes show: Bilateral severe anterior chamber reaction: mutton-fat KPs & small depigmented nodules at the level of the retinal pigment epithelium (Dalen Fuchs nodules)
 106 of 109
 
 Sympathetic Ophthalmia
