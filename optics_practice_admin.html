@@ -85,8 +85,12 @@
 
 <script>
 /* 1) DECK — single */
-const DECK = { id:'optics_practice', title:'Optics Practice Problems',
-  dataUrl:'/Flashcards-OD-app/data/optics_practice.txt', imageFolder:'images/optics_practice' };
+const DECK = {
+  id:'optics_practice',
+  title:'Optics Practice Problems',
+  dataUrl:'/Flashcards-OD-app/data/optics_practice.txt',  // absolute path
+  imageFolder:'images/optics_practice'
+};
 
 /* 2) State */
 const els = {
@@ -103,10 +107,10 @@ function setStatus(t){ els.status.textContent=t||''; }
 function escapeHtml(s){return (s||'').replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
 function cleanLine(s){ return s ? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : ''; }
 function splitAnsExpl(line){
-  if(!line) return {a:'',e:''};
+  if(!line) return { a:'', e:'' };
   const m = line.match(/^(.+?)\s-\s(.+)$/);
-  if(m) return {a:m[1].trim()}, {e:m[2].trim()};
-  return {a:line.trim(), e:''};
+  if(m) return { a: m[1].trim(), e: m[2].trim() };
+  return { a: line.trim(), e: '' };
 }
 function parseTxt(txt){
   const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
@@ -157,8 +161,7 @@ function nextCard(){ if(!view.length) return; i=(i+1)%view.length; showing=false
 function prevCard(){ if(!view.length) return; i=(i-1+view.length)%view.length; showing=false; render(); }
 function toggleReveal(){ showing=!showing; render(); }
 
-/* 5) Image list via GitHub API */
-// Hard-code repo so the GitHub API always points to the right place
+/* 5) Image list via GitHub API (hard-coded repo) */
 const OWNER = 'emzediker';
 const REPO  = 'Flashcards-OD-app';
 
@@ -175,6 +178,11 @@ async function fetchImageList(folder){
     console.warn('img list fail', e);
     return [];
   }
+}
+function populateImageSelects(){
+  const opts=['(none)'].concat(imageList);
+  frontImg.innerHTML = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
+  backImg.innerHTML  = opts.map(x=>`<option value="${x}">${x}</option>`).join('');
 }
 
 /* 6) Map persistence (local) */
