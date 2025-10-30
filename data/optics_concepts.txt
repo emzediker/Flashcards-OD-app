@@ -71,10 +71,12 @@ How much a light will bend when it comes into contact with two separate material
 Differentiate between dioptric power and effective power.
 15 of 239
 
-Dioptric: The lens stays STILL. How much "power" can it bend the light? - Effective: MOVE the lens to make it bend light a different way.
+Dioptric: The lens stays STILL. How strong can it bend the light? - Effective: MOVE the lens to make it bend light a different way.
 
 Formula for dioptric power of a spectacle lens vs formula for effective power.
 16 of 239
+
+See below.
 
 If you move a lens away from the eye (toward the tip of the nose), what effective power are you inducing?
 17 of 239
@@ -140,7 +142,7 @@ Even though the surface is spherical, it still creates scattered light.
 Define coma aberration.
 29 of 239
 
-Light hits OFF AXIS AND MAKES A COMET-LIKE TAIL
+Light hits OFF AXIS AND MAKES A COMET-LIKE TAIL.
 
 Define Oblique astigmatism ABERRATION.
 30 of 239
@@ -165,7 +167,7 @@ Light can't leave the original medium, it all gets reflected back into the origi
 What two conditions need to be met to achieve total internal reflection?
 34 of 239
 
-1. Light must be traveling from a denser medium to a rarer medium (higher to lower index) - 2. The angle the light strikes (angle of incidence)  in the dense medium is greater than the critical angle
+1. Light must be traveling from a denser medium to a rarer medium (higher to lower index). - 2. The angle the light strikes (angle of incidence)  in the dense medium is greater than the critical angle.
 
 Describe the critical angle.
 35 of 239
@@ -190,7 +192,7 @@ Overlap of two differently phased wavelengths (in other words how they line up).
 Differentiate total vs partial coherence
 39 of 239
 
-Total: Two wavelengths completely lined up and in synch.Partial: Two wavelength incompletely lined up with only some overlap. Not completely in synch.
+Total: Two wavelengths completely lined up and in synch. - Partial: Two wavelength incompletely lined up with only some overlap. Not completely in synch.
 
 Differentiate Rayleigh scatter vs Tyndall effect.
 40 of 239
@@ -317,7 +319,7 @@ List the average corneal curvature in diopters.
 
 40 to 46 diopters
 
-At what corneal curvature do you think the cornea is too steep (ie pathologically steep like in keratoconus).
+At what corneal curvature do you think the cornea is too steep? (ie pathologically steep like in keratoconus)
 65 of 239
 
 Greater than or equal to 47D
@@ -417,15 +419,15 @@ Each letter on Snellen chart is how many minutes of arc?
 
 1 full letter on Snellen chart= 5 arc minutes
 
-Describe the "Just Noticeable Difference (JND)"
+Describe the "Just Noticeable Difference (JND).”
 85 of 239
 
-The acceptable range of two lenses that can be demonstrated to a patient to determine their manifest refraction. This is the minimum lens power change required for the patient to even tell you are showing them two different options. - Snellen denominator over 100  (THEN DIVIDE THIS BY 2. THIS TO MAKE THE TWO OPTIONS ON MRX)
+The acceptable range of two lenses that can be demonstrated to a patient to determine their manifest refraction. This is the minimum lens power change required for the patient to even tell that you are showing them two different options. - Snellen denominator over 100  (THEN DIVIDE THIS BY 2 TO MAKE THE TWO OPTIONS ON MRX DETERMINATION)
 
-Describe stenopaic slit.
+Describe stenopaeic slit.
 86 of 239
 
-A SLIT occluder is rotated until it is aligned to create clear vision. The direction of alignment is the  axis of astigmatism.
+A SLIT occluder is rotated until it is aligned to create clear vision. The direction of alignment is the axis of astigmatism.
 
 Is Duochrome refraction is binocular or monocular?
 87 of 239
@@ -475,7 +477,7 @@ Positive Range of Accommodation (PRA): The amount a patient can stimulate their 
 Method to remember AGE EXPECTED ADD POWERS
 96 of 239
 
-45-50=1.00 VS 50-55=1.50-2 VS 60-65 2.25 VS 65+ 2.50on
+45-50= +1.00 // 50-55= +1.50-2.00 // 60-65 +2.25 // 65+ +2.50
 
 Define simple astigmatism.
 97 of 239
@@ -535,7 +537,7 @@ Aniseikonia - Spectacles over one eye and blank spectacle over operated eye will
 Method to calculate the difference in magnification between eyes with different spectacle lens powers.
 107 of 239
 
-Step 1: Calculate magnification attributed to each lens. magnification= power factor x shape factor - Step 2: perform "total difference equation" to find the amount of aniseikonia.
+Step 1: Calculate magnification attributed to each lens. magnification= power factor x shape factor. - Step 2: perform "total difference equation" to find the amount of aniseikonia.
 
 Spectacle magnification formula
 108 of 239
@@ -753,7 +755,7 @@ Keplerian telescope makes up the eyepiece. - Galilean telescope is used to magni
 Summary chart of differences between Keplerian and Galilean telescopes.
 151 of 239
 
-Seecitable below.
+See table below.
 
 Differentiate high powered fundus lens (ie90) vs low powered fundus lens (ie 20).
 152 of 239
@@ -903,7 +905,7 @@ Increase cases of GPC (giant papillary conjunctivitis) and SEALS (superior epith
 Hyperopes vs Myopes: Who accommodates more with spectacles or contact lenses?
 181 of 239
 
-DRAW AN H,THE LETTER LOOKS MORE LIKE GLASSES WITH THE BRIDGE. Hyperopes accommodate more with spectacles. Myopes accommodate more in contact lenses.
+Hyperopes accommodate more with spectacles. Myopes accommodate more in contact lenses. - DRAW AN H,THE LETTER LOOKS MORE LIKE GLASSES WITH THE BRIDGE. 
 
 Why would a myope need reading glasses over their contact lenses even if they do not have a bifocal in their glasses yet?
 182 of 239
@@ -928,7 +930,7 @@ Properties of Keplerian telescope.
 Properties of Galilean telescope.
 186 of 239
 
-U REAL GAL= U= upright, REAL= Real image, GAL= Galilean is alternating lenses (one plus & one minus)
+U REAL GAL - U= upright, REAL= Real image, GAL= Galilean is alternating lenses (one plus & one minus)
 
 The reverse telescope is made of what system?
 187 of 239
@@ -963,7 +965,7 @@ The patient cannot see 20/100 or better in their "good" eye or the patient only 
 High powered (+4.00 and over) reading glasses used in low vision require what base prism?
 193 of 239
 
-Base-IN (BI) prism will reduce demand on convergence
+Base-IN (BI) prism will reduce demand on convergence.
 
 Wavelength of visible light in nanometers:
 194 of 239
@@ -975,12 +977,12 @@ Wavelength of UVA:
 
 320-400 nm
 
-Wavelength of UVB
+Wavelength of UVB:
 196 of 239
 
 280-320 nm
 
-Wavelength of UVC
+Wavelength of UVC:
 197 of 239
 
 100-280 nm - THINK: CUT SHORT FOR C
@@ -1054,7 +1056,7 @@ SHORTCUT: The values a hyperope's spectacles vertex to contact lenses.
 SHORTCUT: The values a myope's spectacles vertex to contact lenses.
 210 of 239
 
-0-4:00D: Negligible ADD MORE PLUS TO THE CONTACT LENS (OR LESS MINUS) by 0.25 (ie a -2.50D spectacle Rx changes to to - 2.30D in contact lenses) 4.25-5.75D: Add +0.50 to the spectacle Rx to get the best contact lens Rx ( -5.00 spec Rx changes to -4.50 CL) 6-10.00D: Add +0.75 to the spectacle Rx to get the best contact lens Rx (-6.50 goes to a -5.75CL)
+0-4:00D: Negligible ADD MORE PLUS TO THE CONTACT LENS (OR LESS MINUS) by 0.25 (ie a -2.50D spectacle Rx changes to -2.30D in contact lenses) - 4.25-5.75D: Add +0.50 to the spectacle Rx to get the best contact lens Rx ( -5.00 spec Rx changes to -4.50 CL) 6-10.00D: Add +0.75 to the spectacle Rx to get the best contact lens Rx (-6.50 goes to a -5.75CL)
 
 Amplitudes of accommodation as related to age,
 211 of 239
@@ -1071,7 +1073,7 @@ Define prism diopter.
 
 A prism that deviates a light ray 1 centimeter at a distance of 1 meter is one prism diopter.
 
-Describe lateral magnification(such as used in Low Vision).
+Describe lateral magnification (such as used in Low Vision).
 214 of 239
 
 An object is within the focal length of a plus lens, making a VIRTUAL IMAGE.
@@ -1119,12 +1121,12 @@ CONCAVE MIRROR: - If the object is INSIDE THE FOCAL LENGTH, the image is VIRTUAL
 True or false? Images created by CONVEX MIRRORS have different sizes and orientations depending on where the object is relative to the mirros focal length.
 223 of 239
 
-FALSE - A convex mirror forms only virtual images that are erect and smaller than  their object.It does not matter if inside or outside of  the focal length.
+FALSE - A convex mirror forms only virtual images that are erect and smaller than  their object. It does not matter if inside or outside of  the focal length.
 
 Give a real world example of a convex mirror.
 224 of 239
 
-car side mirrors (caution: objects appear smaller and closer - but they are right side up!) - This gives a large field of view so can see the car behind you and the surrounding area.
+car side mirrors (caution: objects appear smaller and closer- but they are right side up!) - This gives a large field of view so can see the car behind you and the surrounding area.
 
 Describe simple astigmatism.
 225 of 239
