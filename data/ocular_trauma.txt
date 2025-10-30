@@ -9,7 +9,7 @@ List common alkali basic burns vs acid burns.
 True or False? A practitioner should never sweep the upper palpebral conjunctiva after irrigating an eye for a chemical burn due to the risk of them burning their own finger.
 2 of 24
 
-False. - Always evert lids to remove extra foreign bodies that can exude toxins.
+False - Always evert lids to remove extra foreign bodies that can exude toxins.
 
 Why is phenylephrine avoided in a patient with limbal ischemia after chemical trauma?
 3 of 24
@@ -39,7 +39,7 @@ TRUE
 Boards answer vs real life: What is used to sweep fornices if a symblepharon is noted on slit lamp exam at the fornix?
 8 of 24
 
-boards answer: sweep with a glass rod. - real life: apply a topical anesthetic, sweep with a wet cotton tipped applicator, put on scleral lens or soft bandage CL with dehydrated amniotic membrane.
+Boards answer: Sweep with a glass rod. - Real life: Apply a topical anesthetic, sweep with a wet cotton tipped applicator, put on scleral lens or soft bandage CL with dehydrated amniotic membrane.
 
 Boards answer: What is the most appropriate, antibiotic drops or ointment to treat a corneal abrasion caused by a fingernail?
 9 of 24
@@ -49,22 +49,22 @@ broad spectrum fluoroquinolones like ciprofloxacin or moxifloxacin
 True or False? You can cover an abrasion with an extended wear bandage contact lens.
 10 of 24
 
-True. - It helps the epithelium to heal by avoiding the friction of the upper lid that occurs with blinking.
+True - It helps the epithelium to heal by avoiding the friction of the upper lid that occurs with blinking.
 
 Should erythromycin be used in corneal abrasions, conjunctival abrasions, or foreign bodies?
 11 of 24
 
-No, this needs something with more coverage. Consider polymixin B / Bacitracin ointment.
+No, this needs something with more coverage. - Consider polymixin B / bacitracin ointment.
 
 How is the cycloplegic agent CYCLOPENTOLATE 2% vs SCOPOLAMINE 0.25% vs atropine 1% prescribed/dosed in the treatment of traumatic iritis?
 12 of 24
 
 *CYCLOPENTOLATE 2%: TID one week * SCOPOLAMINE 0.25%: BID one week  *ATROPINE 1%: QD one week - With severe photophobia during traumatic iritis a steroid drop is typically prescribed in a taper  (ex QID one week, TID one week, BID one week, then QAM then stop).
 
-**WHEN SHOULD YOU NOT USE A STEROID**
+**WHEN SHOULD YOU NOT USE A STEROID?**
 13 of 24
 
-Any infiltrate present (due to bacteria from a foreign body for example)
+Any infiltrate present - due to bacteria from a foreign body for example
 
 If a patient has hyphema in the anterior chamber but does NOT HAVE A HISTORY OF TRAUMA or blood thinner use, suspect:
 14 of 24
@@ -94,12 +94,12 @@ Ciliary body is torn from scleral spur. - WORRY ABOUT ANGLE RECESSION GLAUCOMA.
 A new APD after trauma in the absence of pallor or swelling of the nerve could indicate:
 19 of 24
 
-retro (behind) bulbar optic nerve head issue (like impingement of optic nerve from bone)
+retro (behind) bulbar optic nerve head issue - like impingement of optic nerve from bone.
 
 Describe a optic nerve sheath hematoma.
 20 of 24
 
-Compression to optic nerve after trauma, corrected with optic nerve sheath fenestration.
+A collection of blood causing compression to the optic nerve after trauma, corrected with optic nerve sheath fenestration.
 
 True or False? Never remove an INTRAORBITAL Foreign BODY at slit lamp.
 21 of 24
@@ -119,4 +119,4 @@ Traumatic retinopathy linked to MILITARY SHRAPNEL OR MISSILE HIGH VELOCITY due t
 True or False? Tylenol is contraindicated in kids after a corneal abrasion due to risk of Reye syndrome.
 24 of 24
 
-FALSE, aspirin carries a risk in kids for REYE (increased ammonia levels build up in the brain that can cause swelling)
+FALSE - Aspirin carries a risk in kids for REYE (increased ammonia levels build up in the brain that can cause swelling)
