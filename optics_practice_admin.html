@@ -85,15 +85,16 @@
 
 <script>
 /* 1) DECK — single */
-const DECK = { id:'optics_practice', title:'Optics Practice Problems', dataUrl:'data/optics_practice.txt', imageFolder:'images/optics_practice' };
+const DECK = { id:'optics_practice', title:'Optics Practice Problems',
+  dataUrl:'/Flashcards-OD-app/data/optics_practice.txt', imageFolder:'images/optics_practice' };
 
 /* 2) State */
 const els = {
-  q: q, front: front, back: back,
-  prev: prev, next: next, reveal: reveal, counter: counter, status: status,
-  exportMap: exportMap, importMap: importMap,
-  frontImg: frontImg, backImg: backImg, saveMap: saveMap, saveStatus: saveStatus,
-  reloadImages: reloadImages, customUrl: customUrl, useAsFront: useAsFront, useAsBack: useAsBack
+  front, back,
+  prev, next, reveal, counter, status,
+  exportMap, importMap,
+  frontImg, backImg, saveMap, saveStatus,
+  reloadImages, customUrl, useAsFront, useAsBack
 };
 let cards=[], view=[], i=0, showing=false, imgMap={}, imageList=[];
 
