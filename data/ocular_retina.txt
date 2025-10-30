@@ -36,7 +36,7 @@ Name common causes of Cystoid Macular Edema (CME)
 True or False? Three-mirror gonioscopy lenses used to evaluate the retina shows an INVERTED BUT NOT REVERSED VIEW.
 7 of 103
 
-True _ Remember binocular indirect ophthalmoscopy (BIO) “flips and flops” (inverts and reverses) the view but gonioscopy only “flips” (inverts) it.
+True - Remember binocular indirect ophthalmoscopy (BIO) “flips and flops” (inverts and reverses) the view but gonioscopy only “flips” (inverts) it.
 
 Red-free filter WILL ??ACCENTUATE OR HIDE?? a choroidal nevi.
 8 of 103
@@ -113,7 +113,7 @@ Name 2 high risk characteristics of vision loss in proliferative diabetic retino
 
 1. Neovascularization at the optic disc 2. Neovascularization elsewhere that shows previous signs of a past vitreous heme
 
-Define clinically significant macular edema **(CSME)**
+Define clinically significant macular edema (CSME).
 23 of 103
 
 At LEAST ONE of these is present: 1. retinal thickening within 500 um of fovea 2. hard exudates within 500 um with adjacent retinal thickening fluid 3. retinal thickening 1DD in SIZE within 1DD to fovea
@@ -241,7 +241,7 @@ TRUE
 Differentiate metamorphopsia vs scotoma.
 48 of 103
 
-Metamorphopsia is WAVY distorted vision - SCOTOMA is a HOLE in the vision
+Metamorphopsia is WAVY distorted vision. - SCOTOMA is a HOLE in the vision.
 
 According to the Macular Photocoagulation Study, name 4 risk factors of progressing from Dry AMD to WET AMD.
 49 of 103
@@ -426,7 +426,7 @@ Name the 3 types of retinal detachments.
 List the most common retinal quadrant to develop a retinal tear.
 85 of 103
 
-superior temporal - superior is more scary because gravity can pull it down and drag it over the macula.
+superior temporal - Superior is more scary because gravity can pull it down and drag it over the macula.
 
 Patients with elastin or collagen diseases like ______, ______, or ______ can present with atypical lattice degeneration that can lead to rhegmatogenous retinal detachments.
 86 of 103
@@ -506,7 +506,7 @@ See info below.
 Which carries a greater risk of retinopathy? ??chloroquine or hydroxychloroquine??
 101 of 103
 
-Chloroquine is more toxic to the retina - only takes 300 cumulative dosage to cause retinopathy.
+Chloroquine is more toxic to the retina - It only takes 300 cumulative dosage to cause retinopathy.
 
 If you read: crystalline retinopathy...Think about what drug?
 102 of 103
