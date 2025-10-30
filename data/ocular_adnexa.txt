@@ -16,8 +16,7 @@ superior limbal keratitis (SLK)
 Differentiate trichiasis vs madarosis.
 4 of 107
 
-1. Trichiasis is a misdirection of growth of lashes toward the eye. 2. Madarosis is missing lashes. - 
-"I'm mad I'm missing lashes. They tried to grow the wrong way!"
+1. Trichiasis is a misdirection of growth of lashes toward the eye. 2. Madarosis is missing lashes. - "I'm mad I'm missing lashes. They tried to grow the wrong way!"
 
 Describe epiblepharon.
 5 of 107
@@ -47,7 +46,7 @@ TRUE
 True or False? Lissamine Green stain can kill some viruses, which can affect viral PCR cultures.
 10 of 107
 
-False. - Lissamine Green has NO anti-viral properties.
+False - Lissamine Green has NO anti-viral properties.
 
 True or False? Lissamine Green and Rose Bengal dyes are meant to stain conjunctival abnormalities.
 11 of 107
@@ -64,7 +63,7 @@ Values below ____mm of wetting are diagnostic of aqueous tear deficiency in Schi
 
 5.5mm
 
-Schirmer II IS ??WITH OR WITHOUT?? ANESTHESIA.
+Schirmer II IS ??WITH OR WITHOUT?? ANESTHESIA  ?
 14 of 107
 
 (WITH anesthesia) to measure basal tear secretion i.e. unstimulated tears.
@@ -152,7 +151,7 @@ Describes the stem like segment that attaches a lesion to soft tissue.
 Describe milia.
 31 of 107
 
-Small, raised, round, white, sharp cystic lesions of the eyelids. They are superficial keratin cysts that are usually asymptomatic. Common in newborn infants.
+Small, raised, round, white, sharp cystic lesions of the eyelids. They are superficial keratin cysts that are usually asymptomatic. - Common in newborn infants.
 
 Describe keratoacanthoma.
 32 of 107
@@ -332,10 +331,10 @@ Describe orbital compartment syndrome (aka orbital congestion).
 *caused by orbital cellulitis *elevated intraocular pressure (IOP) *with or without a decrease in the visual acuity *proptosis *a tight orbit *a relative afferent pupillary defect *intraocular vascular changes *slow extraocular movements
 *possible diplopia
 
-Orbical cellulitis is infection posterior to orbital septum. Name which sinus infection is a common cause.
+Orbical cellulitis is an infection posterior to orbital septum. Name which sinus infection is a common cause.
 67 of 107
 
-ethmoid sinus (the infection spreads through the thin lamina papyracea)
+ethmoid sinus - The infection spreads through the thin lamina papyracea.
 
 Is a dental infection is more likely to cause preseptal or orbital cellulitis?
 68 of 107
@@ -345,19 +344,19 @@ orbital cellulitis
 Why is orbital cellulitis so concerning?
 69 of 107
 
-The condition ca spread to the brain and cause cavernous sinus thrombosis, brain abscess, or meningitis.
+The condition can spread to the brain and cause cavernous sinus thrombosis, brain abscess, or meningitis.
 
 Describe mucormycosis.
 70 of 107
 
-A FUNGAL infection (from orbital cellulitis) that CAUSES BLACK NECROTIC TISSUE IN THE MOUTH AND NOSE. Think: diabetics with orbital cellulitis and black tissue.
+A FUNGAL infection (from orbital cellulitis) that CAUSES BLACK NECROTIC TISSUE IN THE MOUTH AND NOSE. - Think: diabetics with orbital cellulitis and black tissue.
 
 An orbital fracture causing entrapment can disrupt what muscle and nerve?
 71 of 107
 
 Inferior rectus (can't look up), V2 (infraorbital/ zygomatic nerve): causing hypothesia of the cheek
 
-The weakest bone in the orbit is the floor. Commonly, this is broken in a "blowout fracture". Name the bone that forms the floor of the orbit that is prone to breaking in this case.
+The weakest bone in the orbit is the floor. Commonly, this is broken in a "blowout fracture.” Name the bone that forms the floor of the orbit that is prone to breaking in this case.
 72 of 107
 
 maxillary bone
@@ -425,7 +424,7 @@ TENDONS are spared in swelling, only EOMS are swollen.
 Differentiate blood work in HYPER vs HYPO thyroidism. Is TSH vs T3/T4 is high or low for each condition?
 85 of 107
 
-Hyperthyroid: High T3/T4 but LOW TSH  Hypothyroidism: Low T3/T4 but HIGH TSH. - TSH LEVELS ARE THE OPPOSITE OF THE DIAGNOSIS. HYPO SHOWS HIGH TSH VS HYPER SHOWS LOW TSH. T3/T4 level matches diagnosis.
+Hyperthyroid: High T3/T4 but LOW TSH  Hypothyroidism: Low T3/T4 but HIGH TSH - TSH LEVELS ARE THE OPPOSITE OF THE DIAGNOSIS. HYPO SHOWS HIGH TSH VS HYPER SHOWS LOW TSH. T3/T4 level matches diagnosis.
 
 List Hertel exophthalmometry norms for for Asian, Caucasian, and African American populations.
 86 of 107
@@ -477,8 +476,7 @@ phthisis bulbi
 Differentiate enucleation vs evisceration vs exenteration.
 95 of 107
 
-ENUCLEATION: REMOVAL OF GLOBE EVISCERATION: ONLY INNER CONTENTS REMOVED(sclera remains as hollow eye shell)
-EXENTERATION: All contents within the bony orbit including EOMS and FAT are ALL CUT OUT
+ENUCLEATION: REMOVAL OF GLOBE EVISCERATION: ONLY INNER CONTENTS REMOVED(sclera remains as hollow eye shell) EXENTERATION: All contents within the bony orbit including EOMS and FAT are ALL CUT OUT
 
 If you read: "telangiectasia and facial flushing..." Think: what lid disease?
 96 of 107
@@ -519,8 +517,12 @@ Myokymia: twitching (non-worrisome). Typically monocular and involving the orbic
 Describe Meige Syndrome.
 102 of 107
 
-Benign Essential Blepharospasm (BEB) plus lower facial abnormalities (chewing issues). The condition can be treated with injectable botulinum toxin (botox).
+Benign Essential Blepharospasm (BEB) plus lower facial abnormalities (chewing issues).
+
+The condition ______ which is associated with lid closure muscle spasms, can be treated with injectable botulinum toxin (botox).
 103 of 107
+
+Benign Essential Blrpharospasm - Avoid using botox in a patient with a history of myasthenia gravis. 
 
 Rarely recurrent chalazion that will not resolve can be a result of:
 104 of 107
