@@ -136,7 +136,7 @@ Steven Johnson Syndrome / Ocular Cicatricial Pemphigoid
 True or False? Bowman's layer does not regenerate. A defect in Bowman's layer fills with fibroblasts and connective tissue, creating a permanent scar.
 28 of 204
 
-True, Bowmans cannot regenerate.
+True - Bowmans cannot regenerate.
 
 The term of stromal thinning of the cornea is:
 29 of 204
@@ -208,7 +208,7 @@ Kayser-Fleischer ring in Wilson's disease
 True or false? Corneal arcus is lipid deposits on the Bowman's layer.
 42 of 204
 
-False. Lipid deposits in arcus are on Descemet's.
+False - Lipid deposits in arcus are on Descemet's.
 
 Endothelial cells phagocytose pigment in disorders such as pigment dispersion syndrome. This results in a fine pigmented vertical line on the endothelium called ___.
 43 of 204
@@ -297,7 +297,7 @@ Autosomal DOMINANT: bilateral subepithelial reticular opacities that focally ele
 Describe Thiel-Behnke:
 59 of 204
 
-Thiel-Behnke corneal dystrophy is similar to RBCD  by subepithelial corneal opacities associated with RCE. -8 However, opacities can be differentiated by their honeycomb pattern and a clear zone near the corneoscleral limbus. TB DOES NOT EXTEND TO THE LIMBUS.
+Thiel-Behnke corneal dystrophy is similar to RBCD  by subepithelial corneal opacities associated with RCE. - However, opacities can be differentiated by their honeycomb pattern and a clear zone near the corneoscleral limbus. TB DOES NOT EXTEND TO THE LIMBUS.
 
 ___ is an exocrinopathy (exocrine glands atrophy) in which the lacrimal and salivary glands are targeted by an autoimmune process associated to Rheumatoid Arthritis. Here, CD4 and CD8 T-cell cascades cause inflammatory death of tear producing cells.
 60 of 204
@@ -456,7 +456,7 @@ In the cornea, Vitamin A deficiency is characterized by the presence of ____.
 
 Bitot spots, xerosis, and keratomalacia
 
-Describe Bitot's spots
+Describe Bitot's spots.
 91 of 204
 
 Specks of white keratinized hard nodules (<1mm) on the cornea-conjunctiva limbus (on the conjunctival side). - ASSOCIATED WITH VITAMIN A DEFICIENCY
@@ -680,7 +680,7 @@ Acute herpes zoster includes _____days of prodromal symptoms including fever, ma
 What is the role dermatomes in the pathology of herpes zoster virus?
 133 of 204
 
-HZV only affects one side of the body due to dermatome mapping (a collection of nerve endings off of the spine to a designated part of the skin)
+HZV only affects one side of the body due to dermatome mapping. - A dermatome is a collection of nerve endings off of the spine to a designated part of the skin. 
 
 Describe a maculopapular rash.
 134 of 204
@@ -690,7 +690,7 @@ A maculopapular rash is characterized by a mix of a flat, discolored area of ski
 Describe pseudodendrites vs true dendrites.
 135 of 204
 
-Pseudodendrite (think: HZV and TB) do not stain with fluress/NaFl and do not have terminal bulbs. - A true dendrite stains and has bulbs (HSV)
+Pseudodendrite (think: HZV and TB) do not stain with fluress/NaFl and do not have terminal bulbs. - A true dendrite stains and has bulbs (HSV).
 
 Describe a prodrome.
 136 of 204
@@ -767,7 +767,7 @@ The combination of 1. stromal keratitis 2. notched teeth 3. deafness in late con
 
 Hutchinson's triad
 
-Differentiate Hutchinson triad VS Hutchinson sign
+Differentiate Hutchinson triad VS Hutchinson sign.
 151 of 204
 
 Triad: Congenital syphilis with dental problems and deafness. - Sign: Tip of nose has vesicles in zoster that is a strong predictor that the eye be affected by the virus.
@@ -969,7 +969,9 @@ Seidel
 Describe a dellen.
 190 of 204
 
-Epithelized dip (usually next to an elevation like glaucoma bleb or pterygium). Fluress pools in this area. Corneal epithelium and Bowmans absorbs wavelengths BELOW 300 nm. Excessive absorption of  this short wavelength can lead to:
+Epithelized dip (usually next to an elevation like glaucoma bleb or pterygium). Fluress pools in this area. Corneal epithelium and Bowmans absorbs wavelengths BELOW 300 nm. 
+
+Excessive absorption of  this short wavelength can lead to:
 191 of 204
 
 Photokeratitis - This happens within 48 hours after a UV blast. Results  from hyperactivation of K+ channels. Clinically shows dense SPK centrally.
