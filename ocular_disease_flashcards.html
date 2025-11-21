@@ -86,7 +86,7 @@
 
 <script>
 /* ------------------------------------------------------------- */
-/* Supabase config (same as your other decks)                    */
+/* Supabase config                                               */
 /* ------------------------------------------------------------- */
 const SUPABASE_URL = "https://ikcowmdwccncnhnuchos.supabase.co";
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlrY293bWR3Y2NuY25obnVjaG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM2MDQyMjMsImV4cCI6MjA3OTE4MDIyM30.P1aU6M4k3wZ-jXJ8xKJKesOURoQznhnaj6i8qUrUv3M";
@@ -192,7 +192,7 @@ async function removeCloudFav(userEmail, deckId, cardId){
 }
 
 /* ------------------------------------------------------------- */
-/* 4) Sanitizer + STRICT parser                                   */
+/* 4) STRICT parser: anchors + " - " only                         */
 /* ------------------------------------------------------------- */
 function escapeHtml(s){
   return s.replace(/&/g,'&amp;')
@@ -255,12 +255,19 @@ function parseTxt(txt, deckId){
 /* 5) UI + logic                                                   */
 /* ------------------------------------------------------------- */
 const els = {
-  deck: deck, show: show, q: q,
-  front: front, back: back, favBtn: fav,
-  counter: counter, status: status,
-  prev: prev, next: next, reveal: reveal,
-  emailInput: document.getElementById('emailInput'),
-  saveEmail: document.getElementById('saveEmail'),
+  deck:        document.getElementById('deck'),
+  show:        document.getElementById('show'),
+  q:           document.getElementById('q'),
+  front:       document.getElementById('front'),
+  back:        document.getElementById('back'),
+  favBtn:      document.getElementById('fav'),
+  counter:     document.getElementById('counter'),
+  status:      document.getElementById('status'),
+  prevBtn:     document.getElementById('prev'),
+  nextBtn:     document.getElementById('next'),
+  revealBtn:   document.getElementById('reveal'),
+  emailInput:  document.getElementById('emailInput'),
+  saveEmail:   document.getElementById('saveEmail'),
   emailStatus: document.getElementById('emailStatus'),
   cloudStatus: document.getElementById('cloudStatus')
 };
@@ -306,7 +313,7 @@ function render(){
     els.back.innerHTML='';
     els.favBtn.setAttribute('aria-pressed','false');
     els.counter.textContent='0 / 0';
-    els.reveal.textContent='Reveal Answer';
+    els.revealBtn.textContent='Reveal Answer';
     els.status.textContent = CURRENT_DECK ? CURRENT_DECK.title : '';
     return;
   }
@@ -322,14 +329,14 @@ function render(){
   els.back.style.display = showing ? 'block' : 'none';
   els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id) ? 'true' : 'false');
   els.counter.textContent = (idx+1)+' / '+VIEW.length;
-  els.reveal.textContent = showing ? 'Hide Answer' : 'Reveal Answer';
+  els.revealBtn.textContent = showing ? 'Hide Answer' : 'Reveal Answer';
   els.status.textContent = CURRENT_DECK.title + (els.show.value==='fav' ? ' (Favorites)' : '');
 }
 
 /* nav + actions */
-function next(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; showing=false; render(); }
-function prev(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render(); }
-function toggle(){ showing=!showing; render(); }
+function goNext(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; showing=false; render(); }
+function goPrev(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render(); }
+function toggleReveal(){ showing=!showing; render(); }
 
 /* FAVORITE TOGGLE: local + cloud */
 async function toggleFav(){
@@ -445,19 +452,19 @@ async function loadDeckById(id){
     loadDeckById(DECKS[0].id);
   }
 
-  els.deck.onchange  = ()=>loadDeckById(els.deck.value);
-  els.show.onchange  = applyFilters;
-  els.q.oninput      = applyFilters;
-  els.prev.onclick   = prev;
-  els.next.onclick   = next;
-  els.reveal.onclick = toggle;
-  els.favBtn.onclick = toggleFav;
+  els.deck.onchange   = ()=>loadDeckById(els.deck.value);
+  els.show.onchange   = applyFilters;
+  els.q.oninput       = applyFilters;
+  els.prevBtn.onclick = goPrev;
+  els.nextBtn.onclick = goNext;
+  els.revealBtn.onclick = toggleReveal;
+  els.favBtn.onclick  = toggleFav;
 
   document.addEventListener('keydown', e=>{
     const k=e.key.toLowerCase();
-    if(k==='arrowright') next();
-    else if(k==='arrowleft') prev();
-    else if(k==='r') toggle();
+    if(k==='arrowright') goNext();
+    else if(k==='arrowleft') goPrev();
+    else if(k==='r') toggleReveal();
     else if(k==='s') toggleFav();
   });
 })();
