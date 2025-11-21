@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Ocular Disease — Flashcards</title>
+<title>Ocular Disease Flashcards</title>
 <style>
   body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
   .wrap{max-width:980px;margin:auto;}
@@ -22,27 +22,11 @@
   .nav{display:flex;gap:8px;margin-top:10px}
   .nav button{flex:1;font-weight:600}
   .note{margin-top:8px;font-size:13px;color:#666}
-  .email-row{margin-bottom:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
-  .email-row input{min-width:230px;}
-  .note-small{font-size:12px;color:#666;margin-left:6px;}
 </style>
-
-<!-- Supabase JS client (same as Ocular Anatomy) -->
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <body>
 <div class="wrap">
   <h1>Ocular Disease — Flashcards</h1>
-
-  <!-- Email for cloud sync -->
-  <div class="email-row">
-    <label>
-      Email for cloud sync:
-      <input id="emailInput" type="email" placeholder="name@example.com">
-    </label>
-    <button id="saveEmail">Save</button>
-    <span id="emailStatus" class="note-small"></span>
-  </div>
 
   <div class="bar">
     <label>Deck:
@@ -76,295 +60,229 @@
     <button id="next">Next ▶</button>
   </div>
 
-  <div class="note">
-    Tip: ←/→ to move, R to reveal/hide, S to star.
-    Favorites save per device and in the cloud when an email is set.
-  </div>
-  <div class="note" id="cloudStatus"></div>
+  <div class="note">Tip: ←/→ to move, R to reveal/hide, S to star. Favorites save per device & per deck.</div>
 </div>
 
 <script>
-/* ------------------------------------------------------------- */
-/* Supabase config                                               */
-/* ------------------------------------------------------------- */
-const SUPABASE_URL = "https://ikcowmdwccncnhnuchos.supabase.co";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlrY293bWR3Y2NuY25obnVjaG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM2MDQyMjMsImV4cCI6MjA3OTE4MDIyM30.P1aU6M4k3wZ-jXJ8xKJKesOURoQznhnaj6i8qUrUv3M";
-
-let supabaseClient = null;
-try{
-  if(window.supabase && window.supabase.createClient){
-    supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
-  }
-}catch(e){ console.error("Supabase init error:", e); }
-
-const EMAIL_STORAGE_KEY = "od_flashcards_user_email";
-let USER_EMAIL = null;
-
-/* ------------------------------------------------------------- */
-/* 1) Ocular DISEASE decks                                       */
-/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------------ */
+/* 1) DECKS (match your TXT filenames)                                */
+/* ------------------------------------------------------------------ */
 const DECKS = [
-  { id:'ocular_cornea',        title:'Cornea',                       dataUrl:'data/ocular_cornea.txt' },
-  { id:'ocular_lens_uvea',     title:'Crystalline Lens & Uvea',      dataUrl:'data/ocular_lens_uvea.txt' },
-  { id:'ocular_neurology',     title:'Neurology',                    dataUrl:'data/ocular_neurology.txt' },
-  { id:'ocular_trauma',        title:'Ocular Trauma',                dataUrl:'data/ocular_trauma.txt' },
-  { id:'ocular_adnexa',        title:'Adnexa',                       dataUrl:'data/ocular_adnexa.txt' },
-  { id:'ocular_conj_sclera',   title:'Conjunctiva & Sclera',         dataUrl:'data/ocular_conj_sclera.txt' },
-  { id:'ocular_optic_vessels', title:'Optic Nerve & Blood Vessels',  dataUrl:'data/ocular_optic_vessels.txt' },
-  { id:'ocular_retina',        title:'Retina',                       dataUrl:'data/ocular_retina.txt' },
+  { id:'ocular_cornea',       title:'Cornea',                        dataUrl:'data/ocular_cornea.txt' },
+  { id:'ocular_conj_sclera',  title:'Conjunctiva & Sclera',          dataUrl:'data/ocular_conj_sclera.txt' },
+  { id:'ocular_adnexa',       title:'Adnexa',                        dataUrl:'data/ocular_adnexa.txt' },
+  { id:'ocular_lens_uvea',    title:'Crystalline Lens & Uvea',       dataUrl:'data/ocular_lens_uvea.txt' },
+  { id:'ocular_trauma',       title:'Ocular Trauma',                 dataUrl:'data/ocular_trauma.txt' },
+  { id:'ocular_neurology',    title:'Neurology',                     dataUrl:'data/ocular_neurology.txt' },
+  { id:'ocular_onh_bv',       title:'Optic Nerve & Blood Vessels',   dataUrl:'data/ocular_onh_bv.txt' },
+  { id:'ocular_retina',       title:'Retina',                        dataUrl:'data/ocular_retina.txt' }
 ];
 
-/* ------------------------------------------------------------- */
-/* 2) Shared image map loader (matches your *_image_map.json)    */
-/* ------------------------------------------------------------- */
-async function fetchSharedImageMap(deckId){
+/* ------------------------------------------------------------------ */
+/* 2) IMAGE MAP (per deck, from /images/<deckId>_image_map.json)      */
+/* ------------------------------------------------------------------ */
+async function fetchImageMap(deckId){
   try{
     const r = await fetch(`images/${deckId}_image_map.json`, {cache:'no-store'});
     if(r.ok) return await r.json();
   }catch(e){}
   return {};
 }
+let IMAGE_MAP = {};
 
-/* ------------------------------------------------------------- */
-/* 3) Favorites (local)                                          */
-/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------------ */
+/* 3) FAVORITES (local, per deck)                                     */
+/* ------------------------------------------------------------------ */
 const FAV_KEY = deckId => `fc_favs_student_v1::${deckId}`;
 function loadFavs(deckId){
-  try{ return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId)) || "[]")); }
-  catch{ return new Set(); }
+  try{
+    return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId)) || '[]'));
+  }catch{
+    return new Set();
+  }
 }
 function saveFavs(deckId,set){
   localStorage.setItem(FAV_KEY(deckId), JSON.stringify([...set]));
 }
 
-/* Cloud favorites via Supabase */
-async function fetchCloudFavs(userEmail, deckId){
-  if(!supabaseClient || !userEmail) return [];
-  try{
-    const {data, error} = await supabaseClient
-      .from("flashcard_favorites")
-      .select("card_id")
-      .eq("user_email", userEmail)
-      .eq("deck_id", deckId);
-    if(error){ console.error(error); return []; }
-    return data.map(r=>r.card_id);
-  }catch(e){ console.error(e); return []; }
+/* ------------------------------------------------------------------ */
+/* 4) PARSER — anchor + STRICT " - " separator                         */
+/* ------------------------------------------------------------------ */
+function escapeHtml(s){
+  return s.replace(/&/g,'&amp;')
+          .replace(/</g,'&lt;')
+          .replace(/>/g,'&gt;')
+          .replace(/"/g,'&quot;')
+          .replace(/'/g,'&#39;');
 }
-async function addCloudFav(userEmail, deckId, cardId){
-  if(!supabaseClient || !userEmail) return;
-  try{
-    const {error} = await supabaseClient
-      .from("flashcard_favorites")
-      .upsert({user_email:userEmail, deck_id:deckId, card_id:cardId});
-    if(error) console.error(error);
-  }catch(e){ console.error(e); }
-}
-async function removeCloudFav(userEmail, deckId, cardId){
-  if(!supabaseClient || !userEmail) return;
-  try{
-    const {error} = await supabaseClient
-      .from("flashcard_favorites")
-      .delete()
-      .eq("user_email", userEmail)
-      .eq("card_id", cardId);
-    if(error) console.error(error);
-  }catch(e){ console.error(e); }
-}
-
-/* ------------------------------------------------------------- */
-/* 4) Parser (same as Anatomy)                                   */
-/* ------------------------------------------------------------- */
-function escapeHtml(s){return s.replace(/&/g,'&amp;')
-  .replace(/</g,'&lt;').replace(/>/g,'&gt;')
-  .replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
 function cleanLine(s){
-  if(!s) return '';
-  return s.replace(/\u00A0/g,' ')
-          .replace(/\u200B/g,'')
-          .replace(/\uFFFD/g,'')
-          .replace(/[“”]/g,'"')
-          .replace(/[‘’]/g,"'")
-          .replace(/\u2013|\u2014/g,'-')
-          .replace(/[^\S\r\n]+/g,' ')
-          .trim();
+  return s
+    ? s.replace(/\u00A0/g,' ')
+       .replace(/\u200B/g,'')
+       .replace(/\uFFFD/g,'')
+       .trim()
+    : '';
 }
+// ONLY split when we see " - " (space-hyphen-space)
 function splitAnsExpl(line){
-  let m=line.match(/^(.{1,80}?)[\s]*[:–—-]\s+(.{12,})$/);
-  if(m) return {a:m[1].trim(),e:m[2].trim()};
-  m=line.match(/^(.{1,60}?)[ ]{1,}([A-Z].{10,})$/);
-  if(m && !/[.?!]$/.test(m[1])) return {a:m[1].trim(),e:m[2].trim()};
-  const dot=line.indexOf('. ');
-  if(dot>0 && dot<=80){
-    const first=line.slice(0,dot).trim();
-    const rest=line.slice(dot+2).trim();
-    if(first.split(/\s+/).length<=6) return {a:first,e:rest};
-  }
-  return {a:line.trim(),e:''};
+  if(!line) return {a:'',e:''};
+  const m = line.match(/^(.+?)\s-\s(.+)$/);
+  if(m) return {a:m[1].trim(), e:m[2].trim()};
+  return {a:line.trim(), e:''};
 }
 function parseTxt(txt, deckId){
-  const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
-  const isAnchor = s => /^\d+\s+of\s+\d+$/.test(s);
-  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
-  const out=[];
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor = s => /^\d+\s+of\s+\d+$/i.test(s);
+  const anchors = [];
+  for(let i=0;i<lines.length;i++){
+    if(isAnchor(lines[i])) anchors.push(i);
+  }
+  const out = [];
   for(let p=0;p<anchors.length;p++){
-    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
-    let j=at-1, up=6, front='';
-    while(j>=0 && up>0 && !lines[j]){ j--; up--; }
-    if(j>=0 && lines[j]) front = escapeHtml(lines[j]);
-    let k=at+1; while(k<next && (!lines[k] || lines[k]==='.')) k++;
-    const raw = (k<next?lines[k]:'');
-    const se = splitAnsExpl(raw);
-    let backAns=escapeHtml(se.a), backExp=escapeHtml(se.e);
-    let m=k+1; while(m<next && !lines[m]) m++;
-    if(m<next && /^(note|hint|comment)\s*:/i.test(lines[m]))
-      backExp += (backExp?' ':'')+`<em>${escapeHtml(lines[m])}</em>`;
-    out.push({id:`${deckId}-${out.length+1}`, front, backAns, backExp});
+    const at   = anchors[p];
+    const next = (p+1<anchors.length ? anchors[p+1] : lines.length);
+
+    // FRONT = last non-empty line above anchor
+    let j = at-1;
+    while(j>=0 && !lines[j]) j--;
+    const front = escapeHtml(lines[j] || '');
+
+    // BACK = first non-empty line below anchor (skip lone ".")
+    let k = at+1;
+    while(k<next && (!lines[k] || lines[k]==='.')) k++;
+    const se = splitAnsExpl(k<next ? lines[k] : '');
+    const backAns = escapeHtml(se.a);
+    const backExp = escapeHtml(se.e);
+
+    out.push({
+      id: `${deckId}-${out.length+1}`,
+      front,
+      backAns,
+      backExp
+    });
   }
   return out;
 }
 
-/* ------------------------------------------------------------- */
-/* 5) UI + logic                                                  */
-/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------------ */
+/* 5) UI + LOGIC                                                      */
+/* ------------------------------------------------------------------ */
 const els = {
-  deck:deck, show:show, q:q,
-  front:front, back:back, favBtn:fav,
-  counter:counter, status:status,
-  prev:prev, next:next, reveal:reveal,
-  emailInput:emailInput, saveEmail:saveEmail,
-  emailStatus:emailStatus, cloudStatus:cloudStatus
+  deck: deck, show: show, q: q,
+  front: front, back: back, favBtn: fav,
+  counter: counter, status: status,
+  prev: prev, next: next, reveal: reveal
 };
-let CURRENT_DECK=null, CARDS=[], VIEW=[], FAVS=new Set(), IMAGE_MAP={}, idx=0, showing=false;
+let CURRENT = null, CARDS = [], VIEW = [], FAVS = new Set(), idx = 0, showing = false;
 
 function imgTag(src){ return src ? `<img src="${src}" alt="">` : ''; }
-function setCloudStatus(msg){ if(els.cloudStatus) els.cloudStatus.textContent="Cloud: "+msg; }
-function updateEmailStatus(){
-  if(!els.emailStatus) return;
-  els.emailStatus.textContent = USER_EMAIL
-    ? "Using "+USER_EMAIL
-    : "No email set — cloud sync off (local only).";
-}
+
 function applyFilters(){
-  const term=(els.q.value||'').toLowerCase(), favOnly=els.show.value==='fav';
+  const term    = (els.q.value || '').toLowerCase();
+  const favOnly = (els.show.value === 'fav');
   VIEW = CARDS.filter(c =>
-    (!term || (c.front+c.backAns+c.backExp).toLowerCase().includes(term)) &&
+    (!term || (c.front + c.backAns + c.backExp).toLowerCase().includes(term)) &&
     (!favOnly || FAVS.has(c.id))
   );
-  if(idx>=VIEW.length) idx=Math.max(0,VIEW.length-1);
-  showing=false; render();
+  if(idx >= VIEW.length) idx = Math.max(0, VIEW.length-1);
+  showing = false;
+  render();
 }
+
 function render(){
   if(!VIEW.length){
-    els.front.innerHTML='<em>No cards match.</em>';
-    els.back.style.display='none'; els.back.innerHTML='';
+    els.front.innerHTML = '<em>No cards match.</em>';
+    els.back.style.display = 'none';
+    els.back.innerHTML = '';
     els.favBtn.setAttribute('aria-pressed','false');
-    els.counter.textContent='0 / 0';
-    els.reveal.textContent='Reveal Answer';
-    els.status.textContent = CURRENT_DECK ? CURRENT_DECK.title : '';
+    els.counter.textContent = '0 / 0';
+    els.reveal.textContent = 'Reveal Answer';
+    els.status.textContent = CURRENT ? CURRENT.title : '';
     return;
   }
-  const c=VIEW[idx]; const map=IMAGE_MAP[c.id]||{};
-  els.front.innerHTML=(c.front||'') + (map.front?imgTag(map.front):'');
+  const c   = VIEW[idx];
+  const map = IMAGE_MAP[c.id] || {};
+  els.front.innerHTML =
+    (c.front || '') +
+    (map.front ? imgTag(map.front) : '');
   els.back.innerHTML =
-    (c.backAns?`<div class="ans">${c.backAns}</div>`:'') +
-    (c.backExp?`<div class="exp">${c.backExp}</div>`:'') +
-    (map.back?imgTag(map.back):'');
-  els.back.style.display=showing?'block':'none';
-  els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id)?'true':'false');
-  els.counter.textContent=(idx+1)+' / '+VIEW.length;
-  els.reveal.textContent=showing?'Hide Answer':'Reveal Answer';
-  els.status.textContent=CURRENT_DECK.title + (els.show.value==='fav'?' (Favorites)':'');
+    (c.backAns ? `<div class="ans">${c.backAns}</div>` : '') +
+    (c.backExp ? `<div class="exp">${c.backExp}</div>` : '') +
+    (map.back ? imgTag(map.back) : '');
+  els.back.style.display = showing ? 'block' : 'none';
+  els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id) ? 'true' : 'false');
+  els.counter.textContent = (idx+1) + ' / ' + VIEW.length;
+  els.reveal.textContent = showing ? 'Hide Answer' : 'Reveal Answer';
+  els.status.textContent = CURRENT.title + (els.show.value === 'fav' ? ' (Favorites)' : '');
 }
-function nextCard(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; showing=false; render(); }
-function prevCard(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render(); }
+
+function nextCard(){ if(!VIEW.length) return; idx = (idx+1) % VIEW.length; showing=false; render(); }
+function prevCard(){ if(!VIEW.length) return; idx = (idx-1+VIEW.length) % VIEW.length; showing=false; render(); }
 function toggleReveal(){ showing=!showing; render(); }
 
-async function toggleFav(){
+function toggleFav(){
   if(!VIEW.length) return;
-  const c=VIEW[idx], cid=c.id;
-  const isFav=FAVS.has(cid);
-  if(isFav){
-    FAVS.delete(cid);
-    saveFavs(CURRENT_DECK.id,FAVS);
-    render();
-    if(USER_EMAIL) removeCloudFav(USER_EMAIL, CURRENT_DECK.id, cid);
-  }else{
-    FAVS.add(cid);
-    saveFavs(CURRENT_DECK.id,FAVS);
-    render();
-    if(USER_EMAIL) addCloudFav(USER_EMAIL, CURRENT_DECK.id, cid);
-  }
+  const c = VIEW[idx];
+  if(FAVS.has(c.id)) FAVS.delete(c.id); else FAVS.add(c.id);
+  saveFavs(CURRENT.id, FAVS);
+  render();
 }
 
-async function syncCloudFavsForCurrentDeck(){
-  if(!supabaseClient){ setCloudStatus("no Supabase client; using local-only favorites."); applyFilters(); return; }
-  if(!USER_EMAIL){ setCloudStatus("no email set; using local-only favorites."); applyFilters(); return; }
-  const cloudFavs = await fetchCloudFavs(USER_EMAIL, CURRENT_DECK.id);
-  for(const id of cloudFavs) FAVS.add(id);
-  saveFavs(CURRENT_DECK.id,FAVS);
-  setCloudStatus(`loaded ${cloudFavs.length} favorites from cloud for ${USER_EMAIL} on ${CURRENT_DECK.title}`);
+/* ------------------------------------------------------------------ */
+/* 6) LOAD DECK                                                       */
+/* ------------------------------------------------------------------ */
+async function loadDeckById(id){
+  CURRENT = DECKS.find(d => d.id === id);
+  idx = 0; showing = false;
+  els.counter.textContent = 'Loading…';
+  els.status.textContent  = CURRENT.title;
+
+  try{
+    const res = await fetch(CURRENT.dataUrl, {cache:'no-store'});
+    if(!res.ok) throw new Error('Missing deck: ' + CURRENT.dataUrl);
+    const txt = await res.text();
+    CARDS = parseTxt(txt, CURRENT.id);
+  }catch(e){
+    console.warn(e);
+    CARDS = [];
+  }
+
+  FAVS      = loadFavs(CURRENT.id);
+  IMAGE_MAP = await fetchImageMap(CURRENT.id);
   applyFilters();
 }
 
-async function loadDeckById(id){
-  CURRENT_DECK = DECKS.find(d=>d.id===id);
-  idx=0; showing=false;
-  els.counter.textContent='Loading…';
-  els.status.textContent=CURRENT_DECK.title;
-  try{
-    const r=await fetch(CURRENT_DECK.dataUrl,{cache:'no-store'});
-    if(!r.ok) throw 0;
-    const txt=await r.text();
-    CARDS=parseTxt(txt, CURRENT_DECK.id);
-  }catch(e){ CARDS=[]; }
-  FAVS=loadFavs(CURRENT_DECK.id);
-  IMAGE_MAP = await fetchSharedImageMap(CURRENT_DECK.id);
-  await syncCloudFavsForCurrentDeck();
-}
-
-/* ------------------------------------------------------------- */
-/* init                                                           */
-/* ------------------------------------------------------------- */
+/* ------------------------------------------------------------------ */
+/* 7) INIT                                                            */
+/* ------------------------------------------------------------------ */
 (function init(){
-  const stored=(localStorage.getItem(EMAIL_STORAGE_KEY)||'').trim();
-  USER_EMAIL = stored || null;
-  if(els.emailInput) els.emailInput.value = stored;
-  updateEmailStatus();
-
-  if(els.saveEmail){
-    els.saveEmail.onclick = async ()=>{
-      const v=(els.emailInput.value||'').trim();
-      if(v){ USER_EMAIL=v; localStorage.setItem(EMAIL_STORAGE_KEY,v); }
-      else { USER_EMAIL=null; localStorage.removeItem(EMAIL_STORAGE_KEY); }
-      updateEmailStatus();
-      if(CURRENT_DECK){
-        FAVS = loadFavs(CURRENT_DECK.id);
-        await syncCloudFavsForCurrentDeck();
-      }
-    };
+  // populate deck dropdown
+  els.deck.innerHTML = '';
+  DECKS.forEach(d => {
+    const o = document.createElement('option');
+    o.value = d.id;
+    o.textContent = d.title;
+    els.deck.appendChild(o);
+  });
+  if(DECKS.length){
+    els.deck.value = DECKS[0].id;
+    loadDeckById(DECKS[0].id);
   }
 
-  els.deck.innerHTML='';
-  DECKS.forEach(d=>{
-    const o=document.createElement('option');
-    o.value=d.id; o.textContent=d.title; els.deck.appendChild(o);
-  });
-  if(DECKS.length){ els.deck.value=DECKS[0].id; loadDeckById(DECKS[0].id); }
-
-  els.deck.onchange = ()=>loadDeckById(els.deck.value);
-  els.show.onchange = applyFilters;
-  els.q.oninput     = applyFilters;
-  els.prev.onclick  = prevCard;
-  els.next.onclick  = nextCard;
+  els.deck.onchange  = () => loadDeckById(els.deck.value);
+  els.show.onchange  = applyFilters;
+  els.q.oninput      = applyFilters;
+  els.prev.onclick   = prevCard;
+  els.next.onclick   = nextCard;
   els.reveal.onclick = toggleReveal;
   els.favBtn.onclick = toggleFav;
 
   document.addEventListener('keydown', e=>{
-    const k=e.key.toLowerCase();
-    if(k==='arrowright') nextCard();
-    else if(k==='arrowleft') prevCard();
-    else if(k==='r') toggleReveal();
-    else if(k==='s') toggleFav();
+    const k = e.key.toLowerCase();
+    if(k === 'arrowright') nextCard();
+    else if(k === 'arrowleft') prevCard();
+    else if(k === 'r') toggleReveal();
+    else if(k === 's') toggleFav();
   });
 })();
 </script>
