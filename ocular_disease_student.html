@@ -22,29 +22,11 @@
   .nav{display:flex;gap:8px;margin-top:10px}
   .nav button{flex:1;font-weight:600}
   .note{margin-top:8px;font-size:13px;color:#666}
-
-  /* Email / cloud sync UI */
-  .email-row{margin-bottom:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
-  .email-row input{min-width:230px;}
-  .note-small{font-size:12px;color:#666;margin-left:6px;}
 </style>
-
-<!-- Supabase JS client -->
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
 </head>
 <body>
 <div class="wrap">
   <h1>Ocular Disease — Flashcards</h1>
-
-  <!-- Email for cloud sync -->
-  <div class="email-row">
-    <label>
-      Email for cloud sync:
-      <input id="emailInput" type="email" placeholder="name@example.com">
-    </label>
-    <button id="saveEmail">Save</button>
-    <span id="emailStatus" class="note-small"></span>
-  </div>
 
   <div class="bar">
     <label>Deck:
@@ -78,45 +60,20 @@
     <button id="next">Next ▶</button>
   </div>
 
-  <div class="note">
-    Tip: ←/→ to move, R to reveal/hide, S to star.
-    Favorites save per device & also in the cloud when an email is set.
-  </div>
-  <div class="note" id="cloudStatus"></div>
+  <div class="note">Tip: ←/→ to move, R to reveal/hide, S to star. Favorites save per device & per deck.</div>
 </div>
 
 <script>
-/* ------------------------------------------------------------------ */
-/* 0) Supabase config (cloud favorites)                               */
-/* ------------------------------------------------------------------ */
-const SUPABASE_URL = "https://ikcowmdwccncnhnuchos.supabase.co";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlrY293bWR3Y2NuY25obnVjaG9zIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjM2MDQyMjMsImV4cCI6MjA3OTE4MDIyM30.P1aU6M4k3wZ-jXJ8xKJKesOURoQznhnaj6i8qUrUv3M";
-
-let supabaseClient = null;
-try{
-  if (window.supabase && window.supabase.createClient) {
-    supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
-  }
-}catch(e){
-  console.error("Supabase init error:", e);
-}
-
-/* Shared email key across decks/apps */
-const EMAIL_STORAGE_KEY = "od_flashcards_user_email";
-let USER_EMAIL = null;
-
-/* ------------------------------------------------------------------ */
-/* 1) DECKS                                                           */
-/* ------------------------------------------------------------------ */
+/* 1) DECKS */
 const DECKS = [
-  { id:'ocular_dz_cornea',            title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
-  { id:'ocular_dz_crystalline_uvea',  title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline_uvea.txt' },
-  { id:'ocular_dz_neurology',         title:'Neurology',                   dataUrl:'data/ocular_dz_neurology.txt' },
-  { id:'ocular_dz_trauma',            title:'Ocular Trauma',               dataUrl:'data/ocular_dz_trauma.txt' },
-  { id:'ocular_dz_adnexa',            title:'Adnexa',                      dataUrl:'data/ocular_dz_adnexa.txt' },
-  { id:'ocular_dz_conj_sclera',       title:'Conjunctiva & Sclera',        dataUrl:'data/ocular_dz_conj_sclera.txt' },
-  { id:'ocular_dz_onh_bv',            title:'Optic Nerve & Blood Vessels', dataUrl:'data/ocular_dz_onh_bv.txt' },
-  { id:'ocular_dz_retina',            title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
+  { id:'ocular_dz_cornea',           title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
+  { id:'ocular_dz_crystalline_uvea', title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline_uvea.txt' },
+  { id:'ocular_dz_neurology',        title:'Neurology',                   dataUrl:'data/ocular_dz_neurology.txt' },
+  { id:'ocular_dz_trauma',           title:'Ocular Trauma',               dataUrl:'data/ocular_dz_trauma.txt' },
+  { id:'ocular_dz_adnexa',           title:'Adnexa',                      dataUrl:'data/ocular_dz_adnexa.txt' },
+  { id:'ocular_dz_conj_sclera',      title:'Conjunctiva & Sclera',        dataUrl:'data/ocular_dz_conj_sclera.txt' },
+  { id:'ocular_dz_onh_bv',           title:'Optic Nerve & Blood Vessels', dataUrl:'data/ocular_dz_onh_bv.txt' },
+  { id:'ocular_dz_retina',           title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
 ];
 
 /* Optional image map per deck (placed at /images/<deckId>_image_map.json) */
@@ -129,245 +86,167 @@ async function fetchImageMap(deckId){
 }
 let IMAGE_MAP = {};
 
-/* ------------------------------------------------------------------ */
-/* 2) FAVORITES (local)                                               */
-/* ------------------------------------------------------------------ */
-const FAV_KEY = (deckId) => `fc_favs_student_v1::${deckId}`;
+/* 2) FAVORITES */
+const FAV_KEY = deckId => `fc_favs_student_v1::${deckId}`;
 function loadFavs(deckId){
-  try{
-    return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId))||'[]'));
-  }catch{
-    return new Set();
-  }
+  try{ return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId)) || '[]')); }
+  catch{ return new Set(); }
 }
 function saveFavs(deckId,set){
   localStorage.setItem(FAV_KEY(deckId), JSON.stringify([...set]));
 }
 
-/* Cloud favorites helpers — table: flashcard_favorites */
-async function fetchCloudFavs(userEmail, deckId){
-  if(!supabaseClient || !userEmail) return [];
-  try{
-    const { data, error } = await supabaseClient
-      .from("flashcard_favorites")
-      .select("card_id")
-      .eq("user_email", userEmail)
-      .eq("deck_id", deckId);
-    if(error){
-      console.error("Error loading cloud favorites:", error);
-      return [];
-    }
-    return data.map(row => row.card_id);
-  }catch(e){
-    console.error("Cloud favorites fetch error:", e);
-    return [];
-  }
+/* 3) TEXT PARSER — more forgiving "x of y" detection, split only on " - " */
+function escapeHtml(s){
+  return s ? s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m])) : '';
 }
-async function addCloudFav(userEmail, deckId, cardId){
-  if(!supabaseClient || !userEmail) return;
-  try{
-    const { error } = await supabaseClient
-      .from("flashcard_favorites")
-      .upsert({ user_email:userEmail, deck_id:deckId, card_id:cardId });
-    if(error) console.error("Error adding cloud favorite:", error);
-  }catch(e){
-    console.error("Cloud addFav error:", e);
-  }
+function cleanLine(s){
+  return s ? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : '';
 }
-async function removeCloudFav(userEmail, deckId, cardId){
-  if(!supabaseClient || !userEmail) return;
-  try{
-    const { error } = await supabaseClient
-      .from("flashcard_favorites")
-      .delete()
-      .eq("user_email", userEmail)
-      .eq("deck_id", deckId)
-      .eq("card_id", cardId);
-    if(error) console.error("Error removing cloud favorite:", error);
-  }catch(e){
-    console.error("Cloud removeFav error:", e);
-  }
-}
-
-/* ------------------------------------------------------------------ */
-/* 3) TEXT PARSER — split ONLY on " - "                               */
-/* ------------------------------------------------------------------ */
-function escapeHtml(s){return s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m]));}
-function cleanLine(s){return s?s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim():'';}
 function splitAnsExpl(line){
   if(!line) return {a:'',e:''};
   const m = line.match(/^(.+?)\s-\s(.+)$/);  // space-hyphen-space only
   return m ? {a:m[1].trim(), e:m[2].trim()} : {a:line.trim(), e:''};
 }
 function parseTxt(txt, deckId){
-  const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
-  const isAnchor=(s)=>/^\d+\s+of\s+\d+$/i.test(s);
-  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
-  const out=[];
+  const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+
+  // new: match "x of y" anywhere in the line, not just the whole line
+  const isAnchor = s => /\d+\s+of\s+\d+/i.test(s);
+
+  const anchors = [];
+  for(let i=0;i<lines.length;i++){
+    if(isAnchor(lines[i])) anchors.push(i);
+  }
+
+  const out = [];
   for(let p=0;p<anchors.length;p++){
-    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
-    let j=at-1; while(j>=0 && !lines[j]) j--;
-    const front=escapeHtml(lines[j]||'');
-    let k=at+1; while(k<next && !lines[k]) k++;
-    const se=splitAnsExpl(lines[k]||'');
+    const at   = anchors[p];
+    const next = (p+1<anchors.length ? anchors[p+1] : lines.length);
+
+    // FRONT = last non-empty line before anchor
+    let j = at-1;
+    while(j>=0 && !lines[j]) j--;
+    const front = escapeHtml(lines[j] || '');
+
+    // BACK = first non-empty line after anchor
+    let k = at+1;
+    while(k<next && !lines[k]) k++;
+    const se = splitAnsExpl(lines[k] || '');
+
     out.push({
-      id:`${deckId}-${p+1}`,
+      id: `${deckId}-${p+1}`,
       front,
-      backAns:escapeHtml(se.a),
-      backExp:escapeHtml(se.e)
+      backAns: escapeHtml(se.a),
+      backExp: escapeHtml(se.e)
     });
   }
   return out;
 }
 
-/* ------------------------------------------------------------------ */
-/* 4) UI + LOGIC                                                      */
-/* ------------------------------------------------------------------ */
-const els={
-  deck:deck,show:show,q:q,front:front,back:back,favBtn:fav,
-  counter:counter,status:status,prev:prev,next:next,reveal:reveal,
-  emailInput: document.getElementById('emailInput'),
-  saveEmail: document.getElementById('saveEmail'),
-  emailStatus: document.getElementById('emailStatus'),
-  cloudStatus: document.getElementById('cloudStatus')
+/* 4) UI + LOGIC */
+const els = {
+  deck: deck, show: show, q: q,
+  front: front, back: back, favBtn: fav,
+  counter: counter, status: status,
+  prev: prev, next: next, reveal: reveal
 };
-let CURRENT=null, CARDS=[], VIEW=[], FAVS=new Set(), idx=0, showing=false;
+
+let CURRENT = null, CARDS = [], VIEW = [], FAVS = new Set(), idx = 0, showing = false;
 
 function imgTag(src){ return src ? `<img src="${src}" alt="">` : ''; }
 
-function setCloudStatus(msg){
-  if(els.cloudStatus) els.cloudStatus.textContent = "Cloud: " + msg;
-}
-function updateEmailStatus(){
-  if(!els.emailStatus) return;
-  if(USER_EMAIL){
-    els.emailStatus.textContent = "Using " + USER_EMAIL;
-  }else{
-    els.emailStatus.textContent = "No email set — cloud sync off (local only).";
-  }
-}
-
 function applyFilters(){
-  const term=(els.q.value||'').toLowerCase(), favOnly=els.show.value==='fav';
-  VIEW=CARDS.filter(c=>(!term||(c.front+c.backAns+c.backExp).toLowerCase().includes(term))&&(!favOnly||FAVS.has(c.id)));
-  if(idx>=VIEW.length) idx=Math.max(0,VIEW.length-1);
-  showing=false; render();
+  const term   = (els.q.value || '').toLowerCase();
+  const favOnly = els.show.value === 'fav';
+  VIEW = CARDS.filter(c =>
+    (!term || (c.front + c.backAns + c.backExp).toLowerCase().includes(term)) &&
+    (!favOnly || FAVS.has(c.id))
+  );
+  if(idx >= VIEW.length) idx = Math.max(0, VIEW.length - 1);
+  showing = false;
+  render();
 }
 function render(){
   if(!VIEW.length){
-    els.front.innerHTML='<em>No cards match.</em>'; els.back.style.display='none'; els.back.innerHTML='';
-    els.favBtn.setAttribute('aria-pressed','false'); els.counter.textContent='0 / 0';
-    els.reveal.textContent='Reveal Answer'; els.status.textContent=CURRENT?CURRENT.title:''; return;
+    els.front.innerHTML = '<em>No cards match.</em>';
+    els.back.style.display = 'none';
+    els.back.innerHTML = '';
+    els.favBtn.setAttribute('aria-pressed','false');
+    els.counter.textContent = '0 / 0';
+    els.reveal.textContent  = 'Reveal Answer';
+    els.status.textContent  = CURRENT ? CURRENT.title : '';
+    return;
   }
-  const c=VIEW[idx]; const map=IMAGE_MAP[c.id]||{};
-  els.front.innerHTML = (c.front||'') + (map.front?imgTag(map.front):'');
+  const c   = VIEW[idx];
+  const map = IMAGE_MAP[c.id] || {};
+  els.front.innerHTML =
+    (c.front || '') + (map.front ? imgTag(map.front) : '');
   els.back.innerHTML  =
-    (c.backAns?`<div class="ans">${c.backAns}</div>`:'') +
-    (c.backExp?`<div class="exp">${c.backExp}</div>`:'') +
-    (map.back?imgTag(map.back):'');
-  els.back.style.display=showing?'block':'none';
-  els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id)?'true':'false');
-  els.counter.textContent=(idx+1)+' / '+VIEW.length;
-  els.reveal.textContent=showing?'Hide Answer':'Reveal Answer';
-  els.status.textContent=CURRENT.title + (els.show.value==='fav'?' (Favorites)':'');
+    (c.backAns ? `<div class="ans">${c.backAns}</div>` : '') +
+    (c.backExp ? `<div class="exp">${c.backExp}</div>` : '') +
+    (map.back ? imgTag(map.back) : '');
+  els.back.style.display = showing ? 'block' : 'none';
+  els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id) ? 'true' : 'false');
+  els.counter.textContent = (idx+1) + ' / ' + VIEW.length;
+  els.reveal.textContent  = showing ? 'Hide Answer' : 'Reveal Answer';
+  els.status.textContent  = CURRENT.title + (els.show.value==='fav'?' (Favorites)':'');
 }
-function nextCard(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; showing=false; render(); }
-function prevCard(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render(); }
-function toggleReveal(){ showing=!showing; render(); }
-
-/* FAVORITE TOGGLE: local + cloud */
-async function toggleFav(){
+function nextCard(){ if(!VIEW.length) return; idx = (idx+1) % VIEW.length; showing=false; render(); }
+function prevCard(){ if(!VIEW.length) return; idx = (idx-1+VIEW.length) % VIEW.length; showing=false; render(); }
+function toggleReveal(){ showing = !showing; render(); }
+function toggleFav(){
   if(!VIEW.length) return;
-  const c=VIEW[idx];
-  const cid = c.id;
-  const isFav = FAVS.has(cid);
-
-  if(isFav){
-    FAVS.delete(cid);
-    saveFavs(CURRENT.id,FAVS);
-    render();
-    if(USER_EMAIL) removeCloudFav(USER_EMAIL, CURRENT.id, cid);
-  }else{
-    FAVS.add(cid);
-    saveFavs(CURRENT.id,FAVS);
-    render();
-    if(USER_EMAIL) addCloudFav(USER_EMAIL, CURRENT.id, cid);
-  }
-}
-
-/* Merge local + cloud favorites for this deck */
-async function syncCloudFavs(){
-  if(!supabaseClient){
-    setCloudStatus("no Supabase client; local-only favorites.");
-    return;
-  }
-  if(!USER_EMAIL){
-    setCloudStatus("no email set; local-only favorites.");
-    return;
-  }
-  const cloudFavs = await fetchCloudFavs(USER_EMAIL, CURRENT.id);
-  for(const id of cloudFavs){
-    if(!FAVS.has(id)) FAVS.add(id);
-  }
+  const c = VIEW[idx];
+  if(FAVS.has(c.id)) FAVS.delete(c.id); else FAVS.add(c.id);
   saveFavs(CURRENT.id, FAVS);
-  setCloudStatus(`loaded ${cloudFavs.length} favorites from cloud for ${USER_EMAIL}`);
+  render();
 }
 
 /* load a deck */
 async function loadDeckById(id){
   CURRENT = DECKS.find(d=>d.id===id);
-  idx=0; showing=false; els.counter.textContent='Loading…'; els.status.textContent=CURRENT.title;
+  idx = 0; showing = false;
+  els.counter.textContent = 'Loading…';
+  els.status.textContent  = CURRENT.title;
   try{
-    const res = await fetch(CURRENT.dataUrl,{cache:'no-store'}); 
-    const txt = await res.text(); 
+    const res = await fetch(CURRENT.dataUrl, {cache:'no-store'});
+    const txt = await res.text();
     CARDS = parseTxt(txt, CURRENT.id);
-  }catch(e){ CARDS=[]; }
-  FAVS = loadFavs(CURRENT.id);
+  }catch(e){
+    CARDS = [];
+  }
+  FAVS      = loadFavs(CURRENT.id);
   IMAGE_MAP = await fetchImageMap(CURRENT.id);
-  await syncCloudFavs();
   applyFilters();
 }
 
 /* init */
 (function(){
-  // restore stored email
-  const stored = (localStorage.getItem(EMAIL_STORAGE_KEY) || '').trim();
-  USER_EMAIL = stored || null;
-  if(els.emailInput) els.emailInput.value = stored;
-  updateEmailStatus();
-
-  if(els.saveEmail){
-    els.saveEmail.onclick = async () => {
-      const v = (els.emailInput.value || '').trim();
-      if(v){
-        USER_EMAIL = v;
-        localStorage.setItem(EMAIL_STORAGE_KEY, v);
-      }else{
-        USER_EMAIL = null;
-        localStorage.removeItem(EMAIL_STORAGE_KEY);
-      }
-      updateEmailStatus();
-      // re-sync cloud favorites for current deck
-      if(CURRENT){
-        FAVS = loadFavs(CURRENT.id);
-        await syncCloudFavs();
-        applyFilters();
-      }
-    };
+  els.deck.innerHTML = '';
+  DECKS.forEach(d=>{
+    const o = document.createElement('option');
+    o.value = d.id;
+    o.textContent = d.title;
+    els.deck.appendChild(o);
+  });
+  if(DECKS.length){
+    els.deck.value = DECKS[0].id;
+    loadDeckById(DECKS[0].id);
   }
-
-  els.deck.innerHTML='';
-  DECKS.forEach(d=>{ const o=document.createElement('option'); o.value=d.id; o.textContent=d.title; els.deck.appendChild(o); });
-  if(DECKS.length){ els.deck.value=DECKS[0].id; loadDeckById(DECKS[0].id); }
-  els.deck.onchange=()=>loadDeckById(els.deck.value);
-  els.show.onchange=applyFilters; els.q.oninput=applyFilters;
-  els.prev.onclick=prevCard; els.next.onclick=nextCard; els.reveal.onclick=toggleReveal; els.favBtn.onclick=toggleFav;
-  document.addEventListener('keydown',e=>{
-    const k=e.key.toLowerCase();
-    if(k==='arrowright')nextCard();
-    else if(k==='arrowleft')prevCard();
-    else if(k==='r')toggleReveal();
-    else if(k==='s')toggleFav();
+  els.deck.onchange  = () => loadDeckById(els.deck.value);
+  els.show.onchange  = applyFilters;
+  els.q.oninput      = applyFilters;
+  els.prev.onclick   = prevCard;
+  els.next.onclick   = nextCard;
+  els.reveal.onclick = toggleReveal;
+  els.favBtn.onclick = toggleFav;
+  document.addEventListener('keydown', e=>{
+    const k = e.key.toLowerCase();
+    if(k === 'arrowright') nextCard();
+    else if(k === 'arrowleft') prevCard();
+    else if(k === 'r')        toggleReveal();
+    else if(k === 's')        toggleFav();
   });
 })();
 </script>
