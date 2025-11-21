@@ -64,7 +64,9 @@
 </div>
 
 <script>
-/* 1) DECKS */
+/* ------------------------------------------------------------------ */
+/* 1) DECKS – IDs & TXT files MUST match your Admin page              */
+/* ------------------------------------------------------------------ */
 const DECKS = [
   { id:'ocular_dz_cornea',           title:'Cornea',                       dataUrl:'data/ocular_dz_cornea.txt' },
   { id:'ocular_dz_crystalline_uvea', title:'Crystalline Lens & Uvea',     dataUrl:'data/ocular_dz_crystalline_uvea.txt' },
@@ -76,7 +78,10 @@ const DECKS = [
   { id:'ocular_dz_retina',           title:'Retina',                      dataUrl:'data/ocular_dz_retina.txt' },
 ];
 
-/* Optional image map per deck (placed at /images/<deckId>_image_map.json) */
+/* ------------------------------------------------------------------ */
+/* 2) OPTIONAL IMAGE MAP – /images/<deckId>_image_map.json            */
+/* ------------------------------------------------------------------ */
+let IMAGE_MAP = {};
 async function fetchImageMap(deckId){
   try{
     const r = await fetch(`images/${deckId}_image_map.json`, {cache:'no-store'});
@@ -84,55 +89,62 @@ async function fetchImageMap(deckId){
   }catch(e){}
   return {};
 }
-let IMAGE_MAP = {};
+const imgTag = (src) => src ? `<img src="${src}" alt="">` : '';
 
-/* 2) FAVORITES */
+/* ------------------------------------------------------------------ */
+/* 3) FAVORITES (per deck, per device)                                */
+/* ------------------------------------------------------------------ */
 const FAV_KEY = deckId => `fc_favs_student_v1::${deckId}`;
 function loadFavs(deckId){
-  try{ return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId)) || '[]')); }
+  try{ return new Set(JSON.parse(localStorage.getItem(FAV_KEY(deckId))||'[]')); }
   catch{ return new Set(); }
 }
 function saveFavs(deckId,set){
   localStorage.setItem(FAV_KEY(deckId), JSON.stringify([...set]));
 }
 
-/* 3) TEXT PARSER — more forgiving "x of y" detection, split only on " - " */
+/* ------------------------------------------------------------------ */
+/* 4) TEXT PARSER – strict "X of Y" anchors, ONLY split on " - "      */
+/* ------------------------------------------------------------------ */
 function escapeHtml(s){
-  return s ? s.replace(/[&<>"]/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;' }[m])) : '';
+  return s
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;')
+    .replace(/"/g,'&quot;');
 }
 function cleanLine(s){
-  return s ? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim() : '';
+  return s
+    ? s.replace(/\u00A0/g,' ').replace(/\u200B/g,'').trim()
+    : '';
 }
 function splitAnsExpl(line){
   if(!line) return {a:'',e:''};
-  const m = line.match(/^(.+?)\s-\s(.+)$/);  // space-hyphen-space only
-  return m ? {a:m[1].trim(), e:m[2].trim()} : {a:line.trim(), e:''};
+  const m = line.match(/^(.+?)\s-\s(.+)$/);  // ONLY space-hyphen-space
+  if(m) return {a:m[1].trim(), e:m[2].trim()};
+  return {a:line.trim(), e:''};
 }
 function parseTxt(txt, deckId){
   const lines = txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
-
-  // new: match "x of y" anywhere in the line, not just the whole line
-  const isAnchor = s => /\d+\s+of\s+\d+/i.test(s);
-
+  const isAnchor = s => /^\d+\s+of\s+\d+$/i.test(s);
   const anchors = [];
   for(let i=0;i<lines.length;i++){
     if(isAnchor(lines[i])) anchors.push(i);
   }
-
   const out = [];
   for(let p=0;p<anchors.length;p++){
-    const at   = anchors[p];
+    const at = anchors[p];
     const next = (p+1<anchors.length ? anchors[p+1] : lines.length);
 
-    // FRONT = last non-empty line before anchor
+    // FRONT: last non-empty line above anchor
     let j = at-1;
     while(j>=0 && !lines[j]) j--;
-    const front = escapeHtml(lines[j] || '');
+    const front = escapeHtml(lines[j]||'');
 
-    // BACK = first non-empty line after anchor
+    // BACK: first non-empty line after anchor
     let k = at+1;
     while(k<next && !lines[k]) k++;
-    const se = splitAnsExpl(lines[k] || '');
+    const se = splitAnsExpl(lines[k]||'');
 
     out.push({
       id: `${deckId}-${p+1}`,
@@ -144,29 +156,42 @@ function parseTxt(txt, deckId){
   return out;
 }
 
-/* 4) UI + LOGIC */
+/* ------------------------------------------------------------------ */
+/* 5) UI + LOGIC                                                      */
+/* ------------------------------------------------------------------ */
 const els = {
-  deck: deck, show: show, q: q,
-  front: front, back: back, favBtn: fav,
-  counter: counter, status: status,
-  prev: prev, next: next, reveal: reveal
+  deck:    document.getElementById('deck'),
+  show:    document.getElementById('show'),
+  q:       document.getElementById('q'),
+  front:   document.getElementById('front'),
+  back:    document.getElementById('back'),
+  favBtn:  document.getElementById('fav'),
+  counter: document.getElementById('counter'),
+  status:  document.getElementById('status'),
+  prev:    document.getElementById('prev'),
+  next:    document.getElementById('next'),
+  reveal:  document.getElementById('reveal')
 };
 
-let CURRENT = null, CARDS = [], VIEW = [], FAVS = new Set(), idx = 0, showing = false;
-
-function imgTag(src){ return src ? `<img src="${src}" alt="">` : ''; }
+let CURRENT = null;
+let CARDS   = [];
+let VIEW    = [];
+let FAVS    = new Set();
+let idx     = 0;
+let showing = false;
 
 function applyFilters(){
-  const term   = (els.q.value || '').toLowerCase();
-  const favOnly = els.show.value === 'fav';
+  const term   = (els.q.value||'').toLowerCase();
+  const favOnly= els.show.value === 'fav';
   VIEW = CARDS.filter(c =>
     (!term || (c.front + c.backAns + c.backExp).toLowerCase().includes(term)) &&
     (!favOnly || FAVS.has(c.id))
   );
-  if(idx >= VIEW.length) idx = Math.max(0, VIEW.length - 1);
+  if(idx >= VIEW.length) idx = Math.max(0, VIEW.length-1);
   showing = false;
   render();
 }
+
 function render(){
   if(!VIEW.length){
     els.front.innerHTML = '<em>No cards match.</em>';
@@ -178,20 +203,27 @@ function render(){
     els.status.textContent  = CURRENT ? CURRENT.title : '';
     return;
   }
+
   const c   = VIEW[idx];
   const map = IMAGE_MAP[c.id] || {};
+
   els.front.innerHTML =
-    (c.front || '') + (map.front ? imgTag(map.front) : '');
+    (c.front || '') +
+    (map.front ? imgTag(map.front) : '');
+
   els.back.innerHTML  =
     (c.backAns ? `<div class="ans">${c.backAns}</div>` : '') +
     (c.backExp ? `<div class="exp">${c.backExp}</div>` : '') +
     (map.back ? imgTag(map.back) : '');
+
   els.back.style.display = showing ? 'block' : 'none';
   els.favBtn.setAttribute('aria-pressed', FAVS.has(c.id) ? 'true' : 'false');
   els.counter.textContent = (idx+1) + ' / ' + VIEW.length;
   els.reveal.textContent  = showing ? 'Hide Answer' : 'Reveal Answer';
-  els.status.textContent  = CURRENT.title + (els.show.value==='fav'?' (Favorites)':'');
+  els.status.textContent  = CURRENT.title + (els.show.value==='fav' ? ' (Favorites)' : '');
 }
+
+/* Navigation + actions */
 function nextCard(){ if(!VIEW.length) return; idx = (idx+1) % VIEW.length; showing=false; render(); }
 function prevCard(){ if(!VIEW.length) return; idx = (idx-1+VIEW.length) % VIEW.length; showing=false; render(); }
 function toggleReveal(){ showing = !showing; render(); }
@@ -203,50 +235,62 @@ function toggleFav(){
   render();
 }
 
-/* load a deck */
+/* ------------------------------------------------------------------ */
+/* 6) LOAD A DECK                                                     */
+/* ------------------------------------------------------------------ */
 async function loadDeckById(id){
   CURRENT = DECKS.find(d=>d.id===id);
-  idx = 0; showing = false;
-  els.counter.textContent = 'Loading…';
-  els.status.textContent  = CURRENT.title;
+  idx=0; showing=false;
+  els.counter.textContent='Loading…';
+  els.status.textContent=CURRENT.title;
+
   try{
     const res = await fetch(CURRENT.dataUrl, {cache:'no-store'});
     const txt = await res.text();
     CARDS = parseTxt(txt, CURRENT.id);
   }catch(e){
-    CARDS = [];
+    console.warn('Error loading deck', id, e);
+    CARDS=[];
   }
+
   FAVS      = loadFavs(CURRENT.id);
   IMAGE_MAP = await fetchImageMap(CURRENT.id);
   applyFilters();
 }
 
-/* init */
-(function(){
+/* ------------------------------------------------------------------ */
+/* 7) INIT                                                            */
+/* ------------------------------------------------------------------ */
+(function init(){
+  // Populate deck dropdown
   els.deck.innerHTML = '';
   DECKS.forEach(d=>{
-    const o = document.createElement('option');
-    o.value = d.id;
-    o.textContent = d.title;
+    const o=document.createElement('option');
+    o.value=d.id;
+    o.textContent=d.title;
     els.deck.appendChild(o);
   });
+
   if(DECKS.length){
     els.deck.value = DECKS[0].id;
     loadDeckById(DECKS[0].id);
   }
-  els.deck.onchange  = () => loadDeckById(els.deck.value);
-  els.show.onchange  = applyFilters;
-  els.q.oninput      = applyFilters;
-  els.prev.onclick   = prevCard;
-  els.next.onclick   = nextCard;
-  els.reveal.onclick = toggleReveal;
-  els.favBtn.onclick = toggleFav;
+
+  // Wire events
+  els.deck.onchange   = ()=>loadDeckById(els.deck.value);
+  els.show.onchange   = applyFilters;
+  els.q.oninput       = applyFilters;
+  els.prev.onclick    = prevCard;
+  els.next.onclick    = nextCard;
+  els.reveal.onclick  = toggleReveal;
+  els.favBtn.onclick  = toggleFav;
+
   document.addEventListener('keydown', e=>{
     const k = e.key.toLowerCase();
-    if(k === 'arrowright') nextCard();
-    else if(k === 'arrowleft') prevCard();
-    else if(k === 'r')        toggleReveal();
-    else if(k === 's')        toggleFav();
+    if(k==='arrowright')      nextCard();
+    else if(k==='arrowleft')  prevCard();
+    else if(k==='r')          toggleReveal();
+    else if(k==='s')          toggleFav();
   });
 })();
 </script>
