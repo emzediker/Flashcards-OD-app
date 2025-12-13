@@ -447,28 +447,101 @@ Follow-up: 1 week to assess treatment response.
 
 Clinical Pearl – Macular Edema Treatment Rule
 53 of 52
-Visually significant macular edema is treated first-line with intravitreal anti-VEGF therapy. This applies to diabetic macular edema, BRVO/CRVO-related macular edema, wet AMD, radiation retinopathy, and MacTel with CNVM. Exceptions include Irvine–Gass syndrome (topical NSAID plus steroid first), inflammatory CME (earlier steroid use), and chronic refractory CME which may require intravitreal or sub-Tenon steroid therapy.
+Rule:
+Visually significant macular edema is treated first-line with intravitreal anti-VEGF therapy.
+
+Applies To:
+• Diabetic macular edema (DME)
+• BRVO- and CRVO-related macular edema
+• Wet AMD
+• Radiation retinopathy
+• MacTel with CNVM
+
+Exceptions:
+• Irvine–Gass syndrome → topical NSAID + steroid first
+• Inflammatory CME → steroids earlier
+• Chronic refractory CME → may require intravitreal or sub-Tenon steroid therapy
+
 
 Clinical Pearl – Neovascularization Equals Ischemia
 54 of 52
-Any retinal or iris neovascularization represents ischemia until proven otherwise. Initial treatment is anti-VEGF for rapid regression, followed by panretinal photocoagulation for long-term ischemic control. Seen in proliferative diabetic retinopathy, ischemic BRVO/CRVO, ocular ischemic syndrome, sickle cell retinopathy, radiation retinopathy, and retinopathy of prematurity.
+Rule:
+Any retinal or iris neovascularization represents ischemia until proven otherwise.
+
+Management Principle:
+• Anti-VEGF for rapid regression
+• Panretinal photocoagulation (PRP) for long-term ischemic control
+
+Common Associations:
+• Proliferative diabetic retinopathy
+• Ischemic BRVO / CRVO
+• Ocular ischemic syndrome
+• Sickle cell retinopathy
+• Radiation retinopathy
+• Retinopathy of prematurity
+
 
 Clinical Pearl – Retinal Artery vs Retinal Vein Occlusion
 55 of 52
-Retinal artery occlusions (CRAO and BRAO) are neurologic emergencies requiring immediate stroke workup and exclusion of giant cell arteritis in patients over age 50. Retinal vein occlusions cause macular edema and neovascularization and are managed with anti-VEGF and PRP. CRVO requires monthly gonioscopy for 90 days due to neovascular glaucoma risk.
+Key Distinction:
+Retinal artery occlusions are neurologic emergencies.
+Retinal vein occlusions are chronic ischemic retinal diseases.
+
+Artery Occlusions (CRAO / BRAO):
+• Require immediate stroke workup
+• Rule out giant cell arteritis in patients >50 years old
+
+Vein Occlusions (BRVO / CRVO):
+• Cause macular edema and neovascularization
+• Treated with anti-VEGF ± PRP
+• CRVO requires monthly gonioscopy for 90 days (NVG risk)
+
 
 Clinical Pearl – Steroids and Infection Rule
 56 of 52
-Steroids should never be initiated until infectious etiologies are ruled out. Treat infection first in acute retinal necrosis (antivirals), toxoplasmosis (antimicrobials), and candidiasis (antifungals). Steroids are adjunctive therapy only and not first-line in infectious retinal disease.
+Rule:
+Never initiate steroids until infection has been ruled out.
+
+Treat Infection First In:
+• Acute retinal necrosis → antivirals
+• Toxoplasmosis → antimicrobials
+• Candidiasis → antifungals
+
+Important Note:
+Steroids are adjunctive therapy, not first-line, in infectious retinal disease.
+
 
 Clinical Pearl – Surgical Retina Indications
 57 of 52
-Pars plana vitrectomy is indicated for dense or non-clearing vitreous hemorrhage, tractional retinal detachment, symptomatic epiretinal membrane, macular holes stages 3–4, and chronic diabetic macular edema unresponsive to medical therapy.
+Vitrectomy Is Indicated For:
+• Dense or non-clearing vitreous hemorrhage
+• Tractional retinal detachment
+• Symptomatic epiretinal membrane
+• Macular holes (stages 3–4)
+• Chronic diabetic macular edema unresponsive to medical therapy
+
 
 Clinical Pearl – Inherited vs Acquired Retinal Disease
 58 of 52
-Inherited retinal diseases are typically bilateral, symmetric, and slowly progressive (e.g., retinitis pigmentosa, Stargardt disease, Best disease, choroideremia). Acquired retinal diseases are often asymmetric and associated with hemorrhage, edema, or ischemia (e.g., diabetic retinopathy, vein occlusions, ocular ischemic syndrome).
+Inherited Retinal Diseases:
+• Typically bilateral and symmetric
+• Slowly progressive
+• Examples: RP, Stargardt, Best, choroideremia
+
+Acquired Retinal Diseases:
+• Often asymmetric
+• Associated with hemorrhage, edema, or ischemia
+• Examples: diabetic retinopathy, vein occlusions, ocular ischemic syndrome
+
 
 Clinical Pearl – High-Yield Retina Associations
 59 of 52
-Cherry-red spot equals CRAO. Blood-and-thunder fundus equals CRVO. Sea-fan neovascularization equals sickle cell retinopathy. Headlights in the fog equals toxoplasmosis. Silent choroid on IVFA equals Stargardt disease. Egg-yolk lesion equals Best disease. ILM drape on OCT equals MacTel type 2. Cotton balls or string of pearls equals candidiasis.
+Classic Board Associations:
+• Cherry-red spot → CRAO
+• Blood-and-thunder fundus → CRVO
+• Sea-fan neovascularization → Sickle cell retinopathy
+• Headlights in the fog → Toxoplasmosis
+• Silent choroid on IVFA → Stargardt disease
+• Egg-yolk lesion → Best disease
+• ILM drape on OCT → MacTel type 2
+• Cotton balls / string of pearls → Candidiasis
