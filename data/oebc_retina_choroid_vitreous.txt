@@ -199,404 +199,1512 @@ Follow-up:
 • Extend to 3–12 months once stable
 
 
-CRVO
-8 of 51
-Usually caused  by underlying vascular disease (HTN/DM most common)
-Symptoms: Painless unilateral loss of vision
-Signs: Diffuse retinal hemes, dilated tortuous vessels, CWS mac edema, NVD, NVI, NVA, NVE
-Treatment: Treat underlying disorder with immediate PRP if NVI/NVA
-Follow Up: Every month with gonioscopy (90 day glaucoma)
+Definition:
+Retinal venous occlusive disease caused by thrombosis of the central retinal vein, resulting in impaired venous drainage, retinal ischemia, and macular edema.
 
-BRAO
+Etiology / Risk Factors:
+• Most commonly associated with underlying vascular disease
+• Hypertension and diabetes mellitus are the most common risk factors
+
+Symptoms:
+• Painless, unilateral vision loss
+• Severity ranges from mild blur to profound vision loss
+
+Clinical Signs:
+• Diffuse retinal hemorrhages (“blood and thunder” appearance)
+• Dilated, tortuous retinal veins
+• Cotton wool spots
+• Macular edema
+• Neovascularization may occur, including:
+– NVD (neovascularization of the disc)
+– NVI (neovascularization of the iris)
+– NVA (neovascularization of the angle)
+– NVE (neovascularization elsewhere)
+
+Complications:
+• Neovascular glaucoma
+• Persistent macular edema
+• Vitreous hemorrhage
+
+Management:
+• Treat underlying systemic disorder (HTN, DM, vascular disease)
+• Immediate panretinal photocoagulation (PRP) if NVI or NVA is present
+• Anti-VEGF therapy for macular edema and neovascularization as indicated
+
+Follow-up:
+• Monthly examinations
+• Routine gonioscopy for at least 90 days to monitor for neovascular glaucoma
+
+Branch Retinal Artery Occlusion (BRAO)
 9 of 51
-When accompanied by optic nerve edema or retinitis do serology for cat scratch disease
-Refer for neurological workup and screen for underlying disease (GCA)
-Follow up every 3 months
 
-CRAO
+Definition:
+Acute occlusion of a branch retinal artery resulting in sectoral retinal ischemia and corresponding visual field loss.
+
+Etiology / Risk Factors:
+• Embolic disease (most commonly carotid artery plaques)
+• Cardiovascular disease
+• Hypercoagulable states
+• Giant cell arteritis (must be ruled out, especially in older patients)
+
+Associated Conditions / Workup:
+• If accompanied by optic nerve edema or retinitis → obtain serology for cat scratch disease (Bartonella henselae)
+• Refer for urgent neurologic and systemic vascular workup
+• Screen for GCA with ESR, CRP, and appropriate systemic evaluation when indicated
+
+Symptoms:
+• Sudden, painless visual field defect
+• Central vision may be spared depending on location of occlusion
+
+Clinical Signs:
+• Sectoral retinal whitening corresponding to the affected arterial branch
+• Attenuated retinal artery in involved area
+
+Management:
+• No proven ocular treatment to reverse ischemia
+• Systemic evaluation is critical to reduce risk of stroke or future vascular events
+
+Follow-up:
+• Every 3 months
+• Ongoing monitoring for systemic vascular disease and neurologic complications
+
+
+Central Retinal Artery Occlusion (CRAO)
 10 of 51
-Refer to stroke center
-If acute digital massage and IOP reduction with acetazolamide
-Repeat eye exam in 1 week (Neovascularization will occur in 20% of patients usually at 4 weeks)
 
-CSCR
+Definition:
+Acute obstruction of the central retinal artery causing profound retinal ischemia and severe, often permanent vision loss.
+
+Etiology:
+• Embolic or thrombotic occlusion
+• Common sources include carotid artery disease and cardiac emboli
+• Giant cell arteritis must be ruled out, especially in patients >50 years old
+
+Symptoms:
+• Sudden, painless, severe unilateral vision loss
+• Vision often reduced to counting fingers or worse
+
+Clinical Signs:
+• Diffuse retinal whitening
+• Cherry-red spot at the fovea
+• Attenuated retinal arteries
+• Possible visible embolus
+
+Management (Ocular Emergency):
+• Immediate referral to a stroke center
+• Attempt emergent ocular interventions if within acute window:
+– Digital ocular massage
+– IOP reduction with acetazolamide
+• Systemic vascular and neurologic evaluation is mandatory
+
+Complications:
+• Neovascularization occurs in ~20% of patients, most commonly around 4 weeks
+• Risk of neovascular glaucoma
+• High risk of future cerebrovascular events
+
+Follow-up:
+• Repeat eye examination at 1 week
+• Close monitoring for anterior segment and retinal neovascularization
+
+Central Serous Chorioretinopathy (CSCR)
 11 of 51
-Serous retinal detachment of the fovea, middle aged, type A, pregnancy, steroids
-Symptoms: Reduced VA, metamorphosia
-Signs: Abnormal foveal color (yellow), Hyperopic shift, thickening of the macula, usually unilateral but may be bilateral
-Monitor monthly until resolution
-Chronic CSCR may benefit from PDT, Eplerenone, or spironolactone
 
-Ocular Ischemic Syndrome
+Definition:
+Serous detachment of the neurosensory retina at the macula due to choroidal hyperpermeability and RPE dysfunction.
+
+Risk Factors:
+• Middle-aged adults
+• Type A personality
+• Psychological stress
+• Pregnancy
+• Corticosteroid use (systemic, topical, inhaled)
+
+Symptoms:
+• Reduced visual acuity
+• Metamorphopsia
+• Micropsia
+• Central scotoma
+
+Clinical Signs:
+• Localized serous macular detachment
+• Abnormal foveal reflex or yellowish foveal appearance
+• Hyperopic shift
+• Increased macular thickness on OCT
+• Usually unilateral, but may be bilateral
+
+Management:
+• Observation for acute CSCR (most resolve spontaneously)
+• Discontinue steroids if possible
+
+Chronic or Recurrent CSCR:
+• Photodynamic therapy (PDT)
+• Mineralocorticoid antagonists:
+– Eplerenone
+– Spironolactone
+
+Follow-up:
+• Monthly monitoring until resolution
+• Long-term follow-up for recurrent disease
+
+Ocular Ischemic Syndrome (OIS)
 12 of 51
-Usually systemic vascular disease such as HTN leads to narrowing of the carotid. Less blood flow/oxygen to eye leads to mid peripheral hemes and neovascularization
-Symptoms: Amaurosis fugax, periorbital pain, afterimages, men over age of 50
-Signs: Dilated (not tortuous) veins, narrowed arterioles, mid peripheral hemes, iris neo, neo of disc, neo of retina, collateral vessels on forehead, episcleral injection, CWS, CRAO may occur, retinal Mas
-Treatment: Carotid doppler, treat neo with anti-VEGF and PRP, control HTN and high IOP if present
-Follow Up: Refer immediately
 
-Retinopathy of Prematurity
+Definition:
+Chronic ocular hypoperfusion caused by severe carotid artery occlusive disease, most commonly secondary to long-standing systemic vascular disease.
+
+Etiology / Risk Factors:
+• Severe carotid artery stenosis or occlusion
+• Hypertension, diabetes mellitus, atherosclerosis
+• Typically affects men over age 50
+
+Pathophysiology:
+Reduced carotid blood flow leads to decreased oxygen delivery to the eye, resulting in retinal ischemia, mid-peripheral hemorrhages, and neovascularization.
+
+Symptoms:
+• Amaurosis fugax
+• Dull ocular or periorbital pain
+• Afterimages
+• Gradual vision loss
+
+Clinical Signs:
+• Dilated but NOT tortuous retinal veins
+• Narrowed retinal arterioles
+• Mid-peripheral retinal hemorrhages
+• Cotton wool spots
+• Retinal microaneurysms
+• Neovascularization of iris (NVI), disc (NVD), and retina (NVE)
+• Episcleral injection
+• Possible CRAO
+• Collateral vessels on the forehead (external carotid circulation)
+
+Management:
+• Immediate carotid Doppler / vascular workup
+• Treat neovascularization with anti-VEGF and panretinal photocoagulation (PRP)
+• Control systemic hypertension
+• Treat elevated intraocular pressure if present
+
+Follow-up:
+• Immediate referral (ocular and systemic emergency)
+
+Retinopathy of Prematurity (ROP)
 13 of 51
-Too much oxygen causes ischemia of peripheral retina which then leads to atrophy and vegf release. Associated with myopia and strabismus
-Symptoms: Infant
-Signs: Avascular peripheral retina, demarcation line
+
+Definition:
+Vasoproliferative retinal disorder in premature infants caused by disrupted retinal vascular development.
+
+Pathophysiology:
+Excess supplemental oxygen leads to vasoconstriction and ischemia of the peripheral retina, followed by retinal atrophy and subsequent VEGF-driven neovascularization.
+
+Associated Conditions:
+• High myopia
+• Strabismus
+• Retinal detachment in advanced disease
+
+Symptoms:
+• Affects infants (no subjective visual complaints)
+
+Clinical Signs:
+• Avascular peripheral retina
+• Demarcation line between vascularized and nonvascularized retina
+
 Stages:
-Flat demarcation line
-Elevated Demarcation Line
-Fibrovascular and neovascular proliferation along the demarcation line
-Patial RD (4A = Mac on, 4B = Mac off)
-Total Retinal Detatchment
-Plus Disease: At least two quadrants of engorged veins and tortuous arteries, poor pupil dilation, vitreous haze
+• Stage 1: Flat demarcation line
+• Stage 2: Elevated demarcation ridge
+• Stage 3: Fibrovascular and neovascular proliferation along the ridge
+• Stage 4: Partial retinal detachment
+  – 4A: Macula on
+  – 4B: Macula off
+• Stage 5: Total retinal detachment
+
+Plus Disease:
+• At least two quadrants of engorged retinal veins and tortuous arteries
+• Poor pupillary dilation
+• Vitreous haze
+
 Zones:
-Posterior Pole
-Zone 1 to nasal ora serrata
-The remaining temporal periphery
-Extent: number of clock hours involved
-Screening Recommendations
-Birth Weigh <1500 g
-Gestational age <31 weeks
-Treatment: Anti-VEGF/PRP for neo, treat type 1, closely monitor type 2
-Follow Up: One week
+• Zone I: Posterior pole
+• Zone II: From optic disc to nasal ora serrata
+• Zone III: Remaining temporal peripheral retina
+
+Extent:
+• Number of clock hours of retinal involvement
+
+Screening Recommendations:
+• Birth weight <1500 g
+• Gestational age <31 weeks
+
+Management:
+• Anti-VEGF therapy and/or PRP for neovascularization
+• Treat Type 1 ROP
+• Closely monitor Type 2 ROP
+
+Follow-up:
+• Weekly examinations
+
 
 Radiation Retinopathy
 14 of 51
-Exposure to over 3000 rads of radiation, within 6-24 months
-Symptoms: Asymptomatic, blurry vision if macula is involved
-Signs: Similar to DR
-Treatment: Treat ME with anti-VEGF, treat neo with anti-VEGF and PRP
 
-Coatâs Disease
+Definition:
+Radiation-induced microangiopathy of the retina occurring after therapeutic radiation exposure.
+
+Etiology / Risk Factors:
+• Exposure to >3000 rads of radiation
+• Typically develops 6–24 months after exposure
+• Common after treatment for head, neck, or orbital malignancies
+
+Pathophysiology:
+Radiation causes endothelial cell damage, leading to capillary closure, ischemia, and secondary neovascularization.
+
+Symptoms:
+• Often asymptomatic initially
+• Blurred vision if the macula is involved
+
+Clinical Signs:
+• Fundus findings similar to diabetic retinopathy, including:
+ – Microaneurysms
+ – Cotton wool spots
+ – Retinal hemorrhages
+ – Macular edema
+ – Neovascularization
+
+Management:
+• Anti-VEGF therapy for macular edema
+• Anti-VEGF and PRP for neovascularization
+
+Follow-up:
+• Regular monitoring based on severity and macular involvement
+
+Coats Disease
 15 of 51
-Unilateral permeability of blood vessels leads to exudates, not inherited, no racial predication, affects males, untreated may result in painful NVG and VD
-Symptoms: Poor vision
-Signs: Leukocoria, strabismus, telangiectatic blood vessels, lipid exudates, exudative RDs, glaucoma
-Treatment: Focal laser coagulation
-Follow Up: 6 months
+
+Definition:
+Idiopathic, nonhereditary retinal vascular disorder characterized by unilateral telangiectatic vessels and exudation.
+
+Epidemiology:
+• Typically affects males
+• Unilateral presentation
+• No racial predilection
+• Not inherited
+
+Pathophysiology:
+Abnormal retinal blood vessel permeability leads to lipid-rich exudation, progressive retinal damage, and potential retinal detachment.
+
+Symptoms:
+• Poor vision, often detected in childhood
+
+Clinical Signs:
+• Leukocoria
+• Strabismus
+• Telangiectatic retinal blood vessels
+• Extensive lipid exudates
+• Exudative retinal detachment
+• Secondary glaucoma in advanced disease
+
+Complications (Untreated):
+• Painful neovascular glaucoma
+• Vision loss
+• Retinal detachment
+
+Management:
+• Focal laser photocoagulation of abnormal vessels
+
+Follow-up:
+• Every 6 months
+
 
 Sickle Cell Retinopathy
 16 of 51
-Sickling of blood cells leads to poor blood flow and ischemia
-Symptoms: Mediterranean or African descent, floaters, sickle cell crisis (painful abdominal and or musculoskeletal pain)
-Signs: Sea Fan retinopathy, salmon patch, sclerosed peripheral vessels, dull gray peripheral fundus, sun bursts
-Stages:
-Peripheral arteriole occlusions
-Peripheral nonperfusion and AV anastomoses
-Sea Fan retinopathy
-Vitreous Hemes
-TRD
-Stages 1-2 are nonproliferative, proliferative is 3-5
-Treatment: Treat neo
-Follow up: 3 months if retinopathy, no retinopathy = annual DFE
 
-Retinal Arterial Macroaneurysm
+Definition:
+Retinal vascular disease caused by sickling of red blood cells, leading to impaired blood flow, retinal ischemia, and neovascularization.
+
+Epidemiology / Risk Factors:
+• Patients of African or Mediterranean descent
+• Sickle cell disease or trait
+• History of sickle cell crisis
+
+Pathophysiology:
+Sickled red blood cells obstruct retinal vasculature, causing peripheral ischemia, vessel occlusion, and subsequent VEGF-mediated neovascularization.
+
+Symptoms:
+• Often asymptomatic early
+• Floaters
+• Visual disturbances
+• Systemic symptoms during sickle cell crisis (painful abdominal and/or musculoskeletal pain)
+
+Clinical Signs:
+• Sea fan neovascularization
+• Salmon patch hemorrhages
+• Sclerosed peripheral retinal vessels
+• Dull gray appearance of peripheral fundus
+• Sunburst lesions (RPE hyperplasia following hemorrhage)
+
+Stages:
+• Stage 1: Peripheral arteriolar occlusions
+• Stage 2: Peripheral nonperfusion and arteriovenous anastomoses
+• Stage 3: Sea fan neovascularization
+• Stage 4: Vitreous hemorrhage
+• Stage 5: Tractional retinal detachment
+
+Classification:
+• Stages 1–2: Nonproliferative
+• Stages 3–5: Proliferative
+
+Management:
+• Treat neovascularization (e.g., laser photocoagulation or anti-VEGF as indicated)
+• Coordinate care with systemic disease management
+
+Follow-up:
+• Every 3 months if retinopathy is present
+• Annual dilated fundus examination if no retinopathy
+
+Retinal Arterial Macroaneurysm (RAM)
 17 of 51
-Old women with hypertension, usually unilateral
-Symptoms: Decreased vision
-Signs: Acute hemorrhages in multiple layers of retina, possibly with VH, white or yellow spot at center of RAM, chronic may lead to ring of HEXs, may have ME, arteriolar emboli, capillary telangiectasia, arterial or venous occlusions distal to RAM
-Treatment: Laser or watchful waiting
-Follow Up: Depends on extent, REFER
+
+Definition:
+Acquired focal dilation of a retinal arteriole, most commonly associated with systemic hypertension.
+
+Epidemiology / Risk Factors:
+• Older women
+• Hypertension
+• Usually unilateral
+
+Symptoms:
+• Decreased vision
+
+Clinical Signs:
+• Acute retinal hemorrhages in multiple retinal layers
+• Possible vitreous hemorrhage
+• White or yellow spot at the center of the macroaneurysm
+• Chronic cases may show a circinate ring of hard exudates
+• Macular edema
+• Possible arteriolar emboli
+• Capillary telangiectasia
+• Arterial or venous occlusions distal to the macroaneurysm
+
+Management:
+• Laser photocoagulation if vision-threatening
+• Observation / watchful waiting if stable
+
+Follow-up:
+• Depends on extent and macular involvement
+• Refer as indicated
+
 
 Racemose Hemangioma
 18 of 51
-Congenital (non-inherited) arteriovenous malformation of the eye and ipsilateral brain (Wyburn-Mason syndrome)
-Symptoms: Usually asymptomatic
-Signs: enormously dilated, tortuous vessels with AV communication, hemes, may have neovascular glaucoma or seizures
-No treatment
-Follow up: 6 months
-Look at Pizementi phakomytosis slides
+
+Definition:
+Congenital, nonhereditary arteriovenous malformation of the retina, often associated with ipsilateral intracranial AVMs (Wyburn–Mason syndrome).
+
+Epidemiology:
+• Congenital
+• Not inherited
+
+Symptoms:
+• Usually asymptomatic
+
+Clinical Signs:
+• Markedly dilated, tortuous retinal vessels
+• Direct arteriovenous communications
+• Retinal hemorrhages
+• Possible neovascular glaucoma
+• Possible seizures due to associated brain AVMs
+
+Management:
+• No ocular treatment
+
+Follow-up:
+• Every 6 months
+
 
 X-Linked Retinoschisis
 19 of 51
-Splitting of the retina at the NFL, congenital with vision decreasing from 20/25 to 20/80, bilateral and symmetrical
-Symptoms: decreased vision, can be asymptomatic
-Signs: foveal schisis seen as stellate maculopathy, cystoid foveal changes with retinal folds in a petaloid pattern that do not stain or leak on IVFA, but can be seen with ICGA and OCT. may have pigmented demarcation line
-Treatment: No treatment
-Follow Up: 6 months more frequently if treating amplyopia
 
-Aquired Retinoschisis
+Definition:
+Congenital retinal dystrophy characterized by splitting of the retina at the nerve fiber layer.
+
+Genetics / Epidemiology:
+• X-linked inheritance
+• Affects males
+• Bilateral and symmetrical
+
+Pathophysiology:
+Retinal splitting leads to progressive structural and functional macular changes.
+
+Symptoms:
+• Decreased vision
+• May be asymptomatic early
+• Visual acuity typically declines from 20/25 to ~20/80
+
+Clinical Signs:
+• Foveal schisis appearing as a stellate maculopathy
+• Cystoid foveal changes with petaloid retinal folds
+• Findings do NOT stain or leak on IVFA
+• Seen on OCT and ICGA
+• Possible pigmented demarcation line
+
+Management:
+• No treatment
+
+Follow-up:
+• Every 6 months
+• More frequent follow-up if treating amblyopia
+
+
+Acquired (Degenerative) Retinoschisis
 20 of 51
-Old people, peripheral retinal splitting at the OPL
-Symptoms: Usually asymptomatic
-Signs: Usually bilateral and shows sheathing of vessels, hyperopia is common no pigment cells or hemes
-Treatment: Only if RD
-Follow Up: Every 6 months
 
-Pathological Myopia
+Definition:
+Age-related retinal degeneration characterized by splitting of the peripheral retina at the outer plexiform layer (OPL).
+
+Epidemiology:
+• Occurs in older adults
+• Degenerative (not inherited)
+
+Symptoms:
+• Usually asymptomatic
+
+Clinical Signs:
+• Peripheral retinal splitting
+• Typically bilateral
+• Sheathing of retinal vessels
+• Hyperopia is common
+• No pigment cells
+• No retinal hemorrhages
+
+Complications:
+• May develop retinal detachment (rare)
+
+Management:
+• Observation
+• Treatment only if retinal detachment occurs
+
+Follow-up:
+• Every 6 months
+
+
+Pathologic (Degenerative) Myopia
 21 of 51
-Usually in >-6.00 or >26 mm axial length, hereditary component
-Symptoms: Decreased vision
-Signs: Myopic cresent, tilted disc, fuchs spot, laquer cracks, retinal holes/tears, lattice degeneration
-Treatment: Treat complications as they arise
-Follow Up: If no treatment 6 months, if treatment sooner
-Android Streaks
-Caused by PEPSI (PXE is most common), dehiscence of inner collagenous and central elastic layer
-Symptoms: Asymptomatic
-Signs: Radial streaks from ONH, Peau dâorange, CNV may occur
-Treatment: Recommend safety polycarbonate lenses for sports due to increased risk of hemes or choroidal rupture, refer for Tx of underlying disease and Tx any neo
-Follow Up: 6 Months, give Amsler grid
 
-Retinitis Pigmentosa
+Definition:
+Progressive myopia associated with axial elongation of the globe, leading to structural retinal and choroidal degeneration.
+
+Epidemiology / Risk Factors:
+• Refractive error > –6.00 D
+• Axial length > 26 mm
+• Often hereditary
+
+Symptoms:
+• Decreased visual acuity
+• May be asymptomatic until complications occur
+
+Clinical Signs:
+• Myopic crescent
+• Tilted optic disc
+• Lacquer cracks (breaks in Bruch’s membrane)
+• Fuchs spot (CNVM-related scar)
+• Lattice degeneration
+• Retinal holes or tears
+
+Complications:
+• Choroidal neovascular membrane (CNVM)
+• Retinal detachment
+• Macular degeneration
+
+Management:
+• Treat complications as they arise (anti-VEGF, laser, surgery as indicated)
+
+Follow-up:
+• Every 6 months if stable
+• Sooner if treated or new symptoms develop
+
+Angioid Streaks
+
 22 of 51
-Large family of hereditary rod-cone dystrophies (most common)
-Symptoms: Nyctelopia, tunnel vision
-Signs: Vitreous cells, bone spicules, waxy nerve, progressive VF loss
-Treatment: None
-Follow Up: Annual
+Definition:
+Linear breaks in Bruch’s membrane caused by degeneration of the elastic layer, radiating from the optic nerve head.
+
+Etiology (PEPSI):
+• Pseudoxanthoma elasticum (most common)
+• Ehlers-Danlos syndrome
+• Paget disease
+• Sickle cell disease
+• Idiopathic
+
+Symptoms:
+• Usually asymptomatic
+• Vision loss if CNVM develops
+
+Clinical Signs:
+• Radial, crack-like streaks from the optic nerve head
+• Peau d’orange appearance
+• Increased risk of choroidal neovascularization
+
+Complications:
+• Subretinal hemorrhage
+• Choroidal rupture
+• CNVM
+
+Management:
+• Polycarbonate safety lenses for sports (high hemorrhage risk)
+• Refer for systemic disease management
+• Anti-VEGF therapy for CNVM if present
+
+Follow-up:
+• Every 6 months
+• Provide Amsler grid for home monitoring
+
+Retinitis Pigmentosa (RP)
+22 of 51
+
+Definition:
+A large group of inherited retinal dystrophies characterized by progressive rod–cone degeneration (most common hereditary retinal degeneration).
+
+Genetics:
+• Autosomal dominant
+• Autosomal recessive
+• X-linked
+
+Symptoms:
+• Nyctalopia (night blindness) – earliest symptom
+• Peripheral vision loss (“tunnel vision”)
+• Progressive decrease in visual acuity in later stages
+
+Clinical Signs:
+• Bone-spicule pigmentation in the mid-peripheral retina
+• Waxy pallor of the optic nerve
+• Attenuated retinal vessels
+• Vitreous cells
+• Progressive visual field constriction
+
+Complications:
+• Posterior subcapsular cataracts
+• Cystoid macular edema
+• Legal blindness in advanced disease
+
+Management:
+• No curative treatment
+• Low-vision rehabilitation when indicated
+• Manage associated complications as needed
+
+Follow-up:
+• Annual dilated fundus examination
 
 Familial Dominant Drusen
 23 of 51
-AD inheritance and onset before age 20
-Symptoms: non early on than significant vision loss in 40s-50s
-Signs: Central drusen with more appearing on IVFA, later coalescing into honeycomb appearance
-Treatment: Treat CNVM
-Follow Up: Annually
 
-Stargart Disease
+Definition:
+Autosomal dominant retinal dystrophy characterized by early-onset drusen formation, distinct from age-related macular degeneration.
+
+Genetics / Epidemiology:
+• Autosomal dominant inheritance
+• Onset typically before age 20
+
+Symptoms:
+• Often asymptomatic early
+• Progressive central vision loss in the 40s–50s
+
+Clinical Signs:
+• Central drusen
+• Increased drusen visibility on IVFA
+• Drusen may coalesce, producing a honeycomb appearance
+
+Complications:
+• Choroidal neovascular membrane (CNVM)
+
+Management:
+• Treat CNVM if present
+
+Follow-up:
+• Annual examination
+
+Stargardt Disease (Juvenile Macular Degeneration)
 24 of 51
-Most common hereditary macular disease, AR inheritance, onset in their 20s
-Symptoms: Decreased vision not consistent with fundus findings
-Signs: yellow/white flecks, atrophic macular degeneration, bulls eye maculopathy, beaten bronze appearance, ERG typically normal, EOG may be subnormal, silent choroid on IVFA
-Treatment: None (Avoid UV and no Vit A supplement)
-Follow Up: Annually
+
+Definition:
+The most common hereditary macular dystrophy, causing progressive central vision loss.
+
+Genetics / Epidemiology:
+• Autosomal recessive inheritance
+• Onset typically in childhood or early adulthood (teens–20s)
+
+Symptoms:
+• Decreased central vision
+• Visual acuity loss often out of proportion to fundus findings
+
+Clinical Signs:
+• Yellow-white pisciform flecks
+• Macular atrophy
+• Bull’s-eye maculopathy
+• Beaten bronze appearance of the macula
+• ERG usually normal
+• EOG may be subnormal
+• Silent choroid on IVFA (classic board finding)
+
+Management:
+• No treatment
+• Avoid vitamin A supplementation
+• Avoid excessive UV exposure
+
+Follow-up:
+• Annual examination
+
 
 Best Disease (Vitelliform Macular Dystrophy)
 25 of 51
-AD inheritance
-Symptoms: Scotoma, metamorphopsia, decreased vision, asymptomatic
-Signs: Egg yolk lesion, typically bilateral, abnormal EOG, may develop CNVM
-Treatment: None (treat CNVM)
-Follow Up: Annually
 
-Familial Exudative Vitreoretinopathy
+Definition:
+An inherited macular dystrophy characterized by lipofuscin accumulation in the RPE.
+
+Genetics / Epidemiology:
+• Autosomal dominant inheritance
+
+Symptoms:
+• Asymptomatic early
+• Scotoma
+• Metamorphopsia
+• Decreased central vision
+
+Clinical Signs:
+• “Egg-yolk” vitelliform lesion at the macula
+• Typically bilateral
+• Abnormal EOG (key diagnostic feature)
+• ERG often normal
+• May develop CNVM
+
+Management:
+• No treatment
+• Treat CNVM if present
+
+Follow-up:
+• Annual examination
+
+
+Familial Exudative Vitreoretinopathy (FEVR)
+
 26 of 51
-Usually bilateral and AD, looks like ROP but patients arenât premature
-Symptoms: Asymptomatic, decreased vision
-Signs: Vascular dragging and peripheral vascular nonperfusion, vessels with fimbrated border, present at birth
-Treatment: Treat CNVM or RDs if present
-Follow Up: Annually
 
-Lebers Congenital Amaurosis
-27 of 51
-Most common congenital cause of blindness in children, loss of photoreceptor outer segments and ONL
-Symptoms: Progressive visual loss in one than the other eye within days to months of each other
-Signs: Mild swelling of optic disc, telangiectasias that donât leak, cecocentral visual field defect
-Treatment: new gene therapy
-Follow Up: Annually
-Looks a lot like RP
+Definition:
+A hereditary retinal vascular disorder resembling retinopathy of prematurity (ROP) in full-term infants.
 
-Angiomatosis Retinae (Von Hippel-Lindau Syndrome)
+Genetics / Epidemiology:
+• Usually autosomal dominant
+• Typically bilateral
+• Present at birth
+• Patients are not premature
+
+Symptoms:
+• Often asymptomatic
+• May have decreased vision
+
+Clinical Signs:
+• Peripheral retinal avascularity
+• Vascular dragging
+• Fimbrated vascular borders
+• Peripheral nonperfusion
+• May develop retinal detachment or CNVM
+
+Management:
+• Treat CNVM or retinal detachment if present
+
+Follow-up:
+• Annual examination
+
+
+Definition:
+A severe inherited retinal dystrophy and the most common congenital cause of blindness in children, caused by dysfunction or loss of photoreceptor outer segments and the outer nuclear layer (ONL).
+
+Genetics / Epidemiology:
+• Usually autosomal recessive
+• Presents at birth or within the first year of life
+
+Symptoms:
+• Severe visual impairment from infancy
+• Poor visual fixation
+• Nystagmus
+• Vision loss is bilateral (not sequential eye-to-eye like optic neuritis)
+
+Clinical Signs:
+• Poor pupillary light response
+• Mild optic disc swelling or pallor
+• Retinal telangiectasia that does not leak on IVFA
+• Cecocentral visual field defects
+• Fundus appearance may be relatively normal early
+• Severely reduced or absent ERG (key diagnostic feature)
+
+Differential Diagnosis:
+• Retinitis pigmentosa (LCA is earlier and more severe)
+• Other congenital retinal dystrophies
+
+Management:
+• Gene therapy available for specific mutations (e.g., RPE65)
+• Low-vision rehabilitation
+• Genetic counseling
+
+Follow-up:
+• Annual examination
+
+Angiomatosis Retinae (Von Hippel–Lindau Syndrome)
 28 of 51
-Tumor suppressor gene mutation causing hemangiomas in the retina and hemangioblastomas in the brain
-Symptoms: Asymptomatic
-Signs: hemangioma with dilated feeding artery and draining vein, hemangioblastoma in the brain ipsilaterally
-Treatment: None unless symptomatic than laser
-Follow Up: Annual DFE
 
-Progressive Cone Dystrophy
-29 of 51
-Cones than rods are fucked (20-40 year old onset)
-Gyrate Atrophy
-AR inheritance with increased levels of plasma ornithine with decreased lysine
-Symptoms: Nyctalopia or restricted VF
-Signs: Scalloped chorioretinal atrophy migrating posteriorly
-Treatment: Restrict arginine consumption, B6 supplements
-Follow Up: Annually
+Definition:
+An autosomal dominant tumor suppressor gene disorder characterized by retinal capillary hemangiomas and central nervous system hemangioblastomas.
 
-Acute Retinal Necrosis
+Genetics / Epidemiology:
+• Autosomal dominant inheritance
+• Mutation in the VHL tumor suppressor gene
+
+Symptoms:
+• Often asymptomatic
+• Visual symptoms may occur if lesions cause exudation, edema, or retinal detachment
+
+Clinical Signs:
+• Retinal capillary hemangioma
+• Dilated feeding artery and draining vein (classic appearance)
+• Possible exudation, hemorrhage, or tractional changes
+• Ipsilateral cerebellar or brain hemangioblastomas
+
+Systemic Associations:
+• CNS hemangioblastomas
+• Renal cell carcinoma
+• Pheochromocytoma
+• Pancreatic cysts or tumors
+
+Management:
+• Observation if asymptomatic
+• Laser photocoagulation or cryotherapy if lesions are symptomatic or progressive
+• Multidisciplinary systemic surveillance
+
+Follow-up:
+• Annual dilated fundus examination
+
+Gyrate Atrophy of the Choroid and Retina
+
 30 of 51
-Associated with varicella zoster, and herpes zoster
-Symptoms: Pain, blurry vision, photophobia
-Signs: One or more foci of retinal necrosis with discrete borders in the peripheral retina, rapid progression of the diseasae in the absence of antiviral therapy, circumferential spread, evidence of occlusive vasculopathy with arterial involvement, and prominent inflammation of vitreous and anterior chamber. Macula typically spared in the early disease. RRD in ~70% of patients
-Treatment: Antiviral therapy, possibly systemic steroids, topical cycloplegic
-Follow Up: Daily
+
+Definition:
+A rare inherited chorioretinal degeneration caused by ornithine aminotransferase deficiency, leading to toxic elevation of plasma ornithine.
+
+Genetics / Epidemiology:
+• Autosomal recessive inheritance
+
+Pathophysiology:
+• Elevated plasma ornithine
+• Often associated with decreased lysine levels
+
+Symptoms:
+• Nyctalopia
+• Progressive peripheral visual field constriction
+
+Clinical Signs:
+• Scalloped areas of chorioretinal atrophy
+• Lesions begin in the periphery and progress posteriorly
+• High myopia may be present
+
+Management:
+• Dietary arginine restriction
+• Vitamin B6 (pyridoxine) supplementation in responsive patients
+
+Follow-up:
+• Annual examination
+
+
+Acute Retinal Necrosis (ARN)
+
+30 of 51
+
+Etiology:
+• Herpes viruses
+– Varicella zoster virus (VZV)
+– Herpes simplex virus (HSV)
+
+Symptoms:
+• Ocular pain
+• Blurry vision
+• Photophobia
+
+Clinical Signs:
+• One or more foci of peripheral retinal necrosis with discrete borders
+• Rapid circumferential spread without antiviral therapy
+• Occlusive retinal vasculitis (arterial involvement)
+• Prominent vitreous and anterior chamber inflammation
+• Macula typically spared early
+• Rhegmatogenous retinal detachment (~70%)
+
+Treatment:
+• Systemic antiviral therapy (urgent)
+• Possible systemic corticosteroids
+• Topical cycloplegics
+
+Follow-up:
+• Daily
+
+⸻
 
 Toxoplasmosis
+
 31 of 51
-Parasite toxoplasma gondii, either acquired infection but usually congenital from maternal exposure
-Symptoms: Blurred vision and photophobia, may have pain, redness, photophobia
-Signs: Headlights in fog, scar with adjacent active infection
-Treatment: Treat active infection with Bactrim (Trimethoprim + sulfamethazole) and pyrimethamine (Tripple therapy). Supplement with folinic acid.
-Follow Up: Weekly CBC during pyrimethamine treatment, 3 days for ocular assessment
+
+Etiology:
+• Toxoplasma gondii
+• Usually congenital, but may be acquired
+
+Symptoms:
+• Blurred vision
+• Photophobia
+• May have pain and redness
+
+Clinical Signs:
+• “Headlights in the fog” appearance
+• Old chorioretinal scar with adjacent active retinitis
+
+Treatment:
+• Treat active infection only
+• Triple therapy:
+– Trimethoprim–sulfamethoxazole (Bactrim)
+– Pyrimethamine
+– Folinic acid supplementation
+
+Follow-up:
+• CBC weekly during pyrimethamine therapy
+• Ocular reassessment in 3 days
+
+⸻
+
 Toxocariasis
-Ingestion of dog shit that has the nematode toxocara canis
-Symptoms: Blurry Vision
-Signs: endophthalmitis, leukocoria, posterior pole granuloma
-Treatment: Steroids and cyclo for uveitis
-Follow Up: 3 days
+
+32 of 51
+
+Etiology:
+• Ingestion of Toxocara canis (dog roundworm)
+
+Symptoms:
+• Blurred vision
+
+Clinical Signs:
+• Leukocoria
+• Posterior pole granuloma
+• Endophthalmitis-like inflammation
+
+Treatment:
+• Systemic corticosteroids
+• Cycloplegics for uveitis
+
+Follow-up:
+• 3 days
+
+⸻
 
 Primary Intraocular Lymphoma
-32 of 51
-Usually starts in the brain, can present in the optic nerve
-Symptoms: Blurry vision
-Signs: Vitreous Cells, subretinal and sub-RPE lesions
-Treatment: Refer for oncologist evaluation
-Follow Up: They will die within 2 years
-Oncologist with confirm with MRI, LP, bone marrow biopsy
+
+33 of 51
+
+Etiology:
+• Typically originates as primary CNS lymphoma
+• May involve vitreous, retina, or optic nerve
+
+Symptoms:
+• Blurry vision
+
+Clinical Signs:
+• Vitreous cells
+• Subretinal and sub-RPE infiltrates
+
+Management:
+• Immediate referral to oncology
+• Diagnosis confirmed with:
+– MRI
+– Lumbar puncture
+– Bone marrow biopsy
+
+Prognosis:
+• Poor (median survival ≈ 2 years)
+
+Follow-up:
+• Managed by oncology
+
 
 Posterior Scleritis
+
 33 of 51
-Very serious potentially blinding disease, usually women age 20-30
-Symptoms: pain with eye movement, deep boring pain
-Signs: Red-orange elevation of the posterior pole, usually has RDs ore choroidal folds. Limited EOM movement with rapid onset hyperopia
-Treatment: systemic steroids
-Follow Up: Days to weeks depending on severity
+
+Epidemiology:
+• Rare but potentially vision-threatening
+• More common in women aged 20–30
+
+Symptoms:
+• Severe deep, boring ocular pain
+• Pain with eye movements
+
+Clinical Signs:
+• Red-orange elevation of the posterior pole
+• Associated serous retinal detachments and/or choroidal folds
+• Restricted extraocular movements
+• Rapid onset hyperopic shift
+
+Treatment:
+• Systemic corticosteroids
+
+Follow-up:
+• Days to weeks, depending on severity and response
+
+⸻
 
 Thioridazine Retinopathy
-34 of 51
-Antipsychotic medication that causes accumulation of pigment in the eye
-Symptoms: Brown discoloration of vision, nyctalopia, blurry vision, ring scotoma
-Signs: Pigment clumping in the mid-periphery of retina, salt and pepper fundus, optic atrophy, attenuated vessels, bone spicules
-Treatment: Discontinue Medication
-Follow Up: Annually to monitor for toxicity
-Retinoblastoma
-Most common primary intraocular malignancy in children
-Symptoms: Parents may notice leukocoria, strabismus
-Signs: Unilateral dome shaped cream colored tumor with evidence of calcification.
-Treatment: Enucleation
-Follow Up: Immediate referral
 
-CHRPE
+34 of 51
+
+Etiology:
+• Toxic retinopathy from thioridazine (antipsychotic medication)
+• Due to drug-induced pigment accumulation
+
+Symptoms:
+• Brown discoloration of vision
+• Nyctalopia
+• Blurry vision
+• Ring scotoma
+
+Clinical Signs:
+• Mid-peripheral pigment clumping
+• Salt-and-pepper fundus
+• Optic atrophy
+• Attenuated retinal vessels
+• Bone spicule pigmentation (late)
+
+Management:
+• Immediate discontinuation of medication
+
+Follow-up:
+• Annual monitoring for progression/toxicity
+
+⸻
+
+Retinoblastoma
+
 35 of 51
-Present at birth and wont go away with red free
-Symptoms: Asymptomatic
-Signs: well demarcated may have lacunae, bear tracks are not hamartomas associated with gardnerâs syndrome
-Treatment: none
-Follow Up: Annual exam
+
+Epidemiology:
+• Most common primary intraocular malignancy in children
+
+Symptoms:
+• Leukocoria noticed by parents
+• Strabismus
+
+Clinical Signs:
+• Unilateral dome-shaped cream-colored intraocular mass
+• Calcification within the tumor (key diagnostic feature)
+
+Treatment:
+• Enucleation
+
+Follow-up:
+• Immediate referral (oncologic emergency)
+
+⸻
+
+Congenital Hypertrophy of the Retinal Pigment Epithelium (CHRPE)
+
+36 of 51
+
+Etiology:
+• Congenital, present at birth
+• Lesions persist and do not disappear with red-free light
+
+Symptoms:
+• Asymptomatic
+
+Clinical Signs:
+• Well-demarcated flat pigmented lesion
+• May contain lacunae
+• Bear tracks variant
+• Solitary CHRPE not associated with Gardner syndrome
+
+Treatment:
+• None
+
+Follow-up:
+• Annual examination
+
+⸻
 
 Macular Telangiectasia
-36 of 51
-Three types of idiopathic mactels
-Symptoms: Progressive loss of central vision
-Signs: 3 types of
-Exudates found in the perifovea and periphery, middle aged men (similar to coats disease)
-Neurodegenerative changes entered temporal to foveal center with characteristic ILM drape on OCT, exudates and hemes from CNV, atrophy and pigmentary changes
-Occlusive telangiectasia, extremely rare 6th decade of life
-Treatment: Anti-VEGF for CNV
-Follow up: 6 months send home with Amsler grid
+
+37 of 51
+
+Etiology:
+• Idiopathic retinal vascular disorder
+• Three recognized subtypes
+
+Symptoms:
+• Progressive central vision loss
+
+Clinical Signs:
+
+Type 1 (Aneurysmal):
+• Perifoveal and peripheral exudates
+• Typically affects middle-aged men
+• Similar appearance to Coats disease
+
+Type 2 (Perifoveal Neurodegenerative – most common):
+• Temporal parafoveal graying
+• ILM drape sign on OCT
+• CNV with exudates and hemorrhages
+• Progressive retinal atrophy and pigmentary changes
+
+Type 3 (Occlusive):
+• Extremely rare
+• Presents in the 6th decade of life
+
+Treatment:
+• Anti-VEGF therapy for associated CNV
+
+Follow-up:
+• Every 6 months
+• Home Amsler grid monitoring
 
 Macular Hole
+
 37 of 51
-Can be caused by traction, edema, trauma, or idiopathic.
-Symptoms: Blurred vision
-Signs: 4 stages
 
-Impending Hole
-38 of 51
-Small full thickness hole (open can appearance on OCT)
-Full thickness hole with no Weiss ring
-Full thickness hole with Weiss ring
-Treatment: Treat full thickness holes with vitrectomy and membrane peel, stage 1 and 2 no treatment
-Follow Up: 6 months
+Etiology:
+• Vitreomacular traction
+• Macular edema
+• Ocular trauma
+• Idiopathic (most common)
 
-Cystoid Macular Edema
+Symptoms:
+• Blurred or decreased central vision
+• Metamorphopsia may be present
+
+Clinical Signs:
+• Full-thickness defect of the fovea
+• Best visualized on OCT
+
+Stages:
+
+Stage 1 – Impending Macular Hole:
+• Foveal detachment without full-thickness defect
+• Yellow spot or ring
+• No full-thickness hole on OCT
+
+Stage 2 – Small Full-Thickness Hole:
+• Small full-thickness macular hole
+• Open-can appearance on OCT
+• No Weiss ring
+
+Stage 3 – Full-Thickness Hole (No Weiss Ring):
+• Larger full-thickness macular hole
+• Persistent vitreomacular traction
+
+Stage 4 – Full-Thickness Hole (With Weiss Ring):
+• Complete posterior vitreous detachment
+• Visible Weiss ring
+
+Management:
+• Stages 1–2: Observation (no treatment)
+• Stages 3–4: Pars plana vitrectomy with internal limiting membrane peel
+
+Follow-up:
+• Every 6 months if observed
+• Postoperative follow-up as directed by retina specialist
+
+
+Cystoid Macular Edema (CME)
+
 39 of 51
-DEPRIVENS cause CME (Diabetes, Epinephrine, pars planitis, RP, Irvine gass, vein occlusion, E2-prostoglandins, nicotinic acid, surgery) Within 3 months of cataract surgery = Irvine-Gass syndrome
-Symptoms: Blurred central vision
-Signs: Loss of FLR and possible exudates, OCT shows cysts, IVFA pattern with early leakage and late petaloid staining
-Treatment: Topical NSAIDs, topical steroids, discontinue prostaglandins. If lasts longer than 3 months consider intravitral/sub-tenons steroids
-Follow Up: 4 weeks
 
-Age Related Macular Degeneration (Dry)
+Etiology (DEPRIVENS):
+• Diabetes
+• Epinephrine
+• Pars planitis
+• Retinitis pigmentosa
+• Irvine–Gass syndrome
+• Vein occlusion
+• E2 prostaglandins
+• Nicotinic acid
+• Surgery
+
+• CME occurring within 3 months of cataract surgery = Irvine–Gass syndrome
+
+Symptoms:
+• Blurred or decreased central vision
+
+Clinical Signs:
+• Loss of foveal light reflex
+• Possible hard exudates
+• OCT: Intraretinal cystic spaces
+• IVFA: Early leakage with late petaloid staining
+
+Management:
+• Topical NSAIDs
+• Topical corticosteroids
+• Discontinue prostaglandin analogs if possible
+• If persistent >3 months → intravitreal or sub-Tenon’s steroids
+
+Follow-up:
+• 4 weeks
+
+⸻
+
+Age-Related Macular Degeneration (Dry / Nonexudative)
+
 40 of 51
-Drusen of the retina secondary to deterioration of the RPE, bruchs membrane, and/or choriocapillaris. Risk factors are whites, UV exposure, age, family history, high cholesterol and smoking
-Symptoms: Blurry vision, loss of central vision, metamorphopsia, and central scotoma
-Signs: Macular drusen, RPE mottling, RPE atrophy, bilateral
-Treatment: 1 large druse (>125 um) or >20 drusen is intermediate and this is when AREDS supplements should be started, UV protection, stop smoking
-Follow Up: Daily Amsler Grid, 6 months
 
-Age Related Macular Degeneration (Wet)
+Pathophysiology:
+Degeneration of the RPE, Bruch’s membrane, and choriocapillaris
+
+Risk Factors:
+• Increasing age
+• Caucasian race
+• UV exposure
+• Family history
+• Smoking
+• Hypercholesterolemia
+
+Symptoms:
+• Blurred vision
+• Gradual central vision loss
+• Metamorphopsia
+• Central scotoma
+
+Clinical Signs:
+• Macular drusen
+• RPE mottling
+• Geographic atrophy
+• Bilateral involvement
+
+Management:
+• AREDS supplementation if:
+– ≥1 large druse (>125 µm) OR
+– ≥20 intermediate drusen
+• UV protection
+• Smoking cessation
+
+Follow-up:
+• Daily Amsler grid
+• Every 6 months
+
+⸻
+
+Age-Related Macular Degeneration (Wet / Exudative)
+
 41 of 51
-ARMD with associated CNVM
-Symptoms: See above
-Signs: Drusen, SRF, ME, RPE detatchments, CNVM
-Treatment: Anti-VEGF
-Follow Up: TAE (Urgent=days, semi-urgent=2 weeks, non-urgent=3 months)
 
-Epiretinal Membrane
+Pathophysiology:
+Dry AMD with development of choroidal neovascular membrane (CNVM)
+
+Symptoms:
+• Same as dry AMD
+• More rapid vision loss
+
+Clinical Signs:
+• Drusen
+• Subretinal fluid
+• Macular edema
+• RPE detachments
+• CNVM
+
+Management:
+• Intravitreal anti-VEGF therapy
+
+Follow-up (TAE):
+• Urgent: Days
+• Semi-urgent: 2 weeks
+• Non-urgent: 3 months
+
+⸻
+
+Epiretinal Membrane (ERM)
+
 42 of 51
-Proliferation of glial cells, may contract and cause cellophane retinopathy
-Symptoms: Blurred vision, metamorphopsia, asymptomatic
-Signs: Glittery macula, strange foveal appearance, macular pucker
-Treatment: If >20/60 none if worse vitrectomy with membrane peel
-Follow Up: Annual
-Choroid
+
+Pathophysiology:
+Proliferation of glial cells on the retinal surface causing traction
+(“Cellophane retinopathy”)
+
+Symptoms:
+• Blurred vision
+• Metamorphopsia
+• May be asymptomatic
+
+Clinical Signs:
+• Glittery macular reflex
+• Distorted foveal contour
+• Macular pucker
+
+Management:
+• VA better than 20/60: Observation
+• VA worse than 20/60: Vitrectomy with membrane peel
+
+Follow-up:
+• Annually
+
 
 Choroidal Melanoma
+
 43 of 51
-Most common primary intraocular malignancy in adults, metastasize to the liver. Cutaneous melanoma is 20x more common than intraocular. Main peak in incidence is 55-65 (Males = Females), smaller peak is 20-40 (Females>Males)
-Symptoms: May have blurry vision, metamorphopsia, visual field loss and floaters and photopsias
-Signs: To Find Small Ocular Melanomas Use Helpful Hints Daily, there is no pathognomotnic sign of choroidal melanoma, Diameter >10 mm is suspect, reciruclulation seen on FA, ICGA very useful
-Thickness >2mm
-Fluid = subretinal fluid
-Symptomatic
-Orange Pigment
 
-Margin Touching Optic Nerve
-44 of 51
+Epidemiology:
+• Most common primary intraocular malignancy in adults
+• Metastasizes most commonly to the liver
+• Cutaneous melanoma is ~20× more common than intraocular
+• Peak incidence:
+– 55–65 years (M = F)
+– 20–40 years (F > M)
 
-Ultrasonographic Hollowness
-45 of 51
-Halo Absence
+Symptoms:
+• Blurry vision
+• Metamorphopsia
+• Visual field loss
+• Floaters
+• Photopsias
 
-Drusen Absence
-46 of 51
-Treatment: Refer to oncologist for either plaque radiation, chemo, and/or enucleation. No difference in 5 year mortality for medium size melanomas treated with enucleation versus plaque radiotherapy. Observation is adequate for tumors >1mm thick
-Follow Up: Monitor nevi 6 months with photos for growth, if <3 signs monitor every month, if >3 signs or (+) subretinal fluid refer
-Choroidal METS
-Most common intraocular malignancy in adults. Usually from lungs in men and breast cancer in women
-Symptoms: May be asymptomatic, blurry vision, metamorphopsia, photopsias
-Signs: Yellow-white elevated lesion with pigmented clumps and possible serous retinal detatchment
-Treatment: Underlying cancer treatment
-Immediate referral
+Clinical Signs:
+• No single pathognomonic sign
+• Diameter >10 mm is suspicious
+• Recirculation seen on FA
+• ICGA is very useful
+
+Helpful Hints Daily (Small Ocular Melanoma Risk Factors):
+• Thickness >2 mm
+• Subretinal fluid
+• Symptoms present
+• Orange pigment
+• Margin touching optic nerve
+• Ultrasonographic hollowness
+• Halo absence
+• Drusen absence
+
+Management:
+• Refer to ocular oncologist
+• Plaque radiotherapy, chemotherapy, or enucleation
+• No difference in 5-year mortality between plaque radiation vs enucleation for medium-sized melanomas
+• Observation acceptable for tumors <1 mm thickness
+
+Follow-up:
+• Nevi: Fundus photos every 6 months
+• <3 risk factors → monitor monthly
+• ≥3 risk factors or (+) subretinal fluid → refer
+
+⸻
+
+Choroidal Metastasis
+
+Epidemiology:
+• Most common intraocular malignancy overall
+• Primary source:
+– Lung (men)
+– Breast (women)
+
+Symptoms:
+• May be asymptomatic
+• Blurry vision
+• Metamorphopsia
+• Photopsias
+
+Clinical Signs:
+• Yellow-white elevated lesion
+• Pigmented clumps
+• Possible serous retinal detachment
+
+Management:
+• Treat underlying systemic malignancy
+• Immediate referral
+
+⸻
+
 Choroideremia
-X-Linked recessive inheritance, usually presents around 20-30 years old and remains stable until 50-60 when they become legally blind
-Symptoms: Nyctalopia and tunnel vision, photophobia
-Signs: Peripheral atrophy of the choriocapillaris with macular sparing
-Treatment: None, low vision consult and genetic counselling
-Follow Up: Monitor annually
+
+46 of 51
+
+Inheritance:
+• X-linked recessive
+
+Epidemiology:
+• Onset: 20–30 years
+• Stable until 50–60 years → legal blindness
+
+Symptoms:
+• Nyctalopia
+• Tunnel vision
+• Photophobia
+
+Clinical Signs:
+• Peripheral atrophy of the choriocapillaris
+• Relative macular sparing
+
+Management:
+• No curative treatment
+• Low-vision consultation
+• Genetic counseling
+
+Follow-up:
+• Annually
+
+⸻
 
 Central Areolar Choroidal Dystrophy
-47 of 51
-Autosomal Dominant inheritance with presentation around 30-40 with progression to legal blindness by 60-70
-Symptoms: Blurry vision and central scotoma
-Signs: Early hypopigmentation of macula progressing to geographic atrophy
-Treatment: None (Genetic counseling and low vision rehab)
-Follow Up: Monitor annually
 
-Serpinginous Chroroidopathy
+47 of 51
+
+Inheritance:
+• Autosomal dominant
+
+Epidemiology:
+• Onset: 30–40 years
+• Progresses to legal blindness by 60–70
+
+Symptoms:
+• Blurry vision
+• Central scotoma
+
+Clinical Signs:
+• Early macular hypopigmentation
+• Progressive geographic atrophy
+
+Management:
+• No treatment
+• Genetic counseling
+• Low-vision rehabilitation
+
+Follow-up:
+• Annually
+
+⸻
+
+Serpiginous Choroidopathy
+
 48 of 51
-Associated with HLA-B7 and is idiopathic. Usually found in 50-60 year old men. Must rule out TB as it can present similarly
-Symptoms: Central blurry vision unilateral or bilateral
-Signs: Lesions beginning at the optic nerve and progressing towards the macula. Active lesions will be grey/white while old lesions will atrophy and scar. CNVM in 25% of cases
-Treatment: Start with oral or local steroids progressing to immunomodulating therapy. Treat CNVM with anti-VEGF
-Follow Up: As inidicated by severity of signs and symptoms
-Candidiasis
-Fungal infection from candida usually occurs in IV drug abusers and chronically immunosuppressed patients
-Symptoms: Bilateral blurry vision and floaters
-Signs: Yellow-white choroidal lesions. With time they will increase in size break apart and create âcotton ballsâ or âstring of pearlsâ
-Treatment: Hospitalization with flucozinole p.o. or IV voriconazole, other IV/oral antifungals are options. Intravitreal amphotericin B may be indicated
-Follow Up: Daily
+
+Etiology:
+• Idiopathic
+• Associated with HLA-B7
+• Typically affects men aged 50–60
+• Tuberculosis must be ruled out
+
+Symptoms:
+• Central blurry vision
+• Unilateral or bilateral
+
+Clinical Signs:
+• Lesions begin near the optic nerve head and progress toward the macula
+• Active lesions: gray-white
+• Old lesions: atrophy and scarring
+• CNVM in ~25% of cases
+
+Management:
+• Oral or local corticosteroids
+• Escalate to immunomodulatory therapy if recurrent
+• Treat CNVM with anti-VEGF
+
+Follow-up:
+• Based on severity and disease activity
+
+⸻
+
+Candidiasis (Endogenous Fungal Choroiditis)
+
+Etiology:
+• Candida species
+• Occurs in IV drug users or chronically immunosuppressed patients
+
+Symptoms:
+• Bilateral blurry vision
+• Floaters
+
+Clinical Signs:
+• Yellow-white choroidal lesions
+• Progress to “cotton balls” or “string of pearls” appearance
+
+Management:
+• Hospitalization
+• Oral fluconazole or IV voriconazole
+• Other systemic antifungals as indicated
+• Intravitreal amphotericin B if needed
+
+Follow-up:
+• Daily
+
+⸻
 
 Serous Choroidal Detachment
+
 49 of 51
-Usually occurs in hypotony secondary to open globe wound
-Symptoms: Asymptomatic if mild and peripheral to progressive vision loss if more severe
-Signs: Smooth bullous orange elevation of retina, transillumination, may have âkissingâ appearance on B-scan if severe
-Treatment: Close the wound (bandage CL, glue, suture) and increase IOP
-Follow Up: Daily (REFER!)
+
+Etiology:
+• Hypotony, commonly secondary to open globe injury
+
+Symptoms:
+• Often asymptomatic if mild and peripheral
+• Progressive vision loss if severe
+
+Clinical Signs:
+• Smooth, bullous orange choroidal elevation
+• Positive transillumination
+• “Kissing” choroids on B-scan if severe
+
+Management:
+• Close wound (bandage CL, tissue glue, or sutures)
+• Increase IOP
+
+Follow-up:
+• Daily – REFER
+
+⸻
 
 Hemorrhagic Choroidal Detachment
+
 50 of 51
-Usually caused by hemorrhaging during anterior segment surgery, AC will narrow as bleeding progresses
-Symptoms: Severe pain with rapidly decreasing vision, red and inflamed eye
-Signs: No transillumination but same as serous
-Treatment: Close wound immediately, sclerotomy to drain blood
-Follow Up: REFER, daily
+
+Etiology:
+• Hemorrhage during anterior segment surgery
+
+Symptoms:
+• Severe pain
+• Rapid vision loss
+• Red, inflamed eye
+
+Clinical Signs:
+• Similar to serous detachment
+• No transillumination
+• Progressive shallowing of anterior chamber
+
+Management:
+• Immediate wound closure
+• Sclerotomy to drain blood
+
+Follow-up:
+• Immediate referral – daily
+
+⸻
 
 Birdshot Chorioretinopathy (Vitiliginous Chorioretinitis)
+
 51 of 51
-Associated with HLA-A29, chronic inflammation seen in women aged 40-60, bilateral
-Symptoms: Blur, photopsia, nyctalopia
-Signs: Multiple creamy yellow-white spots that spare the macula. Vitritis, retinal vasculitis, and cystoid macular edema may be present. Atrophy and choroidal hypopigmentation may occur
-Treatment: Systemic steroids (oral prednisolone) followed by systemic immunomodulatory therapies, periocular or intravitreal steroids may be used especially for CME
-Follow Up: 1 week to assess response to treatment
+
+Etiology:
+• Associated with HLA-A29
+• Chronic bilateral inflammation
+• Typically women aged 40–60
+
+Symptoms:
+• Blurred vision
+• Photopsia
+• Nyctalopia
+
+Clinical Signs:
+• Multiple creamy yellow-white lesions sparing the macula
+• Vitritis
+• Retinal vasculitis
+• Cystoid macular edema
+• Choroidal hypopigmentation and atrophy
+
+Management:
+• Systemic corticosteroids (oral prednisone)
+• Long-term systemic immunomodulatory therapy
+• Periocular or intravitreal steroids for CME
+
+Follow-up:
+• 1 week to assess treatment response
