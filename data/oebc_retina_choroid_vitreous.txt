@@ -1,11 +1,7 @@
-Retina/Choroid/Vitreous – Overview
-1 of 36
-Retina
-
 Diabetic Retinopathy
-2 of 36
+1 of 51
 Leading Cause of blindness in US ppl aged 20-64. Number one risk factor is duration of diabetes next is poor control/large fluctuations in plasma glucose
-Severity Scale
+Severity Scale:
 Mild NPDR: MAs only
 Moderate NPDR: More than mild less than sever
 Severe NPDR: 4-2-1 Rule
@@ -13,11 +9,11 @@ Severe NPDR: 4-2-1 Rule
 2 quadrants of venous beading
 1 quadrant of IRMA
 PDR: Presence of neovascularization
-High Risk
+High Risk:
 >1/4 DD of NVD
 NVD with VH or preretinal heme
 NVE with VH or preretinal heme
-CSME
+CSME:
 Exudates within 500 um of fovea with thickening
 Thickening > 1DD within 1 DD of fovea
 Thickening within 500 um of fovea
@@ -28,14 +24,16 @@ CME: Anti-VEGF followed by steroids if poor response
 High Risk PDR: PRP
 PDR (not high risk) w/ or w/o CME: Anti-VEGF
 PPV Indications: Dense non clearing VH, tractional RD, ERMs or VMT with significant symptoms, dense premacular heme, chronic DME not responsive to treatment, severe neo and fibrous proliferation unresponsive to PRP/anti-VEGF
-Follow Up
+Follow Up:
 No retinopathy: Annually
 Mild NPDR: 6 months
 Moderate/Severe NPDR: 4 months
 PDR (not high risk): 2 months
 High risk PDR: Monthly
 Any CSME: Monthly
+
 Gestational Diabetes
+2 of 51
 Same signs/symptoms as DR just with gestational diabetes
 Treatment: Same as DR (
 Follow up
@@ -45,7 +43,7 @@ Sever NPDR: Monthly
 PDR: Monthly
 
 Hypertensive Retinopathy
-3 of 36
+3 of 51
 HTN is defined as >120 and <80 (elevated) >130 or >80 (Stage 1) >140 or >90 (Stage 2), HTN crisis >180 or >120
 Symptoms: usually asymptomatic
 Signs: Keith-Wagner-Barker Classification
@@ -57,19 +55,19 @@ Treatment: Treat hypertension
 Follow Up: 2 to 3 months
 
 Histoplasmosis
-4 of 36
+4 of 51
 Fungal infection from bird or bat droppings
 Symptoms: Asymptomatic
 Signs: Needs two of triad for diagnosis
 Punched out Multifocal lesions
 
 CNVM
-5 of 36
+5 of 51
 Peripapillarry atrophy
 No treatment: Monitor annually
 
 Valsalva Retinopathy
-6 of 36
+6 of 51
 Happens after blowing up a balloon, weightlifting etc.
 Symptoms: Asymptomatic, blurry vision
 Signs: Hemes under ILM, rarely a VH may be present
@@ -77,7 +75,7 @@ Treatment: None, may need laser to open ILM if not resolved in a few weeks
 Follow Up: 2 weeks until resolve
 
 Occlusive Vascular Disease
-7 of 36
+7 of 51
 BRVO (Most Common) caused by compression of vein by overlying artery forming a thrombus due to endothelial cell damage
 >5 DD nonperfusion on FA is ischemic
 Superior Temporal is most common followed by inferior temporal
@@ -87,7 +85,7 @@ If neo than sector PRP or anti-VEGF
 Follow up 1-2 months than 3-12
 
 CRVO
-8 of 36
+8 of 51
 Usually caused  by underlying vascular disease (HTN/DM most common)
 Symptoms: Painless unilateral loss of vision
 Signs: Diffuse retinal hemes, dilated tortuous vessels, CWS mac edema, NVD, NVI, NVA, NVE
@@ -95,19 +93,19 @@ Treatment: Treat underlying disorder with immediate PRP if NVI/NVA
 Follow Up: Every month with gonioscopy (90 day glaucoma)
 
 BRAO
-9 of 36
+9 of 51
 When accompanied by optic nerve edema or retinitis do serology for cat scratch disease
 Refer for neurological workup and screen for underlying disease (GCA)
 Follow up every 3 months
 
 CRAO
-10 of 36
+10 of 51
 Refer to stroke center
 If acute digital massage and IOP reduction with acetazolamide
 Repeat eye exam in 1 week (Neovascularization will occur in 20% of patients usually at 4 weeks)
 
 CSCR
-11 of 36
+11 of 51
 Serous retinal detachment of the fovea, middle aged, type A, pregnancy, steroids
 Symptoms: Reduced VA, metamorphosia
 Signs: Abnormal foveal color (yellow), Hyperopic shift, thickening of the macula, usually unilateral but may be bilateral
@@ -115,26 +113,26 @@ Monitor monthly until resolution
 Chronic CSCR may benefit from PDT, Eplerenone, or spironolactone
 
 Ocular Ischemic Syndrome
-12 of 36
+12 of 51
 Usually systemic vascular disease such as HTN leads to narrowing of the carotid. Less blood flow/oxygen to eye leads to mid peripheral hemes and neovascularization
 Symptoms: Amaurosis fugax, periorbital pain, afterimages, men over age of 50
 Signs: Dilated (not tortuous) veins, narrowed arterioles, mid peripheral hemes, iris neo, neo of disc, neo of retina, collateral vessels on forehead, episcleral injection, CWS, CRAO may occur, retinal Mas
 Treatment: Carotid doppler, treat neo with anti-VEGF and PRP, control HTN and high IOP if present
 Follow Up: Refer immediately
+
 Retinopathy of Prematurity
+13 of 51
 Too much oxygen causes ischemia of peripheral retina which then leads to atrophy and vegf release. Associated with myopia and strabismus
 Symptoms: Infant
 Signs: Avascular peripheral retina, demarcation line
-Stages
+Stages:
 Flat demarcation line
 Elevated Demarcation Line
 Fibrovascular and neovascular proliferation along the demarcation line
 Patial RD (4A = Mac on, 4B = Mac off)
-
 Total Retinal Detatchment
-13 of 36
 Plus Disease: At least two quadrants of engorged veins and tortuous arteries, poor pupil dilation, vitreous haze
-Zones
+Zones:
 Posterior Pole
 Zone 1 to nasal ora serrata
 The remaining temporal periphery
@@ -146,14 +144,14 @@ Treatment: Anti-VEGF/PRP for neo, treat type 1, closely monitor type 2
 Follow Up: One week
 
 Radiation Retinopathy
-14 of 36
+14 of 51
 Exposure to over 3000 rads of radiation, within 6-24 months
 Symptoms: Asymptomatic, blurry vision if macula is involved
 Signs: Similar to DR
 Treatment: Treat ME with anti-VEGF, treat neo with anti-VEGF and PRP
 
-Coat’s Disease
-15 of 36
+Coatâs Disease
+15 of 51
 Unilateral permeability of blood vessels leads to exudates, not inherited, no racial predication, affects males, untreated may result in painful NVG and VD
 Symptoms: Poor vision
 Signs: Leukocoria, strabismus, telangiectatic blood vessels, lipid exudates, exudative RDs, glaucoma
@@ -161,49 +159,55 @@ Treatment: Focal laser coagulation
 Follow Up: 6 months
 
 Sickle Cell Retinopathy
-16 of 36
+16 of 51
 Sickling of blood cells leads to poor blood flow and ischemia
 Symptoms: Mediterranean or African descent, floaters, sickle cell crisis (painful abdominal and or musculoskeletal pain)
 Signs: Sea Fan retinopathy, salmon patch, sclerosed peripheral vessels, dull gray peripheral fundus, sun bursts
-Stages
+Stages:
 Peripheral arteriole occlusions
 Peripheral nonperfusion and AV anastomoses
 Sea Fan retinopathy
-
 Vitreous Hemes
-17 of 36
 TRD
 Stages 1-2 are nonproliferative, proliferative is 3-5
 Treatment: Treat neo
 Follow up: 3 months if retinopathy, no retinopathy = annual DFE
 
 Retinal Arterial Macroaneurysm
-18 of 36
+17 of 51
 Old women with hypertension, usually unilateral
 Symptoms: Decreased vision
 Signs: Acute hemorrhages in multiple layers of retina, possibly with VH, white or yellow spot at center of RAM, chronic may lead to ring of HEXs, may have ME, arteriolar emboli, capillary telangiectasia, arterial or venous occlusions distal to RAM
 Treatment: Laser or watchful waiting
 Follow Up: Depends on extent, REFER
+
 Racemose Hemangioma
+18 of 51
 Congenital (non-inherited) arteriovenous malformation of the eye and ipsilateral brain (Wyburn-Mason syndrome)
 Symptoms: Usually asymptomatic
 Signs: enormously dilated, tortuous vessels with AV communication, hemes, may have neovascular glaucoma or seizures
 No treatment
 Follow up: 6 months
 Look at Pizementi phakomytosis slides
+
 X-Linked Retinoschisis
+19 of 51
 Splitting of the retina at the NFL, congenital with vision decreasing from 20/25 to 20/80, bilateral and symmetrical
 Symptoms: decreased vision, can be asymptomatic
 Signs: foveal schisis seen as stellate maculopathy, cystoid foveal changes with retinal folds in a petaloid pattern that do not stain or leak on IVFA, but can be seen with ICGA and OCT. may have pigmented demarcation line
 Treatment: No treatment
 Follow Up: 6 months more frequently if treating amplyopia
+
 Aquired Retinoschisis
+20 of 51
 Old people, peripheral retinal splitting at the OPL
 Symptoms: Usually asymptomatic
 Signs: Usually bilateral and shows sheathing of vessels, hyperopia is common no pigment cells or hemes
 Treatment: Only if RD
 Follow Up: Every 6 months
+
 Pathological Myopia
+21 of 51
 Usually in >-6.00 or >26 mm axial length, hereditary component
 Symptoms: Decreased vision
 Signs: Myopic cresent, tilted disc, fuchs spot, laquer cracks, retinal holes/tears, lattice degeneration
@@ -212,16 +216,20 @@ Follow Up: If no treatment 6 months, if treatment sooner
 Android Streaks
 Caused by PEPSI (PXE is most common), dehiscence of inner collagenous and central elastic layer
 Symptoms: Asymptomatic
-Signs: Radial streaks from ONH, Peau d’orange, CNV may occur
+Signs: Radial streaks from ONH, Peau dâorange, CNV may occur
 Treatment: Recommend safety polycarbonate lenses for sports due to increased risk of hemes or choroidal rupture, refer for Tx of underlying disease and Tx any neo
 Follow Up: 6 Months, give Amsler grid
+
 Retinitis Pigmentosa
+22 of 51
 Large family of hereditary rod-cone dystrophies (most common)
 Symptoms: Nyctelopia, tunnel vision
 Signs: Vitreous cells, bone spicules, waxy nerve, progressive VF loss
 Treatment: None
 Follow Up: Annual
+
 Familial Dominant Drusen
+23 of 51
 AD inheritance and onset before age 20
 Symptoms: non early on than significant vision loss in 40s-50s
 Signs: Central drusen with more appearing on IVFA, later coalescing into honeycomb appearance
@@ -229,7 +237,7 @@ Treatment: Treat CNVM
 Follow Up: Annually
 
 Stargart Disease
-19 of 36
+24 of 51
 Most common hereditary macular disease, AR inheritance, onset in their 20s
 Symptoms: Decreased vision not consistent with fundus findings
 Signs: yellow/white flecks, atrophic macular degeneration, bulls eye maculopathy, beaten bronze appearance, ERG typically normal, EOG may be subnormal, silent choroid on IVFA
@@ -237,28 +245,32 @@ Treatment: None (Avoid UV and no Vit A supplement)
 Follow Up: Annually
 
 Best Disease (Vitelliform Macular Dystrophy)
-20 of 36
+25 of 51
 AD inheritance
 Symptoms: Scotoma, metamorphopsia, decreased vision, asymptomatic
 Signs: Egg yolk lesion, typically bilateral, abnormal EOG, may develop CNVM
 Treatment: None (treat CNVM)
 Follow Up: Annually
+
 Familial Exudative Vitreoretinopathy
-Usually bilateral and AD, looks like ROP but patients aren’t premature
+26 of 51
+Usually bilateral and AD, looks like ROP but patients arenât premature
 Symptoms: Asymptomatic, decreased vision
 Signs: Vascular dragging and peripheral vascular nonperfusion, vessels with fimbrated border, present at birth
 Treatment: Treat CNVM or RDs if present
 Follow Up: Annually
+
 Lebers Congenital Amaurosis
+27 of 51
 Most common congenital cause of blindness in children, loss of photoreceptor outer segments and ONL
 Symptoms: Progressive visual loss in one than the other eye within days to months of each other
-Signs: Mild swelling of optic disc, telangiectasias that don’t leak, cecocentral visual field defect
+Signs: Mild swelling of optic disc, telangiectasias that donât leak, cecocentral visual field defect
 Treatment: new gene therapy
 Follow Up: Annually
 Looks a lot like RP
 
 Angiomatosis Retinae (Von Hippel-Lindau Syndrome)
-21 of 36
+28 of 51
 Tumor suppressor gene mutation causing hemangiomas in the retina and hemangioblastomas in the brain
 Symptoms: Asymptomatic
 Signs: hemangioma with dilated feeding artery and draining vein, hemangioblastoma in the brain ipsilaterally
@@ -266,7 +278,7 @@ Treatment: None unless symptomatic than laser
 Follow Up: Annual DFE
 
 Progressive Cone Dystrophy
-22 of 36
+29 of 51
 Cones than rods are fucked (20-40 year old onset)
 Gyrate Atrophy
 AR inheritance with increased levels of plasma ornithine with decreased lysine
@@ -276,7 +288,7 @@ Treatment: Restrict arginine consumption, B6 supplements
 Follow Up: Annually
 
 Acute Retinal Necrosis
-23 of 36
+30 of 51
 Associated with varicella zoster, and herpes zoster
 Symptoms: Pain, blurry vision, photophobia
 Signs: One or more foci of retinal necrosis with discrete borders in the peripheral retina, rapid progression of the diseasae in the absence of antiviral therapy, circumferential spread, evidence of occlusive vasculopathy with arterial involvement, and prominent inflammation of vitreous and anterior chamber. Macula typically spared in the early disease. RRD in ~70% of patients
@@ -284,7 +296,7 @@ Treatment: Antiviral therapy, possibly systemic steroids, topical cycloplegic
 Follow Up: Daily
 
 Toxoplasmosis
-24 of 36
+31 of 51
 Parasite toxoplasma gondii, either acquired infection but usually congenital from maternal exposure
 Symptoms: Blurred vision and photophobia, may have pain, redness, photophobia
 Signs: Headlights in fog, scar with adjacent active infection
@@ -296,14 +308,18 @@ Symptoms: Blurry Vision
 Signs: endophthalmitis, leukocoria, posterior pole granuloma
 Treatment: Steroids and cyclo for uveitis
 Follow Up: 3 days
+
 Primary Intraocular Lymphoma
+32 of 51
 Usually starts in the brain, can present in the optic nerve
 Symptoms: Blurry vision
 Signs: Vitreous Cells, subretinal and sub-RPE lesions
 Treatment: Refer for oncologist evaluation
 Follow Up: They will die within 2 years
 Oncologist with confirm with MRI, LP, bone marrow biopsy
+
 Posterior Scleritis
+33 of 51
 Very serious potentially blinding disease, usually women age 20-30
 Symptoms: pain with eye movement, deep boring pain
 Signs: Red-orange elevation of the posterior pole, usually has RDs ore choroidal folds. Limited EOM movement with rapid onset hyperopia
@@ -311,7 +327,7 @@ Treatment: systemic steroids
 Follow Up: Days to weeks depending on severity
 
 Thioridazine Retinopathy
-25 of 36
+34 of 51
 Antipsychotic medication that causes accumulation of pigment in the eye
 Symptoms: Brown discoloration of vision, nyctalopia, blurry vision, ring scotoma
 Signs: Pigment clumping in the mid-periphery of retina, salt and pepper fundus, optic atrophy, attenuated vessels, bone spicules
@@ -323,15 +339,17 @@ Symptoms: Parents may notice leukocoria, strabismus
 Signs: Unilateral dome shaped cream colored tumor with evidence of calcification.
 Treatment: Enucleation
 Follow Up: Immediate referral
+
 CHRPE
+35 of 51
 Present at birth and wont go away with red free
 Symptoms: Asymptomatic
-Signs: well demarcated may have lacunae, bear tracks are not hamartomas associated with gardner’s syndrome
+Signs: well demarcated may have lacunae, bear tracks are not hamartomas associated with gardnerâs syndrome
 Treatment: none
 Follow Up: Annual exam
 
 Macular Telangiectasia
-26 of 36
+36 of 51
 Three types of idiopathic mactels
 Symptoms: Progressive loss of central vision
 Signs: 3 types of
@@ -342,11 +360,13 @@ Treatment: Anti-VEGF for CNV
 Follow up: 6 months send home with Amsler grid
 
 Macular Hole
-27 of 36
+37 of 51
 Can be caused by traction, edema, trauma, or idiopathic.
 Symptoms: Blurred vision
 Signs: 4 stages
+
 Impending Hole
+38 of 51
 Small full thickness hole (open can appearance on OCT)
 Full thickness hole with no Weiss ring
 Full thickness hole with Weiss ring
@@ -354,7 +374,7 @@ Treatment: Treat full thickness holes with vitrectomy and membrane peel, stage 1
 Follow Up: 6 months
 
 Cystoid Macular Edema
-28 of 36
+39 of 51
 DEPRIVENS cause CME (Diabetes, Epinephrine, pars planitis, RP, Irvine gass, vein occlusion, E2-prostoglandins, nicotinic acid, surgery) Within 3 months of cataract surgery = Irvine-Gass syndrome
 Symptoms: Blurred central vision
 Signs: Loss of FLR and possible exudates, OCT shows cysts, IVFA pattern with early leakage and late petaloid staining
@@ -362,7 +382,7 @@ Treatment: Topical NSAIDs, topical steroids, discontinue prostaglandins. If last
 Follow Up: 4 weeks
 
 Age Related Macular Degeneration (Dry)
-29 of 36
+40 of 51
 Drusen of the retina secondary to deterioration of the RPE, bruchs membrane, and/or choriocapillaris. Risk factors are whites, UV exposure, age, family history, high cholesterol and smoking
 Symptoms: Blurry vision, loss of central vision, metamorphopsia, and central scotoma
 Signs: Macular drusen, RPE mottling, RPE atrophy, bilateral
@@ -370,7 +390,7 @@ Treatment: 1 large druse (>125 um) or >20 drusen is intermediate and this is whe
 Follow Up: Daily Amsler Grid, 6 months
 
 Age Related Macular Degeneration (Wet)
-30 of 36
+41 of 51
 ARMD with associated CNVM
 Symptoms: See above
 Signs: Drusen, SRF, ME, RPE detatchments, CNVM
@@ -378,7 +398,7 @@ Treatment: Anti-VEGF
 Follow Up: TAE (Urgent=days, semi-urgent=2 weeks, non-urgent=3 months)
 
 Epiretinal Membrane
-31 of 36
+42 of 51
 Proliferation of glial cells, may contract and cause cellophane retinopathy
 Symptoms: Blurred vision, metamorphopsia, asymptomatic
 Signs: Glittery macula, strange foveal appearance, macular pucker
@@ -387,7 +407,7 @@ Follow Up: Annual
 Choroid
 
 Choroidal Melanoma
-32 of 36
+43 of 51
 Most common primary intraocular malignancy in adults, metastasize to the liver. Cutaneous melanoma is 20x more common than intraocular. Main peak in incidence is 55-65 (Males = Females), smaller peak is 20-40 (Females>Males)
 Symptoms: May have blurry vision, metamorphopsia, visual field loss and floaters and photopsias
 Signs: To Find Small Ocular Melanomas Use Helpful Hints Daily, there is no pathognomotnic sign of choroidal melanoma, Diameter >10 mm is suspect, reciruclulation seen on FA, ICGA very useful
@@ -395,10 +415,16 @@ Thickness >2mm
 Fluid = subretinal fluid
 Symptomatic
 Orange Pigment
+
 Margin Touching Optic Nerve
+44 of 51
+
 Ultrasonographic Hollowness
+45 of 51
 Halo Absence
+
 Drusen Absence
+46 of 51
 Treatment: Refer to oncologist for either plaque radiation, chemo, and/or enucleation. No difference in 5 year mortality for medium size melanomas treated with enucleation versus plaque radiotherapy. Observation is adequate for tumors >1mm thick
 Follow Up: Monitor nevi 6 months with photos for growth, if <3 signs monitor every month, if >3 signs or (+) subretinal fluid refer
 Choroidal METS
@@ -415,13 +441,15 @@ Treatment: None, low vision consult and genetic counselling
 Follow Up: Monitor annually
 
 Central Areolar Choroidal Dystrophy
-33 of 36
+47 of 51
 Autosomal Dominant inheritance with presentation around 30-40 with progression to legal blindness by 60-70
 Symptoms: Blurry vision and central scotoma
 Signs: Early hypopigmentation of macula progressing to geographic atrophy
 Treatment: None (Genetic counseling and low vision rehab)
 Follow Up: Monitor annually
+
 Serpinginous Chroroidopathy
+48 of 51
 Associated with HLA-B7 and is idiopathic. Usually found in 50-60 year old men. Must rule out TB as it can present similarly
 Symptoms: Central blurry vision unilateral or bilateral
 Signs: Lesions beginning at the optic nerve and progressing towards the macula. Active lesions will be grey/white while old lesions will atrophy and scar. CNVM in 25% of cases
@@ -430,20 +458,20 @@ Follow Up: As inidicated by severity of signs and symptoms
 Candidiasis
 Fungal infection from candida usually occurs in IV drug abusers and chronically immunosuppressed patients
 Symptoms: Bilateral blurry vision and floaters
-Signs: Yellow-white choroidal lesions. With time they will increase in size break apart and create “cotton balls” or “string of pearls”
+Signs: Yellow-white choroidal lesions. With time they will increase in size break apart and create âcotton ballsâ or âstring of pearlsâ
 Treatment: Hospitalization with flucozinole p.o. or IV voriconazole, other IV/oral antifungals are options. Intravitreal amphotericin B may be indicated
 Follow Up: Daily
 
 Serous Choroidal Detachment
-34 of 36
+49 of 51
 Usually occurs in hypotony secondary to open globe wound
 Symptoms: Asymptomatic if mild and peripheral to progressive vision loss if more severe
-Signs: Smooth bullous orange elevation of retina, transillumination, may have “kissing” appearance on B-scan if severe
+Signs: Smooth bullous orange elevation of retina, transillumination, may have âkissingâ appearance on B-scan if severe
 Treatment: Close the wound (bandage CL, glue, suture) and increase IOP
 Follow Up: Daily (REFER!)
 
 Hemorrhagic Choroidal Detachment
-35 of 36
+50 of 51
 Usually caused by hemorrhaging during anterior segment surgery, AC will narrow as bleeding progresses
 Symptoms: Severe pain with rapidly decreasing vision, red and inflamed eye
 Signs: No transillumination but same as serous
@@ -451,7 +479,7 @@ Treatment: Close wound immediately, sclerotomy to drain blood
 Follow Up: REFER, daily
 
 Birdshot Chorioretinopathy (Vitiliginous Chorioretinitis)
-36 of 36
+51 of 51
 Associated with HLA-A29, chronic inflammation seen in women aged 40-60, bilateral
 Symptoms: Blur, photopsia, nyctalopia
 Signs: Multiple creamy yellow-white spots that spare the macula. Vitritis, retinal vasculitis, and cystoid macular edema may be present. Atrophy and choroidal hypopigmentation may occur
