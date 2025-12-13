@@ -1,1 +1,91 @@
 
+Ophthalmic Optics – Lens Materials
+1 of 12
+CR-39: Refractive Index 1.498; Abbe 58; Pros: lightweight, good optics; Cons: thick lenses, scratches easily.
+Crown Glass: Refractive Index 1.523; Abbe 59; Pros: excellent optics, scratch resistant; Cons: heavy, thick, shatters easily.
+Trivex: Refractive Index ~1.53; Abbe 43–45; Pros: impact resistant, safe; Cons: thick lenses, expensive.
+Polycarbonate: Refractive Index 1.586; Abbe 30; Pros: thin, light, impact resistant; Cons: scratches easily, significant chromatic aberration.
+High-Index Materials: Refractive Index 1.54–1.66; Abbe 32–36; Pros: thin, lightweight; Cons: scratches easily, increased chromatic aberration.
+
+Lenticular Aberrations
+2 of 12
+Spherical Aberration: Peripheral rays focus at a different point than central rays, causing blur.
+Radial (Oblique) Astigmatism: Oblique light rays form two focal lines; reduced using Tscherning ellipse.
+Coma: Off-axis object appears comet-shaped due to asymmetric magnification.
+Chromatic Aberration: Different wavelengths refract at different angles; higher Abbe value = less CA; reduced by decreasing vertex distance and increasing pantascopic tilt.
+Curvature of Field: Effective lens power changes away from optical center; managed by adjusting base curve.
+
+Frame and Lens Selection
+3 of 12
+High Refractive Error: Use small, round frames and high-index materials to reduce thickness and weight.
+Safety Recommendation: Polycarbonate should be recommended for children, police, and firefighters; rimless frames should be avoided.
+PAL Frames: Require larger B measurement and appropriate pantascopic tilt.
+PAL Design Options: Short corridor PALs for small frames; premium PALs provide wider channels and reduced peripheral aberrations.
+
+Induced Astigmatism
+4 of 12
+Sphere Power: Always increases (more plus or more minus).
+Cylinder Power: Induced in same sign as lens power.
+Face Form Tilt: Induces astigmatism at axis 090.
+Pantascopic Tilt: Induces astigmatism at axis 180.
+
+Optical Measurements – Inset Calculations
+5 of 12
+Inset Formula: (FPD − DPD) ÷ 2.
+Seg Inset: (DPD − NPD) ÷ 2.
+Total Inset: (FPD − NPD) ÷ 2.
+Calculated AC/A Ratio: DPD − 0.4(NCT − DCT).
+
+Segment Height Measurements
+6 of 12
+Bifocal Segment Height: Lower eyelid margin.
+Trifocal Segment Height: Bottom of pupil.
+PAL Segment Height: Center of pupil.
+
+Frame Adjustments – Pantascopic Tilt
+7 of 12
+Pantascopic Tilt Effect: Lowers effective lens position.
+PAL Impact: Increases usable reading area when appropriate pantascopic tilt is applied.
+
+Spectacle Magnification
+8 of 12
+Myopes: Experience more magnification as lens moves closer to eye; maximum with contact lenses; require more accommodation in contacts.
+Hyperopes: Opposite relationship compared to myopes.
+
+Factors Increasing Magnification
+9 of 12
+Increase Plus Power.
+Increase Center Thickness.
+Steepen Base Curve.
+Increase Vertex Distance for Plus Lenses.
+Decrease Vertex Distance for Minus Lenses.
+Opposite changes produce minification.
+
+Field of View
+10 of 12
+Plus Lenses: Increased plus power decreases field of view.
+
+Reflectance and Transmittance
+11 of 12
+Reflectance Formula: [(n2 − n1) / (n2 + n1)]².
+Transmittance: 1 − Reflectance.
+Total Transmittance: Surface 1 × Surface 2 × Material Transmittance.
+
+Slab-Off and Image Jump
+12 of 12
+Slab-Off: Applied to the most minus lens; reverse slab-off applied to most plus lens.
+Prism Equivalence: Slab-off equals base-up prism.
+Image Jump: Calculated using Prentice’s Rule and distance to segment optical center.
+Executive Bifocal: No image jump.
+FT-28: ~5 mm image jump.
+Round Segment: Image jump equals half the segment diameter; usually the greatest image jump.
+
+Clinical Pearls – Ophthalmic Optics
+13 of 12
+• Higher Abbe value lenses produce less chromatic aberration.
+• Polycarbonate is thin and impact resistant but produces the most chromatic aberration.
+• High refractive errors benefit from small, round frames with high-index materials.
+• Pantascopic tilt and vertex distance significantly affect aberrations and magnification.
+• Executive bifocals eliminate image jump entirely.
+• Slab-off correction is equivalent to base-up prism.
+• Premium PALs reduce peripheral aberrations and widen usable visual channels.
