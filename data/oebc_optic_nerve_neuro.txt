@@ -1,1 +1,100 @@
+Optic Nerve + Neuro-Ophthalmic Pathways
 
+Optic Neuritis
+1 of 12
+Definition: Inflammatory demyelination of the optic nerve most commonly associated with multiple sclerosis.
+Key Findings: Pain with eye movement, decreased visual acuity, RAPD, dyschromatopsia.
+Visual Field: Central scotoma most common.
+Fundus: Often normal (retrobulbar neuritis); may show optic disc edema.
+Imaging: MRI brain and orbits with contrast showing optic nerve enhancement.
+Management: IV methylprednisolone 1 g/day x 3 days may speed recovery.
+
+Ischemic Optic Neuropathy – Non-Arteritic (NAION)
+2 of 12
+Definition: Acute ischemia of the optic nerve head unrelated to inflammation.
+Risk Factors: Hypertension, diabetes, sleep apnea, small cup-to-disc ratio.
+Key Findings: Sudden painless vision loss, altitudinal field defect.
+Fundus: Hyperemic disc edema with splinter hemorrhages.
+Management: Control systemic risk factors; no proven acute treatment.
+
+Ischemic Optic Neuropathy – Arteritic (AAION)
+3 of 12
+Definition: Optic nerve infarction due to giant cell arteritis.
+Key Findings: Sudden profound vision loss, scalp tenderness, jaw claudication.
+Labs: Elevated ESR, CRP, platelets.
+Management: Immediate high-dose IV steroids to prevent fellow-eye involvement.
+
+Papilledema
+4 of 12
+Definition: Bilateral optic disc edema due to increased intracranial pressure.
+Key Findings: Transient visual obscurations, headache, pulsatile tinnitus.
+Visual Acuity: Often normal early.
+Imaging: Neuroimaging required before lumbar puncture.
+Management: Treat underlying cause; weight loss and acetazolamide in IIH.
+
+Optic Disc Drusen
+5 of 12
+Definition: Calcified deposits within the optic nerve head.
+Key Findings: Elevated disc with irregular margins, no hyperemia.
+Imaging: B-scan ultrasound or OCT shows hyperreflective deposits.
+Visual Field: Arcuate or nasal defects common.
+Management: Observation; monitor visual fields.
+
+Leber Hereditary Optic Neuropathy
+6 of 12
+Definition: Mitochondrial inherited optic neuropathy.
+Key Findings: Young males, painless bilateral central vision loss.
+Fundus: Hyperemic disc with peripapillary telangiectasia.
+Management: Genetic counseling; idebenone may be beneficial.
+
+Compressive Optic Neuropathy
+7 of 12
+Definition: Optic nerve dysfunction from external compression.
+Key Findings: Progressive vision loss, optic atrophy.
+Causes: Tumors, aneurysms, thyroid eye disease.
+Imaging: MRI of brain and orbits.
+Management: Treat underlying compressive lesion.
+
+Traumatic Optic Neuropathy
+8 of 12
+Definition: Optic nerve injury secondary to head or orbital trauma.
+Key Findings: Sudden vision loss following trauma.
+Imaging: CT to assess fractures.
+Management: Observation; role of steroids controversial.
+
+Toxic/Nutritional Optic Neuropathy
+9 of 12
+Definition: Optic nerve damage from toxins or nutritional deficiency.
+Causes: Methanol, ethambutol, B12 deficiency.
+Key Findings: Bilateral symmetric vision loss, central scotomas.
+Management: Remove toxin, correct deficiency.
+
+Glaucomatous Optic Neuropathy
+10 of 12
+Definition: Progressive optic nerve damage associated with glaucoma.
+Key Findings: Increased cupping, RNFL loss.
+Visual Field: Arcuate defects, nasal step.
+Management: Lower intraocular pressure.
+
+Chiasmal Lesions
+11 of 12
+Definition: Lesions affecting the optic chiasm.
+Key Findings: Bitemporal hemianopsia.
+Common Causes: Pituitary adenoma.
+Imaging: MRI of the sella.
+Management: Neurosurgical referral.
+
+Post-Chiasmal Lesions
+12 of 12
+Definition: Lesions posterior to the optic chiasm.
+Key Findings: Homonymous hemianopsia.
+Localization: Optic tract, radiation, occipital cortex.
+Management: Treat underlying cause.
+
+Clinical Pearl – Optic Neuritis
+13 of 12
+Pearl: Visual recovery is common, but recurrence risk increases with MS.
+
+Clinical Pearl – Papilledema
+14 of 12
+Pearl: Visual acuity may remain normal until late stages despite marked disc edema.
