@@ -1,1 +1,69 @@
+Biostatistics – Test Performance Metrics
+1 of 8
+Precision (Positive Predictive Value): True Positives / (True Positives + False Positives).
+Negative Predictive Value: True Negatives / (True Negatives + False Negatives).
+Sensitivity: True Positives / (True Positives + False Negatives).
+Specificity: True Negatives / (True Negatives + False Positives).
+Accuracy: (True Positives + True Negatives) / Total tested.
+Reliability: Degree to which a test is repeatable and consistent.
+Validity: Degree to which a test measures what it is intended to measure.
+Clinical Pearl – High sensitivity rules OUT disease (SnNout); high specificity rules IN disease (SpPin).
+Board Relevance: NBEO & OEBC – Explicit
 
+ANSI Z80.1 – Power Tolerances
+2 of 8
+Sphere Power Tolerance: < ±6.50 D → ±0.13 D; ≥ ±6.50 D → ±2% of sphere power.
+Cylinder Power Tolerance: <2.00 D → ±0.13 D; 2.00–4.50 D → ±0.15 D; >4.50 D → ±4% of cylinder power.
+Cylinder Axis Tolerance: <0.25 D → ±14°; 0.25–0.50 D → ±7°; 0.75–1.00 D → ±5°; 1.25–1.50 D → ±3°; >1.50 D → ±2°.
+Clinical Pearl – Axis tolerance tightens as cylinder power increases.
+Board Relevance: NBEO – Explicit; OEBC – Conceptual
+
+ANSI Z87.1 – Safety Glasses Standards
+3 of 8
+Drop Ball Test: 1-inch steel ball weighing 2.4 oz dropped from 50 inches.
+Minimum Lens Thickness: 2.0 mm.
+High Impact Marking (+): Indicates passing high velocity or high mass testing.
+High Velocity Test: ¼-inch steel ball fired at 150 ft/sec.
+High Mass Test: 500-gram pointed weight dropped from 50 inches.
+Clinical Pearl – The “+” marking is required for occupational eye protection.
+Board Relevance: NBEO – Explicit; OEBC – Conceptual
+
+ANSI Z80.3 – Fashion Eyewear (Nonprescription)
+4 of 8
+Heat Resistance: Must not deform or ignite at 200°C for 15 minutes.
+UV Protection Classes: Class I blocks ≥90% UV-A and ≥99% UV-B; Class II blocks ≥70% UV-A and ≥95% UV-B.
+Clinical Pearl – Z80.3 applies to plano fashion eyewear, not prescription lenses.
+Board Relevance: NBEO – Explicit; OEBC – Awareness Only
+
+Environmental Vision – Photochromics & Lighting
+5 of 8
+Photochromic Lenses: Corning photochromatic lenses darken in UV exposure.
+Glare Reduction: Block short-wavelength (blue) light; often yellow or amber tinted.
+Color Rendering Index (CRI): Measures how naturally colors appear; scale 1–100, with 100 being ideal.
+Clinical Pearl – Higher CRI improves visual comfort and color discrimination.
+Board Relevance: NBEO & OEBC – Explicit
+
+Environmental Protection Factor (EPF)
+6 of 8
+Definition: Measures effectiveness of eyewear in blocking UV radiation.
+Scale: Perfect EPF score is 100.
+Comparison: Similar concept to SPF for sunscreen but applied to eyewear.
+Clinical Pearl – EPF accounts for lens material, coatings, and frame coverage.
+Board Relevance: NBEO & OEBC – Explicit
+
+UV Protection by Lens Material
+7 of 8
+Polycarbonate: Best inherent UV protection.
+CR-39: Provides some UV protection.
+Crown Glass: Worst UV protection.
+Clinical Pearl – Polycarbonate blocks nearly all UV without added coatings.
+Board Relevance: NBEO & OEBC – Explicit
+
+Clinical Trials – Drug Approval Phases
+8 of 8
+Phase 1: Drug tested on healthy volunteers for safety.
+Phase 2: Tests efficacy and dosing in small group of affected patients.
+Phase 3: Large-scale testing for efficacy and adverse reactions.
+Phase 4: Post-marketing surveillance evaluating long-term effects and safety.
+Clinical Pearl – Phase 4 occurs after regulatory approval.
+Board Relevance: NBEO & OEBC – Explicit
