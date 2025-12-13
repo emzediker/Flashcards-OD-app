@@ -170,28 +170,12 @@ Follow-Up: ~1 month.
 
 Clinical Pearl
 24 of 30
-Clinical Pearl: Papilledema – Image first before LP.
+Clinical Pearls – Optic Nerve & Neuro-Ophthalmic
 
-Clinical Pearl
-25 of 30
-Clinical Pearl: IIH – Vision loss can occur even if headaches improve.
-
-Clinical Pearl
-26 of 30
-Clinical Pearl: AAION/GCA – Never delay steroids for biopsy.
-
-Clinical Pearl
-27 of 30
-Clinical Pearl: NAION – Disc-at-risk and sleep apnea are key.
-
-Clinical Pearl
-28 of 30
-Clinical Pearl: Optic Neuritis – Pain + color loss + central scotoma is classic.
-
-Clinical Pearl
-29 of 30
-Clinical Pearl: Toxic Optic Neuropathy – Think medications and nutrition.
-
-Clinical Pearl
-30 of 30
-Clinical Pearl: Horner Syndrome – Painful Horner suggests carotid dissection.
+Papilledema: Always obtain neuroimaging before lumbar puncture to rule out an intracranial mass.
+IIH: Vision loss can occur even when headaches improve; monitor visual fields and OCT closely.
+AAION/GCA: Never delay high-dose steroid treatment while awaiting temporal artery biopsy.
+NAION: A “disc-at-risk” and sleep apnea are key associations.
+Optic Neuritis: Pain with eye movement, color desaturation, and central scotoma are classic.
+Toxic Optic Neuropathy: Bilateral cecocentral scotomas → review medications, nutrition, and toxins.
+Horner Syndrome: A new painful Horner suggests carotid artery dissection and is neuro-urgent.
