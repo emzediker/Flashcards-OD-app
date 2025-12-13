@@ -1,36 +1,60 @@
 Diabetic Retinopathy
 1 of 51
-Leading Cause of blindness in US ppl aged 20-64. Number one risk factor is duration of diabetes next is poor control/large fluctuations in plasma glucose
+
+Definition:
+Leading cause of blindness in the United States among adults aged 20–64.
+
+Risk Factors:
+Primary risk factor is duration of diabetes.
+Additional risk factors include poor glycemic control and large fluctuations in plasma glucose.
+
 Severity Scale:
-Mild NPDR: MAs only
-Moderate NPDR: More than mild less than sever
-Severe NPDR: 4-2-1 Rule
-4 quadrants of DB hemes > standard photo 2a (>20)
-2 quadrants of venous beading
-1 quadrant of IRMA
-PDR: Presence of neovascularization
-High Risk:
->1/4 DD of NVD
-NVD with VH or preretinal heme
-NVE with VH or preretinal heme
-CSME:
-Exudates within 500 um of fovea with thickening
-Thickening > 1DD within 1 DD of fovea
-Thickening within 500 um of fovea
-Symptoms: Asymptomatic but may complain of blurry vision
-Signs: See above
-Treatment: Depends on the presentation
-CME: Anti-VEGF followed by steroids if poor response
-High Risk PDR: PRP
-PDR (not high risk) w/ or w/o CME: Anti-VEGF
-PPV Indications: Dense non clearing VH, tractional RD, ERMs or VMT with significant symptoms, dense premacular heme, chronic DME not responsive to treatment, severe neo and fibrous proliferation unresponsive to PRP/anti-VEGF
-Follow Up:
-No retinopathy: Annually
-Mild NPDR: 6 months
-Moderate/Severe NPDR: 4 months
-PDR (not high risk): 2 months
-High risk PDR: Monthly
-Any CSME: Monthly
+
+Mild NPDR:
+Microaneurysms only.
+
+Moderate NPDR:
+More than mild NPDR but less than severe NPDR.
+
+Severe NPDR (4-2-1 Rule):
+Four quadrants of dot-blot hemorrhages greater than standard photo 2A (more than 20 hemorrhages).
+Two or more quadrants of venous beading.
+One or more quadrants of intraretinal microvascular abnormalities (IRMA).
+
+Proliferative Diabetic Retinopathy (PDR):
+Presence of retinal neovascularization.
+
+High-Risk PDR:
+Neovascularization of the disc greater than one-quarter disc diameter.
+Neovascularization of the disc with vitreous or preretinal hemorrhage.
+Neovascularization elsewhere with vitreous or preretinal hemorrhage.
+
+Clinically Significant Macular Edema (CSME):
+Retinal thickening within 500 microns of the foveal center.
+Hard exudates within 500 microns of the fovea with associated retinal thickening.
+Retinal thickening one disc diameter or larger within one disc diameter of the foveal center.
+
+Symptoms:
+Often asymptomatic.
+May report blurred or fluctuating vision.
+
+Clinical Signs:
+Findings as described in severity scale and macular edema criteria.
+
+Treatment:
+Management depends on disease stage and presence of macular edema.
+Center-involving macular edema treated with intravitreal anti-VEGF therapy, with steroids considered if inadequate response.
+High-risk PDR treated with panretinal photocoagulation.
+PDR without high-risk features, with or without macular edema, treated with anti-VEGF therapy.
+Pars plana vitrectomy indicated for dense non-clearing vitreous hemorrhage, tractional retinal detachment, epiretinal membranes or vitreomacular traction with significant symptoms, dense premacular hemorrhage, chronic diabetic macular edema unresponsive to therapy, or severe neovascular and fibrous proliferation unresponsive to PRP or anti-VEGF therapy.
+
+Follow-up:
+No retinopathy: annually
+Mild NPDR: every 6 months
+Moderate or severe NPDR: every 4 months
+PDR without high-risk features: every 2 months
+High-risk PDR: monthly
+Any clinically significant macular edema: monthly
 
 
 Gestational Diabetes
