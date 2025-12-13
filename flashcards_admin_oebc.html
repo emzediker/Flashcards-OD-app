@@ -1,0 +1,390 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Part 2 Flashcards — Admin</title>
+<style>
+  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:16px;background:#fff;color:#111}
+  .wrap{max-width:1080px;margin:auto}
+  h1{font-size:22px;margin:0 0 12px}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:10px 0 14px}
+  select,input[type=search],button{padding:9px 10px;border:1px solid #d0d0d0;border-radius:8px;background:#fff}
+  .card{border:1px solid #ddd;border-radius:12px;min-height:120px;background:#fff;margin-bottom:10px}
+  .front,.back{padding:14px 16px;white-space:pre-wrap}
+  .front{border-bottom:1px solid #eee;font-weight:700}
+  .meta{display:flex;justify-content:space-between;align-items:center;margin:10px 0;color:#555}
+  .nav{display:flex;gap:8px;margin-top:4px}
+  .nav button{flex:1;font-weight:600}
+  .panel{border:1px solid #e6e6e6;border-radius:12px;padding:12px;margin-top:12px;background:#fafafa}
+  .row{display:flex;gap:12px;flex-wrap:wrap;align-items:center;margin-bottom:8px}
+  .note{font-size:12px;color:#666}
+  .imgprev{max-width:100%;height:auto;border:1px dashed #ccc;border-radius:8px;margin-top:8px}
+  code{background:#f3f3f3;padding:1px 6px;border-radius:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Part 2 Flashcards — Admin</h1>
+
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+    <button id="importBtn">Import Mapping</button>
+    <button id="exportBtn">Export Mapping</button>
+    <span id="status" class="note"></span>
+  </div>
+
+  <div class="card">
+    <div class="front" id="front"></div>
+    <div class="back"  id="back"></div>
+  </div>
+
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div class="nav">
+      <button id="prev">◀ Prev</button>
+      <button id="next">Next ▶</button>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="row">
+      <strong>Attach images for this card</strong>
+      <span class="note">Image dropdown (optional) loads from <code>images/&lt;deckId&gt;/_files.json</code>.</span>
+    </div>
+
+    <div class="row">
+      <label>Front image:
+        <select id="frontSel"><option>(loading…)</option></select>
+      </label>
+      <label>Back image:
+        <select id="backSel"><option>(loading…)</option></select>
+      </label>
+      <button id="apply">Apply</button>
+      <span id="saved" class="note" style="display:none">Saved</span>
+    </div>
+
+    <div class="row">
+      <input id="customPath" type="text" placeholder="Or paste full relative path (e.g. images/oebc_glaucoma/gonio.png)" size="60">
+      <button id="useFront">Use as Front</button>
+      <button id="useBack">Use as Back</button>
+    </div>
+
+    <div class="row">
+      <span class="note">Export saves as <code id="mapName">DECK_ID_image_map.json</code>. Upload that JSON into your <code>/images/</code> folder.</span>
+    </div>
+
+    <img id="previewFront" class="imgprev" alt="Front preview" style="display:none">
+    <img id="previewBack"  class="imgprev" alt="Back preview"  style="display:none">
+  </div>
+</div>
+
+<script>
+/* ------------------------------------------------------------- */
+/* 1) OEBC / Part 2 Decks (must match your TXT filenames)         */
+/* ------------------------------------------------------------- */
+const DECKS = [
+  { id:'oebc_retina_choroid_vitreous',       title:'Retina, Choroid, Vitreous',                 dataUrl:'data/oebc_retina_choroid_vitreous.txt' },
+  { id:'oebc_conjunctiva_cornea_refraction', title:'Conjunctiva, Cornea, Refractive Surgery',   dataUrl:'data/oebc_conjunctiva_cornea_refraction.txt' },
+  { id:'oebc_optic_nerve_neuro',             title:'Optic Nerve & Neuro-Ophthalmology',         dataUrl:'data/oebc_optic_nerve_neuro.txt' },
+  { id:'oebc_contact_lens',                  title:'Contact Lens',                              dataUrl:'data/oebc_contact_lens.txt' },
+  { id:'oebc_crystalline_lens_cataracts',    title:'Crystalline Lens & Cataracts',              dataUrl:'data/oebc_crystalline_lens_cataracts.txt' },
+  { id:'oebc_glaucoma',                      title:'Glaucoma',                                  dataUrl:'data/oebc_glaucoma.txt' },
+  { id:'oebc_binocular_vision',              title:'Binocular Vision',                          dataUrl:'data/oebc_binocular_vision.txt' },
+  { id:'oebc_lids_lashes_lacrimal',          title:'Lids, Lashes, Lacrimal System',             dataUrl:'data/oebc_lids_lashes_lacrimal.txt' },
+  { id:'oebc_systemic_health',               title:'Systemic Health',                           dataUrl:'data/oebc_systemic_health.txt' },
+  { id:'oebc_trauma',                        title:'Trauma',                                    dataUrl:'data/oebc_trauma.txt' },
+  { id:'oebc_episclera_sclera_anterior_uveitis', title:'Episclera, Sclera, Anterior Uveitis',   dataUrl:'data/oebc_episclera_sclera_anterior_uveitis.txt' },
+  { id:'oebc_strabismus',                    title:'Strabismus',                                dataUrl:'data/oebc_strabismus.txt' },
+  { id:'oebc_public_health',                 title:'Public Health',                             dataUrl:'data/oebc_public_health.txt' },
+  { id:'oebc_ophthalmic_optics',             title:'Ophthalmic Optics',                          dataUrl:'data/oebc_ophthalmic_optics.txt' },
+  { id:'oebc_perceptual_vision_color',       title:'Perceptual Vision & Color Vision',          dataUrl:'data/oebc_perceptual_vision_color.txt' },
+  { id:'oebc_visual_human_development',      title:'Visual & Human Development',                dataUrl:'data/oebc_visual_human_development.txt' }
+];
+
+/* ------------------------------------------------------------- */
+/* 2) Parser — match your student page (anchors + " - " only)     */
+/* ------------------------------------------------------------- */
+function escapeHtml(s){return s.replace(/&/g,'&amp;')
+  .replace(/</g,'&lt;').replace(/>/g,'&gt;')
+  .replace(/"/g,'&quot;').replace(/'/g,'&#39;');}
+function cleanLine(s){
+  if(!s) return '';
+  return s.replace(/\u00A0/g,' ')
+          .replace(/\u200B/g,'')
+          .replace(/\uFFFD/g,'')
+          .trim();
+}
+function splitAnsExpl(line){
+  if(!line) return {a:'',e:''};
+  const m = line.match(/^(.+?)\s-\s(.+)$/);
+  if(m) return {a:m[1].trim(), e:m[2].trim()};
+  return {a:line.trim(), e:''};
+}
+function parseTxt(txt, deckId){
+  const lines=txt.replace(/\r/g,'').split(/\n/).map(cleanLine);
+  const isAnchor = s => /^\d+\s+of\s+\d+$/i.test(s);
+  const anchors=[]; for(let i=0;i<lines.length;i++) if(isAnchor(lines[i])) anchors.push(i);
+  const out=[];
+  for(let p=0;p<anchors.length;p++){
+    const at=anchors[p], next=(p+1<anchors.length?anchors[p+1]:lines.length);
+
+    // FRONT = last non-empty line above anchor
+    let j=at-1; while(j>=0 && !lines[j]) j--;
+    const front = escapeHtml(lines[j] || '');
+
+    // BACK = first non-empty line after anchor
+    let k=at+1; while(k<next && (!lines[k] || lines[k]==='.')) k++;
+    const raw = (k<next?lines[k]:'');
+    const se = splitAnsExpl(raw);
+    out.push({
+      id:`${deckId}-${out.length+1}`,
+      front,
+      backAns: escapeHtml(se.a),
+      backExp: escapeHtml(se.e)
+    });
+  }
+  return out;
+}
+
+/* ------------------------------------------------------------- */
+/* 3) Image mapping + list loader                                 */
+/* ------------------------------------------------------------- */
+let IMAGE_MAP = {};   // { cardId: {front:"", back:""} }
+let IMAGE_LIST = [];  // ['(none)', 'images/<deckId>/..', ...]
+
+async function loadImageMap(deckId){
+  IMAGE_MAP = {};
+  const url = `images/${deckId}_image_map.json`;
+  try{
+    const r = await fetch(url,{cache:'no-store'});
+    if(r.ok) IMAGE_MAP = await r.json();
+  }catch(e){ /* ok if missing */ }
+}
+async function loadImageList(deckId){
+  IMAGE_LIST = ['(none)'];
+  const base = `images/${deckId}/`;
+  const url  = `${base}_files.json?cachebust=${Date.now()}`;
+  try{
+    const r = await fetch(url,{cache:'no-store'});
+    if(r.ok){
+      const list = await r.json();
+      if(Array.isArray(list)){
+        IMAGE_LIST = ['(none)', ...list.map(fn=>base+fn)];
+      }
+    }
+  }catch(e){ /* ok if missing */ }
+}
+
+/* ------------------------------------------------------------- */
+/* 4) UI + state                                                  */
+/* ------------------------------------------------------------- */
+const els = {
+  deck:document.getElementById('deck'),
+  q:document.getElementById('q'),
+  front:document.getElementById('front'),
+  back:document.getElementById('back'),
+  prev:document.getElementById('prev'),
+  next:document.getElementById('next'),
+  counter:document.getElementById('counter'),
+  status:document.getElementById('status'),
+  frontSel:document.getElementById('frontSel'),
+  backSel:document.getElementById('backSel'),
+  customPath:document.getElementById('customPath'),
+  useFront:document.getElementById('useFront'),
+  useBack:document.getElementById('useBack'),
+  apply:document.getElementById('apply'),
+  saved:document.getElementById('saved'),
+  previewFront:document.getElementById('previewFront'),
+  previewBack:document.getElementById('previewBack'),
+  importBtn:document.getElementById('importBtn'),
+  exportBtn:document.getElementById('exportBtn'),
+  mapName:document.getElementById('mapName')
+};
+
+let CURRENT=null, CARDS=[], VIEW=[], idx=0;
+
+function populateImageSelects(){
+  const opts = IMAGE_LIST.map(v=>{
+    const o=document.createElement('option'); o.value=v; o.textContent=v; return o;
+  });
+  els.frontSel.innerHTML=''; els.backSel.innerHTML='';
+  opts.forEach(o=>els.frontSel.appendChild(o.cloneNode(true)));
+  opts.forEach(o=>els.backSel.appendChild(o.cloneNode(true)));
+}
+
+function render(){
+  if(!VIEW.length){
+    els.front.textContent=''; els.back.textContent='';
+    els.counter.textContent='0 / 0';
+    els.previewFront.style.display='none';
+    els.previewBack.style.display='none';
+    els.mapName.textContent = CURRENT ? `${CURRENT.id}_image_map.json` : 'DECK_ID_image_map.json';
+    return;
+  }
+  const c = VIEW[idx];
+  els.front.innerHTML = c.front || '';
+  els.back.innerHTML  = (c.backAns||'') + (c.backExp?('\n\n'+c.backExp):'');
+  els.counter.textContent = (idx+1)+' / '+VIEW.length;
+
+  const map = IMAGE_MAP[c.id] || {};
+  const frontPath = map.front || '(none)';
+  const backPath  = map.back  || '(none)';
+
+  // ensure current paths exist in dropdown even if _files.json didn't include them
+  [frontPath, backPath].forEach(p=>{
+    if(p && p!=='(none)' && !IMAGE_LIST.includes(p)){
+      IMAGE_LIST.push(p);
+    }
+  });
+  populateImageSelects();
+
+  els.frontSel.value = frontPath;
+  els.backSel.value  = backPath;
+
+  if(map.front){
+    els.previewFront.src = map.front;
+    els.previewFront.style.display='block';
+  }else{
+    els.previewFront.style.display='none';
+  }
+  if(map.back){
+    els.previewBack.src = map.back;
+    els.previewBack.style.display='block';
+  }else{
+    els.previewBack.style.display='none';
+  }
+
+  els.status.textContent = CURRENT.title;
+  els.saved.style.display='none';
+  els.mapName.textContent = `${CURRENT.id}_image_map.json`;
+}
+
+function applyFilters(){
+  const term=(els.q.value||'').toLowerCase();
+  VIEW = CARDS.filter(c => !term || (c.front+c.backAns+c.backExp).toLowerCase().includes(term));
+  if(idx>=VIEW.length) idx=Math.max(0,VIEW.length-1);
+  render();
+}
+
+function nextCard(){ if(!VIEW.length) return; idx=(idx+1)%VIEW.length; render(); }
+function prevCard(){ if(!VIEW.length) return; idx=(idx-1+VIEW.length)%VIEW.length; render(); }
+
+/* ------------------------------------------------------------- */
+/* 5) Mapping actions                                             */
+/* ------------------------------------------------------------- */
+function saveMappingForCurrent(){
+  if(!VIEW.length) return;
+  const c = VIEW[idx];
+  const f = els.frontSel.value==='(none)' ? '' : els.frontSel.value;
+  const b = els.backSel.value==='(none)' ? '' : els.backSel.value;
+  if(!IMAGE_MAP[c.id]) IMAGE_MAP[c.id] = {front:"", back:""};
+  IMAGE_MAP[c.id].front = f;
+  IMAGE_MAP[c.id].back  = b;
+  els.saved.style.display='inline';
+  setTimeout(()=>els.saved.style.display='none',1200);
+  render();
+}
+
+function applyCustom(target){
+  const p = (els.customPath.value||'').trim();
+  if(!p) return;
+  if(!IMAGE_LIST.includes(p)){ IMAGE_LIST.push(p); populateImageSelects(); }
+  if(target==='front'){ els.frontSel.value=p; }
+  if(target==='back'){ els.backSel.value=p; }
+  saveMappingForCurrent();
+}
+
+function exportMap(){
+  const data = JSON.stringify(IMAGE_MAP,null,2);
+  const blob = new Blob([data],{type:'application/json'});
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(blob);
+  a.download=`${CURRENT.id}_image_map.json`;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+}
+
+function importMap(){
+  const input=document.createElement('input');
+  input.type='file'; input.accept='.json,application/json';
+  input.onchange=async ()=>{
+    const f=input.files[0]; if(!f) return;
+    try{
+      const txt=await f.text();
+      const obj=JSON.parse(txt);
+      if(obj && typeof obj==='object'){
+        IMAGE_MAP=obj;
+        render();
+        alert('Mapping imported for '+CURRENT.id);
+      }
+    }catch(e){ alert('Could not read JSON.'); }
+  };
+  input.click();
+}
+
+/* ------------------------------------------------------------- */
+/* 6) Deck loading                                                */
+/* ------------------------------------------------------------- */
+async function loadDeck(id){
+  CURRENT = DECKS.find(d=>d.id===id);
+  idx=0;
+  els.counter.textContent='Loading…';
+  els.status.textContent=CURRENT.title;
+
+  await loadImageMap(CURRENT.id);
+  await loadImageList(CURRENT.id);
+
+  try{
+    const r=await fetch(CURRENT.dataUrl,{cache:'no-store'});
+    if(!r.ok) throw 0;
+    const txt=await r.text();
+    CARDS = parseTxt(txt, CURRENT.id);
+  }catch(e){ CARDS=[]; }
+
+  populateImageSelects();
+  VIEW = CARDS.slice();
+  render();
+}
+
+/* ------------------------------------------------------------- */
+/* 7) Init                                                        */
+/* ------------------------------------------------------------- */
+(function init(){
+  els.deck.innerHTML='';
+  DECKS.forEach(d=>{
+    const o=document.createElement('option');
+    o.value=d.id; o.textContent=d.title;
+    els.deck.appendChild(o);
+  });
+  if(DECKS.length){
+    els.deck.value=DECKS[0].id;
+    loadDeck(DECKS[0].id);
+  }
+
+  els.deck.onchange = ()=>loadDeck(els.deck.value);
+  els.q.oninput     = applyFilters;
+  els.prev.onclick  = prevCard;
+  els.next.onclick  = nextCard;
+
+  els.apply.onclick     = saveMappingForCurrent;
+  els.useFront.onclick  = ()=>applyCustom('front');
+  els.useBack.onclick   = ()=>applyCustom('back');
+  els.importBtn.onclick = importMap;
+  els.exportBtn.onclick = exportMap;
+
+  document.addEventListener('keydown',e=>{
+    const k=e.key.toLowerCase();
+    if(k==='arrowright') nextCard();
+    else if(k==='arrowleft') prevCard();
+  });
+})();
+</script>
+</body>
+</html>
