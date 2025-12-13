@@ -1,156 +1,94 @@
 Cataracts – Overview
-Cataracts – Overview
-1 of 27
-Definition: Lens opacity causing light scatter and reduced visual function; congenital or acquired.
-Core Symptoms: Blur, glare/halos, night driving difficulty, reduced contrast; asymptomatic early.
-Core Sign: Lens opacification on slit lamp; type/location helps determine etiology and symptoms.
-Congenital Cataracts – Overview
-Congenital Cataracts – Overview
-2 of 27
-Definition: Present at birth; severity ranges from minimal impact to severe visual deprivation leading to amblyopia or strabismus.
-Symptoms: Often asymptomatic; infant may rub eye.
-Signs: Leukocoria, strabismus, nystagmus; cataract morphology.
-Treatment: Cataract surgery ASAP if visually significant.
-Follow Up: Post-operative follow up at 1 day, 1 week, and 1 month.
-Congenital Cataracts – Classic Associations
-Congenital Cataracts – Classic Associations
-3 of 27
-Galactosemia: Bilateral oil-droplet cataracts.
-Hypoglycemia: Zonular cataracts.
-Hypocalcemia: Small pinpoint cataracts.
-Rubella: Pearly white cataracts.
-Fabry Disease: Spoke-like posterior cataracts.
-Lowe Syndrome: Oculocerebral X-linked disorder associated with cataracts.
-Alport Syndrome: Basement membrane disease associated with cataracts.
-Lamellar (Zonular) Congenital Cataract
-Lamellar (Zonular) Congenital Cataract
-4 of 27
-Key Feature: Most common congenital cataract.
-Appearance: Sand-dollar appearance with white opacification surrounding the nucleus.
-Vision Impact: Variable; treat if visually significant.
-Lenticular (Nuclear) Congenital Cataract
-Lenticular (Nuclear) Congenital Cataract
-5 of 27
-Location: Embryonic and possibly fetal nucleus.
-Vision Impact: Depends on size, density, and visual axis involvement.
-Polar Congenital Cataract
-Polar Congenital Cataract
-6 of 27
-Anterior Polar: Typically minimal impact on vision.
-Posterior Polar: Greater visual impact than anterior polar cataracts.
-Sutural Congenital Cataract
-Sutural Congenital Cataract
-7 of 27
-Location: Along Y-sutures of the lens.
-Vision Impact: Usually minimal visual impact.
-Age-Related Cataract – Overview
-Age-Related Cataract – Overview
-8 of 27
-Etiology: Oxidative stress and cumulative ultraviolet exposure.
-Symptoms: Gradual blur, glare, halos, difficulty driving at night.
-Management: Monitor or surgical extraction when visually significant.
+1 of 16
+Definition: Opacity of the crystalline lens causing light scatter and reduced visual function.
+Types: Congenital or acquired (age-related and non–age-related).
+Core Symptoms: Blurred vision, glare, halos, night driving difficulty, reduced contrast.
+Core Sign: Lens opacification on slit lamp examination.
+
+Congenital Cataracts
+2 of 16
+Definition: Lens opacities present at birth; severity ranges from minimal to severe visual deprivation.
+Signs: Leukocoria, strabismus, nystagmus; variable morphology.
+Common Types: Lamellar/zonular (most common), nuclear, polar, sutural.
+Key Associations: Galactosemia (oil droplet), hypoglycemia (zonular), hypocalcemia (punctate), rubella (pearly white), Fabry, Lowe, Alport syndromes.
+Management: Urgent cataract surgery if visually significant; amblyopia prevention critical.
+
+Age-Related Cataracts
+3 of 16
+Etiology: Oxidative stress and cumulative UV exposure.
+Major Types: Nuclear sclerosis, cortical cataract, posterior subcapsular cataract.
+Symptoms: Gradual vision decline, glare, halos, night vision difficulty.
+Management: Surgical extraction when visually significant.
+
 Nuclear Sclerosis Cataract
-Nuclear Sclerosis Cataract
-9 of 27
+4 of 16
 Appearance: Yellowing or brunescence of the nucleus.
-Refractive Change: Myopic shift common.
+Refractive Effect: Progressive myopic shift.
+
 Cortical Cataract
-Cortical Cataract
-10 of 27
+5 of 16
 Appearance: Vacuoles progressing to spoke-like cortical opacities.
-Symptoms: More symptomatic at night due to glare.
-Refractive Change: May cause hyperopic shift.
+Symptoms: Prominent glare, worse at night.
+Refractive Effect: May induce hyperopic shift.
+
 Posterior Subcapsular Cataract
-Posterior Subcapsular Cataract
-11 of 27
+6 of 16
 Location: Posterior pole of the lens.
-Symptoms: Worse at near; disproportionately reduces visual acuity.
-Mature Cataract
-Mature Cataract
-12 of 27
-Appearance: Completely opacified cortex producing a white cataract.
-Clinical Note: May prevent fundus visualization.
-Hypermature Cataract
-Hypermature Cataract
-13 of 27
-Appearance: Liquefied cortex with floating brown nucleus.
-Complications: Phacolytic or phacomorphic glaucoma.
-Non–Age-Related Acquired Cataract
-Non–Age-Related Acquired Cataract
-14 of 27
+Symptoms: Disproportionately affects near vision; rapid visual decline.
+Associations: Steroids, uveitis, diabetes, trauma, radiation, atopic disease.
+
+Mature and Hypermature Cataracts
+7 of 16
+Mature: Completely opacified white cortex.
+Hypermature: Liquefied cortex with floating nucleus.
+Complications: Phacolytic and phacomorphic glaucoma.
+
+Non–Age-Related Acquired Cataracts
+8 of 16
 Causes: Systemic disease, medications, inflammation, radiation, trauma.
-Management: Monitor versus surgical extraction depending on severity.
+Drug Associations: Miotics, thioridazine, amiodarone, chlorpromazine.
+
 Christmas Tree Cataract
-Christmas Tree Cataract
-15 of 27
-Association: Myotonic dystrophy.
-Appearance: Refractile, multicolored crystalline opacities.
-Rosette Cataract
-Rosette Cataract
-16 of 27
-Cause: Blunt ocular trauma.
-Timing: May develop months to years after injury.
-Clinical Note: Consider non-accidental trauma in children.
+9 of 16
+Appearance: Multicolored refractile crystalline deposits.
+Systemic Association: Myotonic dystrophy.
+
 Snowflake Cataract
-Snowflake Cataract
-17 of 27
-Association: Diabetes mellitus.
-Mechanism: Sorbitol pathway osmotic stress.
+10 of 16
 Appearance: Snowflake-like opacities.
-Posterior Subcapsular Cataract – Associations
-Posterior Subcapsular Cataract – Associations
-18 of 27
-Steroids: Systemic, topical, or inhaled corticosteroids.
-Other: Uveitis, diabetes, trauma, radiation, atopic dermatitis.
-Anterior Subcapsular Cataract – Drug Induced
-Anterior Subcapsular Cataract – Drug Induced
-19 of 27
-Miotics: Associated with anterior subcapsular changes.
-Other Drugs: Thioridazine, amiodarone, chlorpromazine.
+Systemic Association: Diabetes mellitus; rapid onset possible.
+
+Rosette Cataract
+11 of 16
+Appearance: Rosette-shaped lens opacity.
+Cause: Blunt ocular trauma.
+Clinical Pearl: Consider non-accidental trauma in children without clear injury history.
+
 Sunflower Cataract
-Sunflower Cataract
-20 of 27
-Association: Wilson disease.
-Related Finding: Kayser–Fleischer ring.
+12 of 16
+Appearance: Sunflower pattern lens opacity.
+Systemic Association: Wilson disease; often with Kayser–Fleischer rings.
+
 Posterior Capsule Opacification
-Posterior Capsule Opacification
-21 of 27
-Definition: Secondary cataract due to lens epithelial cell proliferation after PCIOL.
-Symptoms: Blur, glare, halos, reduced night vision.
-Signs: Elschnig pearls on posterior capsule.
+13 of 16
+Definition: Secondary cataract from lens epithelial cell proliferation after PCIOL.
+Symptoms: Blur, glare, halos, decreased night vision.
 Treatment: YAG laser capsulotomy.
-Complications: CME, retinal detachment, IOP spike.
-Aphakic or Pseudophakic Bullous Keratopathy
-Aphakic or Pseudophakic Bullous Keratopathy
-22 of 27
-Cause: Endothelial failure following cataract surgery.
+Complications: IOP spike, CME, retinal detachment.
+
+Bullous Keratopathy (Aphakic/Pseudophakic)
+14 of 16
+Cause: Corneal endothelial failure after cataract surgery.
 Symptoms: Pain, photophobia, foreign body sensation.
-Signs: Corneal edema, bullae, Descemet folds.
-Treatment: Hypertonic saline, IOP reduction; severe cases require PKP.
-Ectopia Lentis – Overview
-Ectopia Lentis – Overview
-23 of 27
-Definition: Dislocation or subluxation of the crystalline lens.
-Symptoms: Blur, monocular diplopia, angle-closure symptoms.
+Treatment: Hypertonic saline, IOP control; severe cases require keratoplasty.
+
+Ectopia Lentis
+15 of 16
+Definition: Partial or complete displacement of the crystalline lens.
 Most Common Cause: Blunt trauma.
-Ectopia Lentis – Marfan Syndrome
-Ectopia Lentis – Marfan Syndrome
-24 of 27
-Direction: Superotemporal lens displacement.
-Ectopia Lentis – Homocystinuria
-Ectopia Lentis – Homocystinuria
-25 of 27
-Direction: Inferonasal displacement common.
-Risk: High risk of bilateral lens dislocation.
-Ectopia Lentis et Pupillae
-Ectopia Lentis et Pupillae
-26 of 27
-Inheritance: Autosomal recessive.
-Pupil: Slit-like pupil displaced opposite the lens.
-Ectopia Lentis – Management
-Ectopia Lentis – Management
-27 of 27
-Treatment: Surgical lens removal when indicated.
+Systemic Associations: Marfan syndrome (superotemporal displacement); homocystinuria (inferonasal displacement).
+Symptoms: Blur, monocular diplopia, angle-closure symptoms.
+Management: Surgical lens removal when visually significant.
 
 Clinical Pearls – Crystalline Lens & Cataracts
 28 of 27
