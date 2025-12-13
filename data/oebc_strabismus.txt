@@ -1,5 +1,4 @@
 Hypertropia
-Hypertropia
 1 of 20
 Definition: Vertical deviation of one eye upward; can be congenital or acquired.
 Symptoms: Asymptomatic, diplopia, head tilt, asthenopia, headaches.
@@ -7,7 +6,6 @@ Signs: Vertical tropia on cover test; may have reduced stereopsis and abnormal E
 Treatment: Correct refractive error; patching; strabismus surgery in extreme cases.
 Follow Up: PRN.  [oai_citation:0‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Mobius Syndrome
 Mobius Syndrome
 2 of 20
 Definition: Congenital bilateral inability to abduct past midline due to aplasia of CN VI and VII nuclei.
@@ -17,7 +15,6 @@ Treatment: Treat exposure keratopathy; strabismus surgery.
 Follow Up: PRN.  [oai_citation:1‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Brown Syndrome
-Brown Syndrome
 3 of 20
 Definition: Congenital or more commonly acquired (inflammation, surgery, trauma) disorder affecting the superior oblique tendon/trochlea complex.
 Symptoms: Diplopia in right or left superior gaze.
@@ -25,7 +22,6 @@ Signs: Inability of one eye to elevate in adduction; abnormal EOM movement; (+) 
 Treatment: Usually not required; steroids to reduce inflammation (if inflammatory cause suspected).
 Follow Up: PRN.  [oai_citation:2‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Duane Syndrome
 Duane Syndrome
 4 of 20
 Definition: Congenital aplasia or hypoplasia of the abducens nerve causing reduced lateral rectus action (variable limitation).
@@ -36,7 +32,6 @@ Treatment: Usually not required; strabismus surgery if needed.
 Follow Up: PRN.  [oai_citation:3‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Congenital Esotropia
-Congenital Esotropia
 5 of 20
 AKA: Infantile esotropia.
 Definition: Large angle deviation (>35 PD) manifesting before 6 months of age.
@@ -45,7 +40,6 @@ Signs: Deviation on gross exam; typically equal at distance and near; amblyopia 
 Treatment: Fully correct myopia; treat hyperopia > +2.00; strabismus surgery most successful if performed before age 2.
 Follow Up: Age-appropriate exams.  [oai_citation:4‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Accommodative Esotropia
 Accommodative Esotropia
 6 of 20
 Epidemiology: Up to ~55% of esotropias have an accommodative component; often intermittent; commonly manifests around age ~2.
@@ -56,7 +50,6 @@ Treatment: Full cycloplegic Rx (<6 yrs); >6 yrs give as much plus as tolerated. 
 Follow Up: 3 months for Rx check; 6 months if increasing add power.  [oai_citation:5‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Non-Accommodative Esotropia
-Non-Accommodative Esotropia
 7 of 20
 Definition: Esotropia that does not improve with refractive correction; may have acute onset.
 Symptoms: Diplopia initially; longstanding cases may adapt via suppression or anomalous correspondence.
@@ -64,7 +57,6 @@ Types: Early onset (6 months–2 years; resembles infantile). Divergence insuffi
 Treatment: Refer to rule out neurologic etiology; prescribe full spectacle correction; base-out prism; consider vision therapy; surgery as last resort.
 Follow Up: Annual exam or PRN.  [oai_citation:6‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Sensory Esotropia
 Sensory Esotropia
 8 of 20
 Definition: Esotropia secondary to unilateral reduced vision from an ocular condition (e.g., cataract, corneal scar, ptosis, macular scar, optic atrophy, uncorrected refractive error).
@@ -74,7 +66,6 @@ Treatment: Visual prognosis often poor; treat primarily for cosmesis.
 Follow Up: PRN.  [oai_citation:7‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Consecutive Esotropia
-Consecutive Esotropia
 9 of 20
 Definition: Esotropia occurring after strabismus surgery for exotropia (post-op overcorrection).
 Symptoms: Diplopia, asthenopia.
@@ -83,7 +74,6 @@ Treatment: Prism to place image into suppression zone.
 Follow Up: 6-week check if prism Rx; otherwise annual/PRN.  [oai_citation:8‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Prominent Epicanthal Folds
-Prominent Epicanthal Folds
 10 of 20
 Definition: Pseudostrabismus appearance that can mimic esotropia.
 Symptoms: Parent concern for eye turn.
@@ -91,7 +81,6 @@ Signs: No deviation on cover test; equal Hirschberg reflex.
 Treatment: No treatment.
 Follow Up: Annual exam.  [oai_citation:9‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Intermittent Exotropia
 Intermittent Exotropia
 11 of 20
 Definition: Most common exodeviation; can be triggered by bright light, anxiety, fatigue, inattention, or poor health.
@@ -102,14 +91,12 @@ Treatment: Correct refractive error; vision therapy; base-in prism; strabismus s
 Follow Up: As needed.  [oai_citation:10‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Congenital Exotropia
-Congenital Exotropia
 12 of 20
 Definition: Exotropia manifesting before 1 year of age.
 Signs: Usually constant alternating; normal accommodation; minimal refractive error.
 Treatment: Correct refractive error as needed; consider VT and/or base-in prism; surgery if conservative measures fail.
 Follow Up: As needed.  [oai_citation:11‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Decompensated Exophoria
 Decompensated Exophoria
 13 of 20
 Definition: Positive fusional vergence can no longer compensate, leading to intermittent or constant exotropia; often occurs with early presbyopia.
@@ -119,7 +106,6 @@ Treatment: Correct refractive error; vision therapy; base-in prism; surgery if n
 Follow Up: As needed.  [oai_citation:12‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Consecutive Exotropia
-Consecutive Exotropia
 14 of 20
 Definition: Exotropia after strabismus surgery for esotropia (post-op overcorrection).
 Symptoms: Diplopia, asthenopia.
@@ -127,7 +113,6 @@ Signs: XT on cover test; may have paradoxical anomalous correspondence (unharmon
 Treatment: Correct refractive error; consider prism and/or vision therapy; surgery if needed.
 Follow Up: As needed.  [oai_citation:13‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-A-Pattern Tropia
 A-Pattern Tropia
 15 of 20
 Definition: More exo (or less eso) in downgaze and less exo (or more eso) in upgaze.
@@ -137,7 +122,6 @@ Treatment: Manage underlying pattern/oblique involvement; consider surgical refe
 Follow Up: PRN.  [oai_citation:14‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 V-Pattern Tropia
-V-Pattern Tropia
 16 of 20
 Definition: Opposite of A-pattern (typically more exo in upgaze and more eso in downgaze).
 Workup: Compare deviations in upgaze vs downgaze; evaluate oblique function.
@@ -145,15 +129,13 @@ Treatment: Address refractive needs; consider VT/prism in select cases; surgical
 Follow Up: PRN.  [oai_citation:15‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 X-Pattern Tropia
-X-Pattern Tropia
 17 of 20
 Definition: More exo in both upgaze and downgaze.
 Workup: Measure in multiple gaze positions; look for oblique dysfunction.
 Treatment: Individualized; consider referral for surgical evaluation if large/symptomatic.
 Follow Up: PRN.  [oai_citation:16‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Maddox Rod Test
-Maddox Rod Test
+Maddox Rod Tes
 18 of 20
 Concept: Indirect projection test of ocular alignment (example given with red Maddox over right eye).
 Interpretation (as written): Exo → line left of light; Eso → line right of light; Hyper → line below light; Hypo → line above light.
@@ -161,15 +143,13 @@ Clinical Pearl: Always document which eye has the Maddox rod and the line orient
 Follow Up: PRN.  [oai_citation:17‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
 Hering–Bielschowsky Afterimage Test
-Hering–Bielschowsky Afterimage Test
 19 of 20
 Concept: Vertical line flashed on deviated eye; perceived cross alignment helps assess correspondence.
 Interpretation (as written): Cross = no deviation or HAC with a deviation. Esotropia reports vertical line opposite the deviated eye. UAC shows an offset cross but subjective angle (>A) will not equal objective deviation (>O). PUAC reports >A greater than >O.
 Clinical Pearl: Use alongside cover testing and sensory tests—correspondence findings should match the clinical picture.
 Follow Up: PRN.  [oai_citation:18‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Bagolini Striated Lenses
-Bagolini Striated Lenses
+Bagolini Striated Lense
 20 of 20
 Concept: Sensory fusion/correspondence test using striations (as written: right eye sees top-right line; left eye sees top-left line).
 Interpretation (as written): Exo → two lights below; Eso → two lights above. Suppression → missing/segmented line. HAC → one light with an “X” while deviation remains present.
