@@ -103,15 +103,32 @@ Management: Treat systemic hypertension (medical referral/coordination as needed
 
 Follow-up: 2–3 months (sooner if severe findings or suspected malignant HTN).
 
-Histoplasmosis
+Histoplasmosis (Presumed Ocular Histoplasmosis Syndrome – POHS)
 4 of 51
-Fungal infection from bird or bat droppings
-Symptoms: Asymptomatic
-Signs: Needs two of triad for diagnosis
-Punched out Multifocal lesions
-CNVM
-Peripapillarry atrophy
-No treatment: Monitor annually
+
+Definition:
+Fungal infection caused by Histoplasma capsulatum, associated with exposure to bird or bat droppings (endemic in Ohio and Mississippi River valleys).
+
+Symptoms:
+Typically asymptomatic unless complicated by choroidal neovascularization.
+
+Clinical Signs:
+Diagnosis requires 2 of the following triad:
+• Punched-out, multifocal chorioretinal scars (“histo spots”)
+• Peripapillary atrophy
+• Choroidal neovascular membrane (CNVM)
+
+Complications:
+• CNVM leading to central vision loss
+
+Management:
+• No treatment for inactive disease
+• Treat CNVM with anti-VEGF therapy if present
+
+Follow-up:
+• Annual monitoring if no CNVM
+• More frequent follow-up if CNVM develops
+
 
 Valsalva Retinopathy
 6 of 51
