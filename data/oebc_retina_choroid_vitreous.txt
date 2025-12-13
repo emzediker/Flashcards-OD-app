@@ -444,3 +444,17 @@ Symptoms: Blur, photopsia, nyctalopia.
 Signs: Multiple creamy yellow-white spots sparing macula; vitritis; retinal vasculitis; CME; possible choroidal hypopigmentation/atrophy.
 Management: Systemic steroids → systemic immunomodulatory therapy; periocular/intravitreal steroids for CME as needed.
 Follow-up: 1 week to assess treatment response.
+
+Clinical Pearl – Macular Edema Treatment RuleVisually significant macular edema is treated first-line with anti-VEGF therapy. Applies to DME, BRVO/CRVO macular edema, wet AMD, radiation retinopathy, and MacTel with CNVM. Exceptions: Irvine–Gass (topical NSAID + steroid first), inflammatory CME (steroids earlier), chronic refractory CME may require intravitreal or sub-Tenon steroids.
+
+Clinical Pearl – Neovascularization RuleAny retinal or iris neovascularization indicates ischemia until proven otherwise. Initial management is anti-VEGF for rapid regression followed by PRP for long-term ischemic control. Seen in PDR, ischemic BRVO/CRVO, ocular ischemic syndrome, sickle cell retinopathy, radiation retinopathy, and ROP.
+
+Clinical Pearl – Retinal Artery vs Vein OcclusionRetinal artery occlusions (CRAO/BRAO) are neurologic emergencies requiring stroke workup and GCA exclusion in patients over 50. Retinal vein occlusions cause macular edema and neovascularization treated with anti-VEGF and PRP. CRVO requires monthly gonioscopy for 90 days due to neovascular glaucoma risk.
+
+Clinical Pearl – Steroids vs InfectionSteroids should never be started until infection is ruled out. Treat infection first in acute retinal necrosis (antivirals), toxoplasmosis (antimicrobials), and candidiasis (antifungals). Steroids are adjunctive, not first-line.
+
+Clinical Pearl – Surgical Retina IndicationsVitrectomy is indicated for dense or non-clearing vitreous hemorrhage, tractional retinal detachment, symptomatic epiretinal membrane, macular holes (stages 3–4), and chronic diabetic macular edema unresponsive to medical therapy.
+
+Clinical Pearl – Inherited vs Acquired Retina DiseaseInherited retinal diseases are typically bilateral, symmetric, and slowly progressive (e.g., RP, Stargardt, Best, choroideremia). Acquired retinal diseases are often asymmetric and associated with hemorrhage, edema, or ischemia (e.g., diabetic retinopathy, vein occlusions, ocular ischemic syndrome).
+
+Clinical Pearl – High-Yield Retina AssociationsCherry-red spot = CRAO. Blood-and-thunder fundus = CRVO. Sea-fan neovascularization = sickle cell retinopathy. Headlights in fog = toxoplasmosis. Silent choroid = Stargardt. Egg-yolk lesion = Best disease. ILM drape on OCT = MacTel type 2. Cotton balls or string of pearls = candidiasis.
