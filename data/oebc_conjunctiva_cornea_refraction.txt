@@ -3,724 +3,327 @@ Conjunctiva
 Erythema Multiforme / Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis
 Erythema Multiforme / Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis
 1 of 32
-
-Definition / Cause:
-Variants of the same disease spectrum involving a Type IV hypersensitivity reaction. Common triggers include medications (especially sulfonamides and anticonvulsants) and infections such as HSV or Mycoplasma.
-
-Symptoms:
-Flu-like prodrome, red eyes, eye pain or burning, skin rash.
-
-Signs:
-Target lesions, dusky macules, bullous skin lesions, conjunctival injection, symblepharon.
-
-Treatment:
-Topical steroids for ocular involvement. Systemic management in conjunction with medical team.
-
-Follow-Up:
-Daily.
-
+Definition / Cause: Variants of the same disease spectrum involving a Type IV hypersensitivity reaction. Common triggers include medications (especially sulfonamides and anticonvulsants) and infections such as HSV or Mycoplasma.
+Symptoms: Flu-like prodrome, red eyes, eye pain or burning, skin rash.
+Signs: Target lesions, dusky macules, bullous skin lesions, conjunctival injection, symblepharon.
+Treatment: Topical steroids for ocular involvement. Systemic management in conjunction with medical team.
+Follow-Up: Daily.
 
 Cicatricial Pemphigoid
 Cicatricial Pemphigoid
 2 of 32
-
-Definition / Cause:
-Systemic autoimmune disease causing progressive mucocutaneous inflammation and scarring. Typically affects women over 55 years old.
-
-Symptoms:
-Dryness, redness, foreign body sensation, tearing, burning, decreased vision, photophobia. Usually bilateral.
-
-Signs:
-Conjunctival inflammation, symblepharon, forniceal shortening, scarring.
-
-Treatment:
-Systemic immunosuppressive therapy, oral prednisone, palliative ocular surface treatment.
-
-Follow-Up:
-1 week.
-
+Definition / Cause: Systemic autoimmune disease causing progressive mucocutaneous inflammation and scarring. Typically affects women over 55 years old.
+Symptoms: Dryness, redness, foreign body sensation, tearing, burning, decreased vision, photophobia; usually bilateral.
+Signs: Conjunctival inflammation, symblepharon, forniceal shortening, scarring.
+Treatment: Systemic immunosuppressive therapy, oral prednisone, palliative ocular surface treatment.
+Follow-Up: 1 week.
 
 Superior Limbic Keratoconjunctivitis
 Superior Limbic Keratoconjunctivitis
 3 of 32
-
-Definition / Cause:
-Chronic inflammatory condition caused by friction between the upper eyelid and superior bulbar conjunctiva. Associated with dry eye, thyroid eye disease, rheumatoid arthritis, Sjögren syndrome, and excessive contact lens wear.
-
-Symptoms:
-Red eye, foreign body sensation, itching, mild photophobia, episodic exacerbations and remissions.
-
-Signs:
-Sectoral superior conjunctival thickening and inflammation, radial injection, fine papillae on superior tarsal conjunctiva, superior SPK, micro-pannus, filaments.
-
-Treatment:
-Mild: Lubrication, cyclosporine or lifitegrast, treat blepharitis.
-Moderate to severe: Autologous serum drops, tacrolimus 0.03%, acetylcysteine 10% 4–6x/day, 0.5% silver nitrate solution.
-
-Follow-Up:
-Every 2 weeks until symptoms remit.
-
+Definition / Cause: Chronic inflammatory condition caused by friction between the upper eyelid and superior bulbar conjunctiva; associated with dry eye, thyroid eye disease, rheumatoid arthritis, Sjögren syndrome, and contact lens wear.
+Symptoms: Red eye, foreign body sensation, itching, mild photophobia, episodic flares.
+Signs: Superior conjunctival thickening, radial injection, fine papillae, superior SPK, filaments.
+Treatment: Mild—lubrication, cyclosporine or lifitegrast. Severe—autologous serum, tacrolimus 0.03%, acetylcysteine 10%, silver nitrate.
+Follow-Up: Every 2 weeks until remission.
 
 Subconjunctival Hemorrhage
 Subconjunctival Hemorrhage
 4 of 32
-
-Definition / Cause:
-Bleeding beneath the conjunctiva, often due to Valsalva maneuver, trauma, or anticoagulant use.
-
-Symptoms:
-Red eye without pain or vision loss.
-
-Signs:
-Well-demarcated area of blood beneath the conjunctiva obscuring underlying vessels.
-
-Treatment:
-None required.
-
-Follow-Up:
-None. Reassure patient resolution within 2–3 weeks. If recurrent, refer to PCP to rule out systemic disease.
-
+Definition / Cause: Bleeding beneath conjunctiva due to Valsalva, trauma, or anticoagulants.
+Symptoms: Red eye without pain or vision loss.
+Signs: Well-demarcated subconjunctival blood.
+Treatment: None required.
+Follow-Up: None; reassure.
 
 Allergic Conjunctivitis
 Allergic Conjunctivitis
 5 of 32
-
-Definition / Cause:
-IgE-mediated hypersensitivity reaction to airborne allergens. Seasonal or perennial.
-
-Symptoms:
-Itching, redness, watery eyes.
-
-Signs:
-Chemosis, eyelid edema, papillae, periocular hyperpigmentation, absence of preauricular lymphadenopathy.
-
-Treatment:
-Mild: Artificial tears 4–8x/day.
-Moderate: OTC antihistamine/mast cell stabilizer.
-Severe: Short course of weak topical steroid (FML or Alrex).
-
-Follow-Up:
-2 weeks.
-
+Definition / Cause: IgE-mediated hypersensitivity to airborne allergens.
+Symptoms: Itching, redness, watery eyes.
+Signs: Chemosis, papillae, eyelid edema, no preauricular node.
+Treatment: Artificial tears, antihistamine/mast cell stabilizers, short steroid course if severe.
+Follow-Up: 2 weeks.
 
 Atopic Conjunctivitis
 Atopic Conjunctivitis
 6 of 32
-
-Definition / Cause:
-Chronic allergic conjunctivitis associated with atopy, typically in adults.
-
-Symptoms:
-Itching, redness, tearing, with possible pain and photophobia.
-
-Signs:
-Large papillae (often inferior), dermatitis, symblepharon, Dennie–Morgan lines, ectropion or entropion, trichiasis, madarosis.
-
-Treatment:
-Cold compresses, mast cell stabilizers, topical steroids as needed.
-
-Follow-Up:
-2 weeks.
-
+Definition / Cause: Chronic allergic conjunctivitis associated with atopy.
+Symptoms: Itching, redness, tearing, possible pain.
+Signs: Large papillae, dermatitis, symblepharon, lid changes.
+Treatment: Cold compresses, mast cell stabilizers, topical steroids as needed.
+Follow-Up: 2 weeks.
 
 Vernal Conjunctivitis
 Vernal Conjunctivitis
 7 of 32
-
-Definition / Cause:
-Chronic allergic condition in young boys, associated with atopy and hot climates. Typically resolves after puberty.
-
-Symptoms:
-Severe itching, photophobia, tearing, thick discharge.
-
-Signs:
-Cobblestone papillae of superior conjunctiva, ropy discharge, Horner–Trantas dots, possible shield ulcer.
-
-Treatment:
-Cold compresses, mast cell stabilizers. Cyclosporine if refractory. If shield ulcer present, topical antibiotic ointment. Add tacrolimus or pimecrolimus if associated dermatitis.
-
-Follow-Up:
-If ulcer present: 1 day.
-If no ulcer: 2 weeks.
-
+Definition / Cause: Severe allergic conjunctivitis in young males in warm climates.
+Symptoms: Severe itching, photophobia, thick discharge.
+Signs: Cobblestone papillae, Trantas dots, shield ulcers.
+Treatment: Mast cell stabilizers, cyclosporine, tacrolimus if refractory.
+Follow-Up: 1 day if ulcer; otherwise 2 weeks.
 
 Bacterial Conjunctivitis (Nongonococcal)
 Bacterial Conjunctivitis (Nongonococcal)
 8 of 32
-
-Definition / Cause:
-Most commonly caused by Staphylococcus aureus or Streptococcus pneumoniae. Common in children under 3 years old.
-
-Symptoms:
-Acute onset redness, discharge, foreign body sensation.
-
-Signs:
-Purulent white or yellow discharge, papillae, chemosis, no preauricular node, no corneal involvement.
-
-Treatment:
-Topical Polytrim or fluoroquinolone drops or ointment. Oral Augmentin if H. influenzae or dacryocystitis present.
-
-Follow-Up:
-2 days, then every 5 days until stable.
-
+Definition / Cause: Commonly Staph or Strep species.
+Symptoms: Redness, discharge, irritation.
+Signs: Purulent discharge, papillae, no preauricular node.
+Treatment: Polytrim or fluoroquinolone.
+Follow-Up: 2 days.
 
 Gonococcal Conjunctivitis
 Gonococcal Conjunctivitis
 9 of 32
-
-Definition / Cause:
-Hyperacute conjunctivitis caused by Neisseria gonorrhoeae, capable of invading intact corneal epithelium.
-
-Symptoms:
-Rapid onset severe pain, redness, discharge.
-
-Signs:
-Copious purulent discharge, chemosis, papillae, preauricular lymphadenopathy.
-
-Treatment:
-Ceftriaxone 1 g IM plus azithromycin 1 g PO. IV ceftriaxone if corneal involvement suspected. Saline irrigation and topical fluoroquinolone.
-
-Follow-Up:
-Daily.
-
+Definition / Cause: Hyperacute conjunctivitis from Neisseria gonorrhoeae.
+Symptoms: Severe pain, copious discharge.
+Signs: Hyperpurulence, chemosis, preauricular node.
+Treatment: Ceftriaxone IM ± IV, azithromycin PO, topical antibiotics.
+Follow-Up: Daily.
 
 Chlamydial Conjunctivitis
 Chlamydial Conjunctivitis
 10 of 32
-
-Definition / Cause:
-Sexually transmitted conjunctivitis caused by Chlamydia trachomatis serotypes D–K.
-
-Symptoms:
-Chronic red eye, irritation, discharge.
-
-Signs:
-Inferior follicles, stringy mucous discharge, superior pannus, preauricular lymphadenopathy, peripheral SEIs.
-
-Treatment:
-Azithromycin 1 g PO single dose or doxycycline course. Adjunct topical erythromycin may be used.
-
-Follow-Up:
-2 weeks. Refer to PCP for STI evaluation.
-
+Definition / Cause: STI caused by Chlamydia trachomatis.
+Symptoms: Chronic red eye.
+Signs: Inferior follicles, pannus, preauricular node.
+Treatment: Azithromycin or doxycycline; treat partners.
+Follow-Up: 2 weeks.
 
 Trachoma
 Trachoma
 11 of 32
-
-Definition / Cause:
-Chronic conjunctivitis caused by Chlamydia trachomatis serotypes A–C. Leading cause of preventable blindness worldwide.
-
-Symptoms:
-Chronic irritation, discharge.
-
-Signs:
-Superior follicles, Herbert pits, Arlt line scarring.
-
-Treatment:
-Azithromycin 20 mg/kg single dose or doxycycline 100 mg PO BID for 2 weeks. Topical tetracycline or erythromycin ointment for 4 weeks.
-
-Follow-Up:
-2 weeks.
-
+Definition / Cause: Chronic conjunctivitis from Chlamydia trachomatis A–C.
+Symptoms: Chronic irritation.
+Signs: Superior follicles, Arlt line scarring.
+Treatment: Azithromycin or doxycycline.
+Follow-Up: 2 weeks.
 
 Adenoviral Conjunctivitis
 Adenoviral Conjunctivitis
 12 of 32
-
-Definition / Cause:
-Most common cause of viral conjunctivitis. Highly contagious for up to 14 days.
-
-Symptoms:
-Itching, burning, gritty sensation, recent URI, typically unilateral then bilateral.
-
-Signs:
-Watery discharge, eyelid edema, SPK, membranes or pseudomembranes, SEIs in EKC.
-
-Treatment:
-Supportive care, cool compresses. Topical steroids only if central SEIs cause photophobia.
-
-Follow-Up:
-2 weeks.
-
+Definition / Cause: Most common viral conjunctivitis.
+Symptoms: Burning, tearing, URI symptoms.
+Signs: Follicles, membranes, SEIs.
+Treatment: Supportive; steroids only if central SEIs.
+Follow-Up: 2 weeks.
 
 Molluscum Contagiosum
 Molluscum Contagiosum
 13 of 32
-
-Definition / Cause:
-DNA poxvirus infection. Adult cases warrant HIV testing.
-
-Symptoms:
-Chronic conjunctivitis.
-
-Signs:
-Umbilicated dome-shaped lid lesions, follicles, pannus.
-
-Treatment:
-Lesion excision, curettage, or cryotherapy.
-
-Follow-Up:
-2 weeks.
-
+Definition / Cause: DNA poxvirus infection.
+Symptoms: Chronic conjunctivitis.
+Signs: Umbilicated lid lesions.
+Treatment: Excision or cryotherapy.
+Follow-Up: 2 weeks.
 
 Conjunctival Intraepithelial Neoplasia (CIN)
 Conjunctival Intraepithelial Neoplasia (CIN)
 14 of 32
-
-Definition / Cause:
-Premalignant lesion confined to conjunctival epithelium. Precursor to SCC.
-
-Symptoms:
-Foreign body sensation, irritation.
-
-Signs:
-Gelatinous white lesion near limbus.
-
-Treatment:
-Surgical excision with biopsy. Imaging if invasion suspected.
-
-Follow-Up:
-As directed by oncology/ophthalmology.
+Definition / Cause: Premalignant conjunctival lesion.
+Symptoms: Irritation.
+Signs: Gelatinous limbal lesion.
+Treatment: Excision with biopsy.
+Follow-Up: Oncology-directed.
 
 Cornea
 
 Exposure Keratopathy
 Exposure Keratopathy
 15 of 32
-
-Definition / Cause:
-Corneal exposure due to incomplete eyelid closure. Causes include thyroid eye disease, ectropion, nocturnal lagophthalmos, Bell palsy, Möbius syndrome, Parinaud syndrome, globe subluxation.
-
-Symptoms:
-Foreign body sensation, irritation, burning, tearing.
-
-Signs:
-Inferior corneal SPK, sectoral hyperemia, possible ulceration.
-
-Treatment:
-Address eyelid abnormality. Preservative-free artificial tears up to q1h, bland ophthalmic ointment qhs. Amniotic membrane if severe. Treat ulcers as indicated.
-
-Follow-Up:
-Weeks to months if no ulcer. Daily if ulcer present.
-
+Definition / Cause: Corneal exposure from incomplete lid closure.
+Symptoms: Irritation, burning.
+Signs: Inferior SPK.
+Treatment: Lubrication, ointment, amniotic membrane if severe.
+Follow-Up: Variable.
 
 Ultraviolet Keratopathy
 Ultraviolet Keratopathy
 16 of 32
-
-Definition / Cause:
-Acute corneal epithelial injury from UV-C exposure (welding, skiing, tanning beds).
-
-Symptoms:
-Severe photophobia, blurred vision, burning, foreign body sensation, epiphora 6–12 hours after exposure.
-
-Signs:
-Dense confluent SPK in intrapalpebral pattern, conjunctival injection, mild eyelid edema, sluggish miotic pupils, mild AC reaction.
-
-Treatment:
-Cyclopentolate 1%, erythromycin or bacitracin ointment 4–8x/day, oral analgesics. Bandage contact lens with antibiotic drop may be used.
-
-Follow-Up:
-1 day.
-
+Definition / Cause: UV-C corneal epithelial injury.
+Symptoms: Severe photophobia.
+Signs: Dense SPK.
+Treatment: Cycloplegia, antibiotic ointment.
+Follow-Up: 1 day.
 
 Filamentary Keratitis
 Filamentary Keratitis
 17 of 32
-
-Definition / Cause:
-Corneal condition associated with dry eye, reduced corneal sensitivity, recurrent erosions, or SLK.
-
-Symptoms:
-Pain, photophobia, foreign body sensation, red eye.
-
-Signs:
-Mucous and epithelial filaments adherent to cornea, staining with fluorescein.
-
-Treatment:
-Treat underlying cause. Debridement of filaments if needed. PF artificial tears 6–8x/day, lubricating gel qhs, punctal occlusion, acetylcysteine 10% QID.
-
-Follow-Up:
-1 week.
-
+Definition / Cause: Associated with dry eye and reduced corneal sensitivity.
+Symptoms: Pain, photophobia.
+Signs: Mucous filaments.
+Treatment: Lubrication, acetylcysteine.
+Follow-Up: 1 week.
 
 Dellen
 Dellen
 18 of 32
-
-Definition / Cause:
-Localized corneal thinning adjacent to an elevated lesion (pterygium, pinguecula, RGP lens).
-
-Symptoms:
-Often asymptomatic; may have pain, photophobia, blurred vision.
-
-Signs:
-Peripheral corneal thinning, fluorescein pooling without staining, no infiltrate or AC reaction.
-
-Treatment:
-Aggressive lubrication, ointment, patching if needed, treat adjacent elevation.
-
-Follow-Up:
-1–7 days.
-
+Definition / Cause: Localized corneal thinning adjacent to elevation.
+Symptoms: Often asymptomatic.
+Signs: Peripheral thinning.
+Treatment: Lubrication.
+Follow-Up: 1–7 days.
 
 Thygeson Superficial Punctate Keratitis
 Thygeson Superficial Punctate Keratitis
 19 of 32
-
-Definition / Cause:
-Chronic idiopathic bilateral epithelial keratitis with remissions and exacerbations, typically in young adults.
-
-Symptoms:
-Mild to moderate foreign body sensation, photophobia, tearing, minimal redness.
-
-Signs:
-Coarse stellate gray-white epithelial opacities, often central, lightly staining with fluorescein.
-
-Treatment:
-Mild: PF artificial tears and ointment.
-Moderate–severe: FML, Alrex, or Lotemax. Consider bandage CL, cyclosporine, or lifitegrast if recurrent.
-
-Follow-Up:
-Weekly during exacerbations, then every 3–6 months.
-
+Definition / Cause: Chronic idiopathic epithelial keratitis.
+Symptoms: Mild photophobia.
+Signs: Stellate opacities.
+Treatment: Mild steroids if symptomatic.
+Follow-Up: Weekly during flares.
 
 Phlyctenule / Phlyctenulosis
 Phlyctenule / Phlyctenulosis
 20 of 32
-
-Definition / Cause:
-Delayed hypersensitivity reaction to staphylococcal antigens; associated with blepharitis, rosacea, rarely tuberculosis.
-
-Symptoms:
-Pain, irritation, photophobia, tearing.
-
-Signs:
-Raised white vascularized nodule near the limbus on conjunctiva or cornea.
-
-Treatment:
-Soft topical steroid (FML, Alrex, Lotemax). Treat blepharitis or rosacea. Oral doxycycline or erythromycin if indicated.
-
-Follow-Up:
-5 days.
-
+Definition / Cause: Delayed hypersensitivity to staph antigens.
+Symptoms: Pain, tearing.
+Signs: Raised limbal nodule.
+Treatment: Soft steroid, treat blepharitis.
+Follow-Up: 5 days.
 
 Corneal Graft Rejection
 Corneal Graft Rejection
 21 of 32
-
-Definition / Cause:
-Immune-mediated rejection of corneal transplant, most commonly within first year.
-
-Symptoms:
-Blurred vision, pain, photophobia.
-
-Signs:
-Corneal edema, conjunctival injection, keratic precipitates, epithelial or endothelial rejection line (Khodadoust line), neovascularization.
-
-Treatment:
-Aggressive topical steroids; oral or sub-Tenon steroids as needed. Cyclosporine adjunct.
-
-Follow-Up:
-3 days.
-
+Definition / Cause: Immune-mediated graft rejection.
+Symptoms: Pain, photophobia.
+Signs: Edema, KP, rejection line.
+Treatment: Aggressive steroids.
+Follow-Up: 3 days.
 
 Neurotrophic Keratopathy
 Neurotrophic Keratopathy
 22 of 32
-
-Definition / Cause:
-Corneal disease due to reduced trigeminal (CN V1) sensation, often following herpes infection.
-
-Symptoms:
-Minimal pain despite significant findings.
-
-Signs:
-Reduced corneal sensitivity, epithelial defects, non-healing ulcers.
-
-Treatment:
-Preservative-free artificial tears q1h, ointment qhs, prophylactic antibiotics if ulcer present, amniotic membrane, Oxervate for 8 weeks.
-
-Follow-Up:
-Mild disease: 3 days.
-Ulceration: Daily.
-
+Definition / Cause: Reduced trigeminal sensation.
+Symptoms: Minimal pain.
+Signs: Non-healing defects.
+Treatment: Lubrication, Oxervate.
+Follow-Up: Daily if ulcer.
 
 Peters Anomaly
 Peters Anomaly
-23 o 32
-
-Definition / Cause:
-Rare congenital malformation of corneal endothelium and Descemet membrane.
-
-Symptoms:
-Asymptomatic to blurred vision.
-
-Signs:
-Central corneal opacity, often associated with glaucoma, aniridia, microphthalmos, amblyopia.
-
-Treatment:
-Penetrating or lamellar keratoplasty, treat associated glaucoma and amblyopia.
-
-Follow-Up:
-Every 6 months lifelong.
-
+23 of 32
+Definition / Cause: Congenital corneal malformation.
+Symptoms: Variable.
+Signs: Central opacity.
+Treatment: Keratoplasty.
+Follow-Up: Lifelong.
 
 Acanthamoeba Keratitis
 Acanthamoeba Keratitis
 24 of 32
-
-Definition / Cause:
-Protozoal keratitis associated with contact lens wear and freshwater exposure.
-
-Symptoms:
-Severe pain out of proportion to clinical findings.
-
-Signs:
-Early SPK or pseudodendrite, later ring infiltrate, corneal melt.
-
-Treatment:
-PHMB, chlorhexidine, propamidine agents hourly. Cyclopentolate for pain.
-
-Follow-Up:
-Daily.
-
+Definition / Cause: Protozoal infection in CL wearers.
+Symptoms: Severe pain out of proportion.
+Signs: Ring infiltrate.
+Treatment: PHMB, chlorhexidine.
+Follow-Up: Daily.
 
 Bacterial Keratitis
 Bacterial Keratitis
 25 of 32
-
-Definition / Cause:
-Corneal infection caused by bacteria, including Pseudomonas in contact lens wearers.
-
-Symptoms:
-Pain, photophobia, blurred vision.
-
-Signs:
-Focal corneal infiltrate with epithelial defect, edema, AC reaction, possible hypopyon.
-
-Treatment:
-Topical antibiotics based on severity and risk factors. Cycloplegic for pain.
-
-Follow-Up:
-Daily. Culture if not improving.
-
+Definition / Cause: Corneal bacterial infection.
+Symptoms: Pain, blurred vision.
+Signs: Infiltrate with epithelial defect.
+Treatment: Topical antibiotics.
+Follow-Up: Daily.
 
 Fungal Keratitis
 Fungal Keratitis
 26 of 32
-
-Definition / Cause:
-Corneal infection following plant or fingernail trauma. Common organisms include Aspergillus and Candida.
-
-Symptoms:
-Pain, blurred vision, photophobia.
-
-Signs:
-Stellate infiltrate with feathery borders.
-
-Treatment:
-Topical amphotericin B or voriconazole; systemic antifungals if severe. Consider debridement.
-
-Follow-Up:
-Daily.
-
+Definition / Cause: Fungal corneal infection.
+Symptoms: Pain, photophobia.
+Signs: Feathery infiltrate.
+Treatment: Amphotericin B or voriconazole.
+Follow-Up: Daily.
 
 Peripheral Ulcerative Keratitis
 Peripheral Ulcerative Keratitis
 27 of 32
-
-Definition / Cause:
-Peripheral corneal inflammation associated with autoimmune disease, staphylococcal hypersensitivity, or idiopathic causes.
-
-Symptoms:
-Pain, photophobia, tearing, blurred vision.
-
-Signs:
-Peripheral ulceration, corneal thinning, possible scleritis.
-
-Treatment:
-Treat underlying condition. PF artificial tears, cycloplegia, acetylcysteine.
-
-Follow-Up:
-Within 1 week or sooner based on severity.
-
+Definition / Cause: Autoimmune-associated peripheral corneal inflammation.
+Symptoms: Pain.
+Signs: Peripheral thinning.
+Treatment: Treat systemic disease.
+Follow-Up: 1 week.
 
 Salzmann Nodular Degeneration
 Salzmann Nodular Degeneration
 28 of 32
-
-Definition / Cause:
-Degenerative condition of Bowman membrane, typically in older women.
-
-Symptoms:
-Asymptomatic or blurred vision, photophobia.
-
-Signs:
-Elevated blue-white nodules on cornea.
-
-Treatment:
-PTK if symptomatic.
-
-Follow-Up:
-2–6 weeks if treated; otherwise annually.
-
+Definition / Cause: Degenerative Bowman layer disease.
+Symptoms: Blurred vision.
+Signs: Blue-white nodules.
+Treatment: PTK.
+Follow-Up: As needed.
 
 Terrien Marginal Degeneration
 Terrien Marginal Degeneration
 29 of 32
-
-Definition / Cause:
-Non-inflammatory peripheral corneal thinning, usually superior nasal.
-
-Symptoms:
-Typically asymptomatic.
-
-Signs:
-Peripheral thinning causing against-the-rule astigmatism.
-
-Treatment:
-Refractive correction, protective eyewear, keratoplasty if advanced.
-
-Follow-Up:
-6 months.
-
+Definition / Cause: Non-inflammatory peripheral thinning.
+Symptoms: Asymptomatic.
+Signs: Against-the-rule astigmatism.
+Treatment: Observation.
+Follow-Up: 6 months.
 
 Band Keratopathy
 Band Keratopathy
 30 of 32
-
-Definition / Cause:
-Calcium deposition in anterior cornea associated with chronic inflammation, hypercalcemia, gout.
-
-Symptoms:
-Foreign body sensation, decreased vision.
-
-Signs:
-Interpalpebral calcific plaque with “Swiss cheese” appearance.
-
-Treatment:
-EDTA chelation if symptomatic; otherwise lubrication.
-
-Follow-Up:
-Post-procedure: every few days.
-Otherwise: 3–12 months.
-
+Definition / Cause: Calcium deposition in anterior cornea.
+Symptoms: Foreign body sensation.
+Signs: Interpalpebral calcific band.
+Treatment: EDTA chelation.
+Follow-Up: 3–12 months.
 
 Refractive Surgery
 
 Refractive Surgery Overview
 Refractive Surgery Overview
 31 of 32
-
-Definition / Cause:
-Surgical correction of refractive error using corneal or lens-based procedures.
-
-Treatment:
-Myopia < −10.00 D, astigmatism < −4.00 D: LASIK or SMILE.
-Thin corneas or lifestyle concerns: PRK.
-Hyperopia < +4.00 D: Conductive keratoplasty.
-Astigmatism during cataract surgery: Limbal relaxing incisions.
-High refractive errors: Phakic IOLs (young), clear lens extraction (presbyopic).
-
-Follow-Up:
-As directed by surgical protocol.
-
+Definition / Cause: Surgical correction of refractive error.
+Treatment: LASIK, PRK, SMILE, phakic IOLs.
+Follow-Up: Per protocol.
 
 Radial Keratotomy
 Radial Keratotomy
 32 of 32
+Definition / Cause: Obsolete radial incision refractive surgery.
+Symptoms: Diurnal fluctuation.
+Signs: Radial scars.
+Treatment: Spectacles or scleral lenses.
+Follow-Up: As needed.
 
-Definition / Cause:
-Obsolete refractive surgery involving radial corneal incisions.
+Clinical Pearl – Red Eye Triage
+Clinical Pearl – Red Eye Triage
+33 of 32
+Pearl: Pain or photophobia indicates corneal or uveal disease.
+Pearl: Itching suggests allergy.
+Pearl: Pain out of proportion suggests acanthamoeba.
 
-Symptoms:
-Fluctuating vision, diurnal refractive changes.
+Clinical Pearl – Discharge Patterns
+Clinical Pearl – Discharge Patterns
+34 of 32
+Pearl: Watery discharge suggests viral or allergic.
+Pearl: Thick purulence suggests bacterial.
+Pearl: Hyperacute purulence suggests gonococcal infection.
 
-Signs:
-Radial corneal scars.
+Clinical Pearl – Follicles vs Papillae
+Clinical Pearl – Follicles vs Papillae
+35 of 32
+Pearl: Follicles suggest viral or chlamydial disease.
+Pearl: Papillae suggest allergic or bacterial disease.
 
-Treatment:
-Spectacles, contact lenses, often scleral lenses.
+Clinical Pearl – Steroid Rules
+Clinical Pearl – Steroid Rules
+36 of 32
+Pearl: Never use steroids with epithelial defects.
+Pearl: Steroids are adjunctive, not first-line, in infection.
 
-Follow-Up:
-As needed.
+Clinical Pearl – Post-Refractive Surgery
+Clinical Pearl – Post-Refractive Surgery
+37 of 32
+Pearl: RK causes unstable refraction.
+Pearl: Scleral lenses often help post-RK.
 
-Clinical Process & Board Pearls
-
-Red Eye Triage:
-• Pain, photophobia, or reduced vision = cornea or uvea until proven otherwise.
-• Itching is allergic until proven otherwise.
-• Severe pain out of proportion to signs raises concern for acanthamoeba or neurotrophic disease.
-• Unilateral chronic follicular conjunctivitis in a young adult → think chlamydia or molluscum.
-
-Discharge Patterns:
-• Watery discharge → viral or allergic.
-• Thick purulent discharge → bacterial.
-• Copious hyperacute purulence → gonococcal (emergent).
-• Stringy mucus → allergic or chlamydial.
-
-Papillae vs Follicles:
-• Papillae = allergic or bacterial.
-• Follicles = viral, chlamydial, molluscum, toxic.
-• Inferior follicles with pannus → chlamydial.
-• Superior follicles with scarring → trachoma.
-
-Preauricular Lymph Node:
-• Present → viral or chlamydial.
-• Absent → allergic or routine bacterial.
-
-When to Culture:
-• Large, central, or vision-threatening corneal ulcers.
-• Contact lens–related ulcers not improving.
-• Post-surgical or immunocompromised patients.
-• Any ulcer worsening on appropriate therapy.
-
-Contact Lens Red Flags:
-• Always suspect Pseudomonas in contact lens wearers.
-• Pain > signs + slow progression → suspect acanthamoeba or fungal keratitis.
-• Remove lenses immediately and discontinue wear.
-
-Corneal vs Conjunctival Disease:
-• Conjunctival disease rarely causes photophobia.
-• Corneal involvement causes photophobia, pain, and decreased vision.
-• SPK alone can still be very painful (UV keratitis, Thygeson).
-
-Steroid Use Pearls:
-• Never use steroids in undiagnosed red eye with epithelial defect.
-• Adenoviral SEIs are treated with steroids only if central or visually significant.
-• Peripheral sterile infiltrates may benefit from steroids after infection ruled out.
-
-Symblepharon Associations:
-• Cicatricial pemphigoid
-• Stevens-Johnson syndrome / TEN
-• Severe atopic disease
-
-Pain Discrepancy:
-• Severe pain with minimal findings → acanthamoeba.
-• Minimal pain with severe findings → neurotrophic keratopathy.
-
-Peripheral Corneal Disease:
-• Sectoral thinning with autoimmune disease → PUK.
-• Non-inflammatory superior thinning in men → Terrien marginal degeneration.
-• Elevated adjacent lesion with thinning → dellen.
-
-Post-Refractive Surgery:
-• LASIK patients may develop dry eye or ectasia.
-• RK patients often have diurnal fluctuations and unstable refraction.
-• Scleral lenses are often helpful in post-RK irregular corneas.
-
-Urgent / Emergent Referrals:
-• Gonococcal conjunctivitis.
-• Stevens-Johnson syndrome / TEN.
-• Rapidly progressive corneal ulcers.
-• Corneal graft rejection.
-• Suspected acanthamoeba or fungal keratitis.
-
-Board Exam Traps:
-• Acanthamoeba is NOT bacterial despite appearing in “bacterial keratitis” lists.
-• Tetracyclines are contraindicated in pregnancy and children < 8 years.
-• Painful red eye with follicles ≠ allergic.
-• Chronic unilateral conjunctivitis is never “just pink eye.”
-
+Clinical Pearl – Board Traps
+Clinical Pearl – Board Traps
+38 of 32
+Pearl: Acanthamoeba is not bacterial.
+Pearl: Chronic unilateral conjunctivitis is never routine.
