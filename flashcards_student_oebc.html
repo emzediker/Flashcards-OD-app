@@ -252,10 +252,16 @@ function parseTxt(txt, deckId){
     // BACK = first non-empty line after anchor
     let k = at+1;
     while(k<next && (!lines[k] || lines[k]==='.')) k++;
-    const se      = splitAnsExpl(k<next ? lines[k] : '');
-    const backAns = escapeHtml(se.a);
-    const backExp = escapeHtml(se.e);
+    let backLines = [];
+let m = k;
+while (m < next && lines[m]) {
+  backLines.push(lines[m]);
+  m++;
+}
 
+const backText = escapeHtml(backLines.join('\n'));
+const backAns = backText;
+const backExp = '';
     out.push({
       id: `${deckId}-${out.length+1}`,
       front,
