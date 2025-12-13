@@ -18,7 +18,6 @@ Treatment: Systemic immunosuppressive therapy, oral prednisone, palliative ocula
 Follow-Up: 1 week.
 
 Superior Limbic Keratoconjunctivitis
-Superior Limbic Keratoconjunctivitis
 3 of 32
 Definition / Cause: Chronic inflammatory condition caused by friction between the upper eyelid and superior bulbar conjunctiva; associated with dry eye, thyroid eye disease, rheumatoid arthritis, Sjögren syndrome, and contact lens wear.
 Symptoms: Red eye, foreign body sensation, itching, mild photophobia, episodic flares.
@@ -26,7 +25,6 @@ Signs: Superior conjunctival thickening, radial injection, fine papillae, superi
 Treatment: Mild—lubrication, cyclosporine or lifitegrast. Severe—autologous serum, tacrolimus 0.03%, acetylcysteine 10%, silver nitrate.
 Follow-Up: Every 2 weeks until remission.
 
-Subconjunctival Hemorrhage
 Subconjunctival Hemorrhage
 4 of 32
 Definition / Cause: Bleeding beneath conjunctiva due to Valsalva, trauma, or anticoagulants.
@@ -36,7 +34,6 @@ Treatment: None required.
 Follow-Up: None; reassure.
 
 Allergic Conjunctivitis
-Allergic Conjunctivitis
 5 of 32
 Definition / Cause: IgE-mediated hypersensitivity to airborne allergens.
 Symptoms: Itching, redness, watery eyes.
@@ -44,7 +41,6 @@ Signs: Chemosis, papillae, eyelid edema, no preauricular node.
 Treatment: Artificial tears, antihistamine/mast cell stabilizers, short steroid course if severe.
 Follow-Up: 2 weeks.
 
-Atopic Conjunctivitis
 Atopic Conjunctivitis
 6 of 32
 Definition / Cause: Chronic allergic conjunctivitis associated with atopy.
@@ -54,7 +50,6 @@ Treatment: Cold compresses, mast cell stabilizers, topical steroids as needed.
 Follow-Up: 2 weeks.
 
 Vernal Conjunctivitis
-Vernal Conjunctivitis
 7 of 32
 Definition / Cause: Severe allergic conjunctivitis in young males in warm climates.
 Symptoms: Severe itching, photophobia, thick discharge.
@@ -62,7 +57,6 @@ Signs: Cobblestone papillae, Trantas dots, shield ulcers.
 Treatment: Mast cell stabilizers, cyclosporine, tacrolimus if refractory.
 Follow-Up: 1 day if ulcer; otherwise 2 weeks.
 
-Bacterial Conjunctivitis (Nongonococcal)
 Bacterial Conjunctivitis (Nongonococcal)
 8 of 32
 Definition / Cause: Commonly Staph or Strep species.
@@ -72,7 +66,6 @@ Treatment: Polytrim or fluoroquinolone.
 Follow-Up: 2 days.
 
 Gonococcal Conjunctivitis
-Gonococcal Conjunctivitis
 9 of 32
 Definition / Cause: Hyperacute conjunctivitis from Neisseria gonorrhoeae.
 Symptoms: Severe pain, copious discharge.
@@ -80,7 +73,6 @@ Signs: Hyperpurulence, chemosis, preauricular node.
 Treatment: Ceftriaxone IM ± IV, azithromycin PO, topical antibiotics.
 Follow-Up: Daily.
 
-Chlamydial Conjunctivitis
 Chlamydial Conjunctivitis
 10 of 32
 Definition / Cause: STI caused by Chlamydia trachomatis.
@@ -90,7 +82,6 @@ Treatment: Azithromycin or doxycycline; treat partners.
 Follow-Up: 2 weeks.
 
 Trachoma
-Trachoma
 11 of 32
 Definition / Cause: Chronic conjunctivitis from Chlamydia trachomatis A–C.
 Symptoms: Chronic irritation.
@@ -98,7 +89,6 @@ Signs: Superior follicles, Arlt line scarring.
 Treatment: Azithromycin or doxycycline.
 Follow-Up: 2 weeks.
 
-Adenoviral Conjunctivitis
 Adenoviral Conjunctivitis
 12 of 32
 Definition / Cause: Most common viral conjunctivitis.
@@ -108,7 +98,6 @@ Treatment: Supportive; steroids only if central SEIs.
 Follow-Up: 2 weeks.
 
 Molluscum Contagiosum
-Molluscum Contagiosum
 13 of 32
 Definition / Cause: DNA poxvirus infection.
 Symptoms: Chronic conjunctivitis.
@@ -117,7 +106,6 @@ Treatment: Excision or cryotherapy.
 Follow-Up: 2 weeks.
 
 Conjunctival Intraepithelial Neoplasia (CIN)
-Conjunctival Intraepithelial Neoplasia (CIN)
 14 of 32
 Definition / Cause: Premalignant conjunctival lesion.
 Symptoms: Irritation.
@@ -125,9 +113,6 @@ Signs: Gelatinous limbal lesion.
 Treatment: Excision with biopsy.
 Follow-Up: Oncology-directed.
 
-Cornea
-
-Exposure Keratopathy
 Exposure Keratopathy
 15 of 32
 Definition / Cause: Corneal exposure from incomplete lid closure.
@@ -137,7 +122,6 @@ Treatment: Lubrication, ointment, amniotic membrane if severe.
 Follow-Up: Variable.
 
 Ultraviolet Keratopathy
-Ultraviolet Keratopathy
 16 of 32
 Definition / Cause: UV-C corneal epithelial injury.
 Symptoms: Severe photophobia.
@@ -145,7 +129,6 @@ Signs: Dense SPK.
 Treatment: Cycloplegia, antibiotic ointment.
 Follow-Up: 1 day.
 
-Filamentary Keratitis
 Filamentary Keratitis
 17 of 32
 Definition / Cause: Associated with dry eye and reduced corneal sensitivity.
@@ -155,7 +138,6 @@ Treatment: Lubrication, acetylcysteine.
 Follow-Up: 1 week.
 
 Dellen
-Dellen
 18 of 32
 Definition / Cause: Localized corneal thinning adjacent to elevation.
 Symptoms: Often asymptomatic.
@@ -163,7 +145,6 @@ Signs: Peripheral thinning.
 Treatment: Lubrication.
 Follow-Up: 1–7 days.
 
-Thygeson Superficial Punctate Keratitis
 Thygeson Superficial Punctate Keratitis
 19 of 32
 Definition / Cause: Chronic idiopathic epithelial keratitis.
@@ -173,7 +154,6 @@ Treatment: Mild steroids if symptomatic.
 Follow-Up: Weekly during flares.
 
 Phlyctenule / Phlyctenulosis
-Phlyctenule / Phlyctenulosis
 20 of 32
 Definition / Cause: Delayed hypersensitivity to staph antigens.
 Symptoms: Pain, tearing.
@@ -181,7 +161,6 @@ Signs: Raised limbal nodule.
 Treatment: Soft steroid, treat blepharitis.
 Follow-Up: 5 days.
 
-Corneal Graft Rejection
 Corneal Graft Rejection
 21 of 32
 Definition / Cause: Immune-mediated graft rejection.
@@ -191,7 +170,6 @@ Treatment: Aggressive steroids.
 Follow-Up: 3 days.
 
 Neurotrophic Keratopathy
-Neurotrophic Keratopathy
 22 of 32
 Definition / Cause: Reduced trigeminal sensation.
 Symptoms: Minimal pain.
@@ -199,7 +177,6 @@ Signs: Non-healing defects.
 Treatment: Lubrication, Oxervate.
 Follow-Up: Daily if ulcer.
 
-Peters Anomaly
 Peters Anomaly
 23 of 32
 Definition / Cause: Congenital corneal malformation.
@@ -209,7 +186,6 @@ Treatment: Keratoplasty.
 Follow-Up: Lifelong.
 
 Acanthamoeba Keratitis
-Acanthamoeba Keratitis
 24 of 32
 Definition / Cause: Protozoal infection in CL wearers.
 Symptoms: Severe pain out of proportion.
@@ -217,7 +193,6 @@ Signs: Ring infiltrate.
 Treatment: PHMB, chlorhexidine.
 Follow-Up: Daily.
 
-Bacterial Keratitis
 Bacterial Keratitis
 25 of 32
 Definition / Cause: Corneal bacterial infection.
@@ -227,7 +202,6 @@ Treatment: Topical antibiotics.
 Follow-Up: Daily.
 
 Fungal Keratitis
-Fungal Keratitis
 26 of 32
 Definition / Cause: Fungal corneal infection.
 Symptoms: Pain, photophobia.
@@ -235,7 +209,6 @@ Signs: Feathery infiltrate.
 Treatment: Amphotericin B or voriconazole.
 Follow-Up: Daily.
 
-Peripheral Ulcerative Keratitis
 Peripheral Ulcerative Keratitis
 27 of 32
 Definition / Cause: Autoimmune-associated peripheral corneal inflammation.
@@ -245,7 +218,6 @@ Treatment: Treat systemic disease.
 Follow-Up: 1 week.
 
 Salzmann Nodular Degeneration
-Salzmann Nodular Degeneration
 28 of 32
 Definition / Cause: Degenerative Bowman layer disease.
 Symptoms: Blurred vision.
@@ -253,7 +225,6 @@ Signs: Blue-white nodules.
 Treatment: PTK.
 Follow-Up: As needed.
 
-Terrien Marginal Degeneration
 Terrien Marginal Degeneration
 29 of 32
 Definition / Cause: Non-inflammatory peripheral thinning.
@@ -263,7 +234,6 @@ Treatment: Observation.
 Follow-Up: 6 months.
 
 Band Keratopathy
-Band Keratopathy
 30 of 32
 Definition / Cause: Calcium deposition in anterior cornea.
 Symptoms: Foreign body sensation.
@@ -271,16 +241,12 @@ Signs: Interpalpebral calcific band.
 Treatment: EDTA chelation.
 Follow-Up: 3–12 months.
 
-Refractive Surgery
-
-Refractive Surgery Overview
 Refractive Surgery Overview
 31 of 32
 Definition / Cause: Surgical correction of refractive error.
 Treatment: LASIK, PRK, SMILE, phakic IOLs.
 Follow-Up: Per protocol.
 
-Radial Keratotomy
 Radial Keratotomy
 32 of 32
 Definition / Cause: Obsolete radial incision refractive surgery.
@@ -290,13 +256,11 @@ Treatment: Spectacles or scleral lenses.
 Follow-Up: As needed.
 
 Clinical Pearl – Red Eye Triage
-Clinical Pearl – Red Eye Triage
 33 of 32
 Pearl: Pain or photophobia indicates corneal or uveal disease.
 Pearl: Itching suggests allergy.
 Pearl: Pain out of proportion suggests acanthamoeba.
 
-Clinical Pearl – Discharge Patterns
 Clinical Pearl – Discharge Patterns
 34 of 32
 Pearl: Watery discharge suggests viral or allergic.
@@ -304,24 +268,20 @@ Pearl: Thick purulence suggests bacterial.
 Pearl: Hyperacute purulence suggests gonococcal infection.
 
 Clinical Pearl – Follicles vs Papillae
-Clinical Pearl – Follicles vs Papillae
 35 of 32
 Pearl: Follicles suggest viral or chlamydial disease.
 Pearl: Papillae suggest allergic or bacterial disease.
 
-Clinical Pearl – Steroid Rules
 Clinical Pearl – Steroid Rules
 36 of 32
 Pearl: Never use steroids with epithelial defects.
 Pearl: Steroids are adjunctive, not first-line, in infection.
 
 Clinical Pearl – Post-Refractive Surgery
-Clinical Pearl – Post-Refractive Surgery
 37 of 32
 Pearl: RK causes unstable refraction.
 Pearl: Scleral lenses often help post-RK.
 
-Clinical Pearl – Board Traps
 Clinical Pearl – Board Traps
 38 of 32
 Pearl: Acanthamoeba is not bacterial.
