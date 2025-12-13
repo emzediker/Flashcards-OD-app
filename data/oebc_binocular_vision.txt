@@ -1,1 +1,242 @@
+Percival’s Criterion (Middle 1/3 Rule)
+1 of 34
+Purpose: Determines whether prism is needed based on vergence ranges; best suited for eso postures (less reliable for exo).
+Rule: Prism needed if the “middle 1/3” of the total vergence range does NOT include 0.
+How to check (example): If BI = 12 and BO = 30, middle third = +2 to +16; because 0 is not included → prism indicated.
 
+Sheard’s Criterion
+2 of 34
+Purpose: Determines prism needed when phoria is not compensated; works better for exo postures.
+Rule: Compensating vergence should be ≥ 2× phoria.
+Prism calculation concept: Uses the relationship “2/3 phoria – 1/3 compensating vergence” to estimate prism needed when Sheard’s is failing.
+
+Basic Exophoria
+3 of 34
+Definition: Nearly the same exo posture at distance and near.
+Symptoms: Near blur and/or diplopia, asthenopia, headaches, poor concentration.
+Signs: Exo on cover test; low MEM (possible lead); difficulty with BO lenses; struggle with plus lenses.
+Treatment: Do not Rx low hyperopes; fully correct myopes; if symptomatic refer for vision therapy.
+Follow-Up: Annual.
+
+Basic Esophoria
+4 of 34
+Definition: Nearly the same eso posture at distance and near.
+Symptoms: Similar to basic exophoria (blur/diplopia, asthenopia, headaches, poor concentration).
+Signs: Eso on cover test; high MEM; struggle with minus lenses.
+Treatment: Rx as much plus as possible; ensure myopes are not over-corrected; consider near add; BO prism; refer for vision therapy.
+Follow-Up: 3 months if treating.
+
+Convergence Insufficiency
+5 of 34
+Definition: Reduced near convergence (notable for reduced NPC); low AC/A.
+Symptoms: Difficulty reading, asthenopia, diplopia, blurred vision, words “move” on page.
+Signs: Low AC/A; lead of accommodation; reduced NBO with normal or reduced DBO; reduced NRA; struggle with binocular plus (not monocular).
+Treatment: Fully correct myopes; under-correct hyperopes; refer for vision therapy; near reading glasses with BI prism may help.
+Follow-Up: PRN.
+
+Convergence Exces
+6 of 34
+Definition: Eso posture at near with normal distance posture; typically high AC/A.
+Symptoms: Similar to CI (near strain/blur/diplopia).
+Signs: Near eso > distance by ≥ 5Δ; low MEM; reduced PRA/struggle with minus; struggle with BI prism at near; binocular minus lens difficulty on accommodative facility.
+Treatment: Full spectacle Rx with near add (often adequate for high AC/A); refer for vision therapy.
+Follow-Up: 1–3 months after new Rx if add given.
+
+Divergence Insufficiency
+7 of 34
+Definition: Least common vergence condition; low AC/A; distance eso problem.
+Symptoms: Diplopia/asthenopia with prolonged distance activities, worse later in day.
+Signs: Eso at distance > near by > 5Δ; low AC/A; low BI at distance; near testing otherwise normal.
+Treatment: Rx as much plus as possible (spectacle lenses have little therapeutic effect); BO prism for distance; refer for vision therapy.
+Follow-Up: PRN.
+
+Divergence Excess
+8 of 34
+Definition: Distance exo problem; typically high AC/A.
+Symptoms: Parents may report eye turning out; children may close one eye in bright light.
+Signs: Exo at distance > near by > 5Δ; struggle with DBO; near tests normal.
+Treatment: Fully correct myopes; only correct hyperopia to +1.50 (to keep accommodating); extra minus for distance with small add may be an option; vision therapy is very successful.
+Follow-Up: PRN.
+
+Accommodative Insufficiency
+9 of 34
+Definition: Inadequate accommodation (young patient presents like presbyopia).
+Symptoms: Near blur, headaches, eyestrain with reading; trouble sustaining attention at near.
+Signs: Amplitudes reduced below age expected (15 − 0.25×Age); low NBO blur; low PRA; struggle with minus lenses; large lag.
+Treatment: Near add; vision therapy for accommodative speed/accuracy/flexibility.
+Follow-Up: PRN.
+
+Ill-Sustained Accommodation
+10 of 34
+Definition: Like accommodative insufficiency, but initial testing may appear normal; performance progressively declines with time/fatigue.
+Symptoms/Signs: Same pattern as accommodative insufficiency, worsening during sustained near tasks.
+Treatment: Similar to accommodative insufficiency (add and/or VT based on symptoms/testing).
+Follow-Up: PRN.
+
+Accommodative Excess / Accommodative Spasm
+11 of 34
+Definition: Inability to relax accommodation.
+Symptoms: Near asthenopia/headache; distance blur after near work.
+Signs: Difficulty with plus; reduced NRA; MEM shows lead; cycloplegia may reveal moderate–high hyperopia.
+Treatment: Full cycloplegic refraction; if resistant to plus, consider mild topical cycloplegic.
+Follow-Up: 1 month after receiving spectacle Rx.
+
+Accommodative Infacility
+12 of 34
+Definition: Difficulty switching accommodative status with normal accommodative range.
+Symptoms: Distance blur after prolonged reading; near blur after distance viewing.
+Signs: Struggles with both plus and minus on monocular AND binocular facility; decreased NRA and PRA.
+Treatment: Vision therapy targeting accommodative flexibility.
+Follow-Up: PRN.
+
+CN VI Palsy
+13 of 34
+Key Point: Abducens palsy affects lateral rectus; consider compressive lesions and increased ICP; other causes include microvascular disease and trauma.
+Symptoms: Horizontal diplopia.
+Signs: Esotropia with inability to abduct the affected eye.
+Treatment: Treat underlying etiology; if not clearly microvascular → MRI; if MRI negative for tumor consider LP (per workup described); manage diplopia with Fresnel prism or patching.
+Follow-Up: 6 weeks.
+
+CN III Palsy
+14 of 34
+Key Point: Innervates SR, IR, MR, IO, levator.
+Symptoms: Diplopia and ptosis.
+Signs: “Down and out” eye, limited motility, complete ptosis; if pupil involved suspect aneurysm (PCom/PCA region described) near ICA junction; pupil-sparing suggests microvascular ischemia (also consider GCA/cavernous sinus syndrome per context).
+Treatment: Treat underlying disease; urgent imaging if pupil involved.
+Follow-Up: Refer to internist; if pupil-sparing follow closely for 1 week; emergent MRI if pupil involved.
+
+Aberrant Regeneration of CN III
+15 of 34
+Key Point: Does NOT occur after ischemic CN III palsy; usually after trauma, tumor, or aneurysm; can be congenital.
+Symptoms: Diplopia and ptosis.
+Signs: Eyelid–gaze dyskinesis (lid retraction on downgaze/adduction = pseudo-Graefe); pupil–gaze dyskinesis (pupil constricts on downgaze/adduction).
+Treatment: Prism/patching; strabismus surgery if no improvement after 6 months.
+Follow-Up: Based on underlying condition; RTC immediately for any changes.
+
+CN IV Palsy
+16 of 34
+Key Point: Most likely CN palsy from trauma; also congenital, tumor.
+Symptoms: Diplopia.
+Signs: Hypertropia with extorsion component; contralateral head tilt; Parks 3-step note in source.
+Treatment: MRI if tumor suspected; prism/patching for diplopia; consider strabismus surgery if painful head tilt.
+Follow-Up: Based on underlying condition.
+
+Congenital Nystagmus (FUNBLOCS)
+17 of 34
+Pattern (FUNBLOCS): Fixation worsens; Upgaze remains horizontal; Null point present; Bilateral & conjugate; Latent component; OKN response NOT superimposable; Convergence dampens; Symptomless.
+Treatment: Prism to optimize null point; full refractive correction.
+
+Drug-Induced Nystagmus (Vertical Downbeat)
+18 of 34
+Association: Anticonvulsants (phenytoin, carbamazepine) can cause vertical downbeat nystagmus.
+Treatment: Address medication/toxic etiology in coordination with prescribing clinician; consider neuro workup if atypical.
+
+Internuclear Ophthalmoplegia (INO
+19 of 34
+Lesion: MLF.
+Signs: Poor adduction of the eye on the side of the lesion + jerk nystagmus of the abducting (contralateral) eye.
+Key Point: Eye with poor adduction = side of lesion.
+
+One-and-a-Half Syndrome
+20 of 34
+Lesion: MLF + PPRF (CN VI nucleus region described).
+Signs: Ipsilateral eye cannot adduct or abduct; contralateral eye can only abduct (with nystagmus); convergence intact.
+
+Bilateral INO (BINO)
+21 of 34
+Definition: Neither eye can adduct; both eyes abduct with nystagmus.
+Convergence: May be intact or impaired.
+
+WEBINO (“Wall-Eyed” Bilateral INO
+22 of 34
+Lesion: Rostral midbrain.
+Signs: Bilateral INO + bilateral exotropia + abducting nystagmus + convergence deficit.
+
+Convergence-Retraction Nystagmus
+23 of 34
+Trigger/Sign: Convergence and globe retraction when upward saccade attempted.
+Association: Pineal tumor.
+
+Downbeat Nystagmus
+24 of 34
+Pattern: More prominent on downgaze right or left.
+Association: Arnold–Chiari malformation (brain tissue in spinal canal per source phrasing).
+
+See-Saw Nystagmus
+25 of 34
+Pattern: One eye elevates/intorts while the other depresses/extorts.
+Association: Chiasmal and parasellar region lesions.
+
+Gaze-Evoked Nystagmus
+26 of 34
+Association: Alcohol
+Note: Elicited in eccentric gaze; interpret in clinical context.
+
+Upbeat Nystagmus
+27 of 34
+Pattern: Worse in superior gaze.
+Association: Brainstem lesion.
+
+Peripheral Vestibular Nystagmus
+28 of 34
+Pattern: Fast phase away from affected side.
+Symptoms: Tinnitus, hearing loss, vertigo.
+Etiology: Inner ear disease or CN VIII disruption.
+
+Physiologic Nystagmus
+29 of 34
+Types: End-point (extreme gaze); OKN (OKN drum); rotational (after spinning); caloric (COWS: cold opposite, warm same).
+Treatment: None necessary.
+
+Myasthenia Gravis
+30 of 34
+Definition: Autoimmune NMJ disorder (anti-ACh antibodies) → muscle weakness; associated with thymoma or thyroid disease; more common in women (as noted).
+Symptoms: Painless variable ptosis or diplopia, worse with fatigue; may have facial/proximal limb weakness; dysphagia or dyspnea possible.
+Signs: Worsening ptosis on upgaze/diplopia with sustained motility; orbicularis weakness; no pupil findings/pain; Cogan lid twitch; ice pack test may support MG.
+Treatment: If dysphagia/dyspnea → urgent hospitalization; mild cases may not need treatment; pyridostigmine for symptomatic; azathioprine 2–3 mg/kg/day may help older patients (as listed).
+Follow-Up: Daily if systemic involvement; ~4 months for ocular; educate to go to ER immediately if swallowing/breathing issues; note ocular-only for 2–3 years rarely progresses to systemic (as stated).
+
+Chronic Progressive External Ophthalmoplegia (CPEO
+31 of 34
+Definition: Slowly progressive weakness of all EOMs.
+Symptoms: Slowly progressive symmetric ophthalmoplegia + ptosis; diplopia is uncommon; usually bilateral; may have family history.
+Signs: Ptosis; limited motility; normal pupils; often orthophoric; possible orbicularis/limb/facial weakness; exposure keratopathy.
+Treatment: Manage exposure keratopathy; evaluate systemic/mitochondrial etiologies as appropriate.
+
+Myotonic Dystrophy
+32 of 34
+Key Point: Listed as the most common muscular dystrophy in adults; included here as a systemic cause associated with progressive ophthalmoplegia pattern in the source section.
+
+Kearns–Sayre Syndrome
+33 of 34
+Definition: Mitochondrial DNA dysfunction.
+Triad (as listed): Cardiac conduction defects + pigmentary retinopathy + CPEO.
+Treatment: Treat exposure keratopathy; pacemaker for cardiac conduction issues.
+Follow-Up: Depends on ocular findings/systemic status.
+
+Parinaud Syndrome (Dorsal Midbrain Syndrome)
+34 of 34
+Typical Cause: Pineal tumor affecting upper brainstem (as described).
+Symptoms: Patients may notice “big” eyes; dry eye symptoms.
+Signs: Upgaze palsy with intact Bell phenomenon and negative forced ductions; light–near dissociation; lid retraction (Collier stare); convergence-retraction nystagmus.
+Treatment: No effective direct treatment listed; refer for neurosurgery evaluation for possible tumor removal.
+
+Binocular Vision – Mega Clinical Pearls
+35 of 34
+• Vergence Criteria: Sheard’s Criterion works best for exophoria (compensating vergence ≥ 2× phoria); Percival’s Criterion works best for esophoria (middle 1/3 of total vergence range must include 0).
+• NPC: A reduced NPC is a hallmark of convergence insufficiency.
+• AC/A Clues: High AC/A → convergence excess or divergence excess; low AC/A → convergence insufficiency or divergence insufficiency.
+• Distance vs Near Patterns:
+  – Distance eso > near → divergence insufficiency
+  – Distance exo > near → divergence excess
+  – Near eso > distance → convergence excess
+  – Near exo > distance → convergence insufficiency
+• MEM Patterns: High lag → accommodative insufficiency or esophoria; lead → accommodative excess/spasm or convergence insufficiency.
+• Lens Clues: Difficulty with plus → accommodative excess or esophoria; difficulty with minus → accommodative insufficiency or convergence excess.
+• CN Palsy Red Flags: CN III palsy with pupil involvement = aneurysm until proven otherwise; aberrant regeneration NEVER follows ischemic CN III palsy.
+• INO Localization: Eye that fails to adduct = side of the lesion (MLF).
+• Nystagmus Localizers:
+  – Convergence-retraction → pineal/dorsal midbrain
+  – Downbeat → Chiari malformation
+  – See-saw → chiasmal/parsellar lesion
+• Myasthenia Gravis: No pupil involvement; variability and fatigability are key; ice pack test supports diagnosis; dysphagia or dyspnea = emergency.
