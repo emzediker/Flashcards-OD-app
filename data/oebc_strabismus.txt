@@ -155,3 +155,16 @@ Concept: Sensory fusion/correspondence test using striations (as written: right 
 Interpretation (as written): Exo → two lights below; Eso → two lights above. Suppression → missing/segmented line. HAC → one light with an “X” while deviation remains present.
 Clinical Pearl: Bagolini often reflects “real-world” sensory status; compare with Worth 4-dot and cover test.
 Follow Up: PRN.  [oai_citation:19‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
+
+Strabismus – High-Yield Clinical Pearls
+21 of 20
+• Constant infantile esotropia (>35 PD, onset <6 months) has NO accommodative component and is best treated surgically before age 2.
+• Accommodative esotropia improves with full cycloplegic hyperopic correction; near > distance deviation suggests a high AC/A ratio → consider bifocals.
+• Intermittent exotropia commonly worsens with fatigue, illness, or bright light; amblyopia is rare.
+• Duane syndrome shows globe retraction and palpebral fissure narrowing on adduction due to co-contraction.
+• Brown syndrome = inability to elevate in adduction with a (+) forced duction test.
+• Sensory strabismus results from unilateral vision loss—treatment is primarily cosmetic.
+• Consecutive deviations occur after strabismus surgery and may cause paradoxical anomalous correspondence.
+• Pseudostrabismus (e.g., epicanthal folds) has normal cover test and symmetric corneal light reflexes.
+• Vertical deviations often produce compensatory head tilt; long-standing congenital cases may lack diplopia.
+• Always correlate sensory tests (Bagolini, Maddox rod, afterimages) with the cover test—objective findings come first.
