@@ -1,100 +1,197 @@
-Optic Nerve + Neuro-Ophthalmic Pathways
-
-Optic Neuritis
-1 of 12
-Definition: Inflammatory demyelination of the optic nerve most commonly associated with multiple sclerosis.
-Key Findings: Pain with eye movement, decreased visual acuity, RAPD, dyschromatopsia.
-Visual Field: Central scotoma most common.
-Fundus: Often normal (retrobulbar neuritis); may show optic disc edema.
-Imaging: MRI brain and orbits with contrast showing optic nerve enhancement.
-Management: IV methylprednisolone 1 g/day x 3 days may speed recovery.
-
-Ischemic Optic Neuropathy – Non-Arteritic (NAION)
-2 of 12
-Definition: Acute ischemia of the optic nerve head unrelated to inflammation.
-Risk Factors: Hypertension, diabetes, sleep apnea, small cup-to-disc ratio.
-Key Findings: Sudden painless vision loss, altitudinal field defect.
-Fundus: Hyperemic disc edema with splinter hemorrhages.
-Management: Control systemic risk factors; no proven acute treatment.
-
-Ischemic Optic Neuropathy – Arteritic (AAION)
-3 of 12
-Definition: Optic nerve infarction due to giant cell arteritis.
-Key Findings: Sudden profound vision loss, scalp tenderness, jaw claudication.
-Labs: Elevated ESR, CRP, platelets.
-Management: Immediate high-dose IV steroids to prevent fellow-eye involvement.
-
 Papilledema
-4 of 12
-Definition: Bilateral optic disc edema due to increased intracranial pressure.
-Key Findings: Transient visual obscurations, headache, pulsatile tinnitus.
-Visual Acuity: Often normal early.
-Imaging: Neuroimaging required before lumbar puncture.
-Management: Treat underlying cause; weight loss and acetazolamide in IIH.
-
-Optic Disc Drusen
-5 of 12
-Definition: Calcified deposits within the optic nerve head.
-Key Findings: Elevated disc with irregular margins, no hyperemia.
-Imaging: B-scan ultrasound or OCT shows hyperreflective deposits.
-Visual Field: Arcuate or nasal defects common.
-Management: Observation; monitor visual fields.
-
-Leber Hereditary Optic Neuropathy
-6 of 12
-Definition: Mitochondrial inherited optic neuropathy.
-Key Findings: Young males, painless bilateral central vision loss.
-Fundus: Hyperemic disc with peripapillary telangiectasia.
-Management: Genetic counseling; idebenone may be beneficial.
-
-Compressive Optic Neuropathy
-7 of 12
-Definition: Optic nerve dysfunction from external compression.
-Key Findings: Progressive vision loss, optic atrophy.
-Causes: Tumors, aneurysms, thyroid eye disease.
-Imaging: MRI of brain and orbits.
-Management: Treat underlying compressive lesion.
-
-Traumatic Optic Neuropathy
-8 of 12
-Definition: Optic nerve injury secondary to head or orbital trauma.
-Key Findings: Sudden vision loss following trauma.
-Imaging: CT to assess fractures.
-Management: Observation; role of steroids controversial.
-
-Toxic/Nutritional Optic Neuropathy
-9 of 12
-Definition: Optic nerve damage from toxins or nutritional deficiency.
-Causes: Methanol, ethambutol, B12 deficiency.
-Key Findings: Bilateral symmetric vision loss, central scotomas.
-Management: Remove toxin, correct deficiency.
-
-Glaucomatous Optic Neuropathy
-10 of 12
-Definition: Progressive optic nerve damage associated with glaucoma.
-Key Findings: Increased cupping, RNFL loss.
-Visual Field: Arcuate defects, nasal step.
-Management: Lower intraocular pressure.
-
-Chiasmal Lesions
-11 of 12
-Definition: Lesions affecting the optic chiasm.
-Key Findings: Bitemporal hemianopsia.
-Common Causes: Pituitary adenoma.
-Imaging: MRI of the sella.
-Management: Neurosurgical referral.
-
-Post-Chiasmal Lesions
-12 of 12
-Definition: Lesions posterior to the optic chiasm.
-Key Findings: Homonymous hemianopsia.
-Localization: Optic tract, radiation, occipital cortex.
-Management: Treat underlying cause.
-
-Clinical Pearl – Optic Neuritis
-13 of 12
-Pearl: Visual recovery is common, but recurrence risk increases with MS.
-
-Clinical Pearl – Papilledema
-14 of 12
-Pearl: Visual acuity may remain normal until late stages despite marked disc edema.
+Papilledema
+1 of 30
+Definition: Optic disc swelling due to increased intracranial pressure (↑ICP).
+Symptoms: Transient bilateral vision loss after rising, headache, diplopia, vomiting.
+Signs: Bilateral swollen discs with blurred margins, possible peripapillary hemorrhages, loss of SVP, enlarged blind spot.
+Workup: Neuroimaging (MRI/CT) to rule out mass → lumbar puncture with opening pressure.
+Clinical Thresholds: CSF opening pressure >200 mm H2O (non-obese) or >250 mm H2O (obese).
+Treatment: Treat underlying cause.
+Follow-Up: Based on underlying etiology.
+Idiopathic Intracranial Hypertension (IIH)
+Idiopathic Intracranial Hypertension (IIH)
+2 of 30
+Definition: Idiopathic elevation of CSF pressure, classically in overweight women of childbearing age.
+Treatment: Weight loss; acetazolamide 250 mg QID (titrate); short course steroids; consider surgical shunt if needed.
+Follow-Up: ~3 weeks if symptomatic; ~3 months if stable.
+Key Point: Chronic papilledema can lead to permanent VF loss and decreased acuity.
+Arteritic Anterior Ischemic Optic Neuropathy (AAION)
+Arteritic Anterior Ischemic Optic Neuropathy (AAION)
+3 of 30
+Definition: Arteritic AION most commonly due to giant cell arteritis.
+Symptoms: Sudden painless vision loss (>55), headache, jaw claudication, scalp tenderness, PMR symptoms.
+Signs: RAPD, very poor VA, pale swollen disc, flame hemorrhages, tender/nonpulsatile temporal artery.
+Workup: ESR/CRP and temporal artery biopsy.
+Treatment: Immediate high-dose steroids.
+Steroid Regimen: IV methylprednisolone 250 mg q6h ×12 → oral prednisone 100 mg daily.
+Follow-Up: Daily until controlled, then monthly.
+Non-Arteritic Anterior Ischemic Optic Neuropathy (NAION)
+Non-Arteritic Anterior Ischemic Optic Neuropathy (NAION)
+4 of 30
+Definition: Ischemic optic neuropathy associated with vascular risk factors and disc-at-risk.
+Risk Factors: Diabetes, HTN, sleep apnea, hyperlipidemia; labile HTN in younger patients.
+Signs: RAPD, segmental disc edema, flame hemorrhages, normal ESR/CRP, altitudinal VF loss.
+Treatment: Observation and risk-factor modification; avoid nocturnal BP meds.
+Follow-Up: ~1 month.
+Mnemonic: VIVA – vardenafil, Imitrex, Viagra, amiodarone.
+Optic Neuritis
+Optic Neuritis
+5 of 30
+Definition: Inflammatory optic neuropathy; retrobulbar or papillitis.
+Symptoms: Pain with eye movement, dyschromatopsia, unilateral vision loss, Uhthoff phenomenon.
+Association: ~50% develop MS within 5 years.
+Workup: MRI brain/orbits with T2/FLAIR.
+Treatment: IV steroids followed by oral steroids.
+Visual Field: Central, cecocentral, or arcuate scotomas.
+Follow-Up: 4 weeks; if MS q3 months; if no MS MRI q6 months.
+Toxic Optic Neuropathy
+Toxic Optic Neuropathy
+6 of 30
+Definition: Progressive bilateral optic neuropathy due to toxins or nutritional deficiency.
+Causative Agents: Ethambutol, isoniazid, chloramphenicol, streptomycin, digitalis, lead.
+Signs: Bilateral cecocentral scotomas, dyschromatopsia, temporal pallor.
+Treatment: Stop offending agent; thiamine, folate/B6, multivitamin.
+Follow-Up: ~1 month.
+Dominant Optic Atrophy (DOA)
+Dominant Optic Atrophy (DOA)
+7 of 30
+Definition: Hereditary optic neuropathy with childhood onset and strong family history.
+Signs: Temporal disc pallor, reduced VA.
+Management: No curative treatment; monitor, low vision aids, genetic counseling.
+Leber Hereditary Optic Neuropathy (LHON)
+Leber Hereditary Optic Neuropathy (LHON)
+8 of 30
+Definition: Mitochondrial optic neuropathy with onset age 20–40.
+Signs: Hyperemic disc, peripapillary telangiectasia without leakage, peripapillary atrophy.
+Management: Low vision aids and genetic counseling.
+Optic Nerve Hypoplasia
+Optic Nerve Hypoplasia
+9 of 30
+Definition: Congenital small optic disc, often with double-ring sign.
+Associations: Maternal diabetes, quinine abuse, alcoholism, LSD.
+Management: No treatment; monitor annually.
+Optic Nerve Drusen
+Optic Nerve Drusen
+10 of 30
+Definition: Calcified optic nerve deposits mimicking disc edema.
+Diagnosis: B-scan ultrasound or MRI.
+Management: No treatment; monitor annually.
+Optic Nerve Pit
+Optic Nerve Pit
+11 of 30
+Definition: Congenital defect from incomplete closure of embryonic fissure.
+Signs: Gray temporal depression ~1/3 DD with peripapillary atrophy.
+Complications: Serous macular detachment or retinoschisis.
+Treatment: Observe unless SRD; consider vitrectomy + gas.
+Follow-Up: Retina referral if SRD; recheck ~1 month.
+Optic Nerve Glioma
+Optic Nerve Glioma
+12 of 30
+Definition: Intrinsic optic nerve neoplasm causing progressive vision loss.
+Signs: Proptosis, RAPD, disc edema, enlarged optic nerve on CT.
+Types: Juvenile pilocytic astrocytoma (children); glioblastoma multiforme (rare adults).
+Management: Monitor if stable; surgery if progressive.
+Follow-Up: ~1 month.
+Optic Disc Melanocytoma
+Optic Disc Melanocytoma
+13 of 30
+Definition: Benign pigmented tumor near optic disc.
+Signs: Jet-black lesion with fuzzy borders adjacent to disc.
+Follow-Up: Annual OCT, fundus photos, OCT-A.
+Optic Nerve Sheath Meningioma
+Optic Nerve Sheath Meningioma
+14 of 30
+Definition: Tumor of optic nerve meninges, classically in middle-aged women.
+Signs: Progressive painless vision loss, color vision defects, optociliary shunt vessels.
+Management: Manage IOP; radiation/chemo/surgery if malignant.
+Follow-Up: Neuroimaging, color vision, VF q6 months.
+Pituitary Adenoma
+Pituitary Adenoma
+15 of 30
+Definition: Sellar tumor compressing optic chiasm.
+Signs: Bitemporal hemianopia, optic atrophy, RAPD, endocrine dysfunction.
+Management: Neurosurgical referral; steroids if pituitary apoplexy.
+Follow-Up: Post-op per neurosurgery.
+Cortical Blindness
+Cortical Blindness
+16 of 30
+Definition: Bilateral occipital lobe dysfunction.
+Signs: Preserved pupillary reflexes, Riddoch phenomenon, Anton syndrome.
+Symptoms: Sudden complete vision loss, visual hallucinations.
+Management: Treat underlying cause; rehabilitation.
+Vertebrobasilar Insufficiency
+Vertebrobasilar Insufficiency
+17 of 30
+Definition: Posterior circulation TIA.
+Symptoms: Flashes, amaurosis fugax, diplopia, vertigo, nystagmus, syncope, homonymous hemianopia.
+Management: Treat vascular risk factors; PCP/cardiology follow-up.
+Migraine
+Migraine
+18 of 30
+Definition: Recurrent headache disorder lasting 4–72 hours.
+Triggers: Stress, sleep deprivation, alcohol, cheese, nitrates, chocolate, hormones, weather, OCs.
+Types: Common (no aura), Classic (aura), Ocular migraine (aura only).
+Treatment: NSAIDs, anti-nausea meds, trigger journal.
+Follow-Up: 4–6 weeks.
+Cluster Headache
+Cluster Headache
+19 of 30
+Definition: Severe unilateral headache lasting 10–120 minutes in clusters.
+Signs: Conjunctival injection, flushing, possible Horner syndrome.
+Treatment: High-flow O2, pain control; MRI to rule out tumor.
+Sinus Headache
+Sinus Headache
+20 of 30
+Definition: Facial pain localized to affected sinus.
+Treatment: Decongestants, allergy meds, saline rinse, NSAIDs/Tylenol.
+Follow-Up: ~10 days.
+Argyll Robertson Pupil
+Argyll Robertson Pupil
+21 of 30
+Definition: Near-light dissociation due to neurosyphilis.
+Signs: Small pupils that accommodate but poorly react to light.
+Workup/Treatment: VDRL, FTA-ABS; IV penicillin G.
+Follow-Up: Annual eye exam.
+Horner Syndrome
+Horner Syndrome
+22 of 30
+Definition: Sympathetic pathway lesion.
+Signs: Ptosis, miosis, anhidrosis.
+Localization: 1st order stroke; 2nd order Pancoast tumor; 3rd order vascular.
+Workup: Pharmacologic testing and systemic evaluation.
+Adie Tonic Pupil
+Adie Tonic Pupil
+23 of 30
+Definition: Acute dilated pupil from parasympathetic dysfunction.
+Symptoms: Near blur, photophobia.
+Diagnosis: Dilute pilocarpine response.
+Treatment: Observation; pilocarpine 0.125% BID–QID.
+Follow-Up: ~1 month.
+Clinical Pearl
+Clinical Pearl
+24 of 30
+Clinical Pearl: Papilledema – Image first before LP.
+Clinical Pearl
+Clinical Pearl
+25 of 30
+Clinical Pearl: IIH – Vision loss can occur even if headaches improve.
+Clinical Pearl
+Clinical Pearl
+26 of 30
+Clinical Pearl: AAION/GCA – Never delay steroids for biopsy.
+Clinical Pearl
+Clinical Pearl
+27 of 30
+Clinical Pearl: NAION – Disc-at-risk and sleep apnea are key.
+Clinical Pearl
+Clinical Pearl
+28 of 30
+Clinical Pearl: Optic Neuritis – Pain + color loss + central scotoma is classic.
+Clinical Pearl
+Clinical Pearl
+29 of 30
+Clinical Pearl: Toxic Optic Neuropathy – Think medications and nutrition.
+Clinical Pearl
+Clinical Pearl
+30 of 30
+Clinical Pearl: Horner Syndrome – Painful Horner suggests carotid dissection.
