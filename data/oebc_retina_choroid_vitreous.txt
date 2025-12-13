@@ -15,7 +15,7 @@ Clinical Signs: Findings as described in severity scale and macular edema criter
 Treatment: Stage-dependent. Center-involving ME → intravitreal anti-VEGF (consider steroids if inadequate response). High-risk PDR → PRP. PDR (not high-risk) ± ME → anti-VEGF. PPV indications: dense non-clearing VH, TRD, ERM/VMT with significant symptoms, dense premacular hemorrhage, chronic DME unresponsive to therapy, or severe neovascular/fibrous proliferation unresponsive to PRP/anti-VEGF.
 Follow-up: No retinopathy—annually; Mild NPDR—q6 months; Moderate/Severe NPDR—q4 months; PDR (not high-risk)—q2 months; High-risk PDR—monthly; Any CSME—monthly.
 
-Gestational Diabetes – Ocular Considerations
+Gestational Diabetes
 2 of 52
 Definition: Diabetic retinal changes occurring during pregnancy in patients with gestational diabetes or pre-existing diabetes affected by pregnancy-related metabolic changes.
 Clinical Features: Similar to diabetic retinopathy (MAs, hemorrhages, macular edema; may progress to proliferative disease).
@@ -28,7 +28,7 @@ Hypertensive Retinopathy
 Definition: Retinal vascular changes due to chronic or acute systemic hypertension.
 Blood Pressure Categories (ACC/AHA): Elevated 120–129/<80; Stage 1 130–139 or 80–89; Stage 2 ≥140 or ≥90; Crisis ≥180 and/or ≥120.
 Symptoms: Usually asymptomatic; may have blurred vision if severe/malignant HTN.
-Clinical Signs (Keith–Wagener–Barker): Group 1—arteriolar narrowing; Group 2—AV nicking; Group 3—flame hemorrhages, CWS, hard exudates; Group 4—optic disc swelling.
+Clinical Signs: (Keith–Wagener–Barker) Group 1—arteriolar narrowing; Group 2—AV nicking; Group 3—flame hemorrhages, CWS, hard exudates; Group 4—optic disc swelling.
 Management: Treat systemic hypertension; coordinate medical referral as needed; evaluate end-organ damage if severe.
 Follow-up: 2–3 months (sooner if severe/malignant HTN suspected).
 
@@ -54,7 +54,7 @@ Branch Retinal Vein Occlusion (BRVO)
 6 of 52
 Definition: Compression of a branch retinal vein by an overlying arteriosclerotic artery at an AV crossing → endothelial damage, thrombus, venous stasis.
 Epidemiology: Most common retinal vascular occlusion; superior temporal most common (then inferior temporal).
-Ischemic vs Non-ischemic: >5 DD capillary nonperfusion on FA = ischemic BRVO.
+Classifications: (Ischemic vs Non-ischemic) >5 DD capillary nonperfusion on FA = ischemic BRVO.
 Complications: Macular edema, neovascularization, (less commonly) vitreous hemorrhage.
 Management: Treat systemic risk factors (HTN/DM/HLD). Chronic ME → anti-VEGF, intravitreal steroid (e.g., triamcinolone), focal/grid laser, vitrectomy (select cases). Neovascularization → sector PRP ± anti-VEGF.
 Follow-up: q1–2 months initially, then extend to q3–12 months when stable.
@@ -81,7 +81,7 @@ Follow-up: Every 3 months.
 Central Retinal Artery Occlusion (CRAO)
 9 of 52
 Definition: Acute obstruction of central retinal artery → profound retinal ischemia with severe vision loss.
-Management (Emergency): Refer immediately to stroke center. If acute, attempt ocular massage and IOP reduction (e.g., acetazolamide) per local protocol.
+Management: Emergency. Refer immediately to stroke center. If acute, attempt ocular massage and IOP reduction (e.g., acetazolamide) per local protocol.
 Complications: Neovascularization in ~20% (often around 4 weeks); NVG risk; high risk of cerebrovascular events.
 Follow-up: Repeat eye exam at 1 week; close monitoring for anterior segment/retinal neovascularization.
 
@@ -184,7 +184,7 @@ Follow-up: If stable/no treatment—6 months; sooner if treated/new symptoms.
 Angioid Streaks (PEPSI)
 21 of 52
 Definition: Breaks in Bruch’s membrane due to elastic layer degeneration; radial streaks from ONH.
-Etiology (PEPSI): PXE (most common), Ehlers-Danlos, Paget, Sickle cell disease, Idiopathic.
+Etiology: (PEPSI) PXE (most common), Ehlers-Danlos, Paget, Sickle cell disease, Idiopathic.
 Signs: Radial streaks; peau d’orange; CNV risk.
 Management: Polycarbonate for sports (hemorrhage/choroidal rupture risk); treat CNV; manage underlying systemic condition.
 Follow-up: 6 months; provide Amsler grid.
@@ -339,7 +339,7 @@ Follow-up: 6 months (or per retina specialist if treated).
 
 Cystoid Macular Edema (CME)
 40 of 52
-Etiology (DEPRIVENS): Diabetes, Epinephrine, Pars planitis, Retinitis pigmentosa, Irvine–Gass, Vein occlusion, E2 prostaglandins, Nicotinic acid, Surgery. Within 3 months of cataract surgery = Irvine–Gass.
+Etiology: (DEPRIVENS) Diabetes, Epinephrine, Pars planitis, Retinitis pigmentosa, Irvine–Gass, Vein occlusion, E2 prostaglandins, Nicotinic acid, Surgery. Within 3 months of cataract surgery = Irvine–Gass.
 Symptoms: Blurred central vision.
 Signs: Loss of FLR; OCT cysts; IVFA early leakage + late petaloid staining.
 Management: Topical NSAID + steroid; discontinue prostaglandins if possible. If >3 months: consider intravitreal/sub-Tenon steroids.
@@ -375,7 +375,7 @@ Definition: Most common primary intraocular malignancy in adults; metastasis com
 Epidemiology: Peak 55–65 (M=F); smaller peak 20–40 (F>M).
 Symptoms: Blurry vision, metamorphopsia, VF loss, floaters, photopsias.
 Clinical Signs: No pathognomonic sign; diameter >10 mm suspicious; FA recirculation; ICGA helpful.
-Risk Factors (TFSOM-UHHD): Thickness >2 mm; Fluid (SRF); Symptoms; Orange pigment; Margin near optic nerve; Ultrasonographic hollowness; Halo absence; Drusen absence.
+Risk Factors: (TFSOM-UHHD) Thickness >2 mm; Fluid (SRF); Symptoms; Orange pigment; Margin near optic nerve; Ultrasonographic hollowness; Halo absence; Drusen absence.
 Management: Refer to ocular oncology; plaque radiotherapy/other therapy/enucleation per case; observation may be appropriate for very small lesions per specialist.
 Follow-up: Nevi—photos q6 months; higher-risk lesions—more frequent or refer per risk features.
 
@@ -449,14 +449,12 @@ Clinical Pearl – Macular Edema Treatment Rule
 53 of 52
 Rule:
 Visually significant macular edema is treated first-line with intravitreal anti-VEGF therapy.
-
 Applies To:
 • Diabetic macular edema (DME)
 • BRVO- and CRVO-related macular edema
 • Wet AMD
 • Radiation retinopathy
 • MacTel with CNVM
-
 Exceptions:
 • Irvine–Gass syndrome → topical NSAID + steroid first
 • Inflammatory CME → steroids earlier
@@ -467,11 +465,9 @@ Clinical Pearl – Neovascularization Equals Ischemia
 54 of 52
 Rule:
 Any retinal or iris neovascularization represents ischemia until proven otherwise.
-
 Management Principle:
 • Anti-VEGF for rapid regression
 • Panretinal photocoagulation (PRP) for long-term ischemic control
-
 Common Associations:
 • Proliferative diabetic retinopathy
 • Ischemic BRVO / CRVO
@@ -486,11 +482,9 @@ Clinical Pearl – Retinal Artery vs Retinal Vein Occlusion
 Key Distinction:
 Retinal artery occlusions are neurologic emergencies.
 Retinal vein occlusions are chronic ischemic retinal diseases.
-
 Artery Occlusions (CRAO / BRAO):
 • Require immediate stroke workup
 • Rule out giant cell arteritis in patients >50 years old
-
 Vein Occlusions (BRVO / CRVO):
 • Cause macular edema and neovascularization
 • Treated with anti-VEGF ± PRP
@@ -501,12 +495,10 @@ Clinical Pearl – Steroids and Infection Rule
 56 of 52
 Rule:
 Never initiate steroids until infection has been ruled out.
-
 Treat Infection First In:
 • Acute retinal necrosis → antivirals
 • Toxoplasmosis → antimicrobials
 • Candidiasis → antifungals
-
 Important Note:
 Steroids are adjunctive therapy, not first-line, in infectious retinal disease.
 
@@ -527,7 +519,6 @@ Inherited Retinal Diseases:
 • Typically bilateral and symmetric
 • Slowly progressive
 • Examples: RP, Stargardt, Best, choroideremia
-
 Acquired Retinal Diseases:
 • Often asymmetric
 • Associated with hemorrhage, edema, or ischemia
