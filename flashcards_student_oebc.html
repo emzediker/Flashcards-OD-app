@@ -6,41 +6,55 @@
 <title>Part 2 Flashcards</title>
 
 <style>
-  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
-  .wrap{max-width:980px;margin:auto;}
-  h1{font-size:22px;margin:0 0 12px;}
-  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
-  select,input[type=search],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff}
-  .card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;position:relative}
-  .front{font-weight:600}
-  .back{display:none;margin-top:12px}
+body{
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+  margin:0;padding:20px;background:#fff;color:#111;
+}
+.wrap{max-width:980px;margin:auto}
+h1{font-size:22px;margin:0 0 12px}
 
-  .back .exp{
-    color:#111;
-    font-size:0.98rem;
-    line-height:1.55;
-    white-space:normal;
-  }
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+select,input[type=search],button{
+  padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff
+}
 
-  .sec{
-    font-weight:800;
-    display:block;
-    margin-top:12px;
-    margin-bottom:4px;
-  }
-  .back .exp .sec:first-child{ margin-top:0; }
+.card{
+  border:1px solid #ddd;border-radius:12px;
+  padding:20px;min-height:180px;background:#fff;position:relative
+}
+.front{font-weight:700;font-size:1.05rem}
+.back{display:none;margin-top:14px}
 
-  .card img{max-width:100%;height:auto;border-radius:8px;margin-top:10px}
-  .fav{position:absolute;top:10px;right:10px;border:1px solid #ddd;border-radius:999px;padding:6px 10px;background:#fff;cursor:pointer}
-  .fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
-  .meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
-  .nav{display:flex;gap:8px;margin-top:10px}
-  .nav button{flex:1;font-weight:600}
-  .note{margin-top:8px;font-size:13px;color:#666}
+.back .exp{
+  font-size:0.98rem;
+  line-height:1.55;
+  white-space:normal;
+}
 
-  .email-row{margin-bottom:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
-  .email-row input{min-width:230px;}
-  .note-small{font-size:12px;color:#666;margin-left:6px;}
+/* SECTION HEADERS */
+.sec{
+  display:block;
+  font-weight:800;
+  margin-top:14px;
+  margin-bottom:4px;
+}
+.back .exp .sec:first-child{margin-top:0}
+
+.fav{
+  position:absolute;top:10px;right:10px;
+  border:1px solid #ddd;border-radius:999px;
+  padding:6px 10px;background:#fff;cursor:pointer
+}
+.fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
+
+.meta{display:flex;justify-content:space-between;margin-top:10px;color:#555}
+.nav{display:flex;gap:8px;margin-top:10px}
+.nav button{flex:1;font-weight:600}
+
+.note{margin-top:8px;font-size:13px;color:#666}
+.email-row{margin-bottom:10px;display:flex;gap:8px;align-items:center}
+.email-row input{min-width:230px}
+.note-small{font-size:12px;color:#666}
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -69,7 +83,7 @@
     </select>
   </label>
   <label>Search:
-    <input id="q" type="search" placeholder="Find text...">
+    <input id="q" type="search" placeholder="Find text…">
   </label>
 </div>
 
@@ -90,58 +104,115 @@
   <button id="next">Next ▶</button>
 </div>
 
-<div class="note">Tip: ←/→ navigate · R reveal · S favorite</div>
+<div class="note">
+  Tip: ←/→ move • R reveal • S star
+</div>
 <div class="note" id="cloudStatus"></div>
 </div>
 
 <script>
-const SECTION_LABELS = [
-  "Definition","Epidemiology","Etiology","Pathophysiology","Symptoms",
-  "Clinical Signs","Signs","Complications","Management","Treatment",
-  "Follow-up","Follow Up","Classification","Types","Risk Factors",
-  "Diagnosis","Prognosis","Severity","Stages"
+/* ---------------- SUPABASE ---------------- */
+const SUPABASE_URL="https://ikcowmdwccncnhnuchos.supabase.co";
+const SUPABASE_KEY="YOUR_EXISTING_KEY";
+const supabase=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
+
+/* ---------------- CONFIG ---------------- */
+const EMAIL_KEY="oebc_flashcards_email";
+const DECKS=[
+  {id:'oebc_retina_choroid_vitreous',title:'Retina, Choroid, Vitreous',dataUrl:'data/oebc_retina_choroid_vitreous.txt'}
 ];
 
-function escapeHtml(s){
-  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
-          .replace(/"/g,'&quot;').replace(/'/g,'&#39;');
-}
+const SECTION_LABELS=[
+"Definition","Epidemiology","Etiology","Pathophysiology","Symptoms",
+"Clinical Signs","Signs","Complications","Management","Treatment","Follow-up",
+"Risk Factors","Classification","Types","Prognosis"
+];
 
+/* ---------------- HELPERS ---------------- */
+const esc=s=>s.replace(/[&<>"']/g,m=>({ '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;' }[m]));
+const isAnchor=s=>/^\d+\s+of\s+\d+$/i.test(s);
+
+/* ---------------- FORMATTER ---------------- */
 function formatSections(raw){
-  const lines = raw.split(/\n/);
-  return lines.map(line=>{
-    const m = line.match(/^([A-Za-z][A-Za-z\s\-\/()]{2,40})(:)?\s*(.*)$/);
-    if(m && SECTION_LABELS.some(l=>l.toLowerCase()===m[1].toLowerCase())){
-      return `<span class="sec">${escapeHtml(m[1])}${m[2]||""}</span>${escapeHtml(m[3])}`;
-    }
-    return escapeHtml(line);
+  return raw.split("\n").map(line=>{
+    const m=line.match(/^([A-Za-z][A-Za-z\s\-()]{1,40}):\s*(.*)$/);
+    if(!m) return esc(line);
+    const label=m[1].trim();
+    if(!SECTION_LABELS.some(l=>l.toLowerCase()===label.toLowerCase())) return esc(line);
+    return `<span class="sec">${esc(label)}:</span>${esc(m[2])}`;
   }).join("<br>");
 }
 
-function parseTxt(txt, deckId){
-  const lines = txt.replace(/\r/g,'').split(/\n/).map(l=>l.trim());
-  const anchors = lines.map((l,i)=>/^\d+\s+of\s+\d+$/i.test(l)?i:-1).filter(i=>i>=0);
+/* ---------------- PARSER ---------------- */
+function parseTxt(txt,deckId){
+  const lines=txt.replace(/\r/g,'').split("\n").map(l=>l.trim());
+  const anchors=lines.map((l,i)=>isAnchor(l)?i:-1).filter(i=>i>=0);
   const cards=[];
-
-  for(let i=0;i<anchors.length;i++){
-    const at=anchors[i], next=anchors[i+1]||lines.length;
-    let j=at-1; while(j>=0&&!lines[j]) j--;
-    const front=escapeHtml(lines[j]||"");
-
-    let k=at+1; while(k<next&&!lines[k]) k++;
+  anchors.forEach((at,p)=>{
+    const next=anchors[p+1]||lines.length;
+    let j=at-1; while(j>=0&&!lines[j])j--;
+    const front=lines[j];
+    let k=at+1; while(k<next&&!lines[k])k++;
     const body=[];
-    for(let m=k;m<next&&lines[m];m++) body.push(lines[m]);
-
+    for(let m=k;m<next;m++){ if(!lines[m])break; body.push(lines[m]); }
     cards.push({
       id:`${deckId}-${cards.length+1}`,
-      front,
-      backHtml:formatSections(body.join("\n"))
+      front:esc(front),
+      back:formatSections(body.join("\n"))
     });
-  }
+  });
   return cards;
 }
 
-/* UI logic unchanged from your working version — intentionally */
+/* ---------------- UI ---------------- */
+const els={
+deck:deck,show:show,q:q,front:front,back:back,
+fav:fav,counter:counter,status:status,
+prev:prev,next:next,reveal:reveal,
+emailInput:emailInput,saveEmail:saveEmail,emailStatus:emailStatus,cloudStatus:cloudStatus
+};
+
+let CARDS=[],VIEW=[],IDX=0,SHOW=false,FAVS=new Set(),EMAIL=null;
+
+function render(){
+  if(!VIEW.length){els.front.innerHTML="";els.back.innerHTML="";els.counter.textContent="0 / 0";return;}
+  const c=VIEW[IDX];
+  els.front.innerHTML=c.front;
+  els.back.innerHTML=`<div class="exp">${c.back}</div>`;
+  els.back.style.display=SHOW?'block':'none';
+  els.fav.setAttribute("aria-pressed",FAVS.has(c.id));
+  els.counter.textContent=`${IDX+1} / ${VIEW.length}`;
+  els.reveal.textContent=SHOW?"Hide Answer":"Reveal Answer";
+}
+
+function applyFilters(){
+  const t=els.q.value.toLowerCase();
+  VIEW=CARDS.filter(c=>(!t||(c.front+c.back).toLowerCase().includes(t))&&(!els.show.value==='fav'||FAVS.has(c.id)));
+  IDX=0;SHOW=false;render();
+}
+
+/* ---------------- INIT ---------------- */
+(async()=>{
+  EMAIL=localStorage.getItem(EMAIL_KEY);
+  els.emailInput.value=EMAIL||"";
+  els.emailStatus.textContent=EMAIL?"Using "+EMAIL:"Local only";
+
+  DECKS.forEach(d=>{
+    const o=document.createElement("option");
+    o.value=d.id;o.textContent=d.title;els.deck.appendChild(o);
+  });
+
+  const d=DECKS[0];
+  const txt=await fetch(d.dataUrl).then(r=>r.text());
+  CARDS=parseTxt(txt,d.id);
+  VIEW=[...CARDS];
+  render();
+})();
+
+els.prev.onclick=()=>{IDX=(IDX-1+VIEW.length)%VIEW.length;SHOW=false;render();}
+els.next.onclick=()=>{IDX=(IDX+1)%VIEW.length;SHOW=false;render();}
+els.reveal.onclick=()=>{SHOW=!SHOW;render();}
+els.q.oninput=applyFilters;
 </script>
 </body>
 </html>
