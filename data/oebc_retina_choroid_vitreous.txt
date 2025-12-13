@@ -70,6 +70,20 @@ Management: Anti-VEGF therapy for macular edema. Laser photocoagulation for neov
 
 Follow-up: Based on ischemic status and macular involvement.
 
+Branch Retinal Artery Occlusion (BRAO)
+5 of 20
+Definition: Occlusion of a branch retinal artery resulting in sectoral retinal ischemia.
+
+Etiology: Embolic disease, commonly from carotid plaques.
+
+Symptoms: Sudden painless visual field defect.
+
+Clinical Signs: Sectoral retinal whitening corresponding to the occluded vessel.
+
+Management: Systemic vascular workup. Visual prognosis better than CRAO.
+
+Follow-up: Evaluate stroke risk and systemic vascular disease.
+
 Diabetic Retinopathy – Classification and Management
 6 of 20
 Definition: Microvascular retinal disease caused by chronic hyperglycemia resulting in retinal ischemia and increased vascular permeability.
