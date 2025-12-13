@@ -57,15 +57,30 @@ High-risk PDR: monthly
 Any clinically significant macular edema: monthly
 
 
-Gestational Diabetes
+Gestational Diabetes – Ocular Considerations
 2 of 51
-Same signs/symptoms as DR just with gestational diabetes
-Treatment: Same as DR (
-Follow up
-No NPDR: 1st and third trimester
-Mild/moderate NPDR: Every trimester
-Sever NPDR: Monthly
-PDR: Monthly
+
+Definition:
+Diabetic retinal changes occurring during pregnancy in patients with gestational diabetes or pre-existing diabetes affected by pregnancy-related metabolic changes.
+
+Clinical Features:
+Ocular signs and symptoms are similar to diabetic retinopathy, including microaneurysms, hemorrhages, macular edema, and possible progression to proliferative disease.
+
+Risk Considerations:
+Rapid metabolic changes during pregnancy may accelerate progression of diabetic retinopathy.
+Risk is higher in patients with poor glycemic control or pre-existing retinopathy prior to pregnancy.
+
+Treatment:
+Management is the same as diabetic retinopathy and depends on disease severity.
+Focus on tight glycemic control in coordination with obstetric care.
+Anti-VEGF therapy generally avoided during pregnancy unless vision-threatening and benefits outweigh risks.
+Laser photocoagulation may be considered when indicated.
+
+Follow-up:
+No retinopathy: examination during first and third trimesters.
+Mild or moderate NPDR: examination every trimester.
+Severe NPDR: monthly examinations.
+Proliferative diabetic retinopathy: monthly examinations.
 
 Hypertensive Retinopathy
 3 of 51
