@@ -2,7 +2,7 @@ Conjunctiva
 
 Erythema Multiforme / Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis
 Erythema Multiforme / Stevens-Johnson Syndrome / Toxic Epidermal Necrolysis
-1 of XX
+1 of 32
 
 Definition / Cause:
 Variants of the same disease spectrum involving a Type IV hypersensitivity reaction. Common triggers include medications (especially sulfonamides and anticonvulsants) and infections such as HSV or Mycoplasma.
@@ -22,7 +22,7 @@ Daily.
 
 Cicatricial Pemphigoid
 Cicatricial Pemphigoid
-2 of XX
+2 of 32
 
 Definition / Cause:
 Systemic autoimmune disease causing progressive mucocutaneous inflammation and scarring. Typically affects women over 55 years old.
@@ -42,7 +42,7 @@ Follow-Up:
 
 Superior Limbic Keratoconjunctivitis
 Superior Limbic Keratoconjunctivitis
-3 of XX
+3 of 32
 
 Definition / Cause:
 Chronic inflammatory condition caused by friction between the upper eyelid and superior bulbar conjunctiva. Associated with dry eye, thyroid eye disease, rheumatoid arthritis, Sjögren syndrome, and excessive contact lens wear.
@@ -63,7 +63,7 @@ Every 2 weeks until symptoms remit.
 
 Subconjunctival Hemorrhage
 Subconjunctival Hemorrhage
-4 of XX
+4 of 32
 
 Definition / Cause:
 Bleeding beneath the conjunctiva, often due to Valsalva maneuver, trauma, or anticoagulant use.
@@ -83,7 +83,7 @@ None. Reassure patient resolution within 2–3 weeks. If recurrent, refer to PCP
 
 Allergic Conjunctivitis
 Allergic Conjunctivitis
-5 of XX
+5 of 32
 
 Definition / Cause:
 IgE-mediated hypersensitivity reaction to airborne allergens. Seasonal or perennial.
@@ -105,7 +105,7 @@ Follow-Up:
 
 Atopic Conjunctivitis
 Atopic Conjunctivitis
-6 of XX
+6 of 32
 
 Definition / Cause:
 Chronic allergic conjunctivitis associated with atopy, typically in adults.
@@ -125,7 +125,7 @@ Follow-Up:
 
 Vernal Conjunctivitis
 Vernal Conjunctivitis
-7 of XX
+7 of 32
 
 Definition / Cause:
 Chronic allergic condition in young boys, associated with atopy and hot climates. Typically resolves after puberty.
@@ -146,7 +146,7 @@ If no ulcer: 2 weeks.
 
 Bacterial Conjunctivitis (Nongonococcal)
 Bacterial Conjunctivitis (Nongonococcal)
-8 of XX
+8 of 32
 
 Definition / Cause:
 Most commonly caused by Staphylococcus aureus or Streptococcus pneumoniae. Common in children under 3 years old.
@@ -166,7 +166,7 @@ Follow-Up:
 
 Gonococcal Conjunctivitis
 Gonococcal Conjunctivitis
-9 of XX
+9 of 32
 
 Definition / Cause:
 Hyperacute conjunctivitis caused by Neisseria gonorrhoeae, capable of invading intact corneal epithelium.
@@ -186,7 +186,7 @@ Daily.
 
 Chlamydial Conjunctivitis
 Chlamydial Conjunctivitis
-10 of XX
+10 of 32
 
 Definition / Cause:
 Sexually transmitted conjunctivitis caused by Chlamydia trachomatis serotypes D–K.
@@ -206,7 +206,7 @@ Follow-Up:
 
 Trachoma
 Trachoma
-11 of XX
+11 of 32
 
 Definition / Cause:
 Chronic conjunctivitis caused by Chlamydia trachomatis serotypes A–C. Leading cause of preventable blindness worldwide.
@@ -226,7 +226,7 @@ Follow-Up:
 
 Adenoviral Conjunctivitis
 Adenoviral Conjunctivitis
-12 of XX
+12 of 32
 
 Definition / Cause:
 Most common cause of viral conjunctivitis. Highly contagious for up to 14 days.
@@ -246,7 +246,7 @@ Follow-Up:
 
 Molluscum Contagiosum
 Molluscum Contagiosum
-13 of XX
+13 of 32
 
 Definition / Cause:
 DNA poxvirus infection. Adult cases warrant HIV testing.
@@ -266,7 +266,7 @@ Follow-Up:
 
 Conjunctival Intraepithelial Neoplasia (CIN)
 Conjunctival Intraepithelial Neoplasia (CIN)
-14 of XX
+14 of 32
 
 Definition / Cause:
 Premalignant lesion confined to conjunctival epithelium. Precursor to SCC.
@@ -287,7 +287,7 @@ Cornea
 
 Exposure Keratopathy
 Exposure Keratopathy
-15 of XX
+15 of 32
 
 Definition / Cause:
 Corneal exposure due to incomplete eyelid closure. Causes include thyroid eye disease, ectropion, nocturnal lagophthalmos, Bell palsy, Möbius syndrome, Parinaud syndrome, globe subluxation.
@@ -307,7 +307,7 @@ Weeks to months if no ulcer. Daily if ulcer present.
 
 Ultraviolet Keratopathy
 Ultraviolet Keratopathy
-16 of XX
+16 of 32
 
 Definition / Cause:
 Acute corneal epithelial injury from UV-C exposure (welding, skiing, tanning beds).
@@ -327,7 +327,7 @@ Follow-Up:
 
 Filamentary Keratitis
 Filamentary Keratitis
-17 of XX
+17 of 32
 
 Definition / Cause:
 Corneal condition associated with dry eye, reduced corneal sensitivity, recurrent erosions, or SLK.
@@ -347,7 +347,7 @@ Follow-Up:
 
 Dellen
 Dellen
-18 of XX
+18 of 32
 
 Definition / Cause:
 Localized corneal thinning adjacent to an elevated lesion (pterygium, pinguecula, RGP lens).
@@ -367,7 +367,7 @@ Follow-Up:
 
 Thygeson Superficial Punctate Keratitis
 Thygeson Superficial Punctate Keratitis
-19 of XX
+19 of 32
 
 Definition / Cause:
 Chronic idiopathic bilateral epithelial keratitis with remissions and exacerbations, typically in young adults.
@@ -388,7 +388,7 @@ Weekly during exacerbations, then every 3–6 months.
 
 Phlyctenule / Phlyctenulosis
 Phlyctenule / Phlyctenulosis
-20 of XX
+20 of 32
 
 Definition / Cause:
 Delayed hypersensitivity reaction to staphylococcal antigens; associated with blepharitis, rosacea, rarely tuberculosis.
@@ -408,7 +408,7 @@ Follow-Up:
 
 Corneal Graft Rejection
 Corneal Graft Rejection
-21 of XX
+21 of 32
 
 Definition / Cause:
 Immune-mediated rejection of corneal transplant, most commonly within first year.
@@ -428,7 +428,7 @@ Follow-Up:
 
 Neurotrophic Keratopathy
 Neurotrophic Keratopathy
-22 of XX
+22 of 32
 
 Definition / Cause:
 Corneal disease due to reduced trigeminal (CN V1) sensation, often following herpes infection.
@@ -449,7 +449,7 @@ Ulceration: Daily.
 
 Peters Anomaly
 Peters Anomaly
-23 of XX
+23 o 32
 
 Definition / Cause:
 Rare congenital malformation of corneal endothelium and Descemet membrane.
@@ -469,7 +469,7 @@ Every 6 months lifelong.
 
 Acanthamoeba Keratitis
 Acanthamoeba Keratitis
-24 of XX
+24 of 32
 
 Definition / Cause:
 Protozoal keratitis associated with contact lens wear and freshwater exposure.
@@ -489,7 +489,7 @@ Daily.
 
 Bacterial Keratitis
 Bacterial Keratitis
-25 of XX
+25 of 32
 
 Definition / Cause:
 Corneal infection caused by bacteria, including Pseudomonas in contact lens wearers.
@@ -509,7 +509,7 @@ Daily. Culture if not improving.
 
 Fungal Keratitis
 Fungal Keratitis
-26 of XX
+26 of 32
 
 Definition / Cause:
 Corneal infection following plant or fingernail trauma. Common organisms include Aspergillus and Candida.
@@ -529,7 +529,7 @@ Daily.
 
 Peripheral Ulcerative Keratitis
 Peripheral Ulcerative Keratitis
-27 of XX
+27 of 32
 
 Definition / Cause:
 Peripheral corneal inflammation associated with autoimmune disease, staphylococcal hypersensitivity, or idiopathic causes.
@@ -549,7 +549,7 @@ Within 1 week or sooner based on severity.
 
 Salzmann Nodular Degeneration
 Salzmann Nodular Degeneration
-28 of XX
+28 of 32
 
 Definition / Cause:
 Degenerative condition of Bowman membrane, typically in older women.
@@ -569,7 +569,7 @@ Follow-Up:
 
 Terrien Marginal Degeneration
 Terrien Marginal Degeneration
-29 of XX
+29 of 32
 
 Definition / Cause:
 Non-inflammatory peripheral corneal thinning, usually superior nasal.
@@ -589,7 +589,7 @@ Follow-Up:
 
 Band Keratopathy
 Band Keratopathy
-30 of XX
+30 of 32
 
 Definition / Cause:
 Calcium deposition in anterior cornea associated with chronic inflammation, hypercalcemia, gout.
@@ -612,7 +612,7 @@ Refractive Surgery
 
 Refractive Surgery Overview
 Refractive Surgery Overview
-31 of XX
+31 of 32
 
 Definition / Cause:
 Surgical correction of refractive error using corneal or lens-based procedures.
@@ -630,7 +630,7 @@ As directed by surgical protocol.
 
 Radial Keratotomy
 Radial Keratotomy
-32 of XX
+32 of 32
 
 Definition / Cause:
 Obsolete refractive surgery involving radial corneal incisions.
