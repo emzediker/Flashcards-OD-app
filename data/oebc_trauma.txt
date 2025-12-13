@@ -1,1 +1,176 @@
+Sympathetic Ophthalmia
+1 of 16
+Definition: Autoimmune bilateral granulomatous uveitis after penetrating trauma or surgery to one eye.
+Symptoms: Bilateral blur, pain, photophobia.
+Signs: Bilateral granulomatous uveitis, vitritis, mid-peripheral multifocal infiltrates, serous retinal detachments.
+Workup: Dilated exam; OCT for serous detachments; rule out other causes of panuveitis.
+Treatment: Enucleation only prophylactic if injured eye is blind before inflammation; once active → aggressive systemic ± periocular ± topical steroids, cycloplegia, long-term immunosuppression often required.
+Meds: Prednisone ~1 mg/kg PO (taper); Cyclopentolate 1% BID; Pred Forte or Durezol q1–2h then taper.
+Follow-Up: 1–7 days.
+Clinical Pearl: Prognosis can be good with early aggressive treatment (often >20/40).
 
+Iridodialysis / Cyclodialysis
+2 of 16
+Definition: Iridodialysis = iris root disinsertion; Cyclodialysis = ciliary body separation from scleral spur.
+Symptoms: Often asymptomatic; monocular diplopia or glare if large.
+Signs: Iris root tear; secondary glaucoma (angle damage) or hypotony from cyclodialysis cleft.
+Treatment: Mild/cosmetic → sunglasses or opaque CL; glaucoma → IOP lowering; hypotony → atropine BID ± steroids.
+Follow-Up: Long-term monitoring for angle recession glaucoma.
+Clinical Pearl: Always monitor for delayed glaucoma after blunt trauma.
+
+
+Corneal / Conjunctival Foreign Body
+3 of 16
+Definition: Superficial ocular foreign body; palpebral FB may cause linear abrasion.
+Symptoms: Pain, photophobia, foreign body sensation.
+Signs: Visible FB, abrasion, mild AC reaction.
+Workup: Document VA first; slit lamp exam; rule out Seidel sign, hyphema, lens damage; consider IOFB based on mechanism.
+Treatment: FB removal; rust ring removal if present; topical antibiotic (ointment preferred); CL wearers need Pseudomonas coverage.
+Follow-Up: 24 hours.
+Clinical Pearl: Always ask yourself—could this be an intraocular foreign body?
+
+
+Conjunctival or Corneal Laceration
+4 of 16
+Definition: Partial-thickness laceration of conjunctiva or cornea.
+Symptoms: Redness, photophobia, foreign body sensation.
+Signs: Linear fluorescein staining; loose conjunctival tissue.
+Workup: Rule out Seidel sign.
+Treatment: Treat like corneal abrasion—erythromycin or polysporin ointment; cycloplegic if corneal involvement.
+Follow-Up: 24 hours.
+Clinical Pearl: Seidel positive = open globe emergency.
+
+
+Chemical Burn (Ocular)
+5 of 16
+Definition: Acid or alkali injury to ocular surface; alkali burns are more severe.
+Symptoms: Pain, photophobia, blurred vision.
+Signs: Conjunctival injection or blanching; corneal haze; risk of symblepharon.
+Treatment: Immediate copious irrigation until pH 7.0–7.4; sweep fornices; PF tears hourly; topical antibiotics; cycloplegia; short-term topical steroids (taper after 7–14 days).
+Follow-Up: Daily initially.
+Clinical Pearl: White/ischemic eye = severe injury.
+
+
+Recurrent Corneal Erosion
+6 of 16
+Definition: Poor epithelial adhesion, often post-trauma or EBMD-related.
+Symptoms: Recurrent sharp pain on awakening.
+Signs: Inferior epithelial defects; EBMD changes.
+Treatment: Antibiotic ointment; BCL if large; hypertonic saline HS; cycloplegia; amniotic membrane if refractory.
+Follow-Up: 1–2 days until healed.
+Clinical Pearl: Morning pain with repeat “abrasions” is classic.
+
+
+Hyphema
+7 of 16
+Definition: Blood in anterior chamber; trauma most common cause.
+Symptoms: Pain, blurred vision.
+Signs: Layered blood or circulating RBCs.
+Treatment: Bedrest, head elevation, rigid shield, cycloplegia; avoid NSAIDs; topical steroids if inflammation; screen for sickle cell disease.
+Follow-Up: Daily monitoring for rebleed and IOP.
+Clinical Pearl: Rebleed risk peaks days 3–5.
+
+
+Choroidal Rupture
+8 of 16
+Definition: Tear of choroid, Bruch’s membrane, and RPE after blunt trauma.
+Symptoms: Decreased vision or asymptomatic.
+Signs: Yellow-white crescent-shaped streaks concentric to disc.
+Treatment: Observe; treat CNVM if it develops.
+Follow-Up: Monitor up to 6 months.
+Clinical Pearl: CNVM risk increases if rupture is near the fovea.
+
+
+Commotio Retinae (Berlin Edema)
+9 of 16
+Definition: Photoreceptor outer segment disruption after blunt trauma.
+Symptoms: Decreased vision or asymptomatic.
+Signs: Retinal whitening; cherry-red spot if posterior pole involved.
+Treatment: Observation only.
+Follow-Up: 1-week DFE.
+Clinical Pearl: Usually resolves but severe cases may leave permanent vision loss.
+
+
+Chorioretinitis Sclopetaria
+10 of 16
+Definition: High-velocity missile injury causing shock-wave retinal and choroidal damage without globe penetration.
+Symptoms: Vision loss or asymptomatic.
+Signs: Retinal/choroidal rupture with exposed sclera; fibrosis and scarring.
+Treatment: Observation; PPV if persistent vitreous hemorrhage.
+Follow-Up: ~2 weeks.
+Clinical Pearl: Despite severity, retinal detachment is uncommon.
+
+
+Purtscher’s Retinopath
+11 of 16
+Definition: Retinal microvascular injury after chest compression or trauma.
+Symptoms: Sudden vision loss, often bilateral.
+Signs: Cotton wool spots, retinal whitening, hemorrhages, disc edema.
+Treatment: No proven therapy; partial recovery common.
+Follow-Up: Every 2 weeks.
+Clinical Pearl: Seen after CPR or severe chest trauma.
+
+
+Traumatic Optic Neuropathy
+12 of 16
+Definition: Optic nerve injury from direct or indirect trauma.
+Symptoms: Sudden vision loss.
+Signs: RAPD, dyschromatopsia; optic pallor delayed weeks.
+Treatment: Rule out life-threatening injuries; management individualized with trauma/neuro-ophth.
+Follow-Up: Urgent specialty care.
+Clinical Pearl: Immediate pallor suggests pre-existing optic neuropathy.
+
+
+Shaken Baby Syndrome
+13 of 16
+Definition: Abusive head trauma with characteristic ocular findings.
+Symptoms: Lethargy, seizures, irritability.
+Signs: Extensive multilayered retinal hemorrhages.
+Management: Mandatory reporting; urgent multidisciplinary evaluation.
+Clinical Pearl: Retinal hemorrhage pattern is diagnostic.
+
+Orbital Compartment Syndrome
+14 of 16
+Definition: Vision-threatening rise in orbital pressure, usually from retrobulbar hemorrhage.
+Symptoms: Severe pain, decreased vision.
+Signs: Proptosis, RAPD, elevated IOP, tight orbit, restricted EOMs.
+Treatment: Immediate lateral canthotomy/cantholysis.
+Clinical Pearl: Time = vision.
+
+
+Blowout Fracture
+15 of 16
+Definition: Orbital floor fracture, commonly maxillary bone.
+Symptoms: Diplopia, pain with eye movement, cheek/lip numbness.
+Signs: Restricted upgaze, enophthalmos, V2 hypoesthesia.
+Treatment: No nose blowing; CT orbit; surgical repair if indicated.
+Clinical Pearl: Diplopia + V2 numbness = classic.
+
+
+Cavernous Sinus Syndrome
+16 of 16
+Definition: Multiple cranial neuropathies from cavernous sinus pathology (e.g., CCF, mucormycosis, tumors).
+Symptoms: Diplopia, ptosis, facial numbness.
+Signs: CN III, IV, VI, V1/V2 involvement; ophthalmoplegia.
+Treatment: Treat underlying cause; mucormycosis = emergency IV antifungals.
+Clinical Pearl: Multiple CN palsies localize to cavernous sinus.
+
+Trauma – Mega Clinical Pearls
+17 of 16
+Clinical Pearls:
+• Always rule out open globe after ocular trauma—look for Seidel sign, asymmetric low IOP, peaked pupil, shallow AC, iris defects, or lens damage.
+• Document visual acuity before any procedure (including FB removal); topical anesthetic does not invalidate VA documentation.
+• High-velocity mechanisms = think IOFB, even with small external wounds.
+• Alkali burns are more severe than acids—irrigate immediately and continuously until pH 7.0–7.4 and fornices are cleared.
+• White or blanched conjunctiva indicates limbal ischemia and poor prognosis.
+• Hyphema rebleed risk peaks days 3–5—avoid NSAIDs/ASA, elevate head, use a rigid shield (not patch), and monitor IOP daily.
+• Screen hyphema patients for sickle cell disease; IOP thresholds are lower and risk is higher.
+• Angle recession glaucoma may present years later—long-term follow-up is required after blunt trauma.
+• Morning pain with recurrent “abrasions” strongly suggests recurrent corneal erosion.
+• Choroidal rupture near the fovea carries delayed CNVM risk—monitor for months after injury.
+• Commotio retinae is typically observed, but posterior pole involvement may cause permanent vision loss.
+• Orbital compartment syndrome is an ophthalmic emergency—do not delay lateral canthotomy/cantholysis for imaging.
+• Immediate optic disc pallor after trauma implies pre-existing optic neuropathy, not acute TON.
+• Multiple CN III, IV, VI ± V1/V2 palsies localize to the cavernous sinus—consider CCF or mucormycosis.
+• Multilayered retinal hemorrhages in infants indicate abusive head trauma until proven otherwise—mandatory reporting required.
+• Sympathetic ophthalmia prevention is only effective before inflammation begins—enucleation offers no benefit once disease is active.
