@@ -83,15 +83,25 @@ Proliferative diabetic retinopathy: monthly examinations.
 
 Hypertensive Retinopathy
 3 of 51
-HTN is defined as >120 and <80 (elevated) >130 or >80 (Stage 1) >140 or >90 (Stage 2), HTN crisis >180 or >120
-Symptoms: usually asymptomatic
-Signs: Keith-Wagner-Barker Classification
-Group 1: Arteriole narrowing
-Group 2: AV nicking
-Group 3: Flame hemes, CWS, hard exudates
-Group 4: Optic Disc swelling
-Treatment: Treat hypertension
-Follow Up: 2 to 3 months
+Definition: Retinal vascular changes due to chronic or acute systemic hypertension.
+
+Blood Pressure Categories (ACC/AHA):
+• Elevated: SBP 120–129 and DBP <80
+• Stage 1: SBP 130–139 or DBP 80–89
+• Stage 2: SBP ≥140 or DBP ≥90
+• Hypertensive Crisis: SBP ≥180 and/or DBP ≥120
+
+Symptoms: Usually asymptomatic; may have blurred vision if severe/malignant HTN.
+
+Clinical Signs: Keith–Wagener–Barker Classification
+• Group 1: Mild generalized arteriolar narrowing
+• Group 2: More severe narrowing + AV nicking
+• Group 3: Hemorrhages (flame-shaped), cotton wool spots, hard exudates
+• Group 4: Optic disc swelling (malignant HTN)
+
+Management: Treat systemic hypertension (medical referral/coordination as needed). Evaluate for end-organ damage if severe findings.
+
+Follow-up: 2–3 months (sooner if severe findings or suspected malignant HTN).
 
 Histoplasmosis
 4 of 51
@@ -99,9 +109,7 @@ Fungal infection from bird or bat droppings
 Symptoms: Asymptomatic
 Signs: Needs two of triad for diagnosis
 Punched out Multifocal lesions
-
 CNVM
-5 of 51
 Peripapillarry atrophy
 No treatment: Monitor annually
 
