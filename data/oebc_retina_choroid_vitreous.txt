@@ -132,21 +132,72 @@ Follow-up:
 
 Valsalva Retinopathy
 6 of 51
-Happens after blowing up a balloon, weightlifting etc.
-Symptoms: Asymptomatic, blurry vision
-Signs: Hemes under ILM, rarely a VH may be present
-Treatment: None, may need laser to open ILM if not resolved in a few weeks
-Follow Up: 2 weeks until resolve
 
-Occlusive Vascular Disease
+Definition:
+Retinal hemorrhage caused by a sudden increase in intrathoracic or intra-abdominal pressure leading to retinal venous rupture.
+
+Common Triggers:
+• Weightlifting
+• Blowing up balloons
+• Vomiting
+• Coughing
+• Straining (Valsalva maneuver)
+
+Symptoms:
+• Often asymptomatic
+• Sudden painless blurry or decreased vision if macula involved
+
+Clinical Signs:
+• Preretinal hemorrhage beneath the internal limiting membrane (ILM)
+• Subhyaloid hemorrhage
+• Vitreous hemorrhage is rare
+
+Management:
+• Observation in most cases (spontaneous resolution common)
+• Nd:YAG laser membranotomy may be considered to open the ILM if hemorrhage does not resolve after several weeks and vision is significantly affected
+
+Follow-up:
+• Re-evaluate every 2 weeks until resolution
+
+Occlusive Vascular Disease – Branch Retinal Vein Occlusion (BRVO)
 7 of 51
-BRVO (Most Common) caused by compression of vein by overlying artery forming a thrombus due to endothelial cell damage
->5 DD nonperfusion on FA is ischemic
-Superior Temporal is most common followed by inferior temporal
-Always treat underlying condition
-With chronic mac edema, anti-VEGF, intravitreous PTA, triamcinalone, vitrectomy or focal grid laser photocoag
-If neo than sector PRP or anti-VEGF
-Follow up 1-2 months than 3-12
+
+Definition:
+Retinal venous occlusion caused by compression of a branch retinal vein by an overlying arteriosclerotic artery, leading to endothelial damage, thrombus formation, and impaired venous outflow.
+
+Epidemiology:
+• Most common retinal vascular occlusion
+• Superior temporal quadrant most commonly affected
+• Inferior temporal quadrant is second most common
+
+Pathophysiology:
+• Arteriovenous crossing changes cause venous compression
+• Endothelial injury leads to thrombosis and venous stasis
+• Retinal ischemia and macular edema may develop
+
+Ischemic vs Non-Ischemic:
+• >5 disc diameters (DD) of capillary nonperfusion on fluorescein angiography (FA) = ischemic BRVO
+
+Complications:
+• Macular edema
+• Retinal neovascularization
+• Vitreous hemorrhage (less common)
+
+Management:
+• Always treat underlying systemic condition (hypertension, diabetes, hyperlipidemia)
+• Chronic macular edema:
+– Intravitreal anti-VEGF therapy
+– Intravitreal corticosteroids (e.g., triamcinolone)
+– Focal/grid laser photocoagulation
+– Vitrectomy in select cases
+• Neovascularization present:
+– Sector panretinal photocoagulation (PRP)
+– Anti-VEGF therapy
+
+Follow-up:
+• Initial follow-up every 1–2 months
+• Extend to 3–12 months once stable
+
 
 CRVO
 8 of 51
