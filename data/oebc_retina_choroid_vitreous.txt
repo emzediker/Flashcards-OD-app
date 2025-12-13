@@ -1,42 +1,207 @@
-Retina – Diabetic Retinopathy
-8 flashcards
+Diabetic Retinopathy
+1 of 52
+Leading cause of blindness in US adults age 20–64 - Risk factors include duration of diabetes (most important), poor glycemic control, and large glucose fluctuations
 
-Leading cause of blindness in adults aged 20–64 in the United States?
-1 of 8
+Mild Nonproliferative Diabetic Retinopathy
+2 of 52
+Microaneurysms only - Earliest stage of diabetic retinopathy
 
-Diabetic retinopathy; strongest risk factor is duration of diabetes, followed by poor glycemic control.
+Moderate Nonproliferative Diabetic Retinopathy
+3 of 52
+More than microaneurysms but less than severe NPDR - Intermediate stage without 4-2-1 findings
 
-What defines mild nonproliferative diabetic retinopathy (NPDR)?
-2 of 8
+Severe Nonproliferative Diabetic Retinopathy
+4 of 52
+4-2-1 rule - ≥4 quadrants of hemorrhages, ≥2 quadrants of venous beading, or ≥1 quadrant of IRMA
 
-Presence of microaneurysms only.
+Proliferative Diabetic Retinopathy
+5 of 52
+Neovascularization present - May include NVD or NVE
 
-What defines moderate NPDR?
-3 of 8
+High-Risk Proliferative Diabetic Retinopathy
+6 of 52
+NVD >¼ disc diameter or any NVD/NVE with vitreous or preretinal hemorrhage - Requires prompt treatment
 
-More than mild NPDR but less than severe NPDR; does not meet 4-2-1 rule.
+Clinically Significant Macular Edema
+7 of 52
+Retinal thickening within 500 µm of fovea or hard exudates with adjacent thickening - Vision-threatening DME
 
-What is the 4-2-1 rule for severe NPDR?
-4 of 8
+Diabetic Retinopathy Treatment
+8 of 52
+Depends on stage - Anti-VEGF for DME and PDR, PRP for high-risk PDR
 
-4 quadrants of hemorrhages/microaneurysms, 2 quadrants of venous beading, or 1 quadrant of IRMA.
+Diabetic Retinopathy Follow-Up
+9 of 52
+Ranges from annual to monthly - Frequency increases with disease severity
 
-What defines proliferative diabetic retinopathy (PDR)?
-5 of 8
+Gestational Diabetes Retinopathy
+10 of 52
+Same findings as diabetic retinopathy - Followed more frequently during pregnancy
 
-Presence of neovascularization (NVD and/or NVE).
+Hypertensive Retinopathy
+11 of 52
+Retinal vascular changes from hypertension - Classified using Keith-Wagener-Barker system
 
-What findings define high-risk PDR?
-6 of 8
+Keith-Wagener-Barker Group 1
+12 of 52
+Generalized arteriolar narrowing - Mild hypertension
 
-Greater than one-quarter disc diameter of NVD, or NVD/NVE with vitreous or preretinal hemorrhage.
+Keith-Wagener-Barker Group 2
+13 of 52
+AV nicking - Chronic hypertension
 
-What defines clinically significant macular edema (CSME)?
-7 of 8
+Keith-Wagener-Barker Group 3
+14 of 52
+Flame hemorrhages, cotton wool spots, hard exudates - End-organ damage
 
-Retinal thickening within 500 microns of the fovea, or thickening greater than one disc diameter within one disc diameter of the fovea, or exudates within 500 microns of the fovea with thickening.
+Keith-Wagener-Barker Group 4
+15 of 52
+Optic disc edema - Malignant hypertension
 
-First-line treatment for diabetic macular edema?
-8 of 8
+Presumed Ocular Histoplasmosis Syndrome
+16 of 52
+Fungal infection associated with bird or bat droppings - Diagnosed with 2 of the triad findings
 
-Intravitreal anti-VEGF therapy; steroids may be used if poor response.
+Valsalva Retinopathy
+17 of 52
+Pre-retinal or ILM hemorrhage after sudden Valsalva maneuver - Usually self-resolving
+
+Branch Retinal Vein Occlusion
+18 of 52
+Most common retinal vein occlusion - Often superotemporal
+
+Central Retinal Vein Occlusion
+19 of 52
+Dilated tortuous veins and diffuse hemorrhages - Risk of neovascular glaucoma
+
+Branch Retinal Artery Occlusion
+20 of 52
+Sectoral retinal ischemia - Requires systemic and neurologic workup
+
+Central Retinal Artery Occlusion
+21 of 52
+Ophthalmic emergency - Refer immediately to stroke center
+
+Central Serous Chorioretinopathy
+22 of 52
+Serous macular detachment in type A individuals - Associated with steroids and pregnancy
+
+Ocular Ischemic Syndrome
+23 of 52
+Severe carotid artery disease causing ocular hypoperfusion - Associated with mid-peripheral hemorrhages
+
+Retinopathy of Prematurity
+24 of 52
+Peripheral retinal ischemia from excess oxygen exposure - Seen in premature infants
+
+Radiation Retinopathy
+25 of 52
+Delayed retinal ischemia after radiation exposure - Resembles diabetic retinopathy
+
+Coats Disease
+26 of 52
+Unilateral retinal telangiectasia in young males - Can lead to exudative retinal detachment
+
+Sickle Cell Retinopathy
+27 of 52
+Retinal ischemia from sickled erythrocytes - Sea fan neovascularization is characteristic
+
+Retinal Arterial Macroaneurysm
+28 of 52
+Focal dilation of retinal artery in elderly hypertensive women - May cause multilayer hemorrhage
+
+Racemose Hemangioma
+29 of 52
+Congenital AV malformation of retina and brain - Associated with Wyburn-Mason syndrome
+
+X-Linked Retinoschisis
+30 of 52
+Congenital splitting of retinal layers - Stellate foveal pattern on OCT
+
+Acquired Retinoschisis
+31 of 52
+Peripheral retinal splitting in older adults - Usually asymptomatic
+
+Pathologic Myopia
+32 of 52
+High myopia with degenerative fundus changes - Risk of retinal tears and CNVM
+
+Angioid Streaks
+33 of 52
+Breaks in Bruch membrane associated with PXE - Risk of choroidal rupture
+
+Retinitis Pigmentosa
+34 of 52
+Inherited rod-cone dystrophy - Presents with nyctalopia and tunnel vision
+
+Stargardt Disease
+35 of 52
+Autosomal recessive macular dystrophy - Beaten bronze appearance and silent choroid
+
+Best Disease
+36 of 52
+Autosomal dominant vitelliform dystrophy - Abnormal EOG is diagnostic
+
+Familial Exudative Vitreoretinopathy
+37 of 52
+ROP-like disease in full-term infants - Peripheral avascular retina
+
+Leber Congenital Amaurosis
+38 of 52
+Severe congenital retinal dystrophy - Most common cause of childhood blindness
+
+Acute Retinal Necrosis
+39 of 52
+Herpetic necrotizing retinitis - Requires immediate antiviral therapy
+
+Toxoplasmosis
+40 of 52
+Protozoal retinitis with headlight-in-the-fog appearance - Treat active lesions only
+
+Primary Intraocular Lymphoma
+41 of 52
+Masquerade syndrome often from CNS lymphoma - Poor prognosis
+
+Posterior Scleritis
+42 of 52
+Painful inflammatory condition of posterior sclera - T-sign on B-scan
+
+Retinoblastoma
+43 of 52
+Most common intraocular malignancy in children - Leukocoria is classic sign
+
+Congenital Hypertrophy of the RPE
+44 of 52
+Flat pigmented lesion present at birth - Bear tracks are benign
+
+Macular Telangiectasia
+45 of 52
+Idiopathic perifoveal capillary dilation - Type 2 most common
+
+Macular Hole
+46 of 52
+Full-thickness defect of the macula - Treated with vitrectomy if symptomatic
+
+Cystoid Macular Edema
+47 of 52
+Intraretinal cystic spaces from vascular leakage - Treat underlying cause
+
+Dry Age-Related Macular Degeneration
+48 of 52
+Drusen and RPE atrophy - AREDS indicated for intermediate disease
+
+Wet Age-Related Macular Degeneration
+49 of 52
+Choroidal neovascular membrane present - Treat with anti-VEGF urgently
+
+Epiretinal Membrane
+50 of 52
+Fibrocellular membrane on inner retina - Surgery if vision significantly reduced
+
+Choroidal Melanoma
+51 of 52
+Most common primary intraocular malignancy in adults - Monitor or refer based on risk factors
+
+Birdshot Chorioretinopathy
+52 of 52
+HLA-A29 associated posterior uveitis - Requires long-term immunosuppression
