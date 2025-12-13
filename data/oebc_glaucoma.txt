@@ -1,1 +1,168 @@
+Primary Open Angle Glaucoma
+1 of 18
+Definition: Most common form of glaucoma.
+Symptoms: Asymptomatic until late.
+Visual Field: First defect is inferior nasal paracentral defect; other defects include arcuate scotoma, nasal step, and cecocentral defects; VF defects respect the horizontal meridian.
+Optic Nerve / RNFL: Notching, increased C/D ratio, ISNT rule violation, RNFL thinning, Drance hemorrhages.
+Other Signs: IOP >21 mmHg, nasalization of vessels, bayonetting, saucering.
+Treatment: IOP lowering with SLT or ALT, topical medications (prostaglandins and ABCs), MIGS; filtering bleb if advanced.
+Follow Up: Every 3–6 months depending on stability.
 
+Normal Tension Glaucoma
+2 of 18
+Definition: Glaucoma with IOP consistently <21 mmHg.
+Key Sign: Drance hemorrhages are more common than in POAG and suggest progression.
+Treatment Goal: Reduce IOP approximately 30% from baseline.
+Follow Up: Every 3–6 months.
+
+Pseudoexfoliation Syndrome
+3 of 18
+Definition: Most common cause of secondary open-angle glaucoma.
+Epidemiology: ~60% develop pseudoexfoliative glaucoma; more common in northern latitudes and Scandinavian descent.
+Symptoms: Asymptomatic.
+Signs: Exfoliative material on anterior lens capsule (best seen after dilation), pupillary ruff atrophy, central transillumination defects, weak zonules.
+Treatment: Topical hypotensives and SLT.
+Follow Up: Every 3 months due to rapid progression risk.
+
+Pigment Dispersion Syndrome / Pigmentary Glaucoma
+4 of 18
+Definition: Pigment release from posterior iris causing trabecular blockage.
+Risk Factors: Young myopic males with posteriorly bowed iris.
+Symptoms: Often asymptomatic; transient blurry vision after exercise.
+Signs: Krukenberg spindle, mid-peripheral transillumination defects, heavily pigmented trabecular meshwork, Sampolesi line, fluctuating IOP.
+Treatment: Treat glaucoma; SLT often very effective; consider LPI to flatten iris.
+Follow Up: Annually if no glaucoma; every 3–6 months if glaucoma present.
+
+Steroid-Induced Glaucoma
+5 of 18
+Definition: POAG-like glaucoma caused by steroid response.
+Onset: In-eye (hours–days), on-eye (weeks), periocular (months), systemic (months).
+Treatment: Taper or discontinue steroid if possible; add hypotensive therapy.
+Follow Up: Weekly IOP monitoring.
+
+Uveitis–Glaucoma–Hyphema Syndrome
+6 of 18
+Cause: Mechanical irritation from malpositioned PCIOL.
+Symptoms: Pain, photophobia, decreased vision.
+Signs: Triad of uveitis, elevated IOP, and hyphema.
+Treatment: Atropine, topical steroids, topical beta blocker, systemic CAI; surgical IOL repositioning.
+Follow Up: Daily until stable.
+
+Infantile Glaucoma
+7 of 18
+Epidemiology: Bilateral in ~70%.
+Symptoms: Photophobia, tearing, irritability.
+Signs: Buphthalmos, Haab striae, corneal edema.
+Treatment: Surgical IOP reduction.
+Prognosis: C/D ratio may normalize if treated early.
+Follow Up: Per surgeon, typically ~1 month initially.
+
+Inflammatory Glaucoma
+8 of 18
+Mechanism: Acute trabeculitis or chronic inflammatory damage to trabecular meshwork.
+Symptoms: Uveitis symptoms.
+Signs: Anterior chamber inflammation with elevated IOP.
+Treatment: Topical steroids, cycloplegics, and IOP-lowering agents.
+Follow Up: 1–7 days.
+
+Lens-Induced Glaucoma
+9 of 18
+Cause: Hypermature cataract causing secondary angle closure or inflammation.
+Symptoms: Similar to acute angle closure.
+Treatment: Control inflammation and IOP, then cataract extraction.
+Follow Up: Urgent referral.
+
+Angle Recession Glaucoma
+10 of 18
+Cause: Blunt ocular trauma.
+Timing: Develops months to years after injury.
+Symptoms: Asymptomatic.
+Signs: Widened ciliary body band on gonioscopy, elevated IOP.
+Treatment: Topical hypotensives; SLT/ALT ineffective.
+Follow Up: Annually if stable; every 3–6 months if glaucoma present.
+
+Posner–Schlossman Syndrome
+11 of 18
+Mechanism: Recurrent trabeculitis.
+Symptoms: Pain, blurry vision, halos, headache, nausea.
+Signs: Mild anterior uveitis with very high IOP and open angles.
+Treatment: Topical steroids and hypotensives; paracentesis if severe.
+Follow Up: Daily during acute episode.
+
+Primary Angle Closure Glaucoma (Acute)
+12 of 18
+Cause: Pupillary block leading to sudden angle closure.
+Symptoms: Severe eye pain, halos, blurred vision, nausea, vomiting.
+Signs: Very high IOP, corneal edema, shallow anterior chamber.
+Treatment: Immediate ophthalmology referral; ABCs and oral acetazolamide; LPI definitive.
+Follow Up: Next day, then manage narrow angles.
+
+Primary Angle Closure Glaucoma (Chronic)
+13 of 18
+Mechanism: Repeated subclinical angle-closure episodes.
+Symptoms: Often asymptomatic initially.
+Signs: Broad PAS, narrow angles, glaucomatous optic neuropathy.
+Treatment: LPI plus hypotensive therapy.
+Follow Up: Weekly initially, then monthly.
+
+Iridocorneal Endothelial Syndrome
+14 of 18
+Pathophysiology: Abnormal corneal endothelium migrates over angle causing secondary angle closure.
+Epidemiology: More common in women.
+Signs: Beaten bronze endothelium, iris distortion, corectopia.
+Variants: Essential iris atrophy, Chandler syndrome, Cogan–Reese syndrome.
+Treatment: IOP lowering (often surgical), hypertonic saline, possible corneal transplant.
+Follow Up: 1 month if glaucoma; 6 months if stable.
+
+Neovascular Glaucoma
+15 of 18
+Associations: Proliferative diabetic retinopathy, CRVO (“90-day glaucoma”).
+Symptoms: Pain, vision loss.
+Signs: Rubeosis iridis, neovascularization of angle, high IOP.
+Treatment: IOP control plus PRP; cryotherapy if poor view.
+Follow Up: 1–2 days.
+
+Plateau Iris Configuration
+16 of 18
+Definition: Anteriorly positioned ciliary body causing narrow angles.
+Key Point: LPI does not relieve angle closure.
+Treatment: Argon iridoplasty or gonioplasty.
+Follow Up: Based on angle status.
+
+Aqueous Misdirection (Malignant Glaucoma)
+17 of 18
+Presentation: High IOP with shallow or flat anterior chamber.
+Treatment: Atropine and aggressive IOP lowering.
+Follow Up: Next day.
+
+Blebitis
+18 of 18
+Definition: Infection or inflammation of a filtering bleb.
+Symptoms: Painful red eye, blurry vision, photophobia.
+Signs: White inflamed bleb, anterior chamber reaction, possible hypopyon or vitritis.
+Treatment: Topical antibiotics q1h; add steroids the following day.
+Follow Up: Daily.
+
+Clinical Pearl
+Clinical Pearl
+19 of 18
+Clinical Pearls:
+Primary open-angle glaucoma is typically asymptomatic until late stages, and glaucomatous visual field defects respect the horizontal meridian.
+
+Drance hemorrhages are a key indicator of active glaucoma progression and are especially associated with normal tension glaucoma, where intraocular pressure remains below 21 mmHg.
+
+Pseudoexfoliation syndrome is the most common cause of secondary open-angle glaucoma and can progress rapidly, requiring closer follow-up.
+
+Pigment dispersion syndrome classically affects young myopic males and may present with exercise-induced blurry vision; selective laser trabeculoplasty is often highly effective.
+
+Steroid-induced glaucoma can occur via any route of administration and may develop rapidly with topical ocular use.
+
+Angle recession glaucoma may present months to years after blunt ocular trauma and does not respond well to laser trabeculoplasty.
+
+Neovascular glaucoma is most commonly associated with proliferative diabetic retinopathy and central retinal vein occlusion and requires treatment of both intraocular pressure and retinal ischemia.
+
+Plateau iris configuration remains at risk for angle closure despite a patent iridotomy.
+
+Infantile glaucoma presents with photophobia, tearing, and buphthalmos and is primarily managed surgically.
+
+Blebitis presents as a painful red eye with a white inflamed filtering bleb and requires urgent antibiotic therapy.
