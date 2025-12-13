@@ -6,29 +6,25 @@
 <title>Part 2 Flashcards</title>
 
 <style>
-  body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
-  .wrap{max-width:980px;margin:auto;}
-  h1{font-size:22px;margin:0 0 12px;}
-  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
-  select,input[type=search],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff}
-  .card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;position:relative}
-  .front{font-weight:600;font-size:18px}
-  .back{
-    display:none;
-    margin-top:12px;
-    white-space:pre-wrap;   /* ⭐ THIS IS THE KEY FIX */
-    line-height:1.4;
-    color:#333;
-  }
-  .fav{position:absolute;top:10px;right:10px;border:1px solid #ddd;border-radius:999px;padding:6px 10px;background:#fff;cursor:pointer}
-  .fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
-  .meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
-  .nav{display:flex;gap:8px;margin-top:10px}
-  .nav button{flex:1;font-weight:600}
-  .note{margin-top:8px;font-size:13px;color:#666}
-  .email-row{margin-bottom:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center;}
-  .email-row input{min-width:230px;}
-  .note-small{font-size:12px;color:#666;margin-left:6px;}
+body{font-family:system-ui,Arial,sans-serif;margin:0;padding:20px;background:#fff;color:#111;}
+.wrap{max-width:980px;margin:auto;}
+h1{font-size:22px;margin:0 0 12px;}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+select,input[type=search],button{padding:9px 10px;border:1px solid #ddd;border-radius:8px;background:#fff}
+.card{border:1px solid #ddd;border-radius:12px;padding:20px;min-height:180px;background:#fff;position:relative}
+.front{font-weight:600}
+.back{display:none;margin-top:12px}
+.ans{white-space:pre-line;font-size:0.96rem;line-height:1.4}
+.card img{max-width:100%;height:auto;border-radius:8px;margin-top:10px}
+.fav{position:absolute;top:10px;right:10px;border:1px solid #ddd;border-radius:999px;padding:6px 10px;background:#fff;cursor:pointer}
+.fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
+.meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
+.nav{display:flex;gap:8px;margin-top:10px}
+.nav button{flex:1;font-weight:600}
+.note{margin-top:8px;font-size:13px;color:#666}
+.email-row{margin-bottom:10px;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.email-row input{min-width:230px}
+.note-small{font-size:12px;color:#666;margin-left:6px}
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -36,136 +32,144 @@
 
 <body>
 <div class="wrap">
-  <h1>Part 2 Flashcards</h1>
+<h1>Part 2 Flashcards</h1>
 
-  <div class="email-row">
-    <label>Email for cloud sync:
-      <input id="emailInput" type="email" placeholder="name@example.com">
-    </label>
-    <button id="saveEmail">Save</button>
-    <span id="emailStatus" class="note-small"></span>
-  </div>
+<div class="email-row">
+<label>Email for cloud sync:
+<input id="emailInput" type="email" placeholder="name@example.com">
+</label>
+<button id="saveEmail">Save</button>
+<span id="emailStatus" class="note-small"></span>
+</div>
 
-  <div class="bar">
-    <label>Deck:
-      <select id="deck"></select>
-    </label>
-    <label>Show:
-      <select id="show">
-        <option value="all">All</option>
-        <option value="fav">Favorites</option>
-      </select>
-    </label>
-    <label>Search:
-      <input id="q" type="search" placeholder="Find text...">
-    </label>
-  </div>
+<div class="bar">
+<label>Deck:
+<select id="deck"></select>
+</label>
+<label>Show:
+<select id="show">
+<option value="all">All</option>
+<option value="fav">Favorites</option>
+</select>
+</label>
+<label>Search:
+<input id="q" type="search" placeholder="Find text...">
+</label>
+</div>
 
-  <div class="card">
-    <div class="front" id="front"></div>
-    <div class="back" id="back"></div>
-    <button id="fav" class="fav" aria-pressed="false">★</button>
-  </div>
+<div class="card">
+<div class="front" id="front"></div>
+<div class="back" id="back"></div>
+<button id="fav" class="fav" aria-pressed="false">★</button>
+</div>
 
-  <div class="meta">
-    <div id="counter">0 / 0</div>
-    <div id="status"></div>
-  </div>
+<div class="meta">
+<div id="counter">0 / 0</div>
+<div id="status"></div>
+</div>
 
-  <div class="nav">
-    <button id="prev">◀ Prev</button>
-    <button id="reveal">Reveal Answer</button>
-    <button id="next">Next ▶</button>
-  </div>
+<div class="nav">
+<button id="prev">◀ Prev</button>
+<button id="reveal">Reveal Answer</button>
+<button id="next">Next ▶</button>
+</div>
 
-  <div class="note">
-    Tip: ←/→ move • R reveal • S star  
-    Favorites save locally and to cloud when email is set.
-  </div>
-  <div class="note" id="cloudStatus"></div>
+<div class="note">←/→ move · R reveal · S star</div>
+<div class="note" id="cloudStatus"></div>
 </div>
 
 <script>
-/* ===================== SUPABASE ===================== */
-const SUPABASE_URL = "https://ikcowmdwccncnhnuchos.supabase.co";
-const SUPABASE_KEY = "YOUR_KEY_HERE";
-const supabaseClient = window.supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+/* ---------------- SUPABASE ---------------- */
+const SUPABASE_URL="https://ikcowmdwccncnhnuchos.supabase.co";
+const SUPABASE_KEY="YOUR_PUBLIC_ANON_KEY";
+const supabase=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
 
-/* ===================== DECKS ===================== */
-const DECKS = [
-  { id:'oebc_retina_choroid_vitreous', title:'Retina, Choroid, Vitreous', dataUrl:'data/oebc_retina_choroid_vitreous.txt' }
+/* ---------------- DECKS ---------------- */
+const DECKS=[
+{ id:'oebc_retina_choroid_vitreous', title:'Retina, Choroid, Vitreous', dataUrl:'data/oebc_retina_choroid_vitreous.txt' }
 ];
 
-/* ===================== PARSER ===================== */
-function parseTxt(txt, deckId){
-  const lines = txt.replace(/\r/g,'').split('\n').map(l=>l.trim());
-  const anchors = lines.map((l,i)=>/^\d+\s+of\s+\d+$/i.test(l)?i:-1).filter(i=>i>=0);
-  const cards=[];
+/* ---------------- HELPERS ---------------- */
+const escapeHtml=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const clean=s=>s?s.replace(/\u00A0/g,' ').trim():'';
 
-  for(let i=0;i<anchors.length;i++){
-    const a=anchors[i];
-    const end = anchors[i+1] ?? lines.length;
+/* ---------------- PARSER (PLACARD MODE) ---------------- */
+function parseTxt(txt,deckId){
+const lines=txt.replace(/\r/g,'').split('\n').map(clean);
+const anchors=[];
+for(let i=0;i<lines.length;i++) if(/^\d+\s+of\s+\d+$/i.test(lines[i])) anchors.push(i);
 
-    let f=a-1;
-    while(f>=0 && !lines[f]) f--;
-    const front=lines[f]||'';
+const cards=[];
+for(let a=0;a<anchors.length;a++){
+const at=anchors[a];
+const end=a+1<anchors.length?anchors[a+1]:lines.length;
 
-    let k=a+1;
-    const back=[];
-    while(k<end && lines[k]){
-      back.push(lines[k]);
-      k++;
-    }
+let j=at-1;
+while(j>=0&&!lines[j]) j--;
+const front=escapeHtml(lines[j]||'');
 
-    cards.push({
-      id:`${deckId}-${i+1}`,
-      front,
-      back:back.join('\n')
-    });
-  }
-  return cards;
+let k=at+1;
+const back=[];
+while(k<end){
+if(lines[k]) back.push(lines[k]);
+k++;
 }
 
-/* ===================== UI ===================== */
+cards.push({
+id:`${deckId}-${cards.length+1}`,
+front,
+backAns:escapeHtml(back.join('\n'))
+});
+}
+return cards;
+}
+
+/* ---------------- STATE ---------------- */
 const els={
-  deck:deck,
-  front:front,
-  back:back,
-  fav:fav,
-  counter:counter,
-  status:status,
-  reveal:reveal,
-  prev:prev,
-  next:next
+deck:deck,q:q,show:show,front:front,back:back,fav:fav,
+counter:counter,status:status,prev:prev,next:next,reveal:reveal
 };
+let CARDS=[],VIEW=[],IDX=0,SHOW=false,CURRENT=null,FAVS=new Set();
 
-let CARDS=[],idx=0,show=false;
-
+/* ---------------- RENDER ---------------- */
 function render(){
-  const c=CARDS[idx];
-  els.front.textContent=c.front;
-  els.back.textContent=c.back;
-  els.back.style.display=show?'block':'none';
-  els.counter.textContent=`${idx+1} / ${CARDS.length}`;
+if(!VIEW.length){els.front.textContent='No cards';els.back.style.display='none';return;}
+const c=VIEW[IDX];
+els.front.innerHTML=c.front;
+els.back.innerHTML=`<div class="ans">${c.backAns}</div>`;
+els.back.style.display=SHOW?'block':'none';
+els.counter.textContent=`${IDX+1} / ${VIEW.length}`;
+els.reveal.textContent=SHOW?'Hide Answer':'Reveal Answer';
 }
 
+/* ---------------- LOAD DECK ---------------- */
 async function loadDeck(id){
-  const d=DECKS.find(x=>x.id===id);
-  const t=await fetch(d.dataUrl).then(r=>r.text());
-  CARDS=parseTxt(t,id);
-  idx=0;show=false;render();
+CURRENT=DECKS.find(d=>d.id===id);
+const txt=await fetch(CURRENT.dataUrl).then(r=>r.text());
+CARDS=parseTxt(txt,CURRENT.id);
+VIEW=[...CARDS];
+IDX=0;SHOW=false;
+render();
 }
 
-reveal.onclick=()=>{show=!show;render();}
-next.onclick=()=>{idx=(idx+1)%CARDS.length;show=false;render();}
-prev.onclick=()=>{idx=(idx-1+CARDS.length)%CARDS.length;show=false;render();}
-
+/* ---------------- INIT ---------------- */
 DECKS.forEach(d=>{
-  const o=document.createElement('option');
-  o.value=d.id;o.textContent=d.title;
-  deck.appendChild(o);
+const o=document.createElement('option');
+o.value=d.id;o.textContent=d.title;
+els.deck.appendChild(o);
 });
 loadDeck(DECKS[0].id);
+
+els.deck.onchange=()=>loadDeck(els.deck.value);
+els.prev.onclick=()=>{IDX=(IDX-1+VIEW.length)%VIEW.length;SHOW=false;render();}
+els.next.onclick=()=>{IDX=(IDX+1)%VIEW.length;SHOW=false;render();}
+els.reveal.onclick=()=>{SHOW=!SHOW;render();}
+
+document.addEventListener('keydown',e=>{
+if(e.key==='ArrowRight') els.next.click();
+if(e.key==='ArrowLeft') els.prev.click();
+if(e.key.toLowerCase()==='r') els.reveal.click();
+});
 </script>
 </body>
 </html>
