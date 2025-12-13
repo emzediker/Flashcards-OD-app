@@ -1,1 +1,98 @@
 
+Rigid Gas Permeable (RGP) Fitting Basics
+1 of 9
+Initial Base Curve Selection: Average K reading minus 0.75 D.
+Optic Zone: Central optical portion of the RGP lens.
+Overall Diameter: Total diameter of the lens.
+Base Curve (BC): Curvature of the optic zone.
+Secondary/Tertiary Curves: Peripheral curves forming the lens edge.
+Clinical Pearl: Initial RGP fitting is based on corneal curvature, not refractive error.
+
+RGP Fluorescein Patterns
+2 of 9
+Steep Fit: Excessive central fluorescein pooling.
+Flat Fit: Central corneal touch with peripheral pooling.
+Astigmatic Cornea: Fluorescein pools along the steep meridian.
+Clinical Pearl: Excess central fluorescein indicates a steep lens; central touch indicates a flat lens.
+
+RGP Lens Types
+3 of 9
+Front Surface Toric: Astigmatism on the front surface; rarely used in corneal RGPs, common in sclerals.
+Back Surface Toric: Astigmatism on the posterior surface of the lens.
+Bitoric Lens: Astigmatism present on both front and back surfaces.
+Clinical Pearl: Bitoric lenses are indicated for high corneal astigmatism with residual astigmatism.
+
+FDA Soft Contact Lens Groups
+4 of 9
+Group 1: Low water, non-ionic.
+Group 2: High water, non-ionic.
+Group 3: Low water, ionic.
+Group 4: High water, ionic.
+Group 5: Silicone hydrogels.
+Clinical Pearl: Water content is the most important factor for deposit formation; Group 1 lenses deposit the least.
+
+Giant Papillary Conjunctivitis (GPC)
+5 of 9
+Etiology: Contact lens overwear and allergic response to protein deposits.
+Symptoms: Itching, irritation, excessive lens movement.
+Signs: Ropy mucus and giant papillae on the superior tarsal conjunctiva.
+Management: Change lens brand, reduce wear time, switch to daily disposables.
+Severe Cases: Discontinue lens wear for 1–4 months; consider mast cell stabilizer.
+Clinical Pearl: GPC is both mechanical and immunologic in origin.
+
+Contact Lens–Induced Neovascularization
+6 of 9
+Etiology: Tight lens fit and chronic overwear causing corneal hypoxia.
+Clinical Significance: Greater than 2 mm of neovascularization is significant.
+Treatment: Discontinue lens wear; topical steroid to induce regression.
+Severe Cases: Refer for argon laser therapy.
+Refit Strategy: Higher Dk/t lens and patient education on proper wear time.
+Clinical Pearl: Hypoxia is the primary driver of corneal neovascularization.
+
+Tight Lens Syndrome
+7 of 9
+Signs: Conjunctival indentation, SPK, corneal edema, anterior chamber cells and flare.
+Management: Discontinue contact lens wear.
+Medical Treatment: Topical steroid for edema or inflammation; cycloplegic if AC reaction present.
+Long-Term: Refit with a looser lens after resolution.
+Clinical Pearl: Tight lenses reduce tear exchange and increase hypoxic stress.
+
+Contact Lens Solution Hypersensitivity
+8 of 9
+Etiology: Toxic or allergic reaction to contact lens solution preservatives.
+Management: Switch to a peroxide-based cleaning system.
+Adjunctive Care: Prophylactic topical antibiotic if epithelial compromise is present.
+Clinical Pearl: Always rule out solution toxicity before changing lens 
+
+Corneal Findings from Contact Lens Wear
+9 of 9
+Jelly Bumps: Focal protein or debris trapped beneath the contact lens.
+Mucin Balls: Goblet cell stimulation causes mucin spheres that dislodge after lens removal, leaving fluorescein pooling.
+Microcysts: Caused by chronic corneal hypoxia; managed by reducing wear time or increasing Dk/t.
+Dimple Veiling: Gas bubbles beneath a tight RGP lens.
+Protein Deposits: Result of overwear; discard lens and reinforce hygiene.
+Clinical Pearl: Most contact lens–related corneal findings are due to hypoxia or poor tear Rigid Gas Permeable (RGP) Clinical Pearls
+
+
+Rigid Gas Permeable (RGP) Clinical Pearls
+1 of 2
+Clinical Pearls:
+• Initial RGP base curve selection is based on corneal curvature (average K − 0.75 D), not refractive error.
+• Excessive central fluorescein pooling indicates a steep RGP fit; central corneal touch indicates a flat fit.
+• Fluorescein pooling along the steep meridian suggests corneal astigmatism.
+• Tight RGP lenses reduce tear exchange and cause hypoxia.
+• Dimple veiling results from gas bubbles trapped beneath a tight RGP lens.
+• Corneal neovascularization >2 mm is clinically significant and is primarily due to hypoxia from tight fit or overwear.
+• Microcysts indicate chronic hypoxia and improve with reduced wear time or higher Dk/t materials.
+
+
+Soft Contact Lens Clinical Pearls
+2 of 2
+Clinical Pearls:
+• Water content is the most important determinant of soft contact lens deposit formation.
+• Group 1 (low water, non-ionic) lenses deposit the least.
+• Giant Papillary Conjunctivitis (GPC) is commonly due to overwear and protein deposition.
+• Symptoms of GPC include itching and excessive lens movement.
+• Contact lens solution hypersensitivity should be suspected before changing lens material.
+• Peroxide-based systems reduce preservative toxicity.
+• Most soft lens complications are related to hypoxia or poor hygiene rather than material failure.
