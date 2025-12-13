@@ -1,191 +1,288 @@
-Diabetic Retinopathy
-1 of 48
-Microvascular complication of diabetes causing retinal ischemia and leakage - Leading cause of blindness in US adults aged 20–64
+Serpiginous Choroidopathy
+1 of 20
+Definition: Idiopathic, chronic, recurrent inflammatory disease of the choroid and retinal pigment epithelium characterized by progressive geographic lesions.
 
-Diabetic Retinopathy – Risk Factors & Pathophysiology
-2 of 48
-Duration of diabetes is most important risk factor - Pericyte loss and basement membrane thickening lead to microaneurysms and capillary nonperfusion
+Epidemiology: Typically affects middle-aged adults, more commonly males (50–60 years). Associated with HLA-B7. Tuberculosis must be ruled out due to similar presentation.
 
-Mild Nonproliferative Diabetic Retinopathy
-3 of 48
-Microaneurysms only - Earliest clinical stage of diabetic retinopathy
+Pathophysiology: Inflammatory choroiditis beginning near the optic nerve head with centrifugal spread toward the macula, resulting in chorioretinal atrophy and scarring.
 
-Moderate Nonproliferative Diabetic Retinopathy
-4 of 48
-More than microaneurysms but less than severe NPDR - No 4-2-1 rule findings
+Symptoms: Blurred or decreased central vision, scotomas. May be unilateral or bilateral.
 
-Severe Nonproliferative Diabetic Retinopathy
-5 of 48
-4-2-1 rule - ≥4 quadrants of hemorrhages, ≥2 quadrants venous beading, or ≥1 quadrant IRMA
+Clinical Signs: Gray-white geographic lesions with active borders radiating from the optic disc. Older lesions show atrophy and pigmentary changes. CNVM occurs in approximately 25% of cases.
 
-Proliferative Diabetic Retinopathy
-6 of 48
-Neovascularization of disc or elsewhere - Risk of vitreous hemorrhage and tractional retinal detachment
+Treatment: Systemic or local corticosteroids initially. Immunomodulatory therapy for recurrent disease. CNVM treated with anti-VEGF therapy.
 
-High-Risk Proliferative Diabetic Retinopathy
-7 of 48
-NVD >¼ disc diameter or any NVD/NVE with hemorrhage - Requires prompt treatment
+Follow-up: Based on disease activity and severity.
 
-Clinically Significant Macular Edema
-8 of 48
-Retinal thickening within 500 µm of fovea or hard exudates with adjacent thickening - Vision-threatening diabetic macular edema
+Central Retinal Vein Occlusion (CRVO)
+2 of 20
+Definition: Retinal venous occlusive disease caused by thrombosis of the central retinal vein, leading to impaired venous drainage and retinal ischemia.
 
-Diabetic Retinopathy – Management & Follow-Up
-9 of 48
-Anti-VEGF for DME and PDR - PRP for high-risk PDR with follow-up based on severity
+Types: Non-ischemic (perfused) and ischemic (non-perfused).
+
+Risk Factors: Hypertension, diabetes mellitus, hyperlipidemia, glaucoma, hypercoagulable states, advanced age.
+
+Pathophysiology: Compression of the central retinal vein at the lamina cribrosa causes venous stasis, hemorrhage, macular edema, and capillary nonperfusion.
+
+Symptoms: Sudden, painless unilateral vision loss of variable severity.
+
+Clinical Signs: Diffuse retinal hemorrhages in all quadrants (“blood and thunder”), dilated tortuous veins, cotton wool spots, optic disc edema, macular edema.
+
+Complications: Neovascular glaucoma, vitreous hemorrhage, tractional retinal detachment.
+
+Management: Intravitreal anti-VEGF therapy for macular edema. Steroids may be used. Panretinal photocoagulation for neovascularization.
+
+Follow-up: Frequent monitoring, especially in ischemic CRVO.
+
+Central Retinal Artery Occlusion (CRAO)
+3 of 20
+Definition: Acute retinal arterial obstruction causing severe retinal ischemia and profound vision loss.
+
+Etiology: Embolic or thrombotic occlusion, commonly from carotid or cardiac sources. Giant cell arteritis must be ruled out in older patients.
+
+Risk Factors: Carotid artery disease, cardiovascular disease, atrial fibrillation, hypertension, diabetes mellitus.
+
+Pathophysiology: Sudden interruption of retinal arterial blood flow leading to inner retinal infarction.
+
+Symptoms: Sudden, painless, profound unilateral vision loss.
+
+Clinical Signs: Pale edematous retina, cherry-red spot at the fovea, attenuated retinal arteries, possible visible embolus.
+
+Management: Ocular emergency. Immediate systemic vascular evaluation. Ocular massage and IOP-lowering measures may be attempted but prognosis is poor.
+
+Follow-up: Urgent carotid and cardiac evaluation. High stroke risk.
+
+Branch Retinal Vein Occlusion (BRVO)
+4 of 20
+Definition: Occlusion of a branch retinal vein, typically at an arteriovenous crossing.
+
+Risk Factors: Hypertension, atherosclerosis, diabetes mellitus.
+
+Pathophysiology: Compression of the vein by a thickened artery leads to venous stasis and localized retinal ischemia.
+
+Symptoms: Sudden painless vision loss or visual field defect.
+
+Clinical Signs: Sectoral retinal hemorrhages, dilated veins, cotton wool spots, macular edema.
+
+Complications: Macular edema, retinal neovascularization.
+
+Management: Anti-VEGF therapy for macular edema. Laser photocoagulation for neovascularization.
+
+Follow-up: Based on ischemic status and macular involvement.
+
+Diabetic Retinopathy – Classification and Management
+6 of 20
+Definition: Microvascular retinal disease caused by chronic hyperglycemia resulting in retinal ischemia and increased vascular permeability.
+
+Pathophysiology: Pericyte loss, basement membrane thickening, microaneurysm formation, capillary nonperfusion.
+
+Classification:
+• Mild NPDR: Microaneurysms only.
+• Moderate NPDR: More than microaneurysms but less than severe NPDR.
+• Severe NPDR (4-2-1 rule): ≥4 quadrants hemorrhages, ≥2 quadrants venous beading, ≥1 quadrant IRMA.
+• Proliferative DR: Neovascularization of disc or elsewhere.
+
+Complications: Diabetic macular edema, vitreous hemorrhage, tractional retinal detachment, neovascular glaucoma.
+
+Management: Glycemic and blood pressure control. Anti-VEGF therapy. Panretinal photocoagulation for high-risk PDR.
+
+Follow-up: Based on severity and presence of macular edema.
 
 Hypertensive Retinopathy
-10 of 48
-Retinal vascular changes from systemic hypertension - Classified using Keith-Wagener-Barker system
+7 of 20
+Definition: Retinal vascular changes due to chronic or acute systemic hypertension.
 
-Keith-Wagener-Barker Grade 1
-11 of 48
-Generalized arteriolar narrowing - Mild hypertension
+Pathophysiology: Arteriolar narrowing, increased vascular permeability, ischemia.
 
-Keith-Wagener-Barker Grade 2
-12 of 48
-AV nicking and focal arteriolar narrowing - Chronic hypertension
+Clinical Signs:
+• Mild: Arteriolar narrowing, AV nicking.
+• Moderate: Hemorrhages, cotton wool spots, exudates.
+• Severe (malignant): Optic disc edema.
 
-Keith-Wagener-Barker Grade 3
-13 of 48
-Flame hemorrhages, cotton wool spots, and hard exudates - End-organ damage
+Management: Blood pressure control.
 
-Keith-Wagener-Barker Grade 4
-14 of 48
-Optic disc edema - Malignant hypertension
+Follow-up: Based on severity and systemic status.
 
-Central Retinal Vein Occlusion
-15 of 48
-Dilated tortuous veins with diffuse retinal hemorrhages (blood and thunder appearance) - Risk factors include hypertension, diabetes, hyperlipidemia, and glaucoma; complications include macular edema and neovascular glaucoma; manage with anti-VEGF and close monitoring
+Age-Related Macular Degeneration (AMD)
+8 of 20
+Definition: Degenerative macular disease affecting central vision in older adults.
 
-Branch Retinal Vein Occlusion
-16 of 48
-Sectoral retinal hemorrhages in a venous distribution - Often superotemporal; treat macular edema with anti-VEGF
+Types:
+• Dry (nonexudative): Drusen, geographic atrophy.
+• Wet (exudative): Choroidal neovascularization.
 
-Central Retinal Artery Occlusion
-17 of 48
-Acute retinal ischemia from arterial occlusion - Cherry red spot with retinal whitening; ophthalmic emergency requiring immediate stroke workup
+Symptoms: Central vision loss, metamorphopsia.
 
-Branch Retinal Artery Occlusion
-18 of 48
-Sectoral retinal ischemia - Requires systemic vascular evaluation
+Clinical Signs: Drusen, RPE changes, subretinal fluid or hemorrhage in wet AMD.
 
-Central Serous Chorioretinopathy
-19 of 48
-Serous detachment of neurosensory retina - Associated with corticosteroids, stress, and pregnancy; often self-resolving
+Management: AREDS supplementation for dry AMD. Anti-VEGF therapy for wet AMD.
 
-Ocular Ischemic Syndrome
-20 of 48
-Chronic ocular hypoperfusion from severe carotid artery disease - Mid-peripheral hemorrhages and anterior segment ischemia
+Follow-up: Regular monitoring with Amsler grid and retinal exams.
 
-Valsalva Retinopathy
-21 of 48
-Pre-retinal or ILM hemorrhage after sudden increase in intrathoracic pressure - Usually self-resolving
+Central Serous Chorioretinopathy (CSC)
+9 of 20
+Definition: Serous detachment of the neurosensory retina due to choroidal hyperpermeability.
 
-Retinopathy of Prematurity
-22 of 48
-Peripheral retinal ischemia in premature infants exposed to oxygen - Severity based on zone and stage
+Risk Factors: Type A personality, corticosteroid use, stress.
 
-Radiation Retinopathy
-23 of 48
-Delayed microvascular retinal damage after radiation therapy - Resembles diabetic retinopathy
+Symptoms: Blurred vision, metamorphopsia, central scotoma.
 
-Coats Disease
-24 of 48
-Idiopathic unilateral retinal telangiectasia in young males - Can lead to exudative retinal detachment
+Clinical Signs: Localized serous retinal detachment at the macula.
 
-Sickle Cell Retinopathy
-25 of 48
-Retinal ischemia from sickled erythrocytes - Sea-fan neovascularization is characteristic
+Management: Observation for acute cases. Laser or photodynamic therapy for chronic cases.
 
-Retinal Arterial Macroaneurysm
-26 of 48
-Focal dilation of retinal artery in elderly hypertensive women - Can cause multilayer retinal hemorrhage
+Follow-up: Monitor for recurrence.
 
-Racemose Hemangioma
-27 of 48
-Congenital arteriovenous malformation of retina and brain - Associated with Wyburn-Mason syndrome
+Choroidal Nevus and Melanoma
+10 of 20
+Definition: Pigmented choroidal lesions ranging from benign nevus to malignant melanoma.
 
-X-Linked Retinoschisis
-28 of 48
-Congenital splitting of retinal layers in males - Stellate foveal pattern on OCT
+Risk Factors for Melanoma: Thickness >2 mm, subretinal fluid, symptoms, orange pigment.
 
-Acquired Retinoschisis
-29 of 48
-Peripheral retinal splitting in older adults - Typically asymptomatic and nonprogressive
+Clinical Signs: Elevated pigmented lesion, possible subretinal fluid.
 
-Pathologic Myopia
-30 of 48
-High myopia with degenerative fundus changes - Increased risk of retinal tears and CNVM
+Management: Observation for nevus. Oncology referral for suspected melanoma.
 
-Angioid Streaks
-31 of 48
-Breaks in Bruch membrane - Associated with pseudoxanthoma elasticum and sickle cell disease
+Follow-up: Serial imaging and measurements.
 
-Retinitis Pigmentosa
-32 of 48
-Inherited rod-cone dystrophy - Presents with nyctalopia and peripheral vision loss
+Rhegmatogenous Retinal Detachment
+11 of 20
+Definition: Retinal detachment caused by a full-thickness retinal break allowing liquefied vitreous to enter the subretinal space.
 
-Stargardt Disease
-33 of 48
-Autosomal recessive macular dystrophy - Beaten bronze fundus and silent choroid
+Risk Factors: High myopia, lattice degeneration, posterior vitreous detachment, trauma, prior ocular surgery.
 
-Best Disease
-34 of 48
-Autosomal dominant vitelliform dystrophy - Abnormal EOG is diagnostic
+Pathophysiology: Retinal tear permits vitreous fluid to separate the neurosensory retina from the RPE.
 
-Familial Exudative Vitreoretinopathy
-35 of 48
-Inherited disorder with peripheral avascular retina - Mimics retinopathy of prematurity in full-term infants
+Symptoms: Flashes, floaters, curtain or shadow over vision.
 
-Leber Congenital Amaurosis
-36 of 48
-Severe congenital retinal dystrophy presenting in infancy - Common cause of childhood blindness
+Clinical Signs: Elevated, mobile retina with corrugations; retinal tear or hole present.
 
-Acute Retinal Necrosis
-37 of 48
-Herpetic necrotizing retinitis - Requires immediate systemic antiviral therapy
+Management: Urgent referral for surgical repair including pneumatic retinopexy, scleral buckle, or vitrectomy.
 
-Toxoplasmosis
-38 of 48
-Protozoal retinochoroiditis with headlight-in-the-fog appearance - Treat active lesions only
+Follow-up: Immediate and postoperative monitoring to prevent vision loss.
 
-Primary Intraocular Lymphoma
-39 of 48
-Masquerade syndrome often associated with CNS lymphoma - Poor prognosis
+Tractional Retinal Detachment
+12 of 20
+Definition: Retinal detachment caused by fibrovascular membranes exerting traction on the retina without a retinal break.
 
-Posterior Scleritis
-40 of 48
-Inflammation of posterior sclera causing pain and vision loss - T-sign on B-scan ultrasound
+Etiology: Proliferative diabetic retinopathy, retinopathy of prematurity, sickle cell retinopathy.
 
-Retinoblastoma
-41 of 48
-Most common intraocular malignancy in children - Leukocoria is classic presenting sign
+Pathophysiology: Fibrovascular proliferation contracts, pulling the retina off the RPE.
 
-Congenital Hypertrophy of the RPE
-42 of 48
-Flat pigmented retinal lesion present at birth - Bear tracks are benign
+Symptoms: Gradual vision loss.
 
-Macular Telangiectasia
-43 of 48
-Idiopathic perifoveal capillary dilation - Type 2 is most common
+Clinical Signs: Concave, immobile retinal elevation.
+
+Management: Vitrectomy when vision is threatened or macula involved.
+
+Follow-up: Depends on underlying systemic disease control.
+
+Exudative (Serous) Retinal Detachment
+13 of 20
+Definition: Retinal detachment caused by fluid accumulation beneath the retina without a retinal break or traction.
+
+Etiology: Inflammatory, neoplastic, or vascular disorders.
+
+Pathophysiology: Breakdown of the blood-retinal barrier allows fluid leakage.
+
+Clinical Signs: Smooth, bullous retinal elevation that shifts with position.
+
+Management: Treat underlying cause.
+
+Follow-up: Based on etiology and response to treatment.
+
+Posterior Vitreous Detachment (PVD)
+14 of 20
+Definition: Separation of the posterior vitreous cortex from the internal limiting membrane of the retina.
+
+Epidemiology: Common with aging and high myopia.
+
+Symptoms: Sudden onset floaters and flashes.
+
+Clinical Signs: Weiss ring; mobile vitreous opacities.
+
+Complications: Retinal tear or detachment.
+
+Management: Dilated fundus examination to rule out retinal breaks.
+
+Follow-up: Re-evaluation if symptoms worsen.
+
+Vitreous Hemorrhage
+15 of 20
+Definition: Blood within the vitreous cavity.
+
+Etiology: Diabetic retinopathy, retinal tear, trauma, retinal vein occlusion.
+
+Symptoms: Sudden floaters, haze, or vision loss.
+
+Clinical Signs: Reduced fundus view; red blood cells in vitreous.
+
+Management: Observation if mild; vitrectomy if persistent or vision-threatening.
+
+Follow-up: Based on cause and severity.
+
+Epiretinal Membrane (ERM)
+16 of 20
+Definition: Fibrocellular membrane on the inner retinal surface causing retinal distortion.
+
+Etiology: Idiopathic or secondary to retinal surgery or inflammation.
+
+Symptoms: Metamorphopsia, blurred central vision.
+
+Clinical Signs: Cellophane reflex; retinal wrinkling.
+
+Management: Observation or vitrectomy with membrane peel if symptomatic.
+
+Follow-up: Monitor visual function.
 
 Macular Hole
-44 of 48
-Full-thickness defect of the macula - Treated with vitrectomy if symptomatic
+17 of 20
+Definition: Full-thickness defect of the macula.
 
-Cystoid Macular Edema
-45 of 48
-Intraretinal cystic spaces from vascular leakage - Treat underlying cause
+Etiology: Vitreomacular traction, trauma.
 
-Dry Age-Related Macular Degeneration
-46 of 48
-Drusen and RPE atrophy - AREDS recommended for intermediate disease
+Symptoms: Central vision loss, metamorphopsia.
 
-Wet Age-Related Macular Degeneration
-47 of 48
-Choroidal neovascular membrane formation - Requires urgent anti-VEGF therapy
+Clinical Signs: Round foveal defect; positive Watzke-Allen test.
+
+Management: Vitrectomy with gas tamponade.
+
+Follow-up: Postoperative monitoring for closure.
+
+Choroidal Neovascular Membrane (CNVM)
+18 of 20
+Definition: Pathologic growth of new blood vessels from the choroid into the subretinal space.
+
+Etiology: AMD, high myopia, inflammatory diseases, trauma.
+
+Symptoms: Central vision loss, metamorphopsia.
+
+Clinical Signs: Subretinal hemorrhage, fluid, exudation.
+
+Management: Intravitreal anti-VEGF injections.
+
+Follow-up: Regular monitoring for recurrence.
+
+Choroidal Nevus
+19 of 20
+Definition: Benign pigmented lesion of the choroid.
+
+Clinical Signs: Flat or minimally elevated gray-brown lesion.
+
+Risk of Transformation: Low but increased with thickness, subretinal fluid, symptoms.
+
+Management: Observation with serial photography.
+
+Follow-up: Periodic monitoring.
 
 Choroidal Melanoma
-48 of 48
-Most common primary intraocular malignancy in adults - Management depends on size and risk factors
+20 of 20
+Definition: Malignant tumor of choroidal melanocytes.
+
+Risk Factors: Fair skin, light iris color.
+
+Clinical Signs: Elevated pigmented lesion with orange pigment, subretinal fluid.
+
+Management: Oncology referral; plaque radiotherapy or enucleation.
+
+Follow-up: Lifelong systemic surveillance for metastasis.
