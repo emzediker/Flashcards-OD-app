@@ -7,7 +7,6 @@ Treatment: Blepharoplasty.
 Follow-Up: 1 week post-op or annual monitoring.
 
 Ectropion
-Ectropion
 2 of 33
 Definition: Outward turning of the lower eyelid, most commonly involutional; can be paralytic or cicatricial.
 Symptoms: Epiphora, irritation, exposure symptoms, may be asymptomatic.
@@ -15,7 +14,6 @@ Signs: Lid margin not apposed to globe; exposure keratopathy possible.
 Treatment: Lubrication, lid taping at night, surgical repair if involutional.
 Follow-Up: 1 month.
 
-Entropion
 Entropion
 3 of 33
 Definition: Inward turning of the eyelid, most commonly involutional; can be cicatricial or spastic.
@@ -25,7 +23,6 @@ Treatment: Lubrication, antibiotic ointment if cornea involved; surgical correct
 Follow-Up: 2–3 days if corneal involvement; otherwise PRN.
 
 Trichiasis
-Trichiasis
 4 of 33
 Definition: Misdirected eyelashes that contact the ocular surface.
 Symptoms: Irritation, foreign body sensation, tearing.
@@ -33,7 +30,6 @@ Signs: Misdirected lashes with SPK, corneal abrasion, or scarring.
 Treatment: Epilation; definitive treatment with electrolysis, cryotherapy, or cautery.
 Follow-Up: 1 week if corneal involvement; otherwise PRN.
 
-Blepharospasm
 Blepharospasm
 5 of 33
 Definition: Bilateral involuntary contraction of the orbicularis oculi muscles.
@@ -43,7 +39,6 @@ Treatment: Botulinum toxin injections approximately every 12 weeks.
 Follow-Up: Non-urgent.
 
 Bell’s Palsy
-Bell’s Palsy
 6 of 33
 Definition: Idiopathic acute lower motor neuron CN VII palsy.
 Symptoms: Unilateral facial paralysis, epiphora, dry eye, inability to close eye.
@@ -51,7 +46,6 @@ Signs: Lagophthalmos with inferior exposure keratopathy.
 Treatment: Frequent preservative-free artificial tears, ointment at night, lid taping; gold weight if chronic.
 Follow-Up: Every 6 weeks until resolution.
 
-Floppy Eyelid Syndrome
 Floppy Eyelid Syndrome
 7 of 33
 Definition: Excessive upper eyelid laxity with spontaneous eversion, associated with obstructive sleep apnea.
@@ -62,7 +56,6 @@ Follow-Up: 1 week initially, then 3 months once stable.
 Clinical Pearls: Strong association with obstructive sleep apnea—screen and refer.
 
 Xanthelasma
-Xanthelasma
 8 of 33
 Definition: Yellow lipid-rich plaques on eyelids, often associated with hyperlipidemia.
 Symptoms: Cosmetic concern only.
@@ -70,7 +63,6 @@ Signs: Flat or slightly elevated yellow plaques, typically nasal upper lids.
 Treatment: Removal for cosmesis; lipid evaluation recommended.
 Follow-Up: Annual.
 
-Meibomian Gland Dysfunction
 Meibomian Gland Dysfunction
 9 of 33
 Definition: Obstruction or dysfunction of meibomian glands causing evaporative dry eye.
@@ -80,7 +72,6 @@ Treatment: Warm compresses, lid hygiene, artificial tears, omega-3s, topical ant
 Follow-Up: 2–4 weeks.
 
 Blepharitis
-Blepharitis
 10 of 33
 Definition: Inflammation of the anterior and/or posterior lid margin.
 Symptoms: Burning, irritation, crusting.
@@ -88,7 +79,6 @@ Signs: Scales at lash base, erythematous lid margins.
 Treatment: Lid hygiene, warm compresses, treat like MGD.
 Follow-Up: 2–4 weeks.
 
-Pediculosis Palpebrarum
 Pediculosis Palpebrarum
 11 of 33
 Definition: Infestation of eyelashes with lice, often pubic lice.
@@ -98,7 +88,6 @@ Treatment: Mechanical removal with forceps, erythromycin ointment, wash linens, 
 Follow-Up: 1 day for repeat inspection.
 
 Hordeolum
-Hordeolum
 12 of 33
 Definition: Acute bacterial infection of a sebaceous gland of the eyelid.
 Symptoms: Painful, red eyelid lump.
@@ -106,7 +95,6 @@ Signs: Tender, warm localized swelling, possible pustule.
 Treatment: Warm compresses, topical antibiotic ointment.
 Follow-Up: If not resolving by 4 weeks.
 
-Chalazion
 Chalazion
 13 of 33
 Definition: Sterile granulomatous inflammation of a meibomian gland.
@@ -117,7 +105,6 @@ Follow-Up: PRN.
 Clinical Pearls: Recurrent chalazion in the same location suggests sebaceous gland carcinoma.
 
 Sebaceous Gland Carcinoma
-Sebaceous Gland Carcinoma
 14 of 33
 Definition: Aggressive malignant eyelid tumor arising from sebaceous glands.
 Symptoms: Recurrent painless eyelid mass.
@@ -125,8 +112,7 @@ Signs: Yellow firm lesion, madarosis, poliosis, lymphadenopathy.
 Treatment: Wide excision with biopsy.
 Follow-Up: Approximately every 6 months.
 
-Basal Cell Carcinoma
-Basal Cell Carcinoma
+Basal Cell Carcinom
 15 of 33
 Definition: Most common malignant eyelid tumor.
 Symptoms: Slowly enlarging lesion.
@@ -135,7 +121,6 @@ Treatment: Surgical excision with biopsy.
 Follow-Up: Every 6–12 months.
 
 Actinic Keratosis / Squamous Cell Carcinoma
-Actinic Keratosis / Squamous Cell Carcinoma
 16 of 33
 Definition: Actinic keratosis is premalignant; SCC is invasive and more aggressive than BCC.
 Symptoms: Skin lesion on eyelid.
@@ -143,8 +128,7 @@ Signs: Scaly erythematous plaque or ulcerated lesion.
 Treatment: Full-thickness excision with biopsy.
 Follow-Up: Every 6–12 months.
 
-Malignant Melanoma
-Malignant Melanoma
+Malignant Melanom
 17 of 33
 Definition: Highly lethal malignant tumor of melanocytes.
 Symptoms: Pigmented eyelid lesion.
@@ -153,7 +137,6 @@ Treatment: Excision with biopsy; may require orbital exenteration.
 Follow-Up: Dermatology/oncology.
 
 Capillary Hemangioma
-Capillary Hemangioma
 18 of 33
 Definition: Most common benign orbital tumor in children.
 Symptoms: Often asymptomatic.
@@ -161,7 +144,6 @@ Signs: Rapidly enlarging red mass that may obstruct visual axis.
 Treatment: Observation unless vision threatened.
 Follow-Up: Monitor visual development.
 
-Canaliculitis
 Canaliculitis
 19 of 33
 Definition: Infection of the canaliculus, commonly caused by Actinomyces.
@@ -172,7 +154,6 @@ Follow-Up: 5 days.
 Clinical Pearls: Concretions and discharge from punctum are classic.
 
 Nasolacrimal Duct Obstruction
-Nasolacrimal Duct Obstruction
 20 of 33
 Definition: Obstruction of nasolacrimal drainage, congenital or acquired.
 Symptoms: Chronic tearing and discharge.
@@ -180,7 +161,6 @@ Signs: Positive dye disappearance test; abnormal Jones testing.
 Treatment: Massage in infants; dilation, irrigation, or surgery if persistent.
 Follow-Up: PRN.
 
-Dacryocystitis
 Dacryocystitis
 21 of 33
 Definition: Infection of the lacrimal sac.
@@ -191,7 +171,6 @@ Follow-Up: Daily until improving.
 Clinical Pearls: Do NOT probe nasolacrimal duct in acute infection.
 
 Dacryoadenitis
-Dacryoadenitis
 22 of 33
 Definition: Inflammation of the lacrimal gland, infectious or inflammatory.
 Symptoms: Painful swelling of lateral upper eyelid.
@@ -199,7 +178,6 @@ Signs: S-shaped ptosis, preauricular lymphadenopathy.
 Treatment: Treat underlying cause; antibiotics if bacterial.
 Follow-Up: Daily initially.
 
-Contact Dermatitis
 Contact Dermatitis
 23 of 33
 Definition: Allergic reaction of periocular skin to topical exposure.
@@ -209,7 +187,6 @@ Treatment: Remove allergen, cold compresses, topical steroids, oral antihistamin
 Follow-Up: 1 week.
 
 Acne Rosacea
-Acne Rosacea
 24 of 33
 Definition: Chronic inflammatory condition affecting facial skin and eyelids.
 Symptoms: Burning, dryness, photophobia.
@@ -217,7 +194,6 @@ Signs: Facial telangiectasia, lid margin disease, inferior corneal vascularizati
 Treatment: Lid hygiene, lubrication, oral doxycycline; alternatives if contraindicated.
 Follow-Up: 2–3 months or sooner if corneal involvement.
 
-Globe Subluxation
 Globe Subluxation
 25 of 33
 Definition: Anterior displacement of the globe beyond the eyelids.
@@ -227,7 +203,6 @@ Treatment: Manual repositioning; evaluate underlying cause.
 Follow-Up: Monitor optic nerve function.
 
 Dermoid Cyst
-Dermoid Cyst
 26 of 33
 Definition: Congenital choristoma commonly at the superotemporal orbit.
 Symptoms: Painless orbital mass, diplopia.
@@ -235,7 +210,6 @@ Signs: Smooth, firm mass near zygomaticofrontal suture.
 Treatment: Surgical excision.
 Follow-Up: Post-operative.
 
-Preseptal Cellulitis
 Preseptal Cellulitis
 27 of 33
 Definition: Infection anterior to the orbital septum.
@@ -245,8 +219,7 @@ Treatment: Oral antibiotics; IV if severe.
 Follow-Up: Daily.
 Clinical Pearls: No pain with EOMs or vision loss distinguishes from orbital cellulitis.
 
-Orbital Cellulitis
-Orbital Cellulitis
+Orbital Celluliti
 28 of 33
 Definition: Postseptal orbital infection that is vision- and life-threatening.
 Symptoms: Fever, pain with eye movement, vision loss, diplopia.
@@ -255,7 +228,6 @@ Treatment: Immediate hospitalization for IV antibiotics.
 Follow-Up: Hourly initially then daily.
 Clinical Pearls: Pain with EOMs, vision loss, or RAPD mandates emergent care.
 
-Thyroid Eye Disease
 Thyroid Eye Disease
 29 of 33
 Definition: Autoimmune orbital inflammation associated with thyroid dysfunction.
@@ -266,7 +238,6 @@ Follow-Up: Urgent if optic neuropathy; otherwise 3–6 months.
 Clinical Pearls: Smoking is the strongest risk factor; color vision loss is a red flag.
 
 Neuroblastoma
-Neuroblastoma
 30 of 33
 Definition: Pediatric malignancy that commonly metastasizes to the orbit.
 Symptoms: Rapid-onset proptosis.
@@ -274,8 +245,7 @@ Signs: Periorbital ecchymosis, superior orbital mass, bony erosion.
 Treatment: Immediate oncology referral.
 Follow-Up: Oncology-directed.
 
-Rhabdomyosarcoma
-Rhabdomyosarcoma
+Rhabdomyosarcom
 31 of 33
 Definition: Most common primary malignant orbital tumor in children.
 Symptoms: Acute unilateral proptosis.
@@ -284,7 +254,6 @@ Treatment: Emergent imaging, biopsy, oncology referral.
 Follow-Up: Oncology-directed.
 
 Cavernous Hemangioma
-Cavernous Hemangioma
 32 of 33
 Definition: Most common benign orbital tumor in adults.
 Symptoms: Slowly progressive vision changes or diplopia.
@@ -292,7 +261,6 @@ Signs: Gradual unilateral proptosis, choroidal folds, hyperopic shift.
 Treatment: Surgical excision.
 Follow-Up: Post-operative.
 
-Orbital Pseudotumor
 Orbital Pseudotumor
 33 of 33
 Definition: Idiopathic inflammatory orbital syndrome.
