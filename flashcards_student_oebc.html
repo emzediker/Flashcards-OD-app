@@ -6,52 +6,86 @@
 <title>Part 2 Flashcards</title>
 
 <style>
-body{
-  font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
-  margin:0;
-  padding:20px;
-  background:#fff;
-  color:#111;
-}
-.wrap{max-width:980px;margin:auto;}
-h1{font-size:22px;margin:0 0 12px;}
-.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
-select,input[type=search],button{
-  padding:9px 10px;
-  border:1px solid #ddd;
-  border-radius:8px;
-  background:#fff
-}
-.card{
-  border:1px solid #ddd;
-  border-radius:12px;
-  padding:20px;
-  min-height:200px;
-  background:#fff;
-  position:relative
-}
-.front{font-weight:700;font-size:1.05rem}
-.back{display:none;margin-top:14px}
-.back strong{display:block;margin-top:8px}
-.ans{font-size:0.98rem;line-height:1.4}
-.fav{
-  position:absolute;
-  top:10px;
-  right:10px;
-  border:1px solid #ddd;
-  border-radius:999px;
-  padding:6px 10px;
-  background:#fff;
-  cursor:pointer
-}
-.fav[aria-pressed="true"]{color:#e09b00;border-color:#caa14a}
-.meta{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:#555}
-.nav{display:flex;gap:8px;margin-top:10px}
-.nav button{flex:1;font-weight:600}
-.note{margin-top:8px;font-size:13px;color:#666}
-.email-row{margin-bottom:10px;display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.email-row input{min-width:230px}
-.note-small{font-size:12px;color:#666;margin-left:6px}
+  body{
+    font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+    margin:0;
+    padding:20px;
+    background:#fff;
+    color:#111;
+  }
+  .wrap{max-width:980px;margin:auto;}
+  h1{font-size:22px;margin:0 0 12px;}
+  .bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+  select,input[type=search],button{
+    padding:9px 10px;
+    border:1px solid #ddd;
+    border-radius:8px;
+    background:#fff;
+  }
+  .card{
+    border:1px solid #ddd;
+    border-radius:12px;
+    padding:20px;
+    min-height:220px;
+    background:#fff;
+    position:relative;
+  }
+  .front{
+    font-weight:700;
+    font-size:1.05rem;
+  }
+  .back{
+    display:none;
+    margin-top:14px;
+    font-size:0.97rem;
+    line-height:1.45;
+  }
+  .back strong{
+    display:block;
+    margin-top:10px;
+    font-weight:700;
+  }
+  .fav{
+    position:absolute;
+    top:10px;
+    right:10px;
+    border:1px solid #ddd;
+    border-radius:999px;
+    padding:6px 10px;
+    background:#fff;
+    cursor:pointer;
+  }
+  .fav[aria-pressed="true"]{
+    color:#e09b00;
+    border-color:#caa14a;
+  }
+  .meta{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    margin-top:10px;
+    color:#555;
+  }
+  .nav{
+    display:flex;
+    gap:8px;
+    margin-top:12px;
+  }
+  .nav button{flex:1;font-weight:600}
+  .note{
+    margin-top:8px;
+    font-size:13px;
+    color:#666;
+  }
+  .email-row{
+    margin-bottom:10px;
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+    align-items:center;
+  }
+  .email-row input{min-width:230px;}
+  .note-small{font-size:12px;color:#666;margin-left:6px;}
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -59,131 +93,101 @@ select,input[type=search],button{
 
 <body>
 <div class="wrap">
-<h1>Part 2 Flashcards</h1>
+  <h1>Part 2 Flashcards</h1>
 
-<div class="email-row">
-  <label>Email for cloud sync:
-    <input id="emailInput" type="email" placeholder="name@example.com">
-  </label>
-  <button id="saveEmail">Save</button>
-  <span id="emailStatus" class="note-small"></span>
-</div>
+  <div class="email-row">
+    <label>Email for cloud sync:
+      <input id="emailInput" type="email" placeholder="name@example.com">
+    </label>
+    <button id="saveEmail">Save</button>
+    <span id="emailStatus" class="note-small"></span>
+  </div>
 
-<div class="bar">
-  <label>Deck:
-    <select id="deck"></select>
-  </label>
-  <label>Show:
-    <select id="show">
-      <option value="all">All</option>
-      <option value="fav">Favorites</option>
-    </select>
-  </label>
-  <label>Search:
-    <input id="q" type="search" placeholder="Find text…">
-  </label>
-</div>
+  <div class="bar">
+    <label>Deck:
+      <select id="deck"></select>
+    </label>
+    <label>Show:
+      <select id="show">
+        <option value="all">All</option>
+        <option value="fav">Favorites</option>
+      </select>
+    </label>
+    <label>Search:
+      <input id="q" type="search" placeholder="Find text...">
+    </label>
+  </div>
 
-<div class="card">
-  <div class="front" id="front"></div>
-  <div class="back" id="back"></div>
-  <button id="fav" class="fav" aria-pressed="false">★</button>
-</div>
+  <div class="card">
+    <div id="front" class="front"></div>
+    <div id="back" class="back"></div>
+    <button id="fav" class="fav" aria-pressed="false">★</button>
+  </div>
 
-<div class="meta">
-  <div id="counter">0 / 0</div>
-  <div id="status"></div>
-</div>
+  <div class="meta">
+    <div id="counter">0 / 0</div>
+    <div id="status"></div>
+  </div>
 
-<div class="nav">
-  <button id="prev">◀ Prev</button>
-  <button id="reveal">Reveal Answer</button>
-  <button id="next">Next ▶</button>
-</div>
+  <div class="nav">
+    <button id="prev">◀ Prev</button>
+    <button id="reveal">Reveal Answer</button>
+    <button id="next">Next ▶</button>
+  </div>
 
-<div class="note">
-  Tip: ←/→ move • R reveal • S star
-</div>
+  <div class="note">
+    Tip: ← / → navigate • R reveal • S star
+  </div>
 </div>
 
 <script>
-/* ---------------- SUPABASE ---------------- */
-const SUPABASE_URL="https://ikcowmdwccncnhnuchos.supabase.co";
-const SUPABASE_KEY="YOUR_PUBLIC_ANON_KEY";
-let supabaseClient=null;
-if(window.supabase){
-  supabaseClient=window.supabase.createClient(SUPABASE_URL,SUPABASE_KEY);
-}
+const SUPABASE_URL = "https://ikcowmdwccncnhnuchos.supabase.co";
+const SUPABASE_KEY = "YOUR_PUBLIC_ANON_KEY";
+let supabaseClient = window.supabase?.createClient?.(SUPABASE_URL, SUPABASE_KEY) || null;
 
-const EMAIL_KEY="part2_flashcard_email";
-let USER_EMAIL=localStorage.getItem(EMAIL_KEY)||null;
+const EMAIL_STORAGE_KEY = "oebc_flashcards_email";
+let USER_EMAIL = localStorage.getItem(EMAIL_STORAGE_KEY) || null;
 
-/* ---------------- DECKS ---------------- */
-const DECKS=[
-  {id:'oebc_retina_choroid_vitreous',title:'Retina, Choroid, Vitreous',dataUrl:'data/oebc_retina_choroid_vitreous.txt'}
+const DECKS = [
+  { id:'oebc_retina_choroid_vitreous', title:'Retina, Choroid, Vitreous', dataUrl:'data/oebc_retina_choroid_vitreous.txt' }
 ];
 
-/* ---------------- HELPERS ---------------- */
-function escapeHtml(s){
-  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-}
-function stylizePlacard(text){
+const els = {
+  deck:deck, show:show, q:q,
+  front:front, back:back,
+  fav:fav, counter:counter, status:status,
+  prev:prev, next:next, reveal:reveal,
+  emailInput:emailInput, saveEmail:saveEmail, emailStatus:emailStatus
+};
+
+let CURRENT_DECK=null, CARDS=[], VIEW=[], FAVS=new Set(), idx=0, showing=false;
+
+function boldHeaders(text){
   return text.replace(
-    /^(Definition|Epidemiology|Pathophysiology|Symptoms|Clinical Signs|Complications|Management|Treatment|Follow-up|Prognosis|Imaging|Differential Diagnosis):/gmi,
-    '<strong>$1:</strong>'
+    /(Definition|Epidemiology|Pathophysiology|Symptoms|Clinical Signs|Complications|Treatment|Management|Follow-up)\s*:/gi,
+    "<strong>$1:</strong>"
   );
 }
 
-/* ---------------- PARSER ---------------- */
-function parseTxt(txt,deckId){
-  const lines=txt.replace(/\r/g,'').split('\n').map(l=>l.trim());
-  const anchors=[];
-  for(let i=0;i<lines.length;i++){
-    if(/^\d+\s+of\s+\d+$/i.test(lines[i])) anchors.push(i);
-  }
+function parseTxt(txt, deckId){
+  const lines = txt.replace(/\r/g,'').split('\n').map(l=>l.trim());
+  const anchors = lines.map((l,i)=>/^\d+\s+of\s+\d+$/i.test(l)?i:null).filter(i=>i!==null);
   const out=[];
-  for(let i=0;i<anchors.length;i++){
-    const at=anchors[i];
-    const next=anchors[i+1]||lines.length;
-    let j=at-1;
-    while(j>=0&&!lines[j])j--;
-    const front=escapeHtml(lines[j]||'');
-    let k=at+1;
-    const back=[];
-    while(k<next&&lines[k]){
-      back.push(lines[k]);
-      k++;
+  anchors.forEach((a,i)=>{
+    const next = anchors[i+1] ?? lines.length;
+    let j=a-1; while(j>=0 && !lines[j]) j--;
+    let front=lines[j]||'';
+    let k=a+1; while(k<next && !lines[k]) k++;
+    let block=[];
+    while(k<next && lines[k]){
+      block.push(lines[k]); k++;
     }
-    out.push({
-      id:`${deckId}-${out.length+1}`,
-      front,
-      back:escapeHtml(back.join('\n'))
-    });
-  }
+    let back = boldHeaders(block.join('\n').replace(/\n/g,'<br><br>'));
+    out.push({ id:`${deckId}-${out.length+1}`, front, back });
+  });
   return out;
 }
 
-/* ---------------- STATE ---------------- */
-const els={
-  deck:deck,
-  show:show,
-  q:q,
-  front:front,
-  back:back,
-  fav:fav,
-  counter:counter,
-  status:status,
-  prev:prev,
-  next:next,
-  reveal:reveal,
-  emailInput:emailInput,
-  saveEmail:saveEmail,
-  emailStatus:emailStatus
-};
-
-let CARDS=[],VIEW=[],FAVS=new Set(),idx=0,showing=false,CURRENT=null;
-
-/* ---------------- RENDER ---------------- */
 function render(){
   if(!VIEW.length){
     els.front.innerHTML='<em>No cards</em>';
@@ -191,62 +195,30 @@ function render(){
     return;
   }
   const c=VIEW[idx];
-  els.front.innerHTML=c.front;
-  els.back.innerHTML=`<div class="ans">${stylizePlacard(c.back)}</div>`;
+  els.front.textContent=c.front;
+  els.back.innerHTML=c.back;
   els.back.style.display=showing?'block':'none';
-  els.fav.setAttribute('aria-pressed',FAVS.has(c.id));
   els.counter.textContent=`${idx+1} / ${VIEW.length}`;
-  els.status.textContent=CURRENT.title;
   els.reveal.textContent=showing?'Hide Answer':'Reveal Answer';
 }
 
-/* ---------------- CONTROLS ---------------- */
-function applyFilters(){
-  const t=els.q.value.toLowerCase();
-  const favOnly=els.show.value==='fav';
-  VIEW=CARDS.filter(c=>
-    (!t||c.front.toLowerCase().includes(t)||c.back.toLowerCase().includes(t)) &&
-    (!favOnly||FAVS.has(c.id))
-  );
-  idx=0;showing=false;render();
-}
-function toggleFav(){
-  const id=VIEW[idx].id;
-  FAVS.has(id)?FAVS.delete(id):FAVS.add(id);
-  localStorage.setItem(`fav_${CURRENT.id}`,JSON.stringify([...FAVS]));
-  render();
+function loadDeck(id){
+  CURRENT_DECK=DECKS.find(d=>d.id===id);
+  fetch(CURRENT_DECK.dataUrl).then(r=>r.text()).then(txt=>{
+    CARDS=parseTxt(txt,CURRENT_DECK.id);
+    VIEW=[...CARDS];
+    idx=0; showing=false;
+    render();
+  });
 }
 
-/* ---------------- LOAD ---------------- */
-async function loadDeck(id){
-  CURRENT=DECKS.find(d=>d.id===id);
-  const txt=await fetch(CURRENT.dataUrl,{cache:'no-store'}).then(r=>r.text());
-  CARDS=parseTxt(txt,CURRENT.id);
-  FAVS=new Set(JSON.parse(localStorage.getItem(`fav_${CURRENT.id}`)||'[]'));
-  applyFilters();
-}
-
-/* ---------------- INIT ---------------- */
-DECKS.forEach(d=>{
-  const o=document.createElement('option');
-  o.value=d.id;o.textContent=d.title;els.deck.appendChild(o);
-});
-loadDeck(DECKS[0].id);
-
+els.deck.innerHTML=DECKS.map(d=>`<option value="${d.id}">${d.title}</option>`).join('');
 els.deck.onchange=()=>loadDeck(els.deck.value);
-els.show.onchange=applyFilters;
-els.q.oninput=applyFilters;
-els.prev.onclick=()=>{idx=(idx-1+VIEW.length)%VIEW.length;showing=false;render();}
-els.next.onclick=()=>{idx=(idx+1)%VIEW.length;showing=false;render();}
-els.reveal.onclick=()=>{showing=!showing;render();}
-els.fav.onclick=toggleFav;
+els.prev.onclick=()=>{idx=(idx-1+VIEW.length)%VIEW.length; showing=false; render();};
+els.next.onclick=()=>{idx=(idx+1)%VIEW.length; showing=false; render();};
+els.reveal.onclick=()=>{showing=!showing; render();};
 
-document.addEventListener('keydown',e=>{
-  if(e.key==='ArrowRight')els.next.click();
-  if(e.key==='ArrowLeft')els.prev.click();
-  if(e.key.toLowerCase()==='r')els.reveal.click();
-  if(e.key.toLowerCase()==='s')els.fav.click();
-});
+loadDeck(DECKS[0].id);
 </script>
 </body>
 </html>
