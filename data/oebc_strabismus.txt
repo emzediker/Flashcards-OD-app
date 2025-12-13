@@ -149,7 +149,7 @@ Interpretation (as written): Cross = no deviation or HAC with a deviation. Esotr
 Clinical Pearl: Use alongside cover testing and sensory tests—correspondence findings should match the clinical picture.
 Follow Up: PRN.  [oai_citation:18‡13 Strabismus.docx](sediment://file_0000000077fc71fd8d48419f5ac62ba9)
 
-Bagolini Striated Lense
+Bagolini Striated Lenses
 20 of 20
 Concept: Sensory fusion/correspondence test using striations (as written: right eye sees top-right line; left eye sees top-left line).
 Interpretation (as written): Exo → two lights below; Eso → two lights above. Suppression → missing/segmented line. HAC → one light with an “X” while deviation remains present.
