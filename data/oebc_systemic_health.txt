@@ -1,1 +1,276 @@
+Albinism
+1 of  Forty-Nine
+Types: Ocular albinism (X-linked recessive; decreased number of melanosomes in eyes with normal pigment per melanosome); Oculocutaneous albinism (autosomal recessive; decreased melanin in all melanosomes of skin and eyes).
+Symptoms: Blur and photophobia.
+Ocular Findings: High refractive error, nystagmus, strabismus, reduced stereoacuity, transillumination defects, hypopigmented fundus, foveal hypoplasia.
 
+Alcoholism
+2 of 49
+Systemic Associations: Renal disease, hepatitis, thiamine (B1) deficiency.
+Labs: Decreased ALT and B1 levels.
+Wernicke’s Encephalopathy: Ataxia, ophthalmoplegia, confusion.
+Korsakoff Syndrome: Irreversible B1 deficiency causing memory loss, amnesia, apathy, poor communication, loss of intuition.
+Ocular Findings: Toxic optic neuropathy, downbeat nystagmus, demyelination.
+
+Ankylosing Spondylitis
+3 of 49
+Associations: HLA-B27 positive.
+Ocular Findings: Chronic or recurrent uveitis.
+Systemic Clues: Chronic lower back pain.
+Workup: Spinal X-ray warranted.
+
+Rheumatoid Arthritis
+4 of 49
+Ocular Associations: Most common cause of scleritis including scleromalacia perforans (necrotizing without inflammation); dry eye; ulcerative keratitis.
+Labs: Positive RF.
+Management: Systemic NSAIDs, systemic steroids, immunosuppressive therapy.
+
+Juvenile Rheumatoid Arthritis
+5 of 49
+Ocular Associations: Most common cause of recurrent non-granulomatous anterior uveitis in children.
+Labs: Positive ANA, negative RF.
+
+Asthma
+6 of 49
+Clinical Pearl: Avoid prescribing beta-blockers due to bronchoconstriction risk.
+
+Eczema / Atopic Dermatitis
+Eczema / Atopic Dermatitis
+7 of 49
+Ocular Associations: Early-onset cataracts.
+
+Behçet Disease
+8 of 49
+Epidemiology: Asians or Mediterraneans; HLA-B5 or HLA-B12.
+Systemic Findings: Oral ulcers, genital ulcers.
+Ocular Findings: Bilateral non-granulomatous uveitis with hypopyon; late macular edema, disc edema, ischemic optic neuritis.
+Treatment: Topical steroids for uveitis; sub-Tenon’s steroids for posterior involvement.
+
+COPD
+9 of 49
+Types: Chronic bronchitis and emphysema.
+Clinical Pearl: Avoid beta-blockers.
+
+Preeclampsia / Eclampsia
+10 of 49
+Ocular Findings: Retinal edema, hypertensive retinopathy changes, Elschnig spots, neovascularization, serous retinal detachments.
+
+Ehlers-Danlos Syndrome
+11 of 49
+Ocular Findings: Angioid streaks, blue sclera, megalocornea, ectopic lentis, keratoconus.
+Systemic Associations: Mitral valve prolapse, aortic aneurysm.
+
+Hyperlipidemia
+12 of 49
+Ocular Associations: ARMD, retinal artery occlusion, NAION, xanthelasma, corneal arcus.
+Treatment: Lifestyle modification, statins, bile acid sequestrants, PCSK9 inhibitors.
+
+Down Syndrome
+13 of 49
+Epidemiology: Most common chromosomal abnormality.
+Ocular Findings: Keratoconus, strabismus, epicanthal folds, early-onset cataracts.
+
+Epilepsy
+14 of 49
+Ocular Association: Leber’s congenital amaurosis (rod-cone dystrophy); most common congenital cause of blindness.
+
+Fabry Disease
+15 of 49
+Inheritance: X-linked lysosomal storage disorder.
+Systemic Findings: Small joint pain, renal disease, hypertrophic cardiomyopathy, telangiectasia.
+Ocular Findings: Whorl keratopathy, wedge-shaped PSC, nystagmus, CN III palsy, vascular tortuosity.
+
+Gout
+16 of 49
+Ocular Association: Band keratopathy.
+
+Herpes Zoster Ophthalmicus
+17 of 49
+Epithelial Keratitis: SPK progressing to pseudodendrites.
+Stromal Keratitis: Anterior stromal infiltrates, disciform keratitis, peripheral edema; chronic scarring possible.
+Iritis: AC reaction, TIDs, keratic precipitates.
+Treatment: Famciclovir 500 mg TID x 7 days; Acyclovir 800 mg 5x/day x 7 days; Valacyclovir 1000 mg TID x 7 days.
+Steroids: Only for stromal keratitis or endotheliitis when no active epithelial disease.
+Complication: Post-herpetic neuralgia; may require long-term antiviral prophylaxis.
+
+
+Herpes Simplex Virus
+18 of 49
+Epidemiology: #1 cause of infectious blindness in the US; HSV-1.
+Epithelial Disease: Dendrites with terminal bulbs; edge staining with rose bengal.
+Stromal Keratitis: Immune keratitis without epithelial defect.
+Necrotizing Keratitis: Stromal inflammation with epithelial defect; high risk of corneal melt.
+Endotheliitis: Disciform keratitis; often with granulomatous uveitis.
+Treatment: Zirgan 5x/day or Viroptic 9x/day; oral antivirals at half HZO dose; topical steroids only if no epithelial disease.
+
+Homocystinuria
+19 of 49
+Systemic Disorder: Enzymatic disorder of methionine metabolism.
+Ocular Finding: Ectopia lentis.
+
+HIV / AIDS
+20 of 49
+Most Common Opportunistic Retinal Infection: CMV retinitis.
+Presentation: Unilateral or bilateral; often asymptomatic; floaters possible.
+Treatment: IV and intravitreal antivirals.
+
+Progressive Outer Retinal Necrosis
+21 of 49
+Etiology: HSV or VZV in HIV patients.
+Course: Anterior uveitis followed by yellow retinal infiltrates with rapid progression.
+Treatment: Aggressive antiviral therapy.
+
+Kaposi Sarcoma
+22 of 49
+Association: HIV-related vascular malignancy.
+
+Molluscum Contagiosum
+23 of 49
+Lesions: Dome-shaped, umbilicated nodules.
+Ocular Effects: Chronic conjunctivitis, pannus.
+Association: CIN precursor to SCC.
+
+Hypercalcemia
+Hypercalcemia
+24 of 49
+Ocular Finding: Band keratopathy (calcium deposition in Bowman’s layer).
+
+Inflammatory Bowel Disease
+25 of 49
+Ocular Association: Uveitis.
+Clinical Pearl: Refer for colonoscopy if suspected.
+
+Leprosy
+26 of 49
+Etiology: Mycobacterium leprae.
+Ocular Association: Scleritis.
+
+Leukemia Retinopathy
+27 of 49
+Findings: Roth spots, cotton-wool spots, venous beading, vascular sheathing, dilated tortuous vessels.
+Prognosis: Resolves with leukemia treatment.
+
+Systemic Lupus Erythematosus
+28 of 49
+Ocular Findings: Dry eye, recurrent episcleritis, peripheral keratitis.
+Medication Association: Hydroxychloroquine toxicity risk.
+
+Marfan Syndrome
+29 of 49
+Inheritance: Autosomal dominant chromosome 15 mutation.
+Ocular Findings: Ectopia lentis, myopia, retinal detachment.
+Systemic Associations: Mitral valve prolapse, aortic aneurysm.
+
+Multiple Sclerosis
+30 of 49
+Classic Sign: Uhthoff phenomenon (heat-induced symptom worsening).
+Ocular Association: Optic neuritis; may be first manifestation.
+Workup: T2-FLAIR MRI.
+
+Myasthenia Gravis
+31 of 49
+Diagnostic Tests: Ice pack test; edrophonium (Tensilon) test.
+Treatment: Pyridostigmine (anticholinesterase).
+
+Myotonic Dystrophy
+32 of 49
+Inheritance: Autosomal dominant; most common muscular dystrophy.
+Ocular Findings: Christmas-tree cataracts, bilateral optic atrophy, ptosis, orbicularis weakness, miotic pupils, lid lag.
+
+Neurofibromatosis
+33 of 49
+Diagnostic Criteria: ≥6 café-au-lait spots; neurofibromas; optic nerve glioma; Lisch nodules.
+
+Paget Disease
+34 of 49
+Pathophysiology: Abnormal bone remodeling with enlarged, weak bones.
+Ocular Association: Angioid streaks.
+
+Parinaud Oculoglandular Conjunctivitis
+35 of 49
+Association: Granulomatous conjunctivitis with lymphadenopathy.
+
+Polyarteritis Nodosa
+36 of 49
+Pathophysiology: Rare medium-vessel vasculitis.
+Ocular Association: Scleritis.
+Clinical Pearl: “Dangerous cousin” of GCA.
+
+Relapsing Polychondritis
+37 of 49
+Systemic Feature: Cartilage inflammation.
+Ocular Findings: Scleritis, uveitis, conjunctivitis.
+
+Pseudoxanthoma Elasticum
+38 of 49
+Ocular Finding: Angioid streaks.
+Systemic Association: Premature atherosclerosis.
+
+Sarcoidosis
+39 of 49
+Pathology: Non-caseating granulomas.
+Epidemiology: 20–30-year-old African Americans.
+Ocular Findings: Granulomatous panuveitis, mutton-fat KPs, Koeppe and Busacca nodules, retinal vasculitis with candle-wax drippings, vitreous snowballs or string-of-pearls.
+Workup: ACE level, chest X-ray, PPD to rule out TB.
+
+Sickle Cell Disease
+40 of 49
+Ocular Association: Sickle cell retinopathy.
+
+Sjogren Syndrome
+41 of 49
+Key Features: Dry eye and dry mouth.
+
+Sleep Apnea
+42 of 49
+Ocular Association: Floppy eyelid syndrome.
+Pathophysiology: Airway obstruction causing nocturnal arousals.
+
+Syphilis
+43 of 49
+Etiology: Treponema pallidum.
+Primary: Chancre 4–12 weeks after infection.
+Secondary: 4–10 weeks after primary; maculopapular rash on palms, soles, trunk.
+Anterior Segment: Any uveitis (granulomatous common), scleritis, episcleritis, keratitis.
+Posterior Segment: Vitritis, necrotizing retinitis, chorioretinitis, neuroretinitis, papillitis, optic neuritis; ground-glass retinitis.
+Congenital: Peg teeth, interstitial keratitis, deafness.
+Testing: RPR, FTA-ABS.
+Treatment: IV penicillin G followed by IM penicillin G.
+
+Thyroid Eye Disease
+44 of 49
+Ocular Findings: Compressive optic neuropathy, restrictive myopathy.
+Muscle Order: Inferior → Medial → Superior → Lateral rectus.
+Clinical Pearl: Most common cause of unilateral or bilateral proptosis.
+
+Tuberculosis
+45 of 49
+Etiology: Mycobacterium tuberculosis.
+Ocular Findings: Anterior granulomatous uveitis, conjunctivitis with lymphadenopathy.
+Testing: PPD, chest X-ray.
+Treatment: Active—ethambutol or pyrazinamide; latent—rifampin or isoniazid.
+
+Tuberous Sclerosis
+46 of 49
+Classic Triad: Seizures, intellectual disability, adenoma sebaceum.
+
+Turner Syndrome
+47 of 49
+Ocular Finding: Keratoconus.
+Systemic Features: Webbed neck, cardiac disease, ovarian dysfunction, renal anomalies, learning disabilities, high-arched palate.
+
+Vogt-Koyanagi-Harada Syndrome
+48 of 49
+Epidemiology: Hispanic and Japanese patients.
+Systemic Symptoms: Headache, tinnitus, vertigo, deafness.
+Ocular Findings: Panuveitis, serous retinal detachments.
+Treatment: Oral, topical, or sub-Tenon’s steroids.
+
+Wegener Granulomatosis (GPA)
+49 of 49
+Ocular Associations: Scleritis and uveitis.
+
+Wilson Disease
+50 of 49
+Pathophysiology: Copper accumulation.
+Ocular Findings: Kayser-Fleischer rings, sunflower 
