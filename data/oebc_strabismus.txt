@@ -31,16 +31,15 @@ Types: Type 1 (most common): ET in primary gaze + limited abduction. Type 2 (lea
 Treatment: Usually not required; strabismus surgery if needed.
 Follow Up: PRN.
 
-Congenital Esotropia
+Congenital Esotropia (Infantile Esotropia)
 5 of 20
-AKA: Infantile esotropia.
 Definition: Large angle deviation (>35 PD) manifesting before 6 months of age.
 Symptoms: Usually asymptomatic; cosmetic concerns.
 Signs: Deviation on gross exam; typically equal at distance and near; amblyopia if non-alternating; may have associated inferior oblique overaction / DVD; no accommodative component.
 Treatment: Fully correct myopia; treat hyperopia > +2.00; strabismus surgery most successful if performed before age 2.
 Follow Up: Age-appropriate exams.
 
-Accommodative Esotropi
+Accommodative Esotropia
 6 of 20
 Epidemiology: Up to ~55% of esotropias have an accommodative component; often intermittent; commonly manifests around age ~2.
 Types: Refractive (high hyperopia > +4.75, normal AC/A, distance ≈ near). Non-refractive (normal Rx, high AC/A, near > distance). Mixed (moderate-high hyperopia + high AC/A).
@@ -128,7 +127,7 @@ Workup: Compare deviations in upgaze vs downgaze; evaluate oblique function.
 Treatment: Address refractive needs; consider VT/prism in select cases; surgical referral if significant.
 Follow Up: PRN.
 
-X-Pattern Tropi
+X-Pattern Tropia
 17 of 20
 Definition: More exo in both upgaze and downgaze.
 Workup: Measure in multiple gaze positions; look for oblique dysfunction.
