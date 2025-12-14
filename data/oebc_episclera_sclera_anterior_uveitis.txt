@@ -1,49 +1,98 @@
 Episcleritis
 1 of 10
-Definition: Inflammation of the episclera; typically young to middle-aged adults; can be recurrent; usually no discharge and minimal/no photophobia. Associations/Systemic: May be associated with RA, SLE, rosacea, atopy, thyroid eye disease, gout, herpes zoster, syphilis, or TB. Symptoms: Mild tenderness; red eye. Signs: Sectoral redness (one or both eyes); superficial vessels can be moved with a cotton-tipped applicator; blanches with 2.5% phenylephrine. Treatment: Mild—artificial tears QID; moderate–severe—topical NSAID or mild topical steroid QID (oral NSAIDs may be preferred for more symptomatic cases). Follow-Up: Artificial tears only—recheck ~4 weeks; on steroids—recheck every 1–2 weeks until resolved.
-
+Definition: Inflammation of the episclera; typically affects young to middle-aged adults; may be recurrent.
+Symptoms: Mild tenderness; red eye; minimal or no photophobia; no discharge.
+Signs: Sectoral redness (one or both eyes); superficial vessels movable with cotton-tipped applicator; blanches with 2.5% phenylephrine.
+Associations/Systemic: RA, SLE, rosacea, atopy, thyroid eye disease, gout, herpes zoster, syphilis, TB.
+Treatment: Mild—artificial tears QID; moderate–severe—topical NSAID or mild topical steroid QID (oral NSAIDs may be preferred).
+Follow-Up: Artificial tears only—recheck ~4 weeks; on steroids—every 1–2 weeks until resolved.
 
 Scleritis
 2 of 10
-Definition: Deep, painful inflammation of sclera; ~50% associated with systemic autoimmune/collagen vascular disease. Types: Non-necrotizing—Diffuse (~60%), Nodular (~25%); Necrotizing—with inflammation (most severe) or without inflammation = scleromalacia perforans (often painless). Symptoms: Severe deep, boring pain; photophobia; tearing; decreased vision. Signs: Violaceous hue; scleral edema; does NOT blanch with phenylephrine. Posterior Scleritis Clues: Choroidal folds, exudative RD, optic disc edema, macular edema, proptosis, rapid hyperopic shift; may mimic mass. Treatment: Systemic NSAIDs → systemic steroids if needed; urgent immunosuppression/rheumatology for necrotizing disease. Follow-Up: Close early follow-up (days) until improving.
-
+Definition: Deep, painful inflammation of the sclera; ~50% associated with systemic autoimmune disease.
+Types:
+• Non-necrotizing—Diffuse (~60%), Nodular (~25%)
+• Necrotizing—with inflammation (most severe) or without inflammation (scleromalacia perforans; often painless)
+Symptoms: Severe deep boring pain; photophobia; tearing; decreased vision.
+Signs: Violaceous hue; scleral edema; does NOT blanch with phenylephrine.
+Posterior Scleritis Clues: Choroidal folds, exudative RD, optic disc edema, macular edema, proptosis, rapid hyperopic shift; may mimic mass.
+Treatment: Systemic NSAIDs → systemic steroids if needed; urgent immunosuppression/rheumatology for necrotizing disease.
+Follow-Up: Close early follow-up (days) until improving.
 
 Postoperative Endophthalmitis
 3 of 10
-Definition: Intraocular infection after surgery; most commonly coagulase-negative Staphylococcus (e.g., S. epidermidis). Onset: Typically 3–7 days postop. Symptoms: Decreased vision with significant pain. Signs: Marked AC cell/flare, fibrin, hypopyon, vitreous haze, reduced red reflex. Treatment: Ocular emergency—urgent intravitreal antibiotics ± vitrectomy (retina service). Follow-Up: Hours–next day, then daily as directed.
-
+Definition: Intraocular infection after surgery; most commonly coagulase-negative Staphylococcus (e.g., S. epidermidis).
+Onset: Typically 3–7 days postop.
+Symptoms: Decreased vision with significant pain.
+Signs: Marked AC cell/flare, fibrin, hypopyon, vitreous haze, reduced red reflex.
+Treatment: Ocular emergency—urgent intravitreal antibiotics ± vitrectomy (retina service).
+Follow-Up: Hours–next day, then daily as directed.
 
 Toxic Anterior Segment Syndrome (TASS)
 4 of 10
-Definition: Sterile toxic inflammatory reaction after anterior segment surgery. Onset: 6–24 hours postop. Symptoms: Blurred vision; mild–moderate discomfort. Signs: Limbus-to-limbus corneal edema, intense AC inflammation, fibrin; minimal or no vitreous involvement (distinguishes from endophthalmitis). Treatment: Aggressive topical steroids; rule out infection. Follow-Up: Daily until clear improvement.
-
+Definition: Sterile toxic inflammatory reaction after anterior segment surgery.
+Onset: 6–24 hours postop.
+Symptoms: Blurred vision; mild–moderate discomfort.
+Signs: Limbus-to-limbus corneal edema; intense AC inflammation; fibrin; minimal or no vitreous involvement.
+Key Distinction: Lack of vitreous involvement distinguishes from endophthalmitis.
+Treatment: Aggressive topical steroids; rule out infection.
+Follow-Up: Daily until clear improvement.
 
 Aniridia
 5 of 10
-Definition: Congenital partial or near-total absence of iris tissue. Associations/Systemic: WAGR syndrome (Wilms tumor, Aniridia, GU anomalies, intellectual disability). Symptoms: Photophobia; reduced vision; glare. Signs: Minimal or absent iris. Complications: Glaucoma, cataract, keratopathy. Treatment: Prosthetic/colored contact lenses; glaucoma management; systemic screening when indicated. Follow-Up: Every 3–6 months.
-
+Definition: Congenital partial or near-total absence of iris tissue.
+Symptoms: Photophobia; reduced vision; glare.
+Signs: Minimal or absent iris.
+Associations/Systemic: WAGR syndrome (Wilms tumor, Aniridia, GU anomalies, intellectual disability).
+Complications: Glaucoma, cataract, keratopathy.
+Treatment: Prosthetic/colored contact lenses; glaucoma management; systemic screening when indicated.
+Follow-Up: Every 3–6 months.
 
 Iris Nevus
 6 of 10
-Definition: Benign iris stromal melanocytic lesion. Symptoms: Asymptomatic. Signs: Flat lesion <3 mm; possible mild pupil distortion. Treatment: Documentation and observation. Follow-Up: Annual monitoring.
-
+Definition: Benign iris stromal melanocytic lesion.
+Symptoms: Asymptomatic.
+Signs: Flat lesion <3 mm; possible mild pupil distortion.
+Treatment: Documentation and observation.
+Follow-Up: Annual monitoring.
 
 Iris Melanoma
 7 of 10
-Definition: Malignant melanocytic tumor of the iris; better prognosis than posterior uveal melanoma. Symptoms: Often asymptomatic. Signs: Enlarging iris mass (>3 mm diameter or >1 mm thickness), ectropion iridis, spontaneous hyphema, secondary glaucoma. Treatment: Ocular oncology referral; observation vs excision/radiation depending on growth and complications. Follow-Up: ~3 months if suspicious.
-
+Definition: Malignant melanocytic tumor of the iris; better prognosis than posterior uveal melanoma.
+Symptoms: Often asymptomatic.
+Signs: Enlarging iris mass (>3 mm diameter or >1 mm thickness), ectropion iridis, spontaneous hyphema, secondary glaucoma.
+Treatment: Ocular oncology referral; observation vs excision/radiation depending on growth and complications.
+Follow-Up: ~3 months if suspicious.
 
 Anterior Uveitis
 8 of 10
-Definition: Inflammation of the iris and/or ciliary body. Symptoms: Pain, redness, photophobia, decreased vision. Signs: AC cell/flare; keratic precipitates; IOP low or elevated (herpetic, Fuchs). KP Patterns: Fine—herpes/CMV/Fuchs; Non-granulomatous—HLA-B27, JIA; Granulomatous—sarcoid, TB, syphilis, VKH. Treatment: Topical corticosteroids + cycloplegic. Follow-Up: Often within 24 hours initially.
+Definition: Inflammation of the iris and/or ciliary body.
+Symptoms: Pain, redness, photophobia, decreased vision.
+Signs: AC cell/flare; keratic precipitates; IOP low or elevated (herpetic, Fuchs).
+KP Patterns:
+• Fine—herpes, CMV, Fuchs
+• Non-granulomatous—HLA-B27, JIA
+• Granulomatous—sarcoid, TB, syphilis, VKH
+Treatment: Topical corticosteroids + cycloplegic.
+Follow-Up: Often within 24 hours initially.
 
 Intermediate Uveitis
 9 of 10
-Definition: Inflammation primarily involving vitreous and pars plana. Symptoms: Painless floaters, blurred vision. Signs: Vitreous cells, “snowballs”; CME common. Associations: MS, sarcoid, syphilis, Lyme, lymphoma, TINU. Treatment: Observe if mild; periocular/systemic steroids if vision-threatening; treat CME. Follow-Up: ~1 week if active; then every ~3 months.
+Definition: Inflammation primarily involving vitreous and pars plana.
+Symptoms: Painless floaters; blurred vision.
+Signs: Vitreous cells; snowballs; CME common.
+Associations: MS, sarcoid, syphilis, Lyme, lymphoma, TINU.
+Treatment: Observe if mild; periocular/systemic steroids if vision-threatening; treat CME.
+Follow-Up: ~1 week if active; then every ~3 months.
 
 Pars Planitis
 10 of 10
-Definition: Idiopathic autoimmune subtype of intermediate uveitis. Symptoms: Painless floaters; decreased vision from CME. Signs: Inferior pars plana “snowbank” exudates; vitreous snowballs. Complications: CME most common cause of vision loss. Treatment: Observation vs steroid therapy depending on severity; manage CME. Follow-Up: 1 week if active, then every 3 months.
+Definition: Idiopathic autoimmune subtype of intermediate uveitis.
+Symptoms: Painless floaters; decreased vision from CME.
+Signs: Inferior pars plana snowbank exudates; vitreous snowballs.
+Complications: CME most common cause of vision loss.
+Treatment: Observation vs steroids depending on severity; manage CME.
+Follow-Up: 1 week if active, then every 3 months.
 
 Clinical Pearls – Episclera, Sclera & Anterior Uvea
 11 of 10
