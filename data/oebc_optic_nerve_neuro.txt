@@ -168,14 +168,12 @@ Diagnosis: Dilute pilocarpine response.
 Treatment: Observation; pilocarpine 0.125% BID–QID.
 Follow-Up: ~1 month.
 
-Clinical Pearl
+Clinical   Pearls – Optic Nerve & Neuro-Ophthalmic
 24 of 30
-Clinical Pearls – Optic Nerve & Neuro-Ophthalmic
-
-Papilledema: Always obtain neuroimaging before lumbar puncture to rule out an intracranial mass.
-IIH: Vision loss can occur even when headaches improve; monitor visual fields and OCT closely.
-AAION/GCA: Never delay high-dose steroid treatment while awaiting temporal artery biopsy.
-NAION: A “disc-at-risk” and sleep apnea are key associations.
-Optic Neuritis: Pain with eye movement, color desaturation, and central scotoma are classic.
-Toxic Optic Neuropathy: Bilateral cecocentral scotomas → review medications, nutrition, and toxins.
-Horner Syndrome: A new painful Horner suggests carotid artery dissection and is neuro-urgent.
+• Papilledema: Always obtain neuroimaging before lumbar puncture to rule out an intracranial mass
+• IIH: Vision loss can occur even when headaches improve; monitor visual fields and OCT closely
+• AAION / GCA: Never delay high-dose steroid treatment while awaiting temporal artery biopsy
+• NAION: A “disc-at-risk” and sleep apnea are key associations
+• Optic Neuritis: Pain with eye movement, color desaturation, and central scotoma are classic
+• Toxic Optic Neuropathy: Bilateral cecocentral scotomas → review medications, nutrition, and toxins
+• Horner Syndrome: A new painful Horner suggests carotid artery dissection and is neuro-urgent
