@@ -255,34 +255,28 @@ Signs: Radial scars.
 Treatment: Spectacles or scleral lenses.
 Follow-Up: As needed.
 
-Clinical Pearl – Red Eye Triage
+Clinical Pearls – Red Eye Diagnostic Triage
 33 of 32
-Pearl: Pain or photophobia indicates corneal or uveal disease.
-Pearl: Itching suggests allergy.
-Pearl: Pain out of proportion suggests acanthamoeba.
+Clinical Pearls:
+• Pain or photophobia suggests corneal or uveal involvement, not simple conjunctivitis
+• Pain out of proportion to findings is a red flag for acanthamoeba
+• Itching strongly suggests allergic disease rather than infectious
+• Chronic unilateral red eye is never routine and warrants further workup
 
-Clinical Pearl – Discharge Patterns
+Clinical Pearls – Discharge & Conjunctival Clues
 34 of 32
-Pearl: Watery discharge suggests viral or allergic.
-Pearl: Thick purulence suggests bacterial.
-Pearl: Hyperacute purulence suggests gonococcal infection.
+Clinical Pearls:
+• Watery discharge suggests viral or allergic conjunctivitis
+• Thick purulent discharge suggests bacterial conjunctivitis
+• Hyperacute purulence is classic for gonococcal infection
+• Follicles favor viral or chlamydial disease
+• Papillae favor allergic or bacterial disease
 
-Clinical Pearl – Follicles vs Papillae
+Clinical Pearls – Treatment & Board Traps
 35 of 32
-Pearl: Follicles suggest viral or chlamydial disease.
-Pearl: Papillae suggest allergic or bacterial disease.
-
-Clinical Pearl – Steroid Rules
-36 of 32
-Pearl: Never use steroids with epithelial defects.
-Pearl: Steroids are adjunctive, not first-line, in infection.
-
-Clinical Pearl – Post-Refractive Surgery
-37 of 32
-Pearl: RK causes unstable refraction.
-Pearl: Scleral lenses often help post-RK.
-
-Clinical Pearl – Board Traps
-38 of 32
-Pearl: Acanthamoeba is not bacterial.
-Pearl: Chronic unilateral conjunctivitis is never routine.
+Clinical Pearls:
+• Never use topical steroids in the presence of epithelial defects
+• Steroids are adjunctive, not first-line, in infectious disease
+• Acanthamoeba is protozoal, not bacterial
+• Radial keratotomy causes unstable refraction
+• Scleral lenses often improve vision in post-RK patients
