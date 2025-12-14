@@ -143,26 +143,15 @@ Signs: White inflamed bleb, anterior chamber reaction, possible hypopyon or vitr
 Treatment: Topical antibiotics q1h; add steroids the following day.
 Follow Up: Daily.
 
-Clinical Pearl
-Clinical Pearl
+Clinical Pearls
 19 of 18
-Clinical Pearls:
-Primary open-angle glaucoma is typically asymptomatic until late stages, and glaucomatous visual field defects respect the horizontal meridian.
-
-Drance hemorrhages are a key indicator of active glaucoma progression and are especially associated with normal tension glaucoma, where intraocular pressure remains below 21 mmHg.
-
-Pseudoexfoliation syndrome is the most common cause of secondary open-angle glaucoma and can progress rapidly, requiring closer follow-up.
-
-Pigment dispersion syndrome classically affects young myopic males and may present with exercise-induced blurry vision; selective laser trabeculoplasty is often highly effective.
-
-Steroid-induced glaucoma can occur via any route of administration and may develop rapidly with topical ocular use.
-
-Angle recession glaucoma may present months to years after blunt ocular trauma and does not respond well to laser trabeculoplasty.
-
-Neovascular glaucoma is most commonly associated with proliferative diabetic retinopathy and central retinal vein occlusion and requires treatment of both intraocular pressure and retinal ischemia.
-
-Plateau iris configuration remains at risk for angle closure despite a patent iridotomy.
-
-Infantile glaucoma presents with photophobia, tearing, and buphthalmos and is primarily managed surgically.
-
-Blebitis presents as a painful red eye with a white inflamed filtering bleb and requires urgent antibiotic therapy.
+• Primary open-angle glaucoma is typically asymptomatic until late stages, and glaucomatous visual field defects respect the horizontal meridian
+• Drance hemorrhages are a key indicator of active glaucoma progression and are especially associated with normal tension glaucoma, where intraocular pressure remains below 21 mmHg
+• Pseudoexfoliation syndrome is the most common cause of secondary open-angle glaucoma and can progress rapidly, requiring closer follow-up
+• Pigment dispersion syndrome classically affects young myopic males and may present with exercise-induced blurry vision; selective laser trabeculoplasty is often highly effective
+• Steroid-induced glaucoma can occur via any route of administration and may develop rapidly with topical ocular use
+• Angle recession glaucoma may present months to years after blunt ocular trauma and does not respond well to laser trabeculoplasty
+• Neovascular glaucoma is most commonly associated with proliferative diabetic retinopathy and central retinal vein occlusion and requires treatment of both intraocular pressure and retinal ischemia
+• Plateau iris configuration remains at risk for angle closure despite a patent iridotomy
+• Infantile glaucoma presents with photophobia, tearing, and buphthalmos and is primarily managed surgically
+• Blebitis presents as a painful red eye with a white inflamed filtering bleb and requires urgent antibiotic therapy
