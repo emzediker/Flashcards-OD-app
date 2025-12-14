@@ -7,7 +7,6 @@ Anterior Lens: Faint; largest; virtual; upright.
 Posterior Lens: Faintest; smallest; real; inverted.
 
 Neutral Density (ND) Filters
-
 2 of 14
 Property: Equally transmit all wavelengths of light.
 Clinical Use: Quantify an afferent pupillary defect (APD).
