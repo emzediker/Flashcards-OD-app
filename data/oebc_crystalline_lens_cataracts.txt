@@ -91,11 +91,10 @@ Symptoms: Blur, monocular diplopia, angle-closure symptoms.
 Management: Surgical lens removal when visually significant.
 
 Clinical Pearls – Crystalline Lens & Cataracts
-28 of 27
-Congenital: Leukocoria in an infant is an ocular emergency requiring urgent evaluation; lamellar cataracts are the most common congenital cataract.
-Vision Impact: Posterior subcapsular cataracts disproportionately affect near vision.
-Advanced Cataracts: Hypermature cataracts can cause secondary glaucomas (phacolytic, phacomorphic).
-Systemic Associations: Christmas tree cataracts suggest myotonic dystrophy; snowflake cataracts may develop rapidly in diabetes.
-Trauma: Rosette cataracts in children without a clear injury history raise concern for non-accidental trauma.
-Post-Surgical: Posterior capsule opacification is common after cataract surgery and is treated with YAG capsulotomy; bullous keratopathy can be painful and vision-threatening.
-Lens Dislocation: Marfan syndrome classically causes superotemporal crystalline lens dislocation.
+• Congenital: Leukocoria in an infant is an ocular emergency requiring urgent evaluation; lamellar cataracts are the most common congenital cataract
+• Vision Impact: Posterior subcapsular cataracts disproportionately affect near vision
+• Advanced Cataracts: Hypermature cataracts can cause secondary glaucomas (phacolytic, phacomorphic)
+• Systemic Associations: Christmas tree cataracts suggest myotonic dystrophy; snowflake cataracts may develop rapidly in diabetes
+• Trauma: Rosette cataracts in children without a clear injury history raise concern for non-accidental trauma
+• Post-Surgical: Posterior capsule opacification is common after cataract surgery and treated with YAG capsulotomy; bullous keratopathy can be painful and vision-threatening
+• Lens Dislocation: Marfan syndrome classically causes superotemporal crystalline lens dislocation
