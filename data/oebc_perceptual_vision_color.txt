@@ -1,55 +1,89 @@
 Purkinje Images
 1 of 14
-Anterior cornea = brightest, small, virtual, upright; Posterior cornea = bright, very small, virtual, upright; Anterior lens = faint, largest, virtual, upright; Posterior lens = faintest, smallest, real, inverted.
+Definition: Reflections formed by ocular surfaces.
+Anterior Cornea: Brightest; small; virtual; upright.
+Posterior Cornea: Bright; very small; virtual; upright.
+Anterior Lens: Faint; largest; virtual; upright.
+Posterior Lens: Faintest; smallest; real; inverted.
 
 Neutral Density (ND) Filters
+
 2 of 14
-Equally transmit all wavelengths of light; used to quantify an APD by placing ND filter over the good eye until RAPD neutralizes.
+Property: Equally transmit all wavelengths of light.
+Clinical Use: Quantify an afferent pupillary defect (APD).
+Method: Place ND filter over the good eye until RAPD neutralizes.
 
 Pulfrich Phenomenon
 3 of 14
-ND filter over one eye causes delayed neural signal producing apparent elliptical motion of a pendulum; right eye ND → counterclockwise ellipse, left eye ND → clockwise; can occur naturally with cataract or media opacity.
+Mechanism: ND filter over one eye delays neural transmission.
+Effect: Pendulum appears to move in an elliptical path.
+Direction: Right eye ND → counterclockwise ellipse; left eye ND → clockwise.
+Clinical Relevance: Can occur naturally with cataract or other media opacity.
 
 Optical Filter Types
 4 of 14
-Broad-band = transmits large wavelength range; Narrow-band = transmits small wavelength range; Long-pass = transmits only long wavelengths; Interference filters transmit a single wavelength via destructive interference.
+Broad-Band: Transmits a large range of wavelengths.
+Narrow-Band: Transmits a small range of wavelengths.
+Long-Pass: Transmits only long wavelengths.
+Interference Filters: Transmit a single wavelength via destructive interference.
 
 Köllner’s Rule
 5 of 14
-Optic nerve pathology typically causes red-green defects, retinal pathology causes blue-yellow defects; exception is glaucoma, which is optic nerve disease with early blue-yellow loss.
+Optic Nerve Disease: Red–green color defects.
+Retinal Disease: Blue–yellow color defects.
+Exception: Glaucoma — optic nerve disease with early blue–yellow loss.
 
 Troxler Effect
 6 of 14
-Stationary peripheral objects fade from perception due to neural adaptation; micro-saccades normally prevent this fading.
+Phenomenon: Stationary peripheral objects fade from perception.
+Cause: Neural adaptation.
+Prevention: Micro-saccades normally prevent fading.
 
 Broca–Sulzer Effect
 7 of 14
-Brief flashes of light lasting approximately 50–100 ms appear brighter than shorter, longer, or continuous stimuli.
+Finding: Brief flashes appear brighter than continuous light.
+Timing: Peak brightness at approximately 50–100 milliseconds.
 
 Brücke–Bartley Effect
 8 of 14
-Flickering light appears brighter than steady illumination of the same physical intensity.
+Finding: Flickering light appears brighter than steady illumination of equal physical intensity.
 
 Stiles–Crawford Effect
 9 of 14
-Light entering the eye perpendicular to photoreceptors is perceived as brighter due to optimized cone waveguiding.
+Principle: Light entering perpendicular to photoreceptors is perceived as brighter.
+Mechanism: Optimized cone waveguiding.
 
 Maxwell Spot
 10 of 14
-Central red spot perceived when viewing mixed blue and red light due to macular pigment selectively absorbing blue wavelengths.
+Appearance: Central red spot.
+Mechanism: Macular pigment selectively absorbs blue wavelengths when viewing mixed red and blue light.
 
 Moore’s Lightning Streaks
 11 of 14
-Flashes of light associated with posterior vitreous detachment or retinal detachment caused by vitreoretinal traction.
+Description: Brief flashes of light.
+Cause: Vitreoretinal traction.
+Associations: Posterior vitreous detachment or retinal detachment.
 
 Contrast Sensitivity
 12 of 14
-Measured in log units; normal adult threshold approximately 1.65, decreases with age; optic neuritis commonly causes reduced contrast sensitivity.
+Measurement: Log units.
+Normal Adult Threshold: ~1.65.
+Trends: Decreases with age.
+Clinical Association: Reduced in optic neuritis.
 
 Spatial Frequency Conversion
 13 of 14
-Divide cycles per degree by 30 to estimate the Snellen denominator.
+Rule: Divide cycles per degree by 30.
+Purpose: Estimate the Snellen denominator.
 
 Color Vision Disorders & Testing
 14 of 14
-Approximately 8% of males affected (deutan most common); Achromatopsia = absent cone function, poor visual acuity, severe photophobia, pendular nystagmus, normal rod ERG with absent cone response; Nagel anomaloscope is the only test that differentiates anomalous trichromats from dichromats; mixture field norms: Normal = 45/17, Protanope = 73/0 or 0/87, Deuteranope = 0–73/17, Protanomalous = >45/10, Deuteranomalous = <45/17.
+Epidemiology: ~8% of males affected; deutan defects most common.
+Achromatopsia: Absent cone function; poor visual acuity; severe photophobia; pendular nystagmus; normal rod ERG with absent cone response.
+Key Test: Nagel anomaloscope — only test that differentiates anomalous trichromats from dichromats.
+Mixture Field Norms:
+• Normal: 45/17
+• Protanope: 73/0 or 0/87
+• Deuteranope: 0–73/17
+• Protanomalous: >45/10
+• Deuteranomalous: <45/17
