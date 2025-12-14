@@ -34,7 +34,7 @@ Signs: Low AC/A; lead of accommodation; reduced NBO with normal or reduced DBO; 
 Treatment: Fully correct myopes; under-correct hyperopes; refer for vision therapy; near reading glasses with BI prism may help.
 Follow-Up: PRN.
 
-Convergence Exces
+Convergence Excess
 6 of 34
 Definition: Eso posture at near with normal distance posture; typically high AC/A.
 Symptoms: Similar to CI (near strain/blur/diplopia).
@@ -123,7 +123,7 @@ Follow-Up: Based on underlying condition.
 
 Congenital Nystagmus (FUNBLOCS)
 17 of 34
-Pattern (FUNBLOCS): Fixation worsens; Upgaze remains horizontal; Null point present; Bilateral & conjugate; Latent component; OKN response NOT superimposable; Convergence dampens; Symptomless.
+Pattern: (FUNBLOCS) Fixation worsens; Upgaze remains horizontal; Null point present; Bilateral & conjugate; Latent component; OKN response NOT superimposable; Convergence dampens; Symptomless.
 Treatment: Prism to optimize null point; full refractive correction.
 
 Drug-Induced Nystagmus (Vertical Downbeat)
@@ -144,10 +144,9 @@ Signs: Ipsilateral eye cannot adduct or abduct; contralateral eye can only abduc
 
 Bilateral INO (BINO)
 21 of 34
-Definition: Neither eye can adduct; both eyes abduct with nystagmus.
-Convergence: May be intact or impaired.
+Definition: Neither eye can adduct; both eyes abduct with nystagmus. Convergence may be intact or impaired.
 
-WEBINO (“Wall-Eyed” Bilateral INO
+WEBINO (“Wall-Eyed” Bilateral INO)
 22 of 34
 Lesion: Rostral midbrain.
 Signs: Bilateral INO + bilateral exotropia + abducting nystagmus + convergence deficit.
@@ -210,7 +209,7 @@ Key Point: Listed as the most common muscular dystrophy in adults; included here
 Kearns–Sayre Syndrome
 33 of 34
 Definition: Mitochondrial DNA dysfunction.
-Triad (as listed): Cardiac conduction defects + pigmentary retinopathy + CPEO.
+Triad: Cardiac conduction defects + pigmentary retinopathy + CPEO.
 Treatment: Treat exposure keratopathy; pacemaker for cardiac conduction issues.
 Follow-Up: Depends on ocular findings/systemic status.
 
