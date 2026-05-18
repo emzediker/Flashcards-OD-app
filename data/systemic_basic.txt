@@ -264,7 +264,7 @@ In a ___________ reaction a water molecule breaks down a larger compound into sm
 
 hydrolysisIn general "lysis" means to break down or split.
 
-In _______ synthesis reaction a water molecule is formed as two molecules are joined together.
+In a _______ synthesis reaction a water molecule is formed as two molecules are joined together.
 51 of 95
 
 dehydration
@@ -280,7 +280,7 @@ Due to its polarity _____ is considered a very effective solvent.
 water
 It is called the "universal" solvent.
 
-A _______ is a substance that breaks down compounds in a solution.
+A _______ is a substance that breaks down or dissolves compounds in a solution.
 54 of 95
 
 solvent
@@ -320,7 +320,7 @@ Venous blood has a more acidic pH due to the influx of carbon dioxide.
 The pH of blood is lower (more acidic) in venous blood than in arterial blood due to the presence of carbon dioxide which is carried in the blood as _________ acid.
 61 of 95
 
-carbonicAnother way of saying carbonic acid is carbonate.
+carbonicAnother way of saying carbonic acid is dihydrogen carbonate.
 
 Glucose, fructose, and galactose are (hexose/pentose) monosaccharides, and ribose and deoxyribose are (hexose/pentose) monosaccharides.
 62 of 95
@@ -360,7 +360,7 @@ Saturated ; lack - "S"aturated fats have "S"ingle bonds only and are "S"olid.
 A phospholipid is composed of 2______ , 1______, and 1 _____.
 69 of 95
 
-fatty acids ; phosphate group and nitrogen ; glycerolPhospholipids make cell membranes.
+fatty acids ; phosphate group and nitrogen (sometimes) ; glycerolPhospholipids make cell membranes.
 
 A phospholipid has a (hydrophilic/hydrophobic) head and (hydrophilic/hydrophobic) tails.
 70 of 95
@@ -395,7 +395,7 @@ domainsOften these are called "functional domains."
 ________ inside of cells direct the folding of proteins into their necessary final structures.
 76 of 95
 
-Chaperones aka chaperonins - They keep protein folding in line, like chaperones at a party.
+Chaperones called chaperonins - They keep protein folding in line, like chaperones at a party.
 
 The native states of (structural/functional) proteins are often globular and soluble. The native states of (structural/functional) proteins are often fibrous, insoluble and stable.
 77 of 95
@@ -416,7 +416,7 @@ cysteine ; sulfurThe sulfur elements can link to form bonds.
 The links found in cysteine residues of keratin molecules are made of ______ bonds.
 80 of 95
 
-disulfideKeratin is made by keratinocytes and can be found in the corneal stroma.
+disulfideKeratin is made by keratinocytes which are also cells that can be found in the corneal stroma.
 
 DNA and RNA are made of these 3 molecules:
 81 of 95
@@ -459,7 +459,7 @@ Enzymatic reactions release the energy stored in ADP by splitting it into _____.
 
 AMP and phosphateEnergy is released by removing a phosphate from ATP or ADP.
 
-After prolonged exercise, if ATP is low, muscles can use ______ for extra energy.
+After exercise, if ATP is low, muscles can use ______ for extra energy.
 89 of 95
 
 creatine phosphateThere is also a build up of lactic acid in the muscle when this occurs.
@@ -467,7 +467,7 @@ creatine phosphateThere is also a build up of lactic acid in the muscle when t
 The energy from creatine phosphate can create ____ from ___.
 90 of 95
 
-ATP from ADP - This pathway is used at times of prolonged exercise.
+ATP from ADP - This pathway is used at times of exercise.
 
 ATP can be used to form _____ which is used as an intracellular signal / second messenger.
 91 of 95
