@@ -65,9 +65,9 @@ Each heme group is bound to an ___ ion.
 16 of 229
 Iron (Fe)Therefore if iron is deficient this can cause an anemia.
 
-Each hemoglobin can bind to ___ oxygen or ___ carbon dioxide.
+Each hemoglobin has __ oxygen binding sites on heme iron.
 17 of 229
-4 ; 4
+4
 
 Hemoglobin + 4 oxygen =
 18 of 229
@@ -169,7 +169,7 @@ A (monocyte/lymphocyte) is an agranulocyte that secretes antibodies.
 42 of 229
 lymphocyteSpecifically mature B cells called plasma cells.
 
-A (monocyte/lymphocyte) is a granulocyte that is phagocytic to bacteria, debris, and cancer cells.
+A (monocyte/lymphocyte) is a cell that is phagocytic to bacteria, debris, and cancer cells.
 43 of 229
 monocyte
 
@@ -255,7 +255,7 @@ no antigen ; A and B
 
 Type ___ blood is the universal donor and type ___ blood is the universal acceptor.
 64 of 229
-O ; AB
+O negative ; AB positive
 
 Rh (negative/positive) blood has an Rh antigen on its red blood cells and Rh (negative/positive) blood does not have an Rh antigen on its red blood cells.
 65 of 229
@@ -313,9 +313,9 @@ The role of thrombin is to convert ______ to _____ to form clots.
 78 of 229
 fibrinogen ; fibrin
 
-Heparin in the blood acts as an anti_____.
+Heparin in the blood acts to enhance anti_____.
 79 of 229
-thrombinHeparin is a natural blood thinner and prevents clot formation.
+thrombin IIIHeparin is a natural blood thinner and prevents clot formation.
 
 Rough blood vessel endothelium and slow blood flow both favor _______ formation.
 80 of 229
@@ -369,11 +369,11 @@ Sickle cell anemia and thalassemia are both ____ anemias.
 92 of 229
 hemolyticThey result in breakdown of RBC's earlier than the normal 120 day cycle.
 
-Leukocytosis is a hallmark of all ______.
+Leukocytosis may be a hallmark of ______.
 93 of 229
 leukemias
 
-In (acute/chronic)(lymphocytic/myeloid) leukemia malignant precursor B lymphocytes exist in excess. Symptoms are typically mild.
+In (acute/chronic)(lymphocytic/myeloid) leukemia malignant mature-appearing B lymphocytes exist in excess. Symptoms are typically mild.
 94 of 229
 chronic lymphocyticMany chronic processes start with mild symptoms.
 
