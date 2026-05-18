@@ -3,7 +3,7 @@ Cardiovascular System272 flashcards
 
 Anatomically the heart lies within the _______ between ribs numbered ____ and 2/3's of the heart is to the (left/right) of the midline.
 1 of 272
-mediastinum ; 2-6; leftThis is why the right lung has 3 lobes & the left lung only has 2.
+mediastinum ; 2-5; leftThis is why the right lung has 3 lobes & the left lung only has 2.
 
 The sac that covers the heart is called the _______.
 2 of 272
@@ -135,7 +135,7 @@ ventriclesRelaxation decreases pressure in the ventricles.
 
 Contraction of the ventricles of the heart (opens/closes) the atrioventricular tricuspid and bicuspid valves.
 34 of 272
-closesThis prevents blood from flowing back into the atria it come from.
+closesThis prevents blood from flowing back into the atria it came from.
 
 The (atrioventricular/semilunar) valves prevent backflow from the pulmonary arteries and aortic trunk into the ventricles.
 35 of 272
@@ -169,7 +169,7 @@ Cardiac veins drain in the (left/right)(atrium/ventricle).
 42 of 272
 right atrium
 
-_____ is a type of radiography that allows for visualization of arteries using a dye.
+_____ is a type of radiography that allows for visualization of blood vessels using a dye.
 43 of 272
 Angiography
 
@@ -207,7 +207,7 @@ Veins
 
 All of the veins except ____ vein carry deoxygenated blood.
 52 of 272
-pulmonaryPulmonary vein carries oxygenated blood to the right atrium.
+pulmonaryPulmonary vein carries oxygenated blood to the left atrium.
 
 The four main components of blood vessel walls are:
 53 of 272
@@ -225,15 +225,15 @@ The tunica (externa/media/intima) is made of collagen, and the tunica (externa/m
 56 of 272
 externa ; media ; intima
 
-The tunica externa is also called (tunica adventitia / internal elastic membrane) and the tunica interna is also called the (tunica adventitia / internal elastic membrane).
+The tunica externa is also called (tunica adventitia / internal elastic lamina) and the tunica interna is also called the (tunica adventitia / internal elastic lamina).
 57 of 272
-tunica adventitia ; internal elastic membrane
+tunica adventitia ; internal elastic lamina
 
 The left subclavian artery and common carotid branch off of the ____ and the right subclavian and common carotid branch off of the _____.
 58 of 272
 aorta ; brachiocephalic artery
 
-The ____ aorta is the first branch off of the left atrium. Then it changes to the aortic ____ followed by the ____ aorta.
+The ____ aorta is the first branch off of the left ventricle. Then it changes to the aortic ____ followed by the ____ aorta.
 59 of 272
 ascending ; arch ; descending
 
@@ -243,7 +243,7 @@ thoracic ; abdominal
 
 The right and left vertebral arteries branch off of their respective _____ arteries and ascend up the neck through the _____ foramen of the (cervical/thoracic) vertebrae.
 61 of 272
-subclavian ; vertebral ; cervical
+subclavian ; transverse ; cervical
 
 The right and left vertebral arteries unite at the brainstem to form the ______ artery.
 62 of 272
@@ -299,7 +299,7 @@ veinsMost veins carry deoxygenated blood otherwise.
 
 The opening between the right and left atrium of a fetus is called foramen _____.
 75 of 272
-ovaleIt is in the fetal atrioventricular septum.
+ovaleIt is in the fetal interatrial septum.
 
 Foramen ovale is an opening in the septum between the right and left (atrium/ventricles) of a fetus.
 76 of 272
@@ -335,7 +335,7 @@ ligamentum arteriosum
 
 The hardening of the arteries is called ______.
 84 of 272
-atherosclerosis
+arteriosclerosis
 
 Inflamed pericardium is called _____.
 85 of 272
@@ -493,9 +493,9 @@ At the end of the P wave, the atria are (relaxed/contracted).
 123 of 272
 contracted
 
-At the end of the QRS complex, the atria are completely (contracted/relaxed) and the ventricles are completely (contracted/relaxed).
+At the end of the QRS complex, the atria are completely (contracted/relaxed) and the ventricles are beginning (contraction/relaxation).
 124 of 272
-relaxed ; contracted
+relaxed ; contraction
 
 The QRS complex represents (atrial/ventricular) depolarization and  (atrial/ventricular) repolarization.
 125 of 272
@@ -543,7 +543,7 @@ semilunarEjection refers to blood movement out of the heart.
 
 (Ejection/Residual) volume is the quantity of blood that remains in the ventricles at the end of the ejection period.
 136 of 272
-ResidualThe ventricle is not able to pump out every drop of blood, some is left.
+Residual aka end-systolic volumeThe ventricle is not able to pump out every drop of blood, some is left.
 
 In heart failure (ejection/residual) volume is greater than (ejection/residual) volume.
 137 of 272
@@ -565,9 +565,9 @@ Incomplete valve closure is called (insufficiency/stenosis) and constricted or n
 141 of 272
 insufficiency ; stenosisAn insufficient valve is leaky & a stenosed valve prevents blood flow.
 
-Resistance to blood flow in the aorta is ____.
+Resistance to blood flow (greatest/least) in the aorta.
 142 of 272
-zero
+least
 
 The greatest resistance to blood flow occurs in the (veins/arteries/capillaries/arterioles/venules).
 143 of 272
@@ -597,7 +597,7 @@ Cardiac output = ___ x ___.
 149 of 272
 stroke volume x heart rate
 
-Cardiac output increases with (increased/decreased) stroke volume and (increased/decreased) stroke volume.
+Cardiac output increases with (increased/decreased) stroke volume and (increased/decreased) heart rate.
 150 of 272
 increased ; increasedMore heart beats that pump out more blood increase cardiac output.
 
@@ -717,7 +717,7 @@ Which are chemoreceptors most sensitive to, levels of carbon dioxide or levels o
 179 of 272
 carbon dioxideThey are more likely to respond to high CO2 than to low O2.
 
-Nitrous oxide and endothelin are (systemic/local) mediators of vasoconstriction or dilation.
+Nitric oxide and endothelin are (systemic/local) mediators of vasoconstriction or dilation.
 180 of 272
 localThey do not require the vasomotor brain reflex loop to act.
 
@@ -749,9 +749,9 @@ Antidiuretic hormone is released from the (anterior/posterior) pituitary and tar
 187 of 272
 posterior ; kidneyIt is made in the hypothalamus.
 
-With stimulation by antidiuretic hormone, the kidney (decreases/increases) reabsorption of water from the blood resulting in an (increase/decrease) of blood volume and an (increase/decrease) of blood pressure.
+With stimulation by antidiuretic hormone, the kidney (decreases/increases) reabsorption of water from urine into the blood resulting in an (increase/decrease) of blood volume and an (increase/decrease) of blood pressure.
 188 of 272
-decreases ; increase ; increase
+increase ; increase ; increase
 
 Antidiuretic hormone (concentrates/dilutes) the urine.
 189 of 272
@@ -895,7 +895,7 @@ left ventricle
 
 Congestive heart failure is (left/right) sided heart failure and pulmonary edema is due to (left/right) sided heart failure.
 224 of 272
-left ; right
+left ; left
 
 (Left/Right) sided heart failure can cause (left/right) sided heart failure, however, the opposite is not true.
 225 of 272
@@ -929,7 +929,7 @@ Anaphylactic
 232 of 272
 Septic
 
-The range of stage 1 hypertension is ________. Stage 2 hypertension is greater than ____ and Stage 3 hypertension is greater than ___.
+The range of stage 1 hypertension is ________. Stage 2 hypertension is greater than ____ and Stage 3 hypertension aka hypertensive crisis is greater than ___.
 233 of 272
 130-139 and/or 80-89 ; 140 and/or 90 ; 180 and/or 120. - The 1st number is the systolic pressure and the 2nd is the diastolic.
 
@@ -993,7 +993,7 @@ Superficial cervical lymph nodes are in the neck along the _______ muscle.
 248 of 272
 sternocleidomastoid
 
-The superficial cubital muscle is at the bend of the ____.
+The cubital lymph nodes are at the bend of the ____.
 249 of 272
 elbow
 
@@ -1035,7 +1035,7 @@ thymusThymus enlargement can be a characteristic of myasthenia gravis.
 
 The thymus is the final site of _____ development before birth. It also secretes thymosin and other regulators to enable lymphocytes to develop into (B/T) cells.
 259 of 272
-lymphocyte ; T
+T cell lymphocyte ; T
 
 The (white/red) pulp of the spleen is found on the interior and the (white/red) pulp of the spleen is found on the exterior.
 260 of 272
@@ -1065,9 +1065,9 @@ Obstruction of the lymphatic vessels results in (swelling/shrinking) of tissues,
 266 of 272
 swelling ; lymphedema
 
-Lymphangitis is (shrinking/swelling) of the lymph nodes that occurs from an infection.
+Lymphangitis is (shrinking/swelling) of the lymphatic vessels that occurs from an infection.
 267 of 272
-swellingLymph nodes swell as they become active to fight infection.
+swellingLymphadenitis is when lymph nodes also swell as they become active to fight infection.
 
 Septicemia is an infection of ______.
 268 of 272
