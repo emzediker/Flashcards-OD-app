@@ -33,7 +33,7 @@ Poly_____ occurs when red blood cells and subsequent hematocrit values are high.
 8 of 229
 cythemiaPatients with polycythemia are more likely to have blood clots.
 
-The _________ is a lab value that measures the rate that certain formed elements of the blood fall n 1 hour in an anticoagulated blood sample.
+The _________ is a lab value that measures the rate that certain formed elements of the blood fall in 1 hour in an anticoagulated blood sample.
 9 of 229
 Erythrocyte Sedimentation Rate (ESR)It is a general measure of inflammation.
 
@@ -391,7 +391,7 @@ acute myeloidAcute conditions often have a sudden onset of symptoms.
 
 In infectious ______ there is leukocytosis of noncancerous origin.
 98 of 229
-mononucleosis
+Epstein-Barr virus mononucleosis
 
 A clot that travels is called a (embolism/thrombus) and a clot that stays where it is formed is called a (embolism/thrombus).
 99 of 229
@@ -441,7 +441,7 @@ Macrophages and neutrophils are both _______ of the innate immune system.
 110 of 229
 phagocytes
 
-Interleukins, leukotrienes, and interferons are all _____.
+Interleukins and interferons are both _____.
 111 of 229
 cytokines
 
@@ -459,7 +459,7 @@ innate ; acquired
 
 Dendritic cells are ______ cells in the ____.
 115 of 229
-phagocyte ; skin
+antigen-presenting cells ; skin
 
 (Neutrophils/Macrophages/Natural killer cells) are usually the first to arrive at an inflammatory response and are (granular/agranular) phagocytes.
 116 of 229
@@ -485,7 +485,7 @@ The first line of defense of the innate immune system is the ______.
 121 of 229
 skin and mucous membranes
 
-In the stomach _____ acid in the gastric mucous can destroy pathogens as part of the (innate/acquired) immune system.
+In the stomach _____ acid in the gastric mucus can destroy pathogens as part of the (innate/acquired) immune system.
 122 of 229
 hydrochloric ; innateGastric pH is very low.
 
@@ -521,7 +521,7 @@ The movement of phagocytes from blood vessels to the site of inflammation is cal
 130 of 229
 diapedesis
 
-________ complexes are proteins present on all normal self-cells.
+________ complexes are proteins present on normal self-cells.
 131 of 229
 Major histocompatibilityThis protects the body from attacking itself.
 
@@ -561,7 +561,7 @@ Toll
 140 of 229
 B
 
-(T/B) cells attack foreign cells and (T/B) cells do not attack foreign cells.
+(T/B) cells attack foreign cells and (T/B) cells do not directly attack foreign cells.
 141 of 229
 T ; B - B cells do, however, make antibodies specific to an antigen.
 
@@ -649,7 +649,7 @@ The 5 classes of antibodies are Ig:
 162 of 229
 A, D , E , G , M
 
-Ig____ is made by immature B cells.
+Ig____ is made by naive mature B cells.
 163 of 229
 M
 
@@ -705,7 +705,7 @@ In the process of ______ a membrane attack complex formed by complement activati
 176 of 229
 cytolysisThe suffix lysis means to break.
 
-The (classical/alternate) pathways of immunity involves antibodies and the (classical/alternate) pathways of immunity involves complement.
+The (classical/alternate) complement pathway of immunity involves antibodies and the (classical/alternate) complement pathway of immunity does not.
 177 of 229
 classical ; alternate
 
@@ -759,7 +759,7 @@ effector
 
 Memory T cells remain in the _____ and proliferate when needed.
 190 of 229
-bone marrow
+lymphoid tissue
 
 ____ released from T cells attract other leukocytes via chemotaxis.
 191 of 229
@@ -859,7 +859,7 @@ CD4 helper T
 
 _____________ is a protozoal infection of the lungs often associated with AIDS patients due to their impaired immunity.
 215 of 229
-pneumocystis jiroveci pneumonia
+pneumocystis jirovecii pneumonia
 
 ________ sarcoma is a skin cancer characterized by purple lesions that is often associated to AIDS patients due to their impaired immunity.
 216 of 229
@@ -903,7 +903,7 @@ anterior pituitary ; ACTH (adrenocorticotropic hormone)
 
 ACTH from the ______ stimulates the _____ to release _____.
 226 of 229
-anterior pituitary ; adrenal cortex ; cortisol and aldosterone
+anterior pituitary ; adrenal cortex ; cortisol
 
 The fight-or-flight reaction is a (cholinergic/adrenergic) response to stress.
 227 of 229
