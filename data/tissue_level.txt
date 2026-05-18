@@ -73,7 +73,7 @@ The vesicles that fuse from the Golgi apparatus and carry proteins to be transpo
 ______ organelles come from the Golgi apparatus and are filled with enzymes that break down cellular proteins and defective organelles.
 14 of 248
 
-LysosomesThey are filled with "digestive" enzymes called lysozymes.
+LysosomesLysozymes are a type of enzyme that can be found in lysosomes.
 
 ________ are responsible for breaking down misfolded proteins from the endoplasmic reticulum one at a time.
 15 of 248
@@ -91,7 +91,7 @@ _______ are organelles that play a role in detoxifying substances in a cell.
 Peroxisomes
 Peroxisomes detoxify and lysosomes digest.
 
-The enzymes peroxidase and catalase are found in ____ and use ____ to detoxify substances.
+The enzymes peroxidase and catalase are found in ____ and utilize ____ to detoxify substances.
 18 of 248
 
 peroxisomes ; peroxide (H2O2)
@@ -185,7 +185,7 @@ The proteins myosin, kinesin, and dynein are all examples of molecular ______ th
 
 motorsThese molecular motor proteins often run on microtubule tracks.
 
-_______ are fingerlike  extensions from the cell membrane made of microtubules that are involved in cell movement and absorption.
+_______ are fingerlike  extensions from the cell membrane made of actin microfilaments and are involved in cell movement and absorption.
 36 of 248
 
 MicrovilliMicrovilli are common in the small intestine.
@@ -266,7 +266,7 @@ Lipid hormones can travel through a membrane because it is also lipid.
 Small water channels in cell membranes called _________ are responsible for osmosis.
 51 of 248
 
-aquaporinsOsmosis is the movement of water from a hypertonic to a hypotonic area.
+aquaporinsOsmosis is the movement of water from a hypotonic area to a hypertonic area.
 
 Water pressure that develops as a result of osmosis is called ______pressure.
 52 of 248
@@ -379,10 +379,10 @@ Digestive enzymes fall into a category of enzymes called (phosphorylases/hydrase
 
 hydrolases
 
-Enzymes that add or remove a phosphate group are called _________.
+Enzymes that add or remove a phosphate group respectively are called _________.
 73 of 248
 
-phosphorylases or phosphatasesThese are common in the glucose cellular respiration cycle.
+kinases or phosphatasesThese are common in the glucose cellular respiration cycle.
 
 Carboxylase or decarboxylase enzymes add or remove _______ from a substance.
 74 of 248
@@ -414,7 +414,7 @@ endThis is a type of negative feedback.
 
 KinaseKinases add phosphate to molecules and phosphatases remove phosphate.
 
-The process that breaks down glucose into water and carbon dioxide in cells is called _________.
+The process that breaks down glucose into water, ATP and carbon dioxide in cells is called _________.
 80 of 248
 
 cellular respiration Glucose is broken down to create energy in the form of ATP.
@@ -422,7 +422,7 @@ cellular respiration Glucose is broken down to create energy in the form of AT
 The three pathways of cellular respiration are :
 81 of 248
 
-Glycolysis, citric acid cycle(aka Krebs or TCA, and electron transport system
+Glycolysis, citric acid cycle(aka Krebs or TCA), and electron transport system
 
 In glycolysis, glucose is turned into two 3-carbon molecules of ______.
 82 of 248
@@ -456,12 +456,12 @@ To enter the citric acid cycle, pyruvate formed from glycolysis must be transfor
 
 Acetyl CoAIf oxygen is not available, pyruvate changes into lactate otherwise.
 
-During the electron transport system, hydrogen atoms are moved from the (outer/inner) mitochondrial chamber to the (outer/inner) mitochondrial chamber to create a concentration gradient.
+During the electron transport system, hydrogen atoms (protons) are moved from the (outer/inner) mitochondrial chamber to the (outer/inner) mitochondrial chamber to create a concentration gradient.
 88 of 248
 
-inner ; outerThe concentration gradient is later used to drive ATP production.
+inner ; outerThe concentration gradient is later used to drive ATP production. Another way of stating this is: protons are moves from the matrix to intermembrane space.
 
-When protons from the the electron transport chain move from the outer to the inner chamber they pass through the membranous enzyme _______ which creates ATP.
+When protons from the the electron transport chain move from the outer intermembranse space to the inner matrix chamber they pass through the membranous enzyme _______ which creates ATP.
 89 of 248
 
 ATP synthaseHydrogen atoms are often referred to as "protons.”
@@ -469,7 +469,7 @@ ATP synthaseHydrogen atoms are often referred to as "protons.”
 Aerobic respiration forms ___ ATP molecules. ___ are from glycolysis and ___ are from Krebs / electron transport.
 90 of 248
 
-36 ; 2 ; 34
+36 although some more modern texts will state 30-32 ; 2 ; 34
 
 The final electron acceptor in the electron transport system is (carbon/oxygen/hydrogen/ATP).
 91 of 248
@@ -549,7 +549,7 @@ ______ are cellular structures that break down unfolded or misfolded proteins to
 
 ProteasomesAnd lysosomes are also structures that break down cellular debris.
 
-Defective proteins can form ____ such as those found in Alzheimer’s disease and Parkinson’s disease.
+Defective proteins can form ____ such as those found in Alzheimer’s disease and Lewy bodies in Parkinson’s disease.
 105 of 248
 
 plaques
@@ -563,7 +563,7 @@ proteinsAnd proteasomes are structures that breakdown proteins.
 Which is greater, the human proteome or human genome?
 107 of 248
 
-ProteomeDifferent combinations of the same genes can form different proteins.
+ProteomeDifferent combinations of the same genes can form different proteins vis splicing and post-translational modifications.
 
 True or False: Only cells are able to replicate themselves.
 108 of 248
@@ -588,7 +588,7 @@ S (synthesis)
 During the S phase, the two daughter DNA of the original parent DNA are called (chromatids/chromosomes).
 112 of 248
 
-chromatidsChromosomes are condensed forms of DNA compared to chromatids.
+chromatidsChromatids are themselves chromosomes copies connected by centromeres.
 
 Chromatids are attached by a ______.
 113 of 248
@@ -620,7 +620,7 @@ _____phase is the phase in a cell life cycle where there is growth, but no activ
 
 Interphase - Interphase is like an intermission from division.
 
-During _____phase of cell division, the nuclear envelope disappears and chromatids condense into chromosomes that move toward opposite ends of the cell. Also microtubules, centrioles and asters begin to organize.
+During _____phase of cell division, the nuclear envelope disappears and chromatids condense into chromosomes that will eventually move toward opposite ends of the cell. Also microtubules, centrioles and asters begin to organize.
 119 of 248
 
 prophase
@@ -716,7 +716,7 @@ neoplasm - "Neo" typically means "new."
 A malignant neoplasm has the ability to travel in the ______.
 137 of 248
 
-bloodIt can also travel in lymph nodes and create new tumors elsewhere.
+bloodIt can also travel in lymphatics and body cavities and create new tumors elsewhere.
 
 (Anaplasia/Dysplasia) is when a cell does not differentiate into its expected cell type and (anaplasia/dysplasia) is when as cell has an abnormal change in shape or size.
 138 of 248
@@ -793,7 +793,7 @@ proteoglycan
 Hyaluronate, heparin, and chondroitin sulfate are all ________ in the extracellular matrix.
 152 of 248
 
-proteoglycans
+glycosaminoglycans
 
 (Collagen/Elastin/Fibronectin/Laminin) is found in tendons, bones, ligaments, and cartilage and provides flexible strength.
 153 of 248
@@ -850,7 +850,7 @@ Interstitial
 The basement membrane is made of the _____ lamina formed from the overlying epithelium cells and the _______ formed from the underlying connective tissue.
 163 of 248
 
-basal ; fibroreticularisBoth overlying & underlying structures contribute to the basal lamina.
+basal ; fibroreticularis aka reticular laminaBoth overlying & underlying structures contribute to the basal lamina.
 
 Epithelial tissues are (vascular/avascular).
 164 of 248
@@ -948,7 +948,7 @@ Transitional
 Stratified ______ epithelium is found in sweat glands, mammary glands, pharynx, epiglottis and male urethra.
 182 of 248
 
-Cuboidal
+squamous
 
 (Endocrine/Exocrine) glands discharge products into ducts and (endocrine/exocrine) glands are ductless and secrete into blood or interstitial fluid.
 183 of 248
@@ -989,7 +989,7 @@ mesenchyme ; mesoderm
 Reticular fibers are (strong/weak) structures in capillaries and nerve fibers that are made up of the protein ______.
 190 of 248
 
-Weak ; reticulin
+Weak ; reticulin and type III collagen
 
 By interacting with hyaluronic acid, the enzyme _____ can change  the consistency of loose areolar connective tissue to make it thinner.
 191 of 248
@@ -1014,7 +1014,7 @@ Adipose ; adipocytes
 Mast cells release (histamine/leukotrienes) resulting in hay fever and they release (histamine/leukotrienes) resulting in asthma.
 195 of 248
 
-histamines ; leukotrienesRelease is triggered by increased cellular calcium levels.
+histamine ; leukotrienesRelease is triggered by increased cellular calcium levels.
 
 (Adipose/Areolar/Reticular) tissue is a web-like network of fibers that forms framework for structures such as bone marrow and lymph nodes.
 196 of 248
@@ -1084,7 +1084,7 @@ marrow ; myeloid
 The only cell present in cartilage is a ______ which produces the cartilage.
 208 of 248
 
-chondrocyte
+chondrocyte, technically chondroblasts as well. 
 
 Cartilage is avascular and is covered with a vascular membrane called a ________.
 209 of 248
@@ -1151,7 +1151,7 @@ Smooth muscle has (one/many) nuclei per cells and skeletal muscle has (one/many)
 
 one ; many
 
-Cardiac muscle are characterized by the presence of ___________ disks which allow the heart to work as a syncytium.
+Cardiac muscle are characterized by the presence of ___________ discs which allow the heart to work as a syncytium.
 222 of 248
 
 intercalatedThis allows the heart to beat as one muscle.
@@ -1224,7 +1224,7 @@ Benign ; malignant
 Cancer cells migrate (metastasize) from primary tumors to secondary tumors via the __________.
 236 of 248
 
-blood and lymph nodes
+blood and lymphatic system
 
 Papilloma, adenoma, and nevi are all (malignant/benign) neoplasms.
 237 of 248
@@ -1241,7 +1241,7 @@ Carcinomas are (benign/malignant) neoplasms of ______ tissue.
 
 malignant ; epithelial
 
-Malignant tumors of connective tissues, such as lymphoma, are called _________.
+Malignant tumors of connective tissues are called _________.
 240 of 248
 
 sarcomas
