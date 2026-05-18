@@ -165,7 +165,7 @@ In an action potential, voltage gated Na+ channels open when the ______potential
 41 of 326
 threshold
 
-In an action potential, prior to the opening of voltage gated Na+, initial depolarization occurs due to opening of ____ gated ____ channels.
+In a typical action potential, prior to the opening of voltage gated Na+, initial depolarization occurs due to opening of ____ gated ____ channels.
 42 of 326
 ligand ; Na+ - The ligand acetylcholine can bind to a receptor & open Na+ channels.
 
@@ -187,7 +187,7 @@ K+ leaves
 
 Hyperpolarization is restored to resting membrane potential by the actions of _____.
 47 of 326
-The sodium-potassium pumpsThey pump 3 Na+ out of the cell and 2 K+ in.
+The sodium-potassium pumpsThey pump 3 Na+ out of the cell and 2 K+ in. They are also called Na+/K+ ATPase.
 
 In a neuronal action potential, all of the ligand and voltage gated ion channels have rapid responses with the exemption of the (ligand/voltage)gated (Na+/K+)channel.
 48 of 326
@@ -432,7 +432,7 @@ choroid plexuses ; subarachnoid
 
 The flow of cerebrospinal fluid starts in the (1st / 2nd / 3rd / 4th) ventricles by (astrocytes / ependymal / oligodendrocyte) cells.
 107 of 326
-3rd and 4th ; ependymalThe 1st and 2nd ventricles are the "lateral ventricles".
+1st and 2nd ; ependymalThe 1st and 2nd ventricles are the "lateral ventricles".
 
 Cerebrospinal fluid created by the lateral ventricles flows through the ________ foramen between the two ventricles and down the __________aqueduct to the 4th ventricle.
 108 of 326
@@ -472,7 +472,7 @@ inter
 
 The spinal cord ends at vertebrae ____.
 117 of 326
-L1
+L1 or L2
 
 The nerve roots that extend from the end of the spinal cord are called the _____.
 118 of 326
@@ -508,7 +508,7 @@ spinotectal ; superior colliculus
 
 _______ is the sensation of where one's body is in space.
 126 of 326
-Kinesthesia
+Proprioception
 
 The _________ tract is responsible for voluntary movement, especially for small muscle groups on the opposite side of the body.
 127 of 326
@@ -552,7 +552,7 @@ vestibular ; pons and medulla
 
 The three structures that form the brain stem are the ______.
 137 of 326
-midbrain , medulla oblongata, and the pons
+midbrain, pons and medulla oblongata
 
 ___ of the 12 cranial nerves emerge from the brainstem.
 138 of 326
@@ -666,7 +666,7 @@ The (midbrain/ cerebellum/thalamus/hypothalamus) is considered a relay station f
 165 of 326
 thalamus
 
-The supraoptic nuclei, paraventricular nuclei, and maxillary bodies are found in the (midbrain/cerebellum/thalamus/hypothalamus).
+The supraoptic nuclei, paraventricular nuclei, and mammillary bodies are found in the (midbrain/cerebellum/thalamus/hypothalamus).
 166 of 326
 hypothalamus
 
@@ -678,7 +678,7 @@ The neurohypophysis is the _____ gland.
 168 of 326
 pituitary
 
-The maxillary bodies are involved in the sense of (touch/sight/smell/taste).
+The mammillary bodies are involved in the sense of (touch/sight/smell/taste).
 169 of 326
 smell
 
@@ -740,7 +740,7 @@ basalGray matter is also in the cerebral cortex.
 
 The caudate nucleus, lentiform nucleus, and amygdaloid nucleus are all part of the (brainstem/cerebellum/diencephalon/cerebrum).
 184 of 326
-cerebrum
+cerebrumSpecifically, the limbic system / temporal lobe.
 
 The two structures of the lentiform nucleus of the cerebrum are the ____ and ____.
 185 of 326
@@ -814,7 +814,7 @@ spastic ; contraA stroke on the left hemisphere may cause right sided paralysi
 
 People with cerebral palsy suffer from (spastic/flaccid) paralysis due to loss of motor control areas in the brain typically at or shortly after birth.
 201 of 326
-spasticStokes cause flaccid paralysis.
+spastic
 
 Paralysis to one side of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to the lower half of the body is (quadriplegia/hemiplegia/paraplegia). Paralysis to all four extremities is (quadriplegia/hemiplegia/paraplegia).
 202 of 326
