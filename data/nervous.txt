@@ -26,11 +26,11 @@ autonomicSympathetic = fight or flight ; Parasympathetic = rest and digest
 
 The (sympathetic/parasympathetic) nerves exit the (upper/middle/lower) portion of the spinal cord and are responsible for our fight or flight response.
 7 of 326
-sympathetic ; middle
+sympathetic ; middleThis is called the "thoracolumbar" region.
 
 The (sympathetic/parasympathetic) nerves exit the (upper/middle/lower) portion of the spinal cord and are responsible for normal resting activities.
 8 of 326
-parasympathetic ; upper and lower
+parasympathetic ; upper and lowerThis is called the "craniosacral" region.
 
 Due to their ability to reproduce, most nervous system cancers come from (neurons/glial cells).
 9 of 326
@@ -64,7 +64,7 @@ OligodendrocytesIn the peripheral nervous system Schwann cells fulfill this ro
 16 of 326
 Schwann cellsIn the central nervous system oligodendrocytes fulfill this role.
 
-Spaces between the myelin sheath in the peripheral nervous system are called _____.
+Spaces between the myelin sheath in the nervous system are called _____.
 17 of 326
 Nodes of Ranvier - The nodes allow for quicker traveling potential via saltatory conduction.
 
@@ -99,7 +99,7 @@ Larger
 
 The myelin sheath is found on (axons/dendrites/both).
 25 of 326
-both-- but primarily axons
+both technically-- but primarily axons.
 
 (Bipolar/multipolar/unipolar) neurons have one axon and several dendrites. (Bipolar/multipolar/unipolar) neurons have one axon and one dendrite. (Bipolar/multipolar/unipolar) neurons are always sensory neurons conducting information toward the CNS.
 26 of 326
@@ -165,7 +165,7 @@ In an action potential, voltage gated Na+ channels open when the ______potential
 41 of 326
 threshold
 
-Prior to the opening of voltage gated Na+, initial depolarization occurs due to opening of ____ gated ____ channels.
+In an action potential, prior to the opening of voltage gated Na+, initial depolarization occurs due to opening of ____ gated ____ channels.
 42 of 326
 ligand ; Na+ - The ligand acetylcholine can bind to a receptor & open Na+ channels.
 
