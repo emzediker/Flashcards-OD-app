@@ -9,7 +9,7 @@ moreThis test decreases the distance between 2 points until they are felt as 1
 The three main types of sensory receptors are:
 2 of 72
 
-externoceptors, visceroceptors (aka interoceptors), and proprioceptors
+exteroceptors, visceroceptors (aka interoceptors), and proprioceptors
 
 (Externo/Intero/Proprio)ceptors sense pressure, touch, pain, and temperature.
 3 of 72
@@ -51,7 +51,7 @@ _______ceptors are activated by pain.
 
 Noci
 
-______receptors are found in the eye are activated by light.
+______receptors found in the eye are activated by light.
 11 of 72
 
 PhotoThe retinal photoreceptors are rods and cones.
@@ -64,7 +64,7 @@ OsmoOsmotic pressure is the force that pulls water toward high solute areas.
 Exteroreceptors, nociceptors, and visceroceptors have (encapsulated/free) nerve endings.
 13 of 72
 
-freeThis means they are not covered with myelin.
+free
 
 Nerve damage resulting in a decreased sensation, such as that which occurs in diabetes is called diabetic _______.
 14 of 72
@@ -101,10 +101,10 @@ The mechanical receptors in the mucous membranes that detect touch, vibration, a
 
 Bulboid (Krause)
 
-The mechanical receptors in the dermis responsible for the detection of crude and persistent touch are:
+The mechanical receptors in the dermis responsible for the detection of sustained pressure and joint movement touch are:
 21 of 72
 
-Bulbous (Ruffini)
+Ruffini
 
 The pressure and mechanical receptors in the dermis and joints which are responsible for deep pressure, vibration and stretch are ________ corpuscles.
 22 of 72
@@ -119,7 +119,7 @@ muscle spindles
 The stretch receptors responsible for sensing muscle tension in tendons are called _____.
 24 of 72
 
-Golgi tendon receptors
+Golgi tendon receptors/organs
 
 Striated muscle spindle fibers (intramural) contract when stimulated by (alpha/gamma) motor neurons and regular muscle fibers (extrafusal) contract when stimulated by (alpha/gamma) motor neurons.
 25 of 72
@@ -234,7 +234,7 @@ oval
 The eustachian tube extends from the (inner/middle/external) ear to the nasopharynx.
 47 of 72
 
-middleA infectious pharyngitis can travel to the ear through this tube.
+middleAn infectious pharyngitis can travel to the ear through this tube.
 
 The labyrinth of the ear is the (external/middle/inner) ear.
 48 of 72
@@ -291,10 +291,10 @@ Sound waves result in vibration of the stapes which articulates with the (oval/r
 
 oval ; round
 
-The vestibule of the inner ear is filled with ____lymph.
+The vestibule of the inner ear at the membranous labyrinth is filled with ____lymph.
 59 of 72
 
-endo
+endoAt the bony labyrinth it is filled with perilymph.
 
 (Dynamic/Static) equilibrium senses the position of the head relative to gravity or senses acceleration and deceleration.
 60 of 72
@@ -306,7 +306,7 @@ static
 
 Dynamic
 
-_____ are stones in the ear made of protein and calcium carbonate.
+_____ are stones in the ear made of protein and calcium carbonate crystals.
 62 of 72
 
 OtolithsDisplacement of otoliths can cause vertigo.
@@ -346,7 +346,7 @@ Tinnitus is ____ in the ear.
 
 ringing
 
-In presby______ there is age related hearing loss due to nerve impairment.
+In presby______ there is age related hearing loss.
 70 of 72
 
 Presbycusis
