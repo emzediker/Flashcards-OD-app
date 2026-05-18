@@ -808,9 +808,9 @@ A hemorrhage or cessation of blood flow through the cerebral blood vessels can r
 199 of 326
 stroke
 
-A stroke to a motor area of the brain will result in (spastic/flaccid) paralysis of the (contra/ipsi) lateral side of the body.
+In the acute phase, a stroke to a motor area of the brain will result in (spastic/flaccid) paralysis of the (contra/ipsi) lateral side of the body.
 200 of 326
-spastic ; contraA stroke on the left hemisphere may cause right sided paralysis.
+flacid ; contraA stroke on the left hemisphere may cause right sided paralysis.
 
 People with cerebral palsy suffer from (spastic/flaccid) paralysis due to loss of motor control areas in the brain typically at or shortly after birth.
 201 of 326
@@ -824,7 +824,7 @@ _______ is an inherited disease characterized by chorea (involuntary purposeless
 203 of 326
 Huntington diseaseHuntington disease is autosomal dominant and exhibits "anticipation."
 
-__________ is a degenerative brain disease caused by prions converting normal proteins into abnormal variants.
+__________ are examples of degenerative brain diseases caused by prions converting normal proteins into abnormal variants.
 204 of 326
 Bovine spongiform encephalopathy and Creutzfeldt-Jakob diseaseBSE is also called "mad cow" disease.
 
@@ -862,7 +862,7 @@ rami
 
 The (dorsal/ventral) ramus of a spinal nerve supplies innervation to muscle and skin. The (dorsal/ventral) ramus of a spinal nerve supplies innervation to autonomic effectors.
 213 of 326
-dorsal ; ventral
+dorsal ; ventral & dorsal
 
 The cervical and brachial plexus are formed by the (cervical/thoracic/lumbar/sacral) spinal nerves.
 214 of 326
@@ -923,11 +923,11 @@ oculomotor; motor innervation to the external eye muscles except superior obliqu
 
 CN lV comes from the ______ and innervates the ______ for ______.
 228 of 326
-midbrain ; superior oblique ; intorsion and depressing the eye
+midbrain ; superior oblique ; intorsion and depressing the eye in adduction.
 
 CN II enters the cranial cavity through the ______- foramen.
 229 of 326
-optic
+optic aka optic canal
 
 From the thalamus, fibers originally from CN II go to the ______ lobe or to the _____-of the midbrain.
 230 of 326
@@ -971,7 +971,7 @@ trigeminal neuralgia
 
 The efferent autonomic fibers of CN VII go to the______ glands.
 240 of 326
-submaxillary, sublingual, and lacrimal
+submandibular, sublingual, and lacrimal
 
 The sensory fibers of cranial nerve (VII / IX) are responsible for taste sensation on the anterior 2/3 of the tongue.
 241 of 326
@@ -999,11 +999,11 @@ vestibular ; cochlear
 
 CN IX has receptors in the ________ and originates in the ______ of the brain.
 247 of 326
-pharynx, anterior 1/3 of the tongue, carotid body, and carotid sinus ; medulla
+pharynx, posterior 1/3 of the tongue, carotid body, and carotid sinus ; medulla
 
 CN IX is called _______ and is responsible for ______.
 248 of 326
-glossopharyngeal taste on the anterior 1/3 of the tongue, swallowing, salivation, blood pressure control.
+glossopharyngeal taste on the posterior 1/3 of the tongue, swallowing, salivation, blood pressure control.
 
 CN X originates in the ______ and terminates in the ______ of the brain.
 249 of 326
@@ -1017,7 +1017,7 @@ The 4 parasympathetic cranial nerves are:
 251 of 326
 III, VII, IX, X
 
-The 4 cranial nerves that have ganglia are:
+The 4 cranial nerves that have parasympathetic ganglia are:
 252 of 326
 III, VII, IX, X
 
@@ -1095,7 +1095,7 @@ pyramidalThe pyramids play a role in voluntary muscle movements.
 
 The ____ reflex is blinking in response to the front of the eye being touched.
 271 of 326
-cornealIt is mediated by CN V2 (sensory portion) and VII (motor response).
+cornealIt is mediated by CN V1 (sensory portion) and VII (motor response).
 
 The corneal reflex tests the health of CN____ and __.
 272 of 326
@@ -1238,7 +1238,7 @@ The enzyme ________ is responsible for breaking down acetylcholine.
 305 of 326
 acetylcholinesterase
 
-Nitrous oxide is a potent vaso(dilator/constrictor).
+Nitric oxide is a potent vaso(dilator/constrictor).
 306 of 326
 dilator
 In cardiac muscle, sympathetic stimulation with norepinephrine causes (increased/decreased) rate of contractions and parasympathetic acetylcholine causes (increased/decreased) rate of contractions.
