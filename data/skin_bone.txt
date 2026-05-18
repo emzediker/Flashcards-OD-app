@@ -80,7 +80,7 @@ hyperkeratosis
 The layer of the epidermis with the most cells is the stratum _____ and the layer with the least amount of cells is the stratum ______.
 16 of 211
 
-spinosum ; basal
+basal ; lucidum
 
 The area between the epidermis and the dermis is called the _______ junction.
 17 of 211
@@ -152,12 +152,12 @@ Melanin forms a cap over the ____ in the cell to protect the DNA from __ radiati
 
 nucleus ; UV - In this way, melanin is protective against cancer causing UV light.
 
-Melanin production is stimulated by _____ receptors on melanocytes.
+Melanin production is stimulated by activation of _____ receptors on melanocytes.
 31 of 211
 
 melanocortin
 
-Melanocortin is a hormone from the (anterior/posterior)_____ gland that stimulates melanin production.
+Melanocyte-stimulating hormone is a hormone from the (anterior/posterior)_____ gland that stimulates melanin production.
 32 of 211
 
 anterior pituitary 
@@ -170,7 +170,7 @@ Beta-carotene
 A yellow-brown intracellular pigment that accumulates as cells age is called ______.
 34 of 211
 
-lipofuscinThe presence of lipofuscin in a nevus may be a malignant factor.
+lipofuscinThe presence of lipofuscin in a choroidal nevus may be a malignant characteristic.
 
 Blood contains the red pigments ______ that carry oxygen or carbon dioxide.
 35 of 211
@@ -225,9 +225,9 @@ germinal
 Hair becomes white as _______ ____ ______ damage the stem cells as we age.
 45 of 211
 
-oxidative free radicalsOxidative free radicals are high energy molecules with unpaired electron.
+oxidative free radicalsOxidative free radicals are high energy molecules with unpaired electron. Overtime, melanocyte stem cells also deplete, contributing to whitening of the hair.
 
-Androgenic alopecia is simply ________ due to decreased androgens.
+Androgenic alopecia is simply ________ due to decreased androgen sensitivity.
 46 of 211
 
 male pattern baldness
@@ -262,7 +262,7 @@ During adolescence, acne may occur due to overactive _______ glands with blocked
 
 sebaceous
 
-An inflamed sebaceous gland is called a (pustule/comedo) and an infected sebaceous gland is called a (pustule/comedo).
+A clogged follicle is called a (pustule/comedo) and an infected sebaceous gland is called a (pustule/comedo).
 53 of 211
 
 comedo ; pustule
@@ -305,13 +305,13 @@ PsoriasisPsoriatic arthritis has both plaques and joint pain.
 (Basal cell/ Melanoma/Squamous cell) cancers seldom metastasize; however (basal cell/ melanoma/ squamous cell) cancers tend to spread to other areas of the body.
 61 of 211
 
-Basal ; melanoma
+Basal ; melanoma and squamous cell
 Basal cell is characterized by raised pearly borders and a central ulcer.
 
 ______ is a skin cancer common in immune deficient patients such as those with AIDS, and it spreads quickly.
 62 of 211
 
-KaposiIt is characterized by deep purple lesions.
+Kaposi sarcomaIt is characterized by deep purple lesions.
 
 ____ carcinoma is characterized by raised borders that have telangiectasias and a pearly appearance. They can also have ulceration at their center.
 63 of 211
@@ -328,7 +328,7 @@ The majority of malignant ____ is deeply pigmented with irregular borders.
 
 melanoma
 
-Kaposi sarcoma is characterized by ______ colored legions.
+Kaposi sarcoma is characterized by ______ colored lesions.
 66 of 211
 
 PurpleIt is a common complication in AIDs patients.
@@ -398,7 +398,7 @@ spongy
 
 Hyaline
 
-The ______ is the layer that covers bones that muscle tendons connect to. It is also rich in osteocytes and blood vessels.
+The ______ is the layer that covers bones that muscle tendons connect to. It is also rich in osteoblasts, blood vessels and nerves.
 80 of 211
 
 periosteumCoverings often have the prefix "peri-" Ex. Pericardium covers the heart
@@ -473,7 +473,7 @@ Parathyroid hormone is from the _____ gland and calcitonin is from the ______ gl
 
 parathyroid ; thyroid
 
-The actions of parathyroid hormone are : (increased/decreased) calcium reabsorption via bones, (increase/decreased) renal absorption of calcium from urine and vitamin ___ synthesis. Over all this (increases/decreases) blood calcium levels.
+The actions of parathyroid hormone are : (increased/decreased) calcium desposition in bones, (increase/decreased) renal absorption of calcium from urine and vitamin ___ synthesis. Over all this (increases/decreases) blood calcium levels.
 95 of 211
 
 decreased ; increased ; D ; increases - Calcitonin is antagonistic to parathyroid hormone.
@@ -603,7 +603,7 @@ Demineralization (loss of bones) due to vitamin D deficiency is called ______ in
 
 osteomalacia ; ricketsVitamin D is essential for the digestive absorption of calcium.
 
-_____ disease occurs in older adults and occurs due to dysregulation of osteoclast due to overactivity of osteoblast. As a results bone may appear deformed.
+_____ disease occurs in older adults and occurs due to dysregulation of osteoclast activity. As a results bone may appear deformed.
 120 of 211
 
 Pagets
@@ -691,7 +691,7 @@ occipital and temporal
 The jugular foramen transmits cranial nerves:
 137 of 211
 
-9, 10, 11IX is glossopharyngeal. X is vegas. XI is accessory.
+9, 10, 11IX is glossopharyngeal. X is vegus. XI is accessory.
 
 Cranial nerves 9,10, and 11 transmit through the _____ foramen.
 138 of 211
@@ -736,7 +736,7 @@ foramen magnum
 The occipital condyles on both sides of the foramen magnum articulate with the _______ vertebra.
 146 of 211
 
-cervical
+cervical, specifically atlas aka C1
 
 The ____ bone is the “keystone” of the cranial floor and also forms the floor and sidewalls of the orbit.
 147 of 211
@@ -772,7 +772,7 @@ III is oculomotor. IV is trochlear. V is trigeminal.
 The superior orbital fissure transmits cranial nerves ______.
 153 of 211
 
-3,4,5 (part)III is oculomotor. IV is trochlear. V is trigeminal.
+3,4,5(V1 specifically),6 III is oculomotor. IV is trochlear. V1 is the ophthalmic branch of trigeminal, VI is abducens.
 
 The foramen ______ in the (greater/lesser) wing of the sphenoid bone transmits the maxillary division of cranial nerve ____.
 154 of 211
@@ -798,7 +798,7 @@ spinosum ; greater
 The ____ bones makes up the medial wall of the orbits.
 158 of 211
 
-ethmoidal The lamina papyracea is the thinnest part of the ethmoid.
+ethmoid The lamina papyracea is the thinnest part of the ethmoid.
 
 The cranial nerve ___ passes through the cribriform plate of the _____ bone.
 159 of 211
@@ -845,7 +845,7 @@ The bones of the floor of the orbit are:
 
 zygomatic, maxilla, palatine
 
-The lacrimal bone is continuous with the ______ bone to form the medial wall of the orbit.
+The lacrimal bone is continuous with the ______ bone inferiorly.
 168 of 211
 
 nasal
@@ -965,7 +965,7 @@ Below the thoracic vertebra is the ____ vertebrae of which there are _____.
 
 lumbar ; 5
 
-The end of the sacrum has 5 ______ vertebrae that fuse into one in adulthood.
+The end of the sacrum has 3 to 5 ______ vertebrae that fuse into one in adulthood.
 192 of 211
 
 coccyxThe coccyx is the "tailbone."
@@ -985,10 +985,10 @@ true ; false ; floating
 
 FALSE
 
-The type of cartilage that attaches ribs to the sternum is (hyaline/elastic/costal).
+The cartilage that attaches ribs to the sternum is called (elastic/costal) cartilage.
 196 of 211
 
-costal
+costalIt is made of hyaline
 
 The two bones that create the shoulder are the ____ and ____.
 197 of 211
@@ -1062,7 +1062,7 @@ autoOcular effects include dry eye, episcleritis and scleritis.
 In juvenile rheumatoid arthritis, there is deterioration of joints, with an onset of fever and swelling in the ____ and ___.
 210 of 211
 
-liver and spleen
+liver and spleenThis is called hepatosplenomegaly.
 
 In _____ arthritis, there is inflammation in the joints due to high levels of uric acid.
 211 of 211
