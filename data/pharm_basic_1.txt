@@ -422,7 +422,7 @@ Whorl keratopathy aka vortex keratopathy aka corneal verticillata aka Fleischer 
 The most vision threatening ocular side effect of amiodarone is _________.
 48 of 262
 
-NAION (nonarteritic anterior ischemic optic neuropathy) - Whirl keratopathy has little visual consequence.
+NAION (nonarteritic anterior ischemic optic neuropathy) - Whorl keratopathy has little visual consequence.
 
 Class of medication of amitriptyline:
 
@@ -620,7 +620,7 @@ apraclonidine and brimonidine - In this case it is a good idea to use a differen
 True or False: Apraclonidine is commonly used in the longterm treatment of glaucoma.
 70 of 262
 
-False, it is usually dosed short term due to tachyphylaxis. - It may be used in IOP spikes that may occur after Yag-capsulotomy laser.
+False, it is usually dosed short term due to tachyphylaxis. - It may be used in IOP spikes that may occur after Yag capsulotomy laser.
 
 This IOP lowering medication is often used after LPI / SLT / Yag capsulotomy / cataract surgery in the event of an IOP spike.
 
@@ -764,7 +764,7 @@ decrease, decrease, increaseHDL is  the "good" cholesterol that should be high
 Mechanism of action of azathioprine:
 86 of 262
 
-It acts as a purine that prevents the replication of dna and rna by inserting itself into their structures. - The name "AzathioPRINE" is a clue that this is a PuRINE.
+It acts as a purine that prevents the replication of DNA and RNA by inserting itself into their structures. - The name "AzathioPRINE" is a clue that this is a PuRINE.
 
 Class of medication of azathioprine:
 
@@ -1102,12 +1102,12 @@ Class of medication of besifloxacin:
 119 of 262
 
 
-Fluoroquinolone - Another fluroquinolone is moxifloxacin.
+Fluoroquinolone - Another fluoroquinolone is moxifloxacin.
 
 Type of medication of a fluoroquinolone:
 
 
-FluoroquinoloneAnother fluroquinolone is moxifloxacin
+FluoroquinoloneAnother fluoroquinolone is moxifloxacin
 
 Type of medication of a fluoroquinolone:
 120 of 262
@@ -1146,7 +1146,7 @@ The action of DNA Gyrase is: __________. The class of medication that inhibits
 123 of 262
 
 
-DNA gyrase is an enzyme that "negatively super-coils" double stranded circular DNA, fluroquinolones - Double stranded circular DNA found in bacteria.
+DNA gyrase is an enzyme that "negatively super-coils" double stranded circular DNA, fluoroquinolones - Double stranded circular DNA found in bacteria.
 
 Action of Topoisomerase IV is___________ and the class of medication that inhibits this enzyme is ___________.
 
@@ -1399,7 +1399,7 @@ IOP spikes accompanied by signs of inflammation (cells in the anterior chamber) 
 146 of 262
 
 
-prostaglandin - Ex: trauma, Fuch's iridocyclitis, Posner Schlossman, HZO, UGH & post-op
+prostaglandin - Ex: trauma, Fuch's heterochromic iridocyclitis, Posner Schlossman, HZO, UGH & post-op
 
 In patients with a history of macular edema, the following class of IOP lowering medications should be avoided:
 
@@ -1553,7 +1553,7 @@ Due to its mechanism of action of decreasing the availability of acetylcholine, 
 160 of 262
 
 
-Myasthenia Gravis - Damaged AcH receptors cause the nerve-muscle interactions to already be poor.
+Myasthenia Gravis - Damaged ACh receptors cause the nerve-muscle interactions to already be poor.
 
 _______ can be used to treat unwanted muscle contraction, wrinkle prevention, sweating, migraine, and some forms of cerebral palsy related complications
 
@@ -1663,7 +1663,7 @@ Brimonidine PRIMARILY affects this region of the eye, and may have SOME effect o
 170 of 262
 
 
-Primarily affects the ciliary body epithelium to decrease aqueous humor productions but it MAY have SOME effect on uveoscleral outflow. - Brimonidine may relax the ciliary smooth muscle, increasing outflow.
+Primarily affects the ciliary body epithelium to decrease aqueous humor production but it MAY have SOME effect on uveoscleral outflow. - Brimonidine may relax the ciliary smooth muscle, increasing outflow.
 
 Brimonidine primarily decreases IOP by (decreasing the production of aqueous / increasing aqueous humor outflow)
 
@@ -1681,7 +1681,7 @@ Although they are both alpha-1 agonist topical medications used to treat ocular 
 
 decreasing aqueous humor production.This occurs in the ciliary body epithelium
 
-Although they are both alpha-1 agonist topical medications used to treat ocular hypertension through the same mechanism of action ______ is less prone to tachyphylaxis is and allergy than ________.
+Although they are both alpha-2 agonist topical medications used to treat ocular hypertension through the same mechanism of action ______ is less prone to tachyphylaxis and allergy than ________.
 172 of 262
 
 
