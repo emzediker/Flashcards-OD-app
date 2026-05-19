@@ -64,7 +64,7 @@ The refractive index of vitreous is:
 
 Water, hyaluronic acid, collagen, other small ingredients are chondroitin and heparan sulfate
 
-Where does the hyaloid artery travel through in the vitreous to feed the lens and optic nerve?
+Where does the hyaloid artery travel through in the vitreous to feed the lens and primary vitreous?
 13 of 65
 
 Cloquet's canal
@@ -319,7 +319,7 @@ False. The fovea is avascular so it depends on getting fed solely by the fenestr
 The optic nerve is fed by what arteries?
 63 of 65
 
-pial arteries
+pial arteries and posterior ciliary arteries
 
 True or false? The RPE becomes the pigmented epithelium of the ciliary body.
 64 of 65
@@ -329,4 +329,4 @@ True or false? The RPE becomes the pigmented epithelium of the ciliary body.
 How are Bruch’s membrane and the retinal pigment epithelium attached?
 65 of 65
 
-!NO microvilli or tight junctions! - The connection only has a combination of hydrostatic forces, osmotic forces and hemidesmosomes.
+!NOT microvilli or tight junctions! - The connection only has a combination of hydrostatic forces, osmotic forces and hemidesmosomes.
