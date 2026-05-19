@@ -23,7 +23,7 @@ gonads
 
 The male gonads are the ___.
 6 of 184
-testis
+testes
 
 The female gonads are the ___.
 7 of 184
@@ -103,7 +103,7 @@ vas deferens
 
 The noncancerous enlargement of the prostate gland is called _______ and results in urinary (incontinence/retention).
 26 of 184
-benign prostatic hypertrophy ; retention
+benign prostatic hyperplasia ; retention
 
 The structures that make seminal fluid are the:
 27 of 184
@@ -113,7 +113,7 @@ The blood marker for prostate cancer is:
 28 of 184
 PSA (prostate specific antigen)
 
-The testis are found in the_____.
+The testes are found in the_____.
 29 of 184
 scrotum
 
@@ -173,9 +173,9 @@ A primary follicle matures into a secondary follicle and then into a _____ folli
 43 of 184
 Graafian
 
-_____ cells surround a mature ovum even after ovulation and secrete (estrogen/progesterone).
+_____ cells surround a mature ovum even after ovulation and support the oocyte.
 44 of 184
-Cumulus ; progesterone
+Cumulus 
 
 ______ is the release of an ovum from the ovary after it is formed.
 45 of 184
@@ -285,7 +285,7 @@ During the follicular phase, there is an increase in (estrogen/progesterone).
 71 of 184
 estrogen
 
-The hormone (FHS/LH) stimulates the growth of primary follicles and their secretion of (estrogens/progesterones).
+The hormone (FSH/LH) stimulates the growth of primary follicles and their secretion of (estrogens/progesterones).
 72 of 184
 FSH ; estrogens
 
@@ -335,7 +335,7 @@ painful ; the absence of
 
 Pelvic inflammatory disease is a condition caused by ____.
 84 of 184
-pathogens
+pathogensclassically gonorrhea/chlamydia
 
 Vaginal yeast infections are typically caused by the (bacteria/fungi/protozoa) ________.
 85 of 184
@@ -375,7 +375,7 @@ diploid ; haploid
 
 In meiosis (I/II) crossing over occurs when a chromatic segment of each chromosome crosses over and becomes part of the adjacent chromosome in a pair.
 94 of 184
-I
+Ispecifically prophase I
 
 Spermatogenesis occurs in the _____ tubule.
 95 of 184
@@ -397,7 +397,7 @@ When fertilization occurs the ovum and sperm unite to form a _____.
 99 of 184
 zygote
 
-Meiosis in females produces one mature primary oocyte and three ______.
+Meiosis in females produces one mature ovum and three ______.
 100 of 184
 polar bodies
 
@@ -419,7 +419,7 @@ morula
 
 After morula formation, the morula hallows and forms a ____.
 105 of 184
-blastocyst
+blastula
 
 _____ is the phase of reproduction where a blastocyst embeds into the uterus.
 106 of 184
@@ -441,7 +441,7 @@ Placental tissue secretes the hormone _______ to maintain levels of estrogen and
 110 of 184
 human chorionic gonadotropin
 
-Offspring is described as a (embryo/fetus) the first trimester of gestation and thereafter it is described as an (embryo/fetus).
+Offspring is described as an (embryo/fetus) the first 8 weeks of gestation and thereafter it is described as an (embryo/fetus).
 111 of 184
 embryo ; fetus
 
@@ -559,7 +559,7 @@ There are roughly _____ genes.
 
 The _____tome is all of the mRNA codes that are transcribed.
 140 of 184
-transcript
+transcriptome
 
 The entire collection of proteins encoded by the human genome is called the ___.
 141 of 184
@@ -669,7 +669,7 @@ Inheritance of mitochondrial DNA is (paternal/maternal).
 167 of 184
 maternal - "M"itochondial DNA comes from "M"om.
 
-Lebar's hereditary optic neuropathy is a (sex-linked/autosomal/mitochondrial) inherited disease.
+Leber's hereditary optic neuropathy is a (sex-linked/autosomal/mitochondrial) inherited disease.
 168 of 184
 mitochondrial
 
@@ -709,7 +709,7 @@ ______ genes regulate cell division so that it proceeds normally without endless
 177 of 184
 Tumor suppressor
 
-In ______ pigmentosa skin cells cannot repair themselves after UV damage and the skin prone to skin cancers.
+In ______ pigmentosum, skin cells cannot repair themselves after UV damage and the skin prone to skin cancers.
 178 of 184
 xeroderma
 
