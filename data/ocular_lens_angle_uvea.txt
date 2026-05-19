@@ -8,7 +8,7 @@ Is the cornea or crystalline lens the main ultraviolet radiation blocker?
 
 crystalline lens
 
-Crystalline lens fibers (aka lens zonules) connect to the ciliary body by:
+Crystalline lens zonules connect to the ciliary body by:
 2 of 69
 
 ciliary processes
@@ -18,7 +18,7 @@ Which part of the lens is more steep, anterior or posterior?
 
 Posterior lens is more steep:
 
-6mm anterior VS. 10mm posterior radius of curvature
+10mm anterior VS. 6mm posterior radius of curvature
 
 The crystalline lens is 60% water, what is unique about the other 40% makeup?
 4 of 69
@@ -48,12 +48,12 @@ Mittendorf's dot
 If there is hyaloid artery remnant left on the optic nerve head, it is termed:
 9 of 69
 
-Burgermeister Papillae
+Bergmeister Papillae
 
-Mnemonic for Mittendorf's dot vs Bergermeister papillae
+Mnemonic for Mittendorf's dot vs Bergmeister papillae
 10 of 69
 
-Think of a mitten wrapping and holding a snow/crystal ball (crystal lens) vs “Oh you have the nerve to burn my burger!” (bergmeister at nerve)
+Think of a mitten wrapping and holding a snow/crystal ball (crystal lens) vs “Oh you have the nerve to burn my burger!” (Bergmeister at nerve)
 
 The Y sutures are formed in which layer of the nucleus of the lens?
 11 of 69
@@ -110,7 +110,7 @@ When a lens becomes yellow or cataractous, which UV spectrum is absorbed more by
 
 short-wavelength blue
 
-True or false: The crystalline is avascular
+True or false: The crystalline lens is avascular
 22 of 69
 
 TRUE
@@ -139,7 +139,7 @@ The lens capsule is a type of basement membrane.
 What kind of collagen makes up the basement membrane?
 27 of 69
 
-Type 4 - FOUR IS THE BASEMENT FLOOR. There are tight junctions (zonula adherens) that are the barrier of the lens in the capsule. 
+Type 4 - FOUR IS THE BASEMENT FLOOR. There are tight zonula adherens that are the barrier of the lens in the capsule. 
 
 What connections are inside the nucleus and cortical fibers?
 28 of 69
@@ -217,7 +217,7 @@ iris, ciliary body, choroid
 The muscles that make up the iris are (striated/smooth).
 42 of 69
 
-The iris diaphragm and sphincter are both smooth muscles.
+The iris dilator and sphincter are both smooth muscles.
 
 Iris diaphragm functions vs sphincter function
 43 of 69
@@ -227,7 +227,7 @@ Diaphragm is dilation and sphincter is constriction
 What is the iris collarette?
 44 of 69
 
-The thickest portion of the iris that acts as a band to separate iris to pupillary portion and ciliary portion. Here, the sphincter and diaphragm overlap.
+The thickest portion of the iris that acts as a band to separate iris to pupillary portion and ciliary portion. Here, the sphincter and dilator overlap.
 
 Why do elderly patients have miotic pupils?
 45 of 69
@@ -252,7 +252,7 @@ the posterior epithelial cells of the iris that are rolled forward at the pupil 
 Layers of the iris:
 49 of 69
 
-1*anterior border layer (connective tissue) 2*stroma with sphincter, 3*pigmented anterior epithelium and dilator 4*nonpigmented epithelium
+1*anterior border layer (connective tissue) 2*stroma with sphincter, 3*pigmented anterior epithelium and dilator 4*posterior pigmented epithelium
 
 True or false? The anterior epithelial layer is more connected to the dilator muscle than it is where the muscles runs through it.
 50 of 69
@@ -317,7 +317,7 @@ Aqueous is made by non-pigmented epithelial cells.
 Describe the blood aqueous barrier.
 62 of 69
 
-Selectively permeable cells allow blood to feed the ciliary body from nonfenestrated iris blood vessels and not leak blood out. - They also selectively leak out aquetous from the fenestrated nonpigmented epithelium of the ciliary body.
+Selectively permeable cells allow blood to feed the ciliary body from nonfenestrated iris blood vessels and not leak blood out. - They also selectively leak out aqueous from the fenestrated nonpigmented epithelium of the ciliary body.
 
 Name the three layers of choroid:
 63 of 69
