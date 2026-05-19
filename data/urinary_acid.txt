@@ -71,7 +71,7 @@ glomerulus and Bowman's capsule
 
 The three main regions of the renal tubule are the:
 18 of 170
-proximal convoluted tubule Henle loop and distal convoluted tubule
+proximal convoluted tubule, Henle loop, and distal convoluted tubule
 
 The double layer of the renal corpuscle is filled with _____.
 19 of 170
@@ -197,7 +197,7 @@ Urea, a byproduct of protein catabolism, is transformed from its more toxic form
 49 of 170
 ammonia
 
-The juxtamedullary nephrons are found in the (cortex/medulla) of the kidney.
+The loops of the juxtamedullary nephrons extend to the (cortex/medulla) of the kidney.
 50 of 170
 medulla
 
@@ -259,7 +259,7 @@ atrial natriuretic hormone
 
 Atrial natriuretic hormone promotes (gain/loss) of sodium from the blood into the urine.
 65 of 170
-gain
+loss
 
 Atrial natriuretic hormone supports sodium (absorption/secretion) and aldosterone supports sodium (absorption/secretion).
 66 of 170
@@ -389,7 +389,7 @@ A failing kidney has a (high/low) GFR and a (high/low) BUN.
 97 of 170
 low ; high
 
-Up to ___% of nephrons can lose function in a kidney and BUN will remain normal, however GFR will also decrease by ___%."
+Up to ___% of nephrons can lose function in a kidney and BUN will remain normal, however GFR will also decrease by ___%.
 98 of 170
 75% ; 75%
 
@@ -481,7 +481,7 @@ Urine output is controlled most by (glomerular filtration rate / tubular reabsor
 120 of 170
 tubular reabsorption
 
-Output of ANH is controlled by (Na+ concentration / osmoreceptors) and the output of ADH is controlled by (Na+ concentration/ osmoreceptors).
+Output of ANH is controlled by (atrial stretch / osmoreceptors) and the output of ADH is controlled by (atrial stretch / osmoreceptors).
 121 of 170
 Na+ concentration ; osmoreceptors
 
@@ -579,7 +579,7 @@ buffers
 
 NaHCO3 is (bicarbonate/carbonic acid) and H2CO3 is (bicarbonate/carbonic acid).
 145 of 170
-bicarbonate ; carbonic acidAnother way of saying "carbonic acid" is "carbonate."
+bicarbonate ; carbonic acid
 
 Carbonic acid is made from _______ and ____ by the enzyme ______.
 146 of 170
@@ -605,7 +605,7 @@ To compensate for acidosis, respiratory response will (increase/decrease) the de
 151 of 170
 increaseThis is to rid the body of CO2 and increase O2.
 
-To compensate of alkalosis the respiratory system will (increase/decrease) the depth and rate or respirations.
+To compensate of alkalosis the respiratory system will (increase/decrease) the depth and rate of respirations.
 152 of 170
 decreaseThis is to increase levels of CO2 to bring the pH to a lower level.
 
