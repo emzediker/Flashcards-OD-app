@@ -15,7 +15,7 @@ mucosa
 
 The three layers of the mucous layer of the digestive tract are the :
 4 of 250
-inner mucous epithelium, loose fibrous lamina propria, and smooth muscularis mucosae
+inner mucosal epithelium, loose fibrous lamina propria, and smooth muscularis mucosae
 
 Glands, blood vessels, and parasympathetic nerves form the ______ plexus in the submucosal layer of the digestive tract.
 5 of 250
@@ -175,7 +175,7 @@ duodenum, jejunum, ileum
 
 The small intestine is lined with tiny projections called villi which all contain the following three structures:
 44 of 250
-arteriole, venule, and lacteal (lymph vessel).This allows to absorption of food nutrients.
+arteriole, venule, and lacteal (lymph vessel).This allows for absorption of food nutrients.
 
 ______ cells on the surface of villi in the intestine have a role in absorption.
 45 of 250
@@ -247,7 +247,7 @@ cholesterol - Cholesterol can be made into hormones or provide cell membrane rig
 
 Bile aids in the digestion and processing of (carbohydrates/fats/proteins) to then be absorbed in the (duodenum/jejunum/ileum).
 62 of 250
-fats ; ileum
+fats ; jejunum
 
 Degraded heme is converted into ______ and excreted into bile.
 63 of 250
@@ -267,7 +267,7 @@ jaundiceBile usually flows from the liver, to the gallbladder & to the duodenu
 
 Cholecystitis is inflammation of the _____.
 67 of 250
-Gallbladder
+gallbladder
 
 A cholecystectomy is removal of a _____.
 68 of 250
@@ -283,7 +283,7 @@ duodenumThe bile duct also empties into the duodenum.
 
 _________ is an autoimmune condition against the salivary glands and tear glands.
 71 of 250
-Sjogren’s syndromeA hallmark symptom is dry eye and dry mouth.
+Sjogren syndromeA hallmark symptom is dry eye and dry mouth.
 
 Xerostomia is _____ and xerophthalmia is ______.
 72 of 250
@@ -333,13 +333,13 @@ Inflammation of the small saclike pouches that can form on the intestine wall is
 83 of 250
 diverticulosis
 
-Diverticulosis is characterized by small outpouches on the intestinal wall in patients with a low ____ diet.
+Diverticulitis is characterized by small outpouches on the intestinal wall in patients with a low ____ diet.
 84 of 250
 fiber
 
 _____ disease is an autoimmune disease characterized by colitis with a cobblestone appearance.
 85 of 250
-Crohn'sIt is a HLA B-27 positive condition.
+CrohnIt is a HLA B-27 positive condition.
 
 ________ syndrome is a noninflammatory condition of the digestive tract cause by stress.
 86 of 250
@@ -445,9 +445,9 @@ The enzyme (amylase/pepsin) works optimally at a slightly acidic or neutral pH a
 111 of 250
 amylase ; pepsinSo amylase works well in the saliva & pepsin works well in the stomach.
 
-_____ are enzymes that break down proenzymes to activate them.
+_____ are enzymes that phosphorylate proenzymes to activate them.
 112 of 250
-KinasesThey do this via phosphorylation.
+Kinases
 
 Glycogen and starch are (poly/di/mono)saccharides.
 113 of 250
@@ -509,7 +509,7 @@ The parietal cells have a hydrogen-(chloride/potassium/sodium) pump in their mem
 127 of 250
 potassium ; acidic
 
-Pepsin is converted to pepsinogen by the presence of ______ acid which is produced by (chief/parietal) cells.
+Pepsin is converted from pepsinogen by the presence of ______ acid which is produced by (chief/parietal) cells.
 128 of 250
 hydrochloric acid ; parietal cells
 
@@ -525,7 +525,7 @@ In ______ anemia, there is insufficient vitamin B12 in the body.
 131 of 250
 pernicious
 
-All of the digestive enzymes from the acinar cells of the ______ are proenzymes.
+Many of the digestive enzymes from the acinar cells of the ______ are proenzymes.
 132 of 250
 pancreasIf the pancreatic enzymes were active it may digest itself apart!
 
@@ -541,9 +541,9 @@ Nucleases are enzymes that digest ______.
 135 of 250
 DNA and RNA
 
-The pancreas secretes (acid/base) into the GI tract at the intestine and (acid/base) into the blood.
+The pancreas secretes (acid/base) into the GI tract at the intestine.
 136 of 250
-base ; acidIt works to neutralize the acidic stomach chyme in the duodenum.
+baseIt works to neutralize the acidic stomach chyme in the duodenum.
 
 The stomach secretes (acid/base) into the GI tract and (acid/base) into the blood.
 137 of 250
@@ -667,7 +667,7 @@ Each molecule of glucose forms a net of __ ATP in glycolysis.
 
 In order for the end product of glycolysis, known as  ______, to enter the citric acid cycle it must be converted to _______.
 167 of 250
-pyruvate ; acetate
+pyruvate ; acetyl-CoA
 
 The citric acid cycle occurs in the (nucleus/cytoplasm/mitochondria)
 168 of 250
@@ -687,11 +687,11 @@ inner ; mitochondria
 
 High energy electrons and their accompanying (sodium/calcium/hydrogen/potassium) are transported to the electron transport chain via ____ and ____.
 172 of 250
-hydrogen, FAD & NAD
+hydrogen, FADH & NADH2
 
 The energy from electrons transports hydrogen to the ____ space between the inner and outer membranes of the mitochondria to create a _____ gradient.
 173 of 250
-intramembrane ; concentration
+intermembrane ; concentration
 
 ____ synthase uses the hydrogen gradient formed by the energy of the  electron transport chain to form ATP from ___.
 174 of 250
@@ -735,7 +735,7 @@ muscle and liver
 
 The normal range of glucose for a fasting person is _____ mg/dl of blood.
 184 of 250
-80-90
+70-99
 
 The normal range of glucose for a fasting person is 80-90 ____ of blood.
 185 of 250
@@ -757,7 +757,7 @@ The action of (glucagon/insulin) stimulates glycogenolysis.
 189 of 250
 glucagonIt increases blood sugar by breaking down glycogen.
 
-Epinephrine and cortisol causes (glycogenolysis/glycogenesis).
+Epinephrine and cortisol cause (glycogenolysis/glycogenesis).
 190 of 250
 glycogenolysisThey work to bring a source of glucose to muscles for fight or flight.
 
@@ -929,7 +929,7 @@ Deficiency in vitamin ___ causes rickets.
 232 of 250
 D (calciferol)
 
-Vitamin __ produces visual pigments.
+Vitamin __ produces retinal for visual pigments.
 233 of 250
 A
 
