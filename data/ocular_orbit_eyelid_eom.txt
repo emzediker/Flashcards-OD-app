@@ -84,7 +84,7 @@ Mnemonic for orbital floor bones:
 
 Zip *My *Pants
 
-Inferior orbital fissure includes transmits the following:
+Inferior orbital fissure transmits the following:
 17 of 90
 
 Infraorbital artery and vein *Branches from inferior ophthalmic vein *Infraorbital and zygomatic nerves
@@ -172,7 +172,7 @@ Goblet cells
 Where are goblet cells found?
 34 of 90
 
-In conjunctiva: There is a high concentration at conjunctival/corneal junction, where the conjunctival just meets the corrnea, to produce mucin for cornea.
+In conjunctiva: There is a high concentration at conjunctival/corneal junction, where the conjunctival just meets the cornea, to produce mucin for cornea.
 
 Goblet cells release wetting agents. Do they increase or decrease surface tension?
 35 of 90
@@ -204,10 +204,10 @@ Meibum and Sebum= Zeiss and Meibomian *Aqueous= Lacrimal gland, Krause and Wolfr
 
 Mucin (inner) *Aqueous (middle) *Meibum (outer)
 
-Goblet cells vs glands of Moll cells. Which are holocrine vs apocrine?
+Goblet cells vs glands of Moll cells. Which are merocrine vs apocrine?
 41 of 90
 
-Goblets are holocrine (excrete all of their contents) Moll are apocrine (apex or tip is exerted) - Mnemonic: Molly is sweating in apocalypse
+Goblets are merocrine (excrete all of their contents) Moll are apocrine (apex or tip is excreted) - Mnemonic: Molly is sweating in apocalypse
 
 Eyes and eyelids drain to what lymphatic nodal system?
 42 of 90
@@ -288,7 +288,7 @@ Two purposes of the eyebrow:
 
 Communicate emotions and keep debris or sweat out of the eye.
 
-Most extraocular muscles are striated, except:
+Most periocular muscles are striated, except:
 57 of 90
 
 Inferior and superior tarsal muscles are smooth (muscles of Muller).
@@ -308,7 +308,7 @@ Function of the orbicularis oculi
 
 Shuts the lids via CN VII
 
-Mnemonic for CN7 closeing the lid
+Mnemonic for CN7 closing the lid
 61 of 90
 
 7 looks like hook and pulls the lid down like a hook would.
