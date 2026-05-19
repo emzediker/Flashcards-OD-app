@@ -79,7 +79,7 @@ lipid ; water
 
 Steroid hormones have receptors in the ______ and nonsteroidal hormones have receptors in the _____.
 20 of 180
-nucleus ; cell membrane
+nucleus or cytosol ; cell membrane
 
 The response to steroid hormones is (slow/fast) due to their ability to regulate transcription for DNA into mRNA and then proteins.
 21 of 180
@@ -107,7 +107,7 @@ NonsteroidBecause steroid hormones go to the nucleus to cause transcription wi
 
 Even though it is a nonsteroid hormone, ____ still enters its target cells and binds to receptors associated to DNA by moving directly through the membrane.
 27 of 180
-thyroid hormonesIt is small enough to go through the membrane despite being hydrophilic.
+thyroid hormonesIt is hydrophobic small enough to go through the membrane.
 
 The hypothalamus regulates secretion in the anterior pituitary via ______ and ______ hormones.
 28 of 180
@@ -129,7 +129,7 @@ Prostaglandins are (protein/lipid) molecules made of a 20-carbon unsaturated fat
 32 of 180
 lipid ; membranes
 
-The ____ enzyme converts arachidonic acid into prostaglandins.
+The ____ enzyme converts arachidonic acid into prostaglandins and thromboxanes.
 33 of 180
 COX
 
@@ -171,9 +171,9 @@ hyperNonfunctional tumors grow in size but do not secrete extra hormones.
 
 In Grave’s disease, the cause of hypersecretion of ____ hormone is an ____ reaction to ______ receptors.
 43 of 180
-thyroid ; autoimmune ; TSH - THS usually binds to TSH receptors to stimulate release of T3/4 hormone.
+thyroid ; autoimmune ; TSH - TSH usually binds to TSH receptors to stimulate release of T3/4 hormone.
 
-In hyperparathyroidism, the thyroid fails to adjust its output of PTH in response to blood ___ levels.
+In hyperparathyroidism, the parathyroid gland fails to adjust its output of PTH in response to blood ___ levels.
 44 of 180
 calcium
 
@@ -199,7 +199,7 @@ adeno ; neuroThe adeno responds to hormones and the neuro responds to nerve im
 
 The 5 types of cells in the anterior pituitary are: _____trophs.
 50 of 180
-Somatotrophs , corticotrophs , thryrotrophs, lactotrophs and gonadotrophs
+Somatotrophs , corticotrophs , thyrotrophs, lactotrophs and gonadotrophs
 
 Somatotrophs of the (anterior/posterior) pituitary secrete:
 51 of 180
@@ -307,7 +307,7 @@ hypothalamus ; thyroid stimulating hormone (TSH) ; pituitary
 
 ____ from the hypothalamus stimulates the secretion of follicle-stimulating hormone (FSH) and luteinizing hormone (LH) from the ______.
 77 of 180
-Gonadotropic releasing hormone (GnRH) ; pituitary
+Gonadotropin releasing hormone (GnRH) ; pituitary
 
 Prolactin-releasing hormone (PRH) and prolactin-inhibiting hormones (PIH) from the hypothalamus control the secretion of ______ from the _____.
 78 of 180
@@ -343,7 +343,7 @@ Osmo
 
 Antidiuretic (ADH) works to (increase/decrease) osmotic pressure.
 86 of 180
-decreaseIt decreases high osmotic pressure but retaining water.
+decreaseIt decreases high osmotic pressure by retaining water.
 
 Vasopressin is another name for the hormone ____due to its (constriction/dilation) effects on blood vessels.
 87 of 180
@@ -369,7 +369,7 @@ The ____ gland secretes the hormone melatonin.
 92 of 180
 pinealS cones in the retina respond to blue light and some go to the pineal.
 
-The mental disorder ________ disorder is characterized by depression in the winter when there are fewer hours of daylight.
+The mental disorder ________  is characterized by depression in the winter when there are fewer hours of daylight.
 93 of 180
 seasonal affective disorder
 
@@ -423,7 +423,7 @@ blasts ; clastsOsteoblasts remove Ca++ in the blood and store it in the bone.
 
 Exophthalmos can occur in ______ disease which is an autoimmune condition.
 106 of 180
-Grave's
+Graves
 
 Grave’s disease is associated with weight (loss/gain), (decreased/increased) heart rate, and exophthalmos.
 107 of 180
@@ -431,7 +431,7 @@ loss ; increasedDue to high thyroid hormone levels.
 
 Hyposecretion of thyroid hormone in childhood leads to the condition _______.
 108 of 180
-cretinismFor this reason thyroid levels are checked at birth.
+cretinism aka congenital hypothyroidismFor this reason thyroid levels are checked at birth.
 
 Hyposecretion of thyroid hormone in adulthood causes (increased/decreased) metabolism, weight (gain/loss), hair loss, and myxedema.
 109 of 180
@@ -439,13 +439,13 @@ decreased, gain
 
 ______ is swelling and firmness in the skin due to excess mucopolysaccharides.
 110 of 180
-myxedemaThis occurs in hypothyroidism.
+MyxedemaThis occurs in hypothyroidism.
 
 If there is not enough iodine in the diet (limited/excess) TRH and TSH can result in a goiter formation.
 111 of 180
 excessLow iodine causes T3/4 to be low & excess TRH and TSH in response.
 
-The principal action of (calcitonin/parathyroid hormone) is to increase blood Ca++ levels by activating vitamin__ in the liver, (increasing/decreasing) Ca++ storage in bones, and (increasing/decreasing) Ca++ absorption in the intestine.
+The principal action of (calcitonin/parathyroid hormone) is to increase blood Ca++ levels by activating vitamin__ in the kidney, (increasing/decreasing) Ca++ storage in bones, and (increasing/decreasing) Ca++ absorption in the intestine.
 112 of 180
 parathyroid ; D ; decreasing ; increasing - Calcitonin decreases blood calcium and parathyroid hormone increases it.
 
@@ -475,7 +475,7 @@ glucocorticoids
 
 The zona reticularis of the adrenal cortex secretes (gonadocorticoids/glucocorticoids/mineralocorticoids).
 119 of 180
-gonadocorticoids
+gonadocorticoids aka adrenal androgens
 
 The hormones secreted from the adrenal cortex are called ____steroids.
 120 of 180
@@ -579,7 +579,7 @@ duodenum ; stomach ; spleen
 
 The condition _____ is characterized by hypersecretion of cortisol and the condition _____ is characterized by hyposecretion of cortisol.
 145 of 180
-Cushing syndrome Addison disease
+Cushing syndrome ; Addison disease
 
 Cushing syndrome is characterized by a redistribution of fat around the face known as ____face.
 146 of 180
@@ -595,7 +595,7 @@ decreased, decreased, increased, lossWeight loss is due to loss of "water weigh
 
 The pancreatic islets of Langerhans constitute the (endocrine/exocrine) portion of the pancreas.
 149 of 180
-endocrineThe exocrine portion secretes digestive hormones.
+endocrineThe exocrine portion secretes digestive enzymes.
 
 From the pancreas, glucagon comes from (alpha / beta / delta) cells, insulin comes from (alpha / beta / delta) cells and somatostatin comes from (alpha /beta / delta) cells.
 150 of 180
@@ -639,7 +639,7 @@ D3 ; calciumDietary calcium requires vitamin D to be absorbed into the body.
 
 Human chorionic gonadotropin (hCG) is a hormone released from the _____ that stimulates the secretion of ____and ______ during pregnancy.
 160 of 180
-ovaries ; estrogen ; progesterone
+placenta ; estrogen ; progesterone
 
 Human placental lactogens (hPL) are hormones from the _____ that target the ____ to stimulate their secretion of estrogens and progesterones.
 161 of 180
@@ -659,9 +659,9 @@ Gastrin
 
 Cholecystokinin (CCK) from the internal mucous stimulates the ______ to secrete ____.
 165 of 180
-The gallbladder secretes bile and the pancreas to secrete digestive enzymes
+The gallbladder to secrete bile and the pancreas to secrete digestive enzymes
 
-Atrial natriuretic hormone (ANH) from the ___ targets the ____.Its action is to promote loss of ___into the urine to (decrease/increase) blood volume and pressure.
+Atrial natriuretic peptide (ANP) from the ___ targets the ____.Its action is to promote loss of ___into the urine to (decrease/increase) blood volume and pressure.
 166 of 180
 heart ; kidney ; sodium ; decreaseIt is antagonistic to aldosterone.
 
@@ -705,7 +705,7 @@ Type ___ diabetes mellitus is characterized by hyposecretion of insulin and type
 176 of 180
 1 ; 2
 
-(Hyper/Hypo)thyroidism is characterized by nervousness, tremor, weight loss, hunger, heat intolerance, and blood pressure.
+(Hyper/Hypo)thyroidism is characterized by nervousness, tremor, weight loss, hunger, heat intolerance, and high blood pressure.
 177 of 180
 HyperToo much thyroid hormone cause cause a "thyroid storm" with severe HTN.
 
