@@ -570,7 +570,7 @@ Cholinergic antagonists used to dilate the eye often have the letters "____" in 
 
 Class of medication of cyclosporine:
 
-"trop"ex. TROPicamide, homaTROPine, aTROPine."
+"trop"ex. TROPicamide, homaTROPine, aTROPine.
 
 Class of medication of cyclosporine:
 63 of 262
@@ -690,7 +690,7 @@ Inhibition of PLA2 and the arachidonic acid pathway. - PLA2 breaks down macromol
 
 As their intended effect, steroid medications decrease these two components
 
-Inhibition of pla2 and the arachidonic acid pathway.PLA2 breaks down macromolecules to help create arachidonic acid
+Inhibition of PLA2 and the arachidonic acid pathway.PLA2 breaks down macromolecules to help create arachidonic acid
 
 As their intended effect, steroid medications decrease these two components:
 76 of 262
@@ -705,20 +705,20 @@ allow inflammatory cells to enter
 Potential ocular side effects of steroids include:
 77 of 262
 
-Increased susceptibility to infection, psc cataracts, and iop increase ("steroid induced glaucoma"). - They are not a great long-term treatment, except in transplants.
+Increased susceptibility to infection, PSC cataracts, and iop increase ("steroid induced glaucoma"). - They are not a great long-term treatment, except in transplants.
 
 Steroids induce the synthesis of _____ which is inhibitory to ____ causing a decrease in  ____________.
 
-Increased susceptibility to infection, PSC cataracts, and IOP increase ("steroid induced glaucoma").They are not a great long-term treatment, except in transplants."
+Increased susceptibility to infection, PSC cataracts, and IOP increase ("steroid induced glaucoma").They are not a great long-term treatment, except in transplants.
 
 Steroids induce the synthesis of _____ which is inhibitory to ____ causing a decrease in  ____________.
 78 of 262
 
-Steroids induce the synthesis of lipoprotein-1 which is inhibitory to PLA2  leading a decrease in prostaglandin and leukotriene levels. - Prostaglandin and leukotrienes are inflammatory mediators.
+Steroids induce the synthesis of lipocortin-1 which is inhibitory to PLA2  leading a decrease in prostaglandin and leukotriene levels. - Prostaglandin and leukotrienes are inflammatory mediators.
 
 Steroids inhibit the release of lysosomal enzymes, preventing  ____ migration and _____ function
 
-Steroids induce the synthesis of lipoprotein-1 which is inhibitory to PLA2  leading a decrease in prostaglandin and leukotriene levels.Prostaglandin and leukotrienes are inflammatory mediators
+Steroids induce the synthesis of lipocortin-1 which is inhibitory to PLA2  leading a decrease in prostaglandin and leukotriene levels.Prostaglandin and leukotrienes are inflammatory mediators
 
 Steroids inhibit the release of lysosomal enzymes, preventing  ____ migration and _____ function.
 79 of 262
@@ -759,11 +759,11 @@ steroids or antihistamines or mast cell stabilizers or leukotriene blockersThe
 ________ may be indicated to prevent rejection of a corneal transplant.
 83 of 262
 
-Steroids - Transplant status is one of the few uses for longterm topical steroid.
+Steroids - Transplant status is one of the few uses for long-term topical steroid.
 
 _______ has been indicated in the use of allergic conjunctivitis, some subtypes of dry eye, interstitial keratitis, herpetic eye disease (in conjunction with antiviral medication), uveitis, sterile ulcers, episcleritis, scleritis
 
-SteroidsTransplant status is one of the few uses for longterm topical steroid
+SteroidsTransplant status is one of the few uses for long-term topical steroid
 
 _______ has been indicated in the use of allergic conjunctivitis, some subtypes of dry eye, interstitial keratitis, herpetic eye disease (in conjunction with antiviral medication), uveitis, sterile ulcers, episcleritis, scleritis
 84 of 262
@@ -878,12 +878,12 @@ NSAIDsTopical NSAIDs have a utility in post-op cataract surgery care
 Diclofenac is used to treat:
 96 of 262
 
-ocular inflammation.Such as post-op cataract surgery or in Irvine-Gas syndrome.
+ocular inflammation.Such as post-op cataract surgery or in Irvine-Gass syndrome.
 
 A potential ocular side effect 
 of the NSAID Voltaren is:
 
-ocular inflammation.Such as post-op cataract surgery or in Irvine-Gas syndrome
+ocular inflammation.Such as post-op cataract surgery or in Irvine-Gass syndrome
 
 A potential ocular side effect of the NSAID Voltaren is:
 97 of 262
@@ -1093,7 +1093,7 @@ Ca++ ions, increase - In skeletal and cardiac muscle.
 The direct action of digoxin results in an increase of intracellular ___, the indirect action of digoxin as a result of this 
 causes an increase in intracellular ___."
 
-Ca+ ions ; increaseIn skeletal and cardiac muscle
+Ca++ ions ; increaseIn skeletal and cardiac muscle
 
 The direct action of digoxin results in an increase of intracellular ___, the indirect action of digoxin as a result of this causes an increase in intracellular ___.
 120 of 262
@@ -1109,7 +1109,7 @@ Diltiazem is a medication used to treat:
 
 hypertension - It also controls angina (chest pain).
 
-Diltiazem is a (Na+/K+/Ca+/Cl-/H+) channel blocker:
+Diltiazem is a (Na+/K+/Ca++/Cl-/H+) channel blocker:
 
 HypertensionIt also controls angina (chest pain)
 
@@ -1120,7 +1120,7 @@ Ca++ - Ca++ channels are on smooth muscle of blood vessels.
 
 Diltiazem is in the following class of medications:
 
-Ca+Ca+ channels are on smooth muscle of blood vessels
+Ca++Ca++ channels are on smooth muscle of blood vessels
 
 Diltiazem is in the following class of medications:
 123 of 262
@@ -1134,11 +1134,11 @@ calcium channel blockerOthers are amlodipine, felodipine, nifedipine, and vera
 The mechanism of action of calcium channel blockers is:
 124 of 262
 
-Prevention of movement of calcium through voltage-sensitive calcium channels in cell membranes. - This keeps Ca+ low-- preventing smooth muscle blood vessel contraction.
+Prevention of movement of calcium through voltage-sensitive calcium channels in cell membranes. - This keeps Ca++ low-- preventing smooth muscle blood vessel contraction.
 
 This is another way of saying that a medication slows down a heart rate:
 
-Prevention of movement of calcium through voltage-sensitive calcium channels in cell membranes.This keeps Ca+ low-- preventing smooth muscle blood vessel contraction
+Prevention of movement of calcium through voltage-sensitive calcium channels in cell membranes.This keeps Ca++ low-- preventing smooth muscle blood vessel contraction
 
 This is another way of saying that a medication slows down a heart rate:
 125 of 262
@@ -1152,11 +1152,11 @@ This is another way of saying a medication causes cardiac muscle to contract wit
 This is another way of saying a medication causes cardiac muscle to contract with less strength:
 126 of 262
 
-"negative ionotropism" - This is because ions (Na+/Ca++) control strength of contraction.
+"negative inotropism" - This is because ions (Na+/Ca++) control strength of contraction.
 
 In order to decrease smooth muscle contraction in blood vessels, Ca++ channel blockers such as diltiazem work to (increase/decrease) levels of intracellular calcium
 
-"negative ionotropism"This is because ions (Na+/Ca+) control strength of contraction."
+"negative inotropism"This is because ions (Na+/Ca+) control strength of contraction."
 
 In order to decrease smooth muscle contraction in blood vessels, Ca++ channel blockers such as diltiazem work to (increase/decrease) levels of intracellular calcium.
 127 of 262
@@ -1165,7 +1165,7 @@ decrease - Ca++ is typically stored in the sarcoplasmic reticulum.
 
 Diphenhydramine is a _____ generation _____.
 
-decreaseCa+ is typically stored in the sarcoplasmic reticulum
+decreaseCa++ is typically stored in the sarcoplasmic reticulum
 
 Diphenhydramine is a _____ generation _____.
 128 of 262
@@ -1179,11 +1179,11 @@ First generation antihistamineFirst generation antihistamines have more side e
 Diphenhydramine is a medication used to treat:
 129 of 262
 
-allergies / cough - Antihistamines often has the word "phen" in it.
+allergies / cough - Antihistamines often have the word "phen" in it.
 
 Diphenhydramine binds to (alpha-1/alpha-2/beta-1/beta-2/acetylcholine/histamine-1/histamine-2) receptors.
 
-allergies / coughAntihistamines often has the word "phen" in it
+allergies / coughAntihistamines often have the word "phen" in it
 
 Diphenhydramine binds to (alpha-1/alpha-2/beta-1/beta-2/acetylcholine/histamine-1/histamine-2) receptors.
 130 of 262
