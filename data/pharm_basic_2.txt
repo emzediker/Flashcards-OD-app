@@ -22,7 +22,7 @@ Psychosis (it is an antipsychotic in schizophrenia) as well as tinnitus, severe 
 As an ocular side effect, chlorpromazine may cause ________ changes to _______.
 3 of 262
 
-Pigmentary changes to the conjunctiva and dermis (blue discoloration) as well as pigmentary changes to the corneal endothelium or Descemet's membrane and the RPE ("salt and pepper fundus") - Steroids and connective tissue diseases can also cause blue sclera.
+Pigmentary changes to the conjunctiva and dermis (blue discoloration) as well as pigmentary changes to the corneal endothelium, Descemet's membrane and the RPE ("salt and pepper fundus") - Steroids and connective tissue diseases can also cause blue sclera.
 
 The mechanism of action of chlorpromazine is that it acts as a:
 
@@ -248,7 +248,7 @@ bacterial infectionsIt is an antibiotic
 IV __________ can treat orbital cellulitis.
 28 of 262
 
-ciprofloxacin or clindamycin or ceftriaxone or cefotaxime - IV medications have the highest potency of any delivery method.
+ciprofloxacin or clindamycin or ceftriaxone or cefotaxime - IV medications have the highest bioavailability of any delivery method.
 
 Ciprofloxacin is in the following class of antibiotic medications:
 
@@ -321,11 +321,11 @@ mycin - ex. clarithromycin, erythromycin, azithromycin
 The mechanism of action of clarithromycin and other medications in its class is:
 36 of 262
 
-Inhibition of protein synthesis at the level of ribosomes. - Clarythromycin is in the macrolide class of antibiotics.
+Inhibition of protein synthesis at the level of ribosomes. - Clarithromycin is in the macrolide class of antibiotics.
 
 Clarithromycin binds to the ____ ribosomal subunit
 
-Inhibition of protein synthesis at the level of ribosomes.Clarythromycin is in the macrolide class of antibiotics
+Inhibition of protein synthesis at the level of ribosomes.Clarithromycin is in the macrolide class of antibiotics
 
 Clarithromycin binds to the ____ ribosomal subunit.
 37 of 262
@@ -357,7 +357,7 @@ Clindamycin is a medication used to treat:
 Clindamycin is a medication used to treat:
 40 of 262
 
-bacterial infections - It is a macrolide antibiotic
+bacterial infections - It is a lincosamide antibiotic
 
 Pharmacology
 Basic Level Deck 4 of 11
@@ -365,7 +365,7 @@ Basic Level Deck 4 of 11
 
 Clindamycin is in the following class of medications:
 
-bacterial infections - It is a macrolide antibiotic
+bacterial infections - It is a lincosamide antibiotic
 
 Pharmacology
 Basic Level Deck 4 of 11
@@ -374,7 +374,7 @@ Basic Level Deck 4 of 11
 Clindamycin is in the following class of medications:
 41 of 262
 
-macrolide - Macrolides usually end in "mycin.”
+lincosamide - BEWARE Macrolides ALSO usually end in "mycin.”
 
 Clonidine is used to treat _____.
 
@@ -502,7 +502,7 @@ False, Cyclobenzaprine does help with pain due to muscle injury by working in th
 The primary ocular effect of cyclopentolate on the eye is:
 55 of 262
 
-cycloplegic / mydriasis / pupillary dilation.Therefore it is used in cycloplegic refraction & other treatments.
+cycloplegia / mydriasis / pupillary dilation.Therefore it is used in cycloplegic refraction & other treatments.
 
 In addition to its use in cycloplegic refractions, cyclopentolate also is used in the treatment of _______.
 
