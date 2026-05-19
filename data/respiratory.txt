@@ -31,7 +31,7 @@ pharynx
 
 The epithelium of the respiratory mucosa is ________ (cuboidal/epithelial/columnar) epithelium with ___ cells.
 8 of 138
-pseudostratified ciliary columnar epithelium with goblet cells
+pseudostratified ciliated columnar epithelium with goblet cells
 
 The four paranasal sinuses are:
 9 of 138
@@ -125,7 +125,7 @@ Terminal bronchioles end in _____ which is the site of gas exchange.
 31 of 138
 alveoli
 
-Each alveoli is associated with a ________ allowing for gas exchange.
+Each alveolus is associated with a ________ allowing for gas exchange.
 32 of 138
 capillary
 
@@ -225,7 +225,7 @@ Most pneumonia infections occur from the bacteria:
 56 of 138
 streptococcus pneumoniae
 
-____ disease is a form a of bacterial pneumonia caused by the infection Legionella pneumophila.
+____ disease is a form of bacterial pneumonia caused by the infection Legionella pneumophila.
 57 of 138
 Legionnaire’s
 
@@ -249,7 +249,7 @@ ______ lung cancer is the most common type of lung cancer and has the ability to
 62 of 138
 Non-small cell
 
-Inspiration moves air (out/into) the lungs and expiration moves are (out/into) the lungs.
+Inspiration moves air (out/into) the lungs and expiration moves air (out/into) the lungs.
 63 of 138
 into ; outMovement of air is controlled by a pressure gradient.
 
@@ -295,7 +295,7 @@ elastic recoil
 
 The difference in intrapleural pressure and alveolar pressure is called _________ pressure and must always be (positive/negative) to keep the lungs inflated.
 74 of 138
-transpulmonary ; negative
+transpulmonary ; positive
 
 A ______ is a device that measures the volume of air exchanged in breathing.
 75 of 138
@@ -321,7 +321,7 @@ ________ volume is the extra air that one can forcibly inspire after a normal in
 80 of 138
 Inspiratory reserve volume
 
-The amount of air that cannot be forcibly expired despite one's best effort is called the _______ volume
+The amount of air that cannot be forcibly expired despite one's best effort is called the _______ volume.
 81 of 138
 residual
 
@@ -389,7 +389,7 @@ Orthopnea is difficulty breathing while _____ and is often associated with heart
 97 of 138
 lying down
 
-(Anpea/Apneusis) is the cessation of breathing after expiration and (apnea/apneusis) is the cessation of breathing after an inspiration.
+(Anpea/Apneusis) is the cessation of breathing and (apnea/apneusis) is the prolonged inspiratory phase with inadequate expiration.
 98 of 138
 Apnea ; apneusis
 
@@ -409,7 +409,7 @@ Which has a higher partial pressure of carbon dioxide, air in the alveoli, or ai
 102 of 138
 venous bloodCarbon dioxide moves from an area of higher pressure to lower.
 
-As altitude decreases partial pressure of oxygen in the air (increases/decreases) resulting in an (increase/decrease) of alveolar blood oxygen exchange.
+As altitude increases partial pressure of oxygen in the air (increases/decreases) resulting in an (increase/decrease) of alveolar blood oxygen exchange.
 103 of 138
 decreases ; decreases
 
@@ -495,7 +495,7 @@ Normal arterial carbon dioxide pressure is about ____.
 
 Chemoreceptors for carbon dioxide are found in the following three places:
 124 of 138
-Centrally in the brainstem and peripherally in the carotid bodies and aorta
+Centrally in the brainstem and peripherally in the carotid bodies and aortic bodies
 
 Central chemoreceptors are more sensitive to changes in pH due to carbon dioxide level changes due to the absence of a ____ system in the CSF that is present in the blood.
 125 of 138
