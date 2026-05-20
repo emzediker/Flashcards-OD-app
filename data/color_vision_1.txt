@@ -474,7 +474,7 @@ After bleaching, it takes ___ minutes for 50% of cone photopigments to recover.
 
 1.5
 
-The photopic sensitivity curve peaks a ______ nm.
+The photopic sensitivity curve peaks at ______ nm.
 95 of 279
 
 555
@@ -489,7 +489,7 @@ The photochromatic interval is zero at the color______.
 
 red - Red is equally detectable in dim and light conditions.
 
-The __________ shift if the perceived increase in brightness of longer wavelengths in scotopic conditions compared to when viewed in photopic conditions.
+The __________ shift is the perceived increase in brightness of longer wavelengths in scotopic conditions compared to when viewed in photopic conditions.
 98 of 279
 
 Purkinje shift
@@ -557,10 +557,10 @@ movement / motion
 
 Biological
 
-Objects subjectively move ___% slower under rod mediated vision than under cone mediate vision
+Objects subjectively move ___% slower under rod mediated vision than under cone mediated vision
 110 of 279
 
-0.25
+25
 
 As a stimulus moves, resolution acuity remains constant until the speed of the object reaches _____ degrees per second
 111 of 279
@@ -622,7 +622,7 @@ _______ is a monocular cue to depth created by partially obstructing a scene wit
 
 Interposition
 
-____ is an monocular cue to depth that occurs when a scene is obscured with haze.
+____ is a monocular cue to depth that occurs when a scene is obscured with haze.
 123 of 279
 
 Clarity
@@ -642,7 +642,7 @@ Motion parallax is a (static/kinetic) monocular cue to depth.
 
 kinetic
 
-In motion parallax, when fixated on a near target, it will move (with/against) the relative motion of the observer’s head
+In motion parallax, when fixated on a near target, it will move (with/against) the relative motion of the observer’s head.
 127 of 279
 
 with
@@ -657,7 +657,7 @@ Depth perception due to retinal disparity is known as ________.
 
 stereopsis
 
-If two targets are too far from one another in depth, rather than experiencing stereopsis, an observe will experience _________.
+If two targets are too far from one another in depth, rather than experiencing stereopsis, an observer will experience _________.
 130 of 279
 
 physiological diplopia
@@ -677,7 +677,7 @@ In the moon illusion, the moon appears to be largest when it is (near to / far f
 
 near to
 
-In the Mullker-Lyer illusion, lines with (arrows/feathers) are perceived as being longer and further away
+In the Muller-Lyer illusion, lines with (arrows/feathers) are perceived as being longer and further away
 134 of 279
 
 feathers
@@ -707,7 +707,7 @@ The__________ method of threshold determination is a combination of the methods 
 
 staircase
 
-In the method of constant stimuli, the presented stimuli is (constantly the same / constantly varied).
+In the method of constant stimuli, the presented stimuli are (constantly the same / constantly varied).
 140 of 279
 
 constantly varied
@@ -767,7 +767,7 @@ The final stage of retinal processing occurs in (ganglion/bipolar/photoreceptor)
 
 ganglion
 
-An area that is being viewed that causes a ganglion cell to have a response is referred to as the ganglion cells _______ field.
+An area that is being viewed that causes a ganglion cell to have a response is referred to as the ganglion cell's _______ field.
 152 of 279
 
 receptive
@@ -782,7 +782,7 @@ Receptive fields of a ganglion cell has "_______" organization, meaning light fa
 
 center-surround
 
-Center-surround organization is also call ____antagonism or ____ inhibition.
+Center-surround organization is also called ____antagonism or ____ inhibition.
 155 of 279
 
 spatial ; lateral
@@ -820,7 +820,7 @@ more
 The resting membrane potential of a typical cell is ___mV and the resting membrane potential of a photoreceptor is ___mV.
 162 of 279
 
-(-)70, (-) 50
+(-)70, (-)50
 
 Photoreceptors respond to light with (action / graded) potentials.
 163 of 279
@@ -897,7 +897,7 @@ Bipolar cells respond to stimulation with (action/graded) potentials.
 
 graded
 
-Light absorption changes 11-cis retinal to ____, which activates transducin, which activates _______, which breaks up cyclicGMP to GMP which causes __channels to close and resulting in hyperpolarization.
+Light absorption changes 11-cis retinal to ____, which activates transducin, which activates _______, which breaks down cyclicGMP to GMP which causes __channels to close and resulting in hyperpolarization.
 178 of 279
 
 all-trans, phosphodiesterase, Na+
@@ -1058,7 +1058,7 @@ dominant
 The relative distance between white and a given sample to the perimeter of the CIE chromaticity diagram is used to describe ______.
 208 of 279
 
-colorimetric aka excitation purity
+colorimetric purity aka excitation purity
 
 Complementary colors mix to form (black/white).
 209 of 279
@@ -1105,7 +1105,7 @@ Red-green color vision anomalies are often described as ___ or ___ and are usual
 
 protan or deutan
 
-Yellow-blue defects are referred to a ___ and are usually acquired instead of inherited.
+Yellow-blue defects are referred to as ___ and are usually acquired instead of inherited.
 218 of 279
 
 tritan
@@ -1125,7 +1125,7 @@ The displacement of the photopic luminosity function is greater for (protanopia/
 
 protanopia
 
-Patients with protanopia or deuteranopia may not be able to discriminate stimuli on the basis of wavelength alone at (longer/short) wavelengths.
+Patients with protanopia or deuteranopia may not be able to discriminate stimuli on the basis of wavelength alone at (longer/shorter) wavelengths.
 222 of 279
 
 longer
@@ -1178,7 +1178,7 @@ blue/yellow, red/green
 ______ conditions result in monochromatic vision.
 232 of 279
 
-Achromatopsias
+Achromatopsia
 
 In cerebral achromatopisia, retinal photopigments are (abnormal/normal).
 233 of 279
@@ -1210,7 +1210,7 @@ The desaturated ______ D-15 test may detect defects that the standard Farnsworth
 
 Lanthony
 
-True or False: The Farnsworth-Munsell 100-Hue test consists of 100 chips arrange in color likeness.
+True or False: The Farnsworth-Munsell 100-Hue test consists of 100 chips arranged in color likeness.
 239 of 279
 
 False. It's only 85 chips
@@ -1275,7 +1275,7 @@ Spatial _______ is given by the number of cycles per degree of visual angle or c
 
 frequency
 
-Higher contrast gratings have a greater differences in ______.
+Higher contrast gratings have greater differences in ______.
 252 of 279
 
 luminance
@@ -1290,7 +1290,7 @@ Visual acuity testing in clinic determines the (high/low) spatial frequency cuto
 
 high
 
-Two factors that affect the high spatial frequency cut off in visual acuity are:1. Spacing of the _______ in the eye. 2. Optical _________.
+Two factors that affect the high spatial frequency cutoff in visual acuity are:1. Spacing of the _______ in the eye. 2. Optical _________.
 255 of 279
 
 photoreceptors, aberrations
@@ -1315,7 +1315,7 @@ ____ bands are perceived borders between a gradient of bright and dark regions. 
 
 Mach
 
-In an optotype, the ______________ is the angle that the limit of resolution of thebars of an optotype creates.
+In an optotype, the ______________ is the angle that the limit of resolution of the bars of an optotype creates.
 260 of 279
 
 minimum angle of resolution (MAR)
@@ -1345,7 +1345,7 @@ There are ____ minutes of arc in 1 degree.
 
 60
 
-Compared to the Snellen chart, the _____________ chart has greater spacing between optotypes.
+Compared to the Snellen chart, the _____________ chart has greater, more proportional, spacing between optotypes.
 266 of 279
 
 Bailey-Lovie
@@ -1400,7 +1400,7 @@ A stimulus with a low temporal frequency may be seen as a slow ______ light and 
 
 flickering, flickering
 
-The temporal frequency that is too quick to resolve a flicker is called the "______________" frequency.
+The temporal frequency that is too rapid to resolve a flicker is called the "______________" frequency.
 277 of 279
 
 critical flicker fusion
