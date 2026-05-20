@@ -1228,7 +1228,7 @@ Visual area 5 aka middle temporal cortex codes for ______.
 
 motion
 
-Visual area 4 aka middle temporal cortex is part of the (dorsal/ventral) processing stream.
+Visual area 5 aka middle temporal cortex is part of the (dorsal/ventral) processing stream.
 244 of 337
 
 dorsal
@@ -1266,9 +1266,9 @@ fusiform face area
 The _______ area of the extrastriate cortex responds well to specific object, but not faces.
 251 of 337
 
-parahippocampal place
+parahippocampal place area (PPA)
 
-________ is the inability to see faces.
+________ is the inability to recognize faces.
 252 of 337
 
 Prosopagnosia
@@ -1283,7 +1283,7 @@ Perception of an ambiguous figure, such as a Necker cube, is associated with act
 
 extrastriate
 
-In (top-down/bottom-up) attention, the observer decides what the attend to.
+In (top-down/bottom-up) attention, the observer decides what to attend to.
 255 of 337
 
 top-down
@@ -1338,7 +1338,7 @@ A patient with ________ has normal rods and cones but cannot distinguish hues du
 
 cerebral achromatopsia
 
-Visual neglect has previously been associated to damage to the parietal lobe, however there is now evidence of damage to the ______ lobe as well.
+Visual neglect has previously been associated with damage to the parietal lobe, however there is now evidence of damage to the ______ lobe as well.
 266 of 337
 
 superior temporal
