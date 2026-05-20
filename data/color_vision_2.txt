@@ -28,7 +28,7 @@ Retinal illumination has an effect on (low/high/both) levels of critical flicker
 
 high
 
-Critical flicker frequency increase with the stimulus area, flicker is more likely to be perceived if a stimulus is (smaller/larger).
+Critical flicker frequency increases with the stimulus area, flicker is more likely to be perceived if a stimulus is (smaller/larger).
 7 of 337
 
 larger
@@ -43,10 +43,10 @@ The ________ effect, states that flashes of light with a duration of 50ms-100ms 
 
 Broca-Sulzer
 
-The Brucke-Bartley effect demonstrates that a ___Hz frequency light appears brighter than a ___Hz steady light despite equal luminance.
+The Brucke-Bartley effect demonstrates that a ___Hz frequency light appears brighter than a steady light despite equal luminance.
 10 of 337
 
-10, 10
+10
 
 The Talbot-Plateau Law states that a temporally modulated (flickered) stimulus that is fused has the same brightness as a steady light of the same time averaged luminance as long as the flickering light is beyond the ______.
 11 of 337
@@ -63,7 +63,7 @@ _______ masking occurs when both the mask and target are present at the same tim
 
 Simultaneous
 
-Two stimulus presented at the same time with similar or harmonious spatial frequencies is an example of ________ masking.
+Two stimuli presented at the same time with similar or harmonious spatial frequencies is an example of ________ masking.
 14 of 337
 
 simultaneous
@@ -73,7 +73,7 @@ Amblyopia patients may distinguish single letters on an acuity chart better than
 
 crowding
 
-In (backward/forward) masking, the mask proceeds target and in (backward/forward) masking, the target proceeds the mask.
+In (backward/forward) masking, the mask proceeds the target and in (backward/forward) masking, the target proceeds the mask.
 16 of 337
 
 forward, backward
@@ -98,7 +98,7 @@ Stroboscopic motion is a ____ order stimuli for motion and is used for things li
 
 first
 
-In random dot cinerators, dots move in random directions. The smallest fraction of dots that are detected as moving in a common direction is called the ________ threshold.
+In random dot kinetograms, dots move in random directions. The smallest fraction of dots that are detected as moving in a common direction is called the ________ threshold.
 21 of 337
 
 coherence
@@ -121,7 +121,7 @@ cones, 5%
 (S/M/L) cones are the fewest population of cones and they (are / are not) found in the fovea.
 24 of 337
 
-S, are not.
+S, are not
 
 ______ adaptation refers to the gradual improvement in scotopic vision after being exposed to a bright light.
 25 of 337
@@ -143,7 +143,7 @@ The marked change in curve slope at 12 minutes of the dark adaptation curve is c
 
 rod-cone break
 
-The plateau that occurs at 10 and the 25 minutes of the dark adaptation curve corresponds to ___ and ___ respectively.
+The plateau that occurs at 10 and 25 minutes of the dark adaptation curve corresponds to ___ and ___ respectively.
 29 of 337
 
 cone thresholds and rod thresholds
@@ -173,7 +173,7 @@ The _______ explanation states that changes in sensitivity of photoreceptors dur
 
 photochemical - As photopigments regenerate the retina becomes more sensitive.
 
-The probability that a photopigment will absorb light is (linearly/exponentially) proportional to the given percentage of photopigment regeneration.
+The probability that a photopigment will absorb light is (linearly/exponentially) related to the given percentage of photopigment regeneration.
 35 of 337
 
 exponentially
@@ -233,7 +233,7 @@ scotopic
 
 More
 
-The (photopic/scoptic) system has greater spatial summation and the (photopic/scotopic) system have greater spatial resolution.
+The (photopic/scotopic) system has greater spatial summation and the (photopic/scotopic) system have greater spatial resolution.
 47 of 337
 
 scotopic, photopic
@@ -313,7 +313,7 @@ ________ is the number of lumens produced in a given direction by a source.
 
 Luminous intensity
 
-Luminous power is measured in _______ and luminous intensity of measured in _______ or ______.
+Luminous power is measured in _______ and luminous intensity is measured in _______ or ______.
 63 of 337
 
 Lumens, candela or lumens per steradian.
