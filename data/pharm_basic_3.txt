@@ -2399,7 +2399,7 @@ dilationVasodilation decreases blood pressure
 The actions of nifedipine (decreases/increases) levels of (calcium/sodium/potassium/hydrogen) in cells.
 255 of 262
 
-Decreases, calcium - Ca+ is needed for smooth muscle to contract in blood vessels.
+Decreases, calcium - Ca++ is needed for smooth muscle to contract in blood vessels.
 
 Nystatin is in the following class of medications:
 
