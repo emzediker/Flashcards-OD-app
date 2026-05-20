@@ -353,7 +353,7 @@ is not
 
 Luminance, illuminance
 
-The radiometric equivalents of luminous power , luminous intensity, luminance, and illuminance are:
+The radiometric equivalents of luminous power, luminous intensity, luminance, and illuminance are:
 71 of 337
 
 radiant power, radiant intensity, radiance and irradiance
@@ -428,7 +428,7 @@ High color temperature incandescent lights may have a ___ hue and low color temp
 
 blue, yellow
 
-The correlated color temperature of a fluorescent bulb is determine by the _____ that coats it.
+The correlated color temperature of a fluorescent bulb is determined by the _____ that coats it.
 86 of 337
 
 phosphor
@@ -448,7 +448,7 @@ A ______band filter passes a broad spectral band of light.
 
 broad
 
-___pass filters transmit long wavelengths only, a modern example of this a computer ________ lenses.
+___pass filters transmit long wavelengths only, a modern example of this is a computer ________ lenses.
 90 of 337
 
 Longpass, blue blocker
@@ -598,7 +598,7 @@ non-color/brightness
 
 Parvo, konio, magno
 
-The dimensions of the Mensell color system are:
+The dimensions of the Munsell color system are:
 120 of 337
 
 hue, chroma, and value
@@ -621,7 +621,7 @@ outer
 EOGs are used to specifically test for the disease, _______.
 123 of 337
 
-Bests
+Best
 
 ____ disease presents with a normal full-field ERG and a reduced light rise of the EOG.
 124 of 337
@@ -668,7 +668,7 @@ The (photoreceptor/Muller/bipolar/RPE/ganglion) cells are responsible for the c-
 
 RPE
 
-The (VEP/ERG/EOG) is useful in diagnosis large retinal conditions such as retinitis pigmentosa.
+The (VEP/ERG/EOG) is useful in diagnosing large retinal conditions such as retinitis pigmentosa.
 133 of 337
 
 ERG - fullfield specifically
@@ -688,7 +688,7 @@ A standard flicker or flash ERG isolates (inner/outer) retina and a pattern ERG 
 
 outer, inner
 
-A full-field ERG uses a ________ to display the stimulus, and a PERG and a mfERG uses a computer screen.
+A full-field ERG uses a ________ to display the stimulus, and a PERG and a mfERG use a computer screen.
 137 of 337
 
 Ganzfeld dome
@@ -698,7 +698,7 @@ In analysis of an ERG, the _____ time is the time from stimulus presentation to 
 
 implicit
 
-The normal implicit time for a ERG is ____ ms.
+The normal implicit time for an ERG is ____ ms.
 139 of 337
 
 25-30
@@ -718,7 +718,7 @@ A (VEP/ERG/EOG) uses a special contact lens with electrodes to record responses.
 
 ERG
 
-A (VEP/ERG/EOG) uses leads placed on a patients head and scalp to record potentials.
+A (VEP/ERG/EOG) uses leads placed on a patient's head and scalp to record potentials.
 143 of 337
 
 VEP
@@ -773,7 +773,7 @@ ______ is a reduction in vision secondary to monocular deprivation during the cr
 
 Amblyopia
 
-(Occlusion/Refractive/Strabismic) amblyopia may result from monocular congenital cataract or monocular congenital ptosis.
+(Occlusion/Refractive/Strabismic) amblyopia may result from a monocular congenital cataract or a monocular congenital ptosis.
 154 of 337
 
 Occlusion
@@ -783,7 +783,7 @@ Occlusion
 
 Refractive
 
-(Occlusion/Refractive/Strabismic) amblyopia can occur in patient with a constant unilateral tropia since birth.
+(Occlusion/Refractive/Strabismic) amblyopia can occur in a patient with a constant unilateral tropia since birth.
 156 of 337
 
 Strabismic
@@ -838,12 +838,12 @@ The (voluntary/involuntary) nystagmus that occurs while viewing a rotating drum 
 
 involuntary, optokinetic nystagmus
 
-Nystagmus consist of two phases: a ____ followed by a _____.
+Nystagmus consists of two phases: a ____ followed by a _____.
 167 of 337
 
 pursuit, saccade
 
-_______ looking occurs when an infant favors viewing a patterned stimuli over a non-patterned stimuli.
+_______ looking occurs when an infant favors viewing a patterned stimulus over a non-patterned stimulus.
 168 of 337
 
 Preferential
@@ -888,7 +888,7 @@ _____________ is the temporary decrease in visual acuity that occurs after expos
 
 Disability glare recovery
 
-In a  _____ field of view test, a patient is tasked to identify centrally and peripherally viewed object simultaneously.
+In a  _____ field of view test, a patient is tasked to identify centrally and peripherally viewed objects simultaneously.
 177 of 337
 
 "useful" (UVF test)
@@ -938,7 +938,7 @@ The three pathways that synapse in the LGN (lateral geniculate nucleus) are:
 
 magno, parvo and konio
 
-A subset of ganglion cells contain the photopigments (rhodopsin / opsin / melanopsin) which project to the suprachiasmatic nucleus and play are role in (color vision / circadian rhythm).
+A subset of ganglion cells contain the photopigments (rhodopsin / opsin / melanopsin) which project to the suprachiasmatic nucleus and play a role in (color vision / circadian rhythm).
 186 of 337
 
 melanopsin, circadian rhythm
