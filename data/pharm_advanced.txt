@@ -18,7 +18,7 @@ Mannitol is an (oral/topical/injectable/intravenous) medication.
 3 of 167
 
 
-intravenous - It is a hyperosmotic.
+intravenous - It is a hyperosmotic agent.
 
 Mannitol is available in a ___% premixed solution.
 4 of 167
@@ -42,7 +42,7 @@ Oral carbonic anhydrase inhibitors decrease IOP by approximately:
 7 of 167
 
 
-0.3
+30%
 
 Methotrexate is an (topical/oral/injectable/intravenous) medication.
 8 of 167
@@ -104,7 +104,7 @@ Ofloxacin is a _____ generation fluoroquinolone.
 
 second
 
-Ofloxacin is bacertio(static/cidal).
+Ofloxacin is bacterio(static/cidal).
 18 of 167
 
 
@@ -144,7 +144,7 @@ oxycodone + ibuprofen =
 24 of 167
 
 
-combunox
+Combunox
 
 Oxycodone is a semisynthetic analogue of _____.
 25 of 167
@@ -152,7 +152,7 @@ Oxycodone is a semisynthetic analogue of _____.
 
 codeine
 
-Oxycodone is in a subclass class of medications known as ____ .
+Oxycodone is in a subclass of medications known as ____ .
 26 of 167
 
 
@@ -182,7 +182,7 @@ Promethazine belongs to the following family of antihistamines:
 
 phenothiazines
 
-The structure of proparacaine is a (hydrophilic/lipophilic) aromatic ring, intermediate chain, and (hydrophilic/lipophilic) amino group.
+The structure of proparacaine is a (hydrophilic/lipophilic) aromatic ring, intermediate chain, and a (hydrophilic/lipophilic) amino group.
 31 of 167
 
 
@@ -204,7 +204,7 @@ Rifampin inhibits subunit (I/II) of DNA-dependent RNA polymerase.
 34 of 167
 
 
-Subunit I
+Subunit I - This is also called the beta subunit.
 
 Rifampin is bacterio(static/cidal).
 35 of 167
@@ -224,7 +224,7 @@ Sulfacetamide is bacterio(static/cidal).
 
 static
 
-Sulfacetamide is effective against gram (positive/negative) bacteria.
+Sulfacetamide is effective against gram-(positive/negative) bacteria.
 38 of 167
 
 
@@ -242,7 +242,7 @@ Sulfadiazine interferes with the (first/last) step in folate synthesis.
 
 first
 
-Sulfadiazine is effective against gram (positive/negative) bacteria.
+Sulfadiazine is effective against gram-(positive/negative) bacteria.
 41 of 167
 
 
@@ -278,7 +278,7 @@ Sulfisoxazole interferes with the (first/last) step in folate synthesis.
 
 first
 
-Sulfisoxazole is effective against gram (positive/negative) bacteria.
+Sulfisoxazole is effective against gram-(positive/negative) bacteria.
 47 of 167
 
 
@@ -308,7 +308,7 @@ Beta-blockers can have an adverse effect of the metabolism of lipids via inhibit
 
 lipoprotein lipase
 
-Tobramycin is effective against gram (negative/positive) bacteria.
+Tobramycin is effective against gram-(negative/positive) bacteria.
 52 of 167
 
 
@@ -326,7 +326,7 @@ Tylenol + tramadol =
 
 Ultracet
 
-Travaprost is preserved in ____ and Travatan Z is preserved in ____.
+Travoprost is preserved in ____ and Travatan Z is preserved in ____.
 55 of 167
 
 
@@ -427,13 +427,13 @@ Acyclovir _______ binds to viral polymerase.
 
 irreversiblyIt is an antiviral that prevents DNA replication.
 
-Potential adverse effects of of acyclovir are:
+Potential adverse effects of acyclovir are:
 71 of 167
 
 
 headache and gastrointestinal disturbance, especially in those with renal disease. - GI issues are also occur with antibiotics due to effects on gut flora.
 
-Due to it's quick action, albuterol is considered a "______" inhaler.
+Due to its quick action, albuterol is considered a "______" inhaler.
 72 of 167
 
 
@@ -493,7 +493,7 @@ Apraclonidine comes in the following percentage(s):
 
 0.5% and 1% - 0.5% has less side effects.
 
-What percentage of apraclonidine drop would have the greatest impact on intraocular pressure after a pressure spike that may be associated to laser procedures?
+What percentage of apraclonidine drop would have the greatest impact on intraocular pressure after a pressure spike that may be associated with laser procedures?
 82 of 167
 
 
@@ -541,7 +541,7 @@ In the treatment of chlamydia, azithromycin should be taken (with/without) food.
 
 without - The dosage to treat chlamydia is 1 gram once by mouth.
 
-True or False: Bepotastine is safe for use pediatric patients.
+True or False: Bepotastine is safe for use in pediatric patients.
 90 of 167
 
 
@@ -565,7 +565,7 @@ Besivance is a topical (solution/suspension).
 
 suspension
 
-Azasite (topical azithromycin) and Bepreve (besifloxacin) are both preserved in _________ which is _________.
+Azasite (topical azithromycin) is preserved in _________ which is _________.
 94 of 167
 
 
@@ -583,13 +583,13 @@ Betaxolol is a solution / suspension.
 
 Can be either! - Betaxolol is specific to beta-1.
 
-______ is a ophthalmic glaucoma medication that comes in 0.1%, 0.15% as well as its generic 0.2%.
+______ is an ophthalmic glaucoma medication that comes in 0.1%, 0.15% as well as its generic 0.2%.
 97 of 167
 
 
 Alphagan/brimonidine
 
-MOAIs are strongly contraindicated with IOP lowering medication _____________ due to their interference with its metabolism.
+MAOIs are strongly contraindicated with IOP lowering medication _____________ due to their interference with its metabolism.
 98 of 167
 
 
@@ -599,7 +599,7 @@ A purple cap indicates:
 99 of 167
 
 
-brimonidine and other alpha-2 agonist
+brimonidine and other alpha-2 agonists
 
 An orange cap indicates:
 100 of 167
@@ -653,7 +653,7 @@ True or False: Cholestyramine binds to bile salts in the stomach to prevent reab
 108 of 167
 
 
-False - Cholestyramine bind to bile salts in the intestine.
+False - Cholestyramine binds to bile salts in the intestine.
 
 Potential systemic side effects of cholestyramine are:
 109 of 167
@@ -701,7 +701,7 @@ dexamethasone + tobramycin =
 116 of 167
 
 
-tobradex
+Tobradex
 
 Tobradex is a (solution/suspension).
 117 of 167
@@ -761,19 +761,19 @@ Echothiophate can potentiate the action of_______.
 126 of 167
 
 
-succinylcholine - Succinylcholine is a used during surgical procedures to relax muscles.
+succinylcholine - Succinylcholine is used during surgical procedures to relax muscles.
 
 Emedastine is a ____ generation _____.
 127 of 167
 
 
-second generation antihistamine drop.
+second-generation antihistamine drop.
 
-Proton pump inhibitors (reversibly/irreversibly) inhibits proton pumps (H+/K+ ATPase).
+Proton pump inhibitors (reversibly/irreversibly) inhibit proton pumps (H+/K+ ATPase).
 128 of 167
 
 
-irreversibly inhibits - This increases pH, making the environment less acidic.
+irreversibly inhibit - This increases pH, making the environment less acidic.
 
 The  _________ class of medication interferes with diazepam, phenytoin and warfarin metabolism resulting in increased concentrations.
 129 of 167
@@ -785,7 +785,7 @@ Due to its effect on pH, proton pump inhibitors such as esomeprazole can cause a
 130 of 167
 
 
-pneumonia & intestinal clostridium, B12 deficiency, and low magnesium level & calcium absorption.
+pneumonia & intestinal Clostridium difficile, B12 deficiency, and low magnesium level & calcium absorption.
 
 Famciclovir is the prodrug of the medication:
 131 of 167
@@ -809,7 +809,7 @@ Fluorometholone is an ophthalmic (solution / suspension / ointment).
 134 of 167
 
 
-It is available as an ointment or a solution
+It is available as an ointment or a suspension.
 
 Rimexolone is a steroid (solution / suspension).
 135 of 167
@@ -841,7 +841,7 @@ Due to risk of electrolyte imbalances, loop diuretics such as furosemide should 
 
 cardiac glycosides
 
-The iodine kinase and deoxyguanosine kinase are the enzymes that activate the medication ______ via __________.
+The thymidine kinase and deoxyguanosine kinase are the enzymes that activate the medication ______ via __________.
 140 of 167
 
 
@@ -853,7 +853,7 @@ As Zirgan, ganciclovir is available as an ophthalmic (solution/suspension/emulsi
 
 gel
 
-Zirgan is preserved in (BAK/thimerosal/Purite).
+Viroptic is preserved in (BAK/thimerosal/Purite).
 142 of 167
 
 
@@ -961,7 +961,7 @@ Levobunolol is a (oral/topic/intravenous) medication.
 
 topical
 
-Levofloxacin as gram _____ coverage
+Levofloxacin has gram _____ coverage
 160 of 167
 
 
