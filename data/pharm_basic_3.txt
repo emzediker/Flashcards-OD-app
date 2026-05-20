@@ -188,11 +188,11 @@ pain and inflammation
 The mechanism of action of ibuprofen is:
 21 of 262
 
-Inhibition of COX enzymes and subsequent prevention of prostaglandin production. - All NSAIDS inhibit both COX-1 and COX-2-- except celecoxib is COX-2 selective.
+Inhibition of COX enzymes and subsequent prevention of prostaglandin production. - All NSAIDs inhibit both COX-1 and COX-2-- except celecoxib is COX-2 selective.
 
 Ibuprofen inhibits the ___ enzymes
 
-Inhibition of COX enzymes and subsequent prevention of prostaglandin production.NSAIDS inhibit both COX-1 and -2-- except celecoxib is COX-2 selective
+Inhibition of COX enzymes and subsequent prevention of prostaglandin production.NSAIDs inhibit both COX-1 and -2-- except celecoxib is COX-2 selective
 
 Ibuprofen inhibits the ___ enzymes.
 22 of 262
@@ -272,11 +272,11 @@ anti-cholinergic for example dry eye, mydriasis, poor accommodation, and narrow 
 The mechanism of action of tricyclic antidepressants is to:
 30 of 262
 
-block monoamine (epinephrine and serotonin) reuptake at the synapses of the central nervous system increasing their levels. - SSRI's are a different class of medications that only affect serotonin.
+block monoamine (norepinephrine and serotonin) reuptake at the synapses of the central nervous system increasing their levels. - SSRI's are a different class of medications that only affect serotonin.
 
 Indomethacin is a ______ medication.
 
-block monoamine (epinephrine and serotonin) reuptake at the synapses of the central nervous system increasing their levels.SSRI's are a different class of medications 
+block monoamine (norepinephrine and serotonin) reuptake at the synapses of the central nervous system increasing their levels.SSRI's are a different class of medications 
 that only affect serotonin."
 
 Indomethacin is a ______ medication.
@@ -536,7 +536,7 @@ pain and inflammation.
 The ocular applications of ketorolac include:
 59 of 262
 
-Treatment of allergic conjunctivitis, inflammation, and prevention to cystoid macular edema after cataract surgery. - Although it is a NSAID ketorolac 0.4% is indicated for allergies.
+Treatment of allergic conjunctivitis, inflammation, and prevention of cystoid macular edema after cataract surgery. - Although it is a NSAID ketorolac 0.4% is indicated for allergies.
 
 Ketotifen is a(n) ________ medication
 
@@ -547,12 +547,12 @@ indicated for allergies
 Ketotifen is a(n) ________ medication.
 60 of 262
 
-antihistamine and mast cell stabilizer combination drop - NOT related to ketoconazole (antifungal) or ketorolac (NSIAD).
+antihistamine and mast cell stabilizer combination drop - NOT related to ketoconazole (antifungal) or ketorolac (NSAID).
 
 Ketotifen is a (topical/oral/intravenous) medication used to treat ____________.
 
 antihistamine and mast cell stabilizer 
-combination dropNOT related to ketoconazole (antifungal) or ketorolac (NSIAD)
+combination dropNOT related to ketoconazole (antifungal) or ketorolac (NSAID)
 
 Ketotifen is a (topical/oral/intravenous) medication used to treat ____________.
 61 of 262
@@ -575,7 +575,7 @@ Histamine-1 (H1)H2 receptors in the stomach control gastric acid secretion
 Ketotifen binds to ____ cells and prevents ____induced degranulation.
 63 of 262
 
-mast cells and prevents calcium induced degranulation - Mast cells release inflammatory mediators like histamine & leukotrienes.
+mast cells and prevents calcium-induced degranulation - Mast cells release inflammatory mediators like histamine & leukotrienes.
 
 Labetalol is a medication used to treat:
 
@@ -668,7 +668,7 @@ monocularlyOtherwise a patient may have one red, deeper set eye with a darker 
 True or false: Prostaglandins such as latanoprost have more ocular side effects than systemic side effects.
 73 of 262
 
-TRUE - PGs have the most ocular side effects and CAI's have the most systemic.
+TRUE - PGs have the most ocular side effects and CAI's have the most systemic side effects.
 
 Latanoprost and other medications in it's class work on ____ receptors on the _______ of the eye resulting in decreased ______.
 
@@ -677,7 +677,7 @@ TRUEPGs have the most ocular side effects and CAI's have the most systemic
 Latanoprost and other medications in it's class work on ____ receptors on the _______ of the eye resulting in decreased ______.
 74 of 262
 
-PFG2a receptors on the ciliary muscle, decreased collagen - This allows for better uveoscleral outflow.
+PGF2a receptors on the ciliary muscle, decreased collagen - This allows for better uveoscleral outflow.
 
 Asthma medications that are beta-2 agonist often end in the suffix:
 
