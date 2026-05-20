@@ -1650,18 +1650,18 @@ Thiazides affect (Na/Ca/H/K/Cl) ions and carbonic anhydrase inhibitors do not.
 
 calcium - CAI's work with balance of H+, water, bicarbonate & carbon dioxide.
 
-There is an increase risk of sickle cell crisis in patients taking the following class of glaucoma medications:
+There is an increased risk of sickle cell crisis in patients taking the following class of glaucoma medications:
 
 calciumCAI's work with balance of H+, water, bicarbonate & carbon dioxide
 
-There is an increase risk of sickle cell crisis in patients taking the following class of glaucoma medications:
+There is an increased risk of sickle cell crisis in patients taking the following class of glaucoma medications:
 177 of 262
 
-carbonic anhydrase inhibitors - Endogenous carbonic anhydrase effects carbon dioxide in red blood cells.
+carbonic anhydrase inhibitors - Endogenous carbonic anhydrase affects carbon dioxide in red blood cells.
 
 ______________ is a potential fatal side effect of carbonic anhydrase inhibitors.
 
-carbonic anhydrase inhibitorsEndogenous carbonic anhydrase effects carbon dioxide in red blood cells
+carbonic anhydrase inhibitorsEndogenous carbonic anhydrase affects carbon dioxide in red blood cells
 
 ______________ is a potential fatal side effect of carbonic anhydrase inhibitors.
 178 of 262
@@ -1692,11 +1692,11 @@ immunosuppressive medicationIt can be used to treat autoimmune diseases
 The mechanism of action of methotrexate is:
 180 of 262
 
-Interference of DNA formation by blocking synthesis of purines by dihydrofolate reductase and thymidylate synthase. - Adenine and guanine are the purine bases of DNA.
+Interference with DNA formation by blocking synthesis of purines by dihydrofolate reductase and thymidylate synthase. - Adenine and guanine are the purine bases of DNA.
 
 Methotrexate is a medication used to treat:
 
-Interference of DNA formation by blocking synthesis of purines by dihydrofolate reductase and 
+Interference with DNA formation by blocking synthesis of purines by dihydrofolate reductase and 
 thymidylate synthase.Adenine and guanine are the purine bases of DNA
 
 Methotrexate is a medication used to treat:
@@ -1749,11 +1749,11 @@ Anticholinergic such as dry eye and dilation and the potential for narrow angle 
 The mechanism of action of methylphenidate is to:
 186 of 262
 
-increase release of dopamine - Bromocriptine is a dopamine agonist & dextroamphetamine decreases uptake.
+dopamine and norepinephrine reuptake inhibition - Bromocriptine is a dopamine agonist & dextroamphetamine decreases uptake.
 
 Metipranolol belongs to the following class of medications:
 
-increase release of dopamineBromocriptine is a dopamine agonist & dextroamphetamine decreases uptake
+dopamine and norepinephrine reuptake inhibitionBromocriptine is a dopamine agonist & dextroamphetamine decreases uptake
 
 Metipranolol belongs to the following class of medications:
 187 of 262
@@ -1768,11 +1768,11 @@ Ex: timolol, metoprolol & propranolol
 Metipranolol is selective to B(1/2) receptors.
 188 of 262
 
-It is selective to both ("nonselective" techicially) - Betaxolol is selective to beta-1 receptors.
+It is selective to both ("nonselective" technically) - Betaxolol is selective to beta-1 receptors.
 
 Metipranolol is a medication used to treat ___
 
-It is selective to both ("nonselective")Betaxolol is selective to beta-1 receptors
+It is selective to both ("nonselective" technically)Betaxolol is selective to beta-1 receptors
 
 Metipranolol is a medication used to treat ___
 189 of 262
@@ -1788,11 +1788,11 @@ Patients treated with beta-blockers may experience decreased action due to (up/d
 
 up - In upregulation, cells create more receptors in response to antagonism.
 
-___________ is then phenomenon where a medication is no longer working due to an upregulation of target receptors.
+___________ is the phenomenon where a medication is no longer working due to an upregulation of target receptors.
 
 upIn upregulation, cells create more receptors in response to antagonism
 
-___________ is then phenomenon where a medication is no longer working due to an upregulation of target receptors.
+___________ is the phenomenon where a medication is no longer working due to an upregulation of target receptors.
 191 of 262
 
 Tachyphylaxis - Changing therapy or increasing dose may combat tachyphylaxis.
@@ -1869,7 +1869,7 @@ beta-1 have more effects on the heart and beta-2 have more effects on the lungs.
 
 Metronidazole is a _________ medication.
 
-beta-1 have more effects on the heart and beta-2 have more effects on the lungs.Side effects will mirror over/under activation of receptors accordingly
+beta-1 have more effects on the heart and beta-2 have more effects on the lungs.Side effects will mirror over/under activation of receptors accordingly.
 
 Metronidazole is a _________ medication.
 199 of 262
@@ -1924,11 +1924,11 @@ human liver
 The mechanism of action of miconazole and other medications in its class is:
 204 of 262
 
-inhibition the synthesis of ergosterol in the cell membranes of fungi - Achieved by inhibiting the enzyme CYP450 14a-lanosterol demethylase.
+inhibition of the synthesis of ergosterol in the cell membranes of fungi - Achieved by inhibiting the enzyme CYP450 14a-lanosterol demethylase.
 
 Montelukast is a medication that treats:
 
-inhibition the synthesis of ergosterol in the 
+inhibition of the synthesis of ergosterol in the 
 cell membranes of fungiAchieved by inhibiting the enzyme CYP450 
 14a-lanosterol demethylase
 
@@ -2110,8 +2110,8 @@ dilation - Naphazoline constricts the conjunctival blood vessels and dilates the
 
 Naphazoline is a topical ocular "____________"
 
-dilationNaphazoline constricts the conj blood 
-vessels and dilates the pupil
+dilationNaphazoline constricts the conjunctival blood 
+vessels and dilates the pupil.
 
 Naphazoline is a topical ocular "____________."
 224 of 262
@@ -2180,7 +2180,7 @@ inhibition of COX enzymes to prevent production of prostaglandins.Prostaglandi
 NSAIDS are anti______,_______,_____,_______.
 231 of 262
 
-Anti pain, inflammatory, fever, platelet
+Anti pain, inflammation, fever, platelet
 
 Natamycin is medication used to treat:
 
