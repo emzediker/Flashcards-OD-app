@@ -27,7 +27,7 @@ hydrogen
 The following are excreted due to the mechanism of action of diuretics:
 5 of 210
 
-sodium, potassium, bicarbonate, water - Diuretics are sometimes called ""water pills."
+sodium, potassium, bicarbonate, water - Diuretics are sometimes called "water pills."
 
 Patients with sulfa allergies, who have COPD, are pregnant, or have renal/liver disease are contraindicated for the following class of IOP lowering medications:
 6 of 210
@@ -207,7 +207,7 @@ meibomian gland dysfunction - Meibomian glands contain lipids (oils).
 The traditional dosage of azithromycin for soft tissue infections is:
 41 of 210
 
-2-250 mg doses (500 mg) for one day and then 1-250 mg dosages for the next 4 days. - This is often called a ZPAK.
+2-250 mg doses (500 mg) for one day and then 1-250 mg dose for the next 4 days. - This is often called a ZPAK.
 
 The dosage of azithromycin used to treat adult inclusion conjunctivitis is:
 42 of 210
@@ -219,7 +219,7 @@ The generic of Lotensin is:
 
 benazepril
 
-Systemic side effects if ACE inhibitors include _______and ocular side effects of ACE inhibitors include _________.
+Systemic side effects of ACE inhibitors include _______and ocular side effects of ACE inhibitors include _________.
 44 of 210
 
 cough & hypersensitivity reactions, angioedema & lid edema (swollen lids) - ACE inhibitors treat hypertension.
@@ -307,9 +307,9 @@ BAK (benzalkonium chloride)
 The class of topical glaucoma medications has many ocular side effects and very few systemic side effects is:
 61 of 210
 
-Prostaglandin analogues - This is why prostaglandins are not not dosed monocularly.
+Prostaglandin analogues - This is why prostaglandins are not dosed monocularly.
 
-True are false: Ocular side effects of orbital fat atrophy and change in iris coloration induced by prostaglandins use are reversible by stopping the drop.
+True or false: Ocular side effects of orbital fat atrophy and change in iris coloration induced by prostaglandins use are reversible by stopping the drop.
 62 of 210
 
 FALSE
@@ -369,7 +369,7 @@ Brimonidine is expected to decrease IOP by approximately ___%.
 
 ~26%
 
-Apraclonidine is contraindicated in patients with:
+Apraclonidine may be contraindicated in patients with:
 74 of 210
 
 cardiovascular disease - Due to its action on alpha receptors of blood vessels.
@@ -384,7 +384,7 @@ The generic of Azopt is:
 
 brinzolamide
 
-The side effect unique to carbonic anhydrase inhibitors is:
+The side effects unique to carbonic anhydrase inhibitors are:
 77 of 210
 
 bitter taste - Also tingling in the extremities and possible aplastic anemia.
@@ -399,7 +399,7 @@ Carbonic anhydrase inhibitors decrease IOP by approximately ___%.
 
 25%
 
-Which as the greater IOP lowering effect?  topical prostaglandins or topical carbonic anhydrase inhibitors?
+Which has the greater IOP-lowering effect?  topical prostaglandins or topical carbonic anhydrase inhibitors?
 80 of 210
 
 prostaglandins - CAI's have a quicker onset of action.
@@ -427,7 +427,7 @@ brompheniramine
 A common potential side effect of antihistamines, especially first generation is:
 85 of 210
 
-antagonism of the central nervous system, causing drowsiness in adults and sometimes paradoxical excitement in kids. - Especially 1st generations that can cross the blood brain barrier.
+depression of the central nervous system, causing drowsiness in adults and sometimes paradoxical excitement in kids. - Especially 1st generations that can cross the blood brain barrier.
 
 The generic of Capoten is:
 86 of 210
