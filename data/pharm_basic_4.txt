@@ -702,10 +702,10 @@ Histamine receptors are (cholinergic / sympathetic / parasympathetic / adrenergi
 
 agonistAn example is albuterol which activates beta-receptors on the lungs
 
-Histamine receptors are (cholinergic / sympathetic / parasympathetic / adrenergic).
+Histamine receptor activation can have (cholinergic / sympathetic / parasympathetic / adrenergic) side effects.
 76 of 261
 
-cholinergic - Therefore, ANTI-histamines are ANTI-cholinergic.
+cholinergic - Therefore, ANTI-histamines can have ANTI-cholinergic effects.
 
 Promethazine is an (agonist/antagonist) the (activates/blocks)___ receptors
 
