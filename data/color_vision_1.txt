@@ -212,7 +212,7 @@ cortical magnification
 The macula lutea surrounds the fovea and contains a non-photosensitive ____ pigment.
 42 of 279
 
-yellow
+yellow xanthophyll
 
 At the optic chiasm, (nasal/temporal) fibers of the optic nerve crossover to join the fibers of the fellow eye to form the optic tract.
 43 of 279
@@ -234,7 +234,7 @@ In the LGN, layers ______ receive information from the ipsilateral eye and layer
 
 2,3,5 ipsilateral eye, 1,4,6 contralateral eye
 
-The three regions of the LGN are two (ventral/dorsal) magnocellular layers and four (ventral/dorsal) parvocellular layers and a _____ layer between the others.
+The three regions of the LGN are two (ventral/dorsal) magnocellular layers and four (ventral/dorsal) parvocellular layers and a _____ region between the others.
 47 of 279
 
 ventral magnocellular, dorsal parvocellular, interlaminar/intercalated region between
@@ -244,12 +244,12 @@ ____ cells are in the interlaminar / intercalated regions of the LGN.
 
 Konio
 
-Cells in the dorsal region of the LGN are called ____ cells and cells in the ventral region of the LGN are called ______ cells.
+Cells in region 1-2 of the LGN are called ____ cells and cells in region 3-6 of the LGN are called ______ cells.
 49 of 279
 
 Magno cells (M cells), parvo cells (P cells)
 
-The midget cells of the retina synapse to the (magno/parvo) cells of the LGN and the parasol cells other retinal synapse to the (magno/parvo) cells of the LGN.
+The midget cells of the retina synapse to the (magno/parvo) cells of the LGN and the parasol cells of the retinal synapse to the (magno/parvo) cells of the LGN.
 50 of 279
 
 parvo cells, magno cells.
@@ -279,7 +279,7 @@ The area of the cerebral cortex where the LGN synapses is called the ________ an
 
 striate visual cortex
 
-From the striate cortex, visual information can be forwarded to other cortical called the ________ via synapses.
+From the striate cortex, visual information can be forwarded to other cortical areas called the ________ via synapses.
 56 of 279
 
 extrastriate cortex
