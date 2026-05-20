@@ -2262,11 +2262,11 @@ muscle contraction and kidney stones
 Neostigmine is a medication used to diagnose ____and treat ____.
 240 of 262
 
-myasthenia gravis and overdose to select medications - Myasthenia gravis is an autoimmune response to skeletal AcH receptors.
+myasthenia gravis and overdose to select medications - Myasthenia gravis is an autoimmune response to skeletal ACh receptors.
 
 Neostigmine belongs to the following class of medications:
 
-myasthenia gravis and overdose to select medicationsMyasthenia gravis is an autoimmune response to skeletal AcH receptors
+myasthenia gravis and overdose to select medicationsMyasthenia gravis is an autoimmune response to skeletal ACh receptors
 
 Neostigmine belongs to the following class of medications:
 241 of 262
@@ -2292,11 +2292,11 @@ The direct effect of neostigmine is inhibition of the enzyme ______, the indirec
 
 The direct effect is inhibition of acetylcholinesterase and the indirect result is increased levels of acetylcholine. - This allows for more acetylcholine to be available for Ach receptors.
 
-Neostigmine effects neurotransmitters at (cholinergic/sympathetic/parasympathetic) junctions.
+Neostigmine affects neurotransmitters at (cholinergic/sympathetic/parasympathetic) junctions.
 
 The direct effect is inhibition of acetylcholinesterase and the indirect result is increased levels of acetylcholine.This allows for more acetylcholine to be available for Ach receptors.
 
-Neostigmine effects neurotransmitters at (cholinergic/sympathetic/parasympathetic) junctions.
+Neostigmine affects neurotransmitters at (cholinergic/sympathetic/parasympathetic) junctions.
 244 of 262
 
 cholinergic - Neostigmine increases AcetylCHOLINE availability to CHOLINErgic receptor.
@@ -2308,11 +2308,11 @@ cholinergicNeostigmine increases AcetylCHOLINE availability to CHOLINErgic rec
 Neostigmine is a (direct/indirect) cholinergic stimulant that works at (skeletal/smooth) muscle neuromuscular junctions.
 245 of 262
 
-indirect, skeletal - Neostigmine does not directly bind to Ach receptors, it increases Ach.
+indirect, skeletal - Neostigmine does not directly bind to ACh receptors, it increases ACh.
 
 Nepafenac belongs to the following class of medications:
 
-indirect ; skeletalNeostigmine does not directly bind to Ach receptors, it increases Ach
+indirect ; skeletalNeostigmine does not directly bind to ACh receptors, it increases ACh
 
 Nepafenac belongs to the following class of medications:
 246 of 262
@@ -2381,7 +2381,7 @@ except diltiazem or verapamil
 The mechanism of action of nifedipine is:
 253 of 262
 
-Preventing movement of calcium through voltage-gated calcium channels in membranes relaxing smooth muscles - Ca+ is needed for cardiac, skeletal or smooth muscle contraction.
+Preventing movement of calcium through voltage-gated calcium channels in membranes relaxing smooth muscles - Ca++ is needed for cardiac, skeletal or smooth muscle contraction.
 
 Nifedipine causes vaso(constriction/dilation).
 
