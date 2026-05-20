@@ -434,7 +434,7 @@ episcleritis and scleritisPhenylephrine will whiten episcleritis hyperemia but
 The medication _______  has utility in the the treatment of posterior synechiae that may occur in the condition known as _____.
 47 of 261
 
-Phenylephrine 10% may treat posterior synechiae that forms with uveitis. - Typical phenylephrine used in dilation is 2.5%.
+Phenylephrine 10% may treat posterior synechiae that form with uveitis. - Typical phenylephrine used in dilation is 2.5%.
 
 Phenylephrine 10% should be used 
 in caution with patient with _______.
@@ -521,7 +521,7 @@ overactivity in the brain
 The mechanism of action of phenytoin is:
 56 of 261
 
-regulation of GABA, norepinephrine and acetylcholine neurotransmitters. - GABA is inhibitory & norepinephrine and acetylcholine are excitatory.
+regulation of GABA and voltage-gated sodium channels. - GABA is inhibitory & norepinephrine and acetylcholine are excitatory.
 
 Pioglitazone is a medication used to treat:
 
@@ -594,7 +594,7 @@ organophosphate poisoningInsecticides are organophosphates & are acetylcholine
 The mechanism of action of pralidoxime is:
 64 of 261
 
-binding to acetylcholinesterase inhibitors (such as those found organophosphate insecticides) in order to increase the activity of acetylcholinesterase. - Acetylcholinesterase the breaks down excess acetylcholine.
+binding to acetylcholinesterase inhibitors (such as those found organophosphate insecticides) in order to increase the activity of acetylcholinesterase. - Acetylcholinesterase breaks down excess acetylcholine.
 
 The ultimate outcome of pralidoxime is an (increase/decrease) of levels of free acetylcholine.
 
@@ -1796,7 +1796,7 @@ Blocking alpha receptors in the prostate to relax smooth muscle of prostate, bla
 Terazosin blocks alpha (1/2) receptors.
 194 of 261
 
-1 - Medications that end in "zosin" and "losin" are apha-1 agonist.
+1 - Medications that end in "zosin" and "losin" are alpha-1 antagonists.
 
 Terbutaline belongs to the following class of medications.:
 
@@ -1856,7 +1856,7 @@ Tetrahydrozoline belongs to the follow class of medications:
 
 conjunctival chemosis and hyperemiaIt is an active ingredient in medications like "Visine"
 
-Tetrahydrozoline belongs to the follow class of medications:
+Tetrahydrozoline belongs to the following class of medications:
 201 of 261
 
 alpha agonist
@@ -1931,7 +1931,7 @@ anticholinergicIt's mechanism of action involves epinephrine
 The mechanism of action of theophylline is:
 209 of 261
 
-Inhibition the enzyme phosphodiesterase, resulting in increased cAMP and epinephrine release. - Epinephrine is a sympathetic "fight" hormone.
+Inhibition of the enzyme phosphodiesterase, resulting in increased cAMP and epinephrine release. - Epinephrine is a sympathetic "fight" hormone.
 
 Theophylline inhibits the enzyme________, which in turn increases _____ and release of _____
 
@@ -2136,7 +2136,7 @@ An ocular side effects unique to topiramate is:
 
 carbonic anhydrase inhibitor that acts as an anticonvulsantCarbonic anhydrase is involved in cerebral spinal fluid production
 
-An ocular side effects unique to topiramate is:
+An ocular side effect unique to topiramate is:
 231 of 261
 
 choroidal swelling - This causes a large myopic shift and secondary angle closure.
@@ -2369,7 +2369,7 @@ Inhibition of viral DNA polymerase to prevent DNA synthesisThe same mechanism 
 Trifluridine is used to treat (DNA/RNA) viruses.
 256 of 261
 
-DN - Viruses can be RNA or DNA based. CMV and herpes are both DNA viruses.
+DNA - Viruses can be RNA or DNA based. CMV and herpes are both DNA viruses.
 
 Trimethoprim is a medication used to treat ______.
 
