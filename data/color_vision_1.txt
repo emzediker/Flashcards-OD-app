@@ -22,7 +22,7 @@ choroid, iris, ciliary body
 The two muscles that control pupillary size are:
 4 of 279
 
-sphincter iridis and dilator papillae
+sphincter iridis and dilator pupillae
 
 The ciliary body contains the muscle needed for________as well as the structures to create_______.
 5 of 279
@@ -49,12 +49,12 @@ To stay clear, the cornea must have steady _______.
 
 hydration
 
-Aqueous humor is drained by the __________ in the angle of the iris.
+Aqueous humor is drained by the __________ in the angle of the anterior chamber.
 10 of 279
 
 canal of Schlemm
 
-During accommodation, the ciliary muscle (contacts/relaxes), causing the zonules to (contact/relax), resulting in an (increase/decrease) in curvature of the natural lens.
+During accommodation, the ciliary muscle (contracts/relaxes), causing the zonules to (contracts/relax), resulting in an (increase/decrease) in curvature of the natural lens.
 11 of 279
 
 ciliary muscle contracts, the zonules relax, and the lens increases in curvature (becomes steeper or decreases "radius of curvature") - Loss of lens flexibility causes presbyopia.
@@ -67,7 +67,7 @@ oxidative free radicals - Oxidative free radicals are elements with unpaired ele
 The _________ cells of the retina respond to light and change radiant energy into ______ energy.
 13 of 279
 
-photoreceptors change radiant energy into electrical energy.
+photoreceptor cells change radiant energy into electrical energy.
 
 Photoreceptors synapse with ________ cells, which in turn synapse with _________ cells.
 14 of 279
@@ -112,17 +112,17 @@ outer
 The layer inner to the retinal pigment epithelium is the ____ and the layer outer to the retinal pigment epithelium is the ____.
 22 of 279
 
-Inner to the RPE is the photoreceptors and outer to the RPE is the choroid.
+Inner to the RPE is the photoreceptor layer and outer to the RPE is the choroid.
 
 The photoreceptors known as ____ are responsible for night vision and ____ are responsible for daytime vision.
 23 of 279
 
 rods, cones
 
-The (inner/outer) segment of the photoreceptors contains photopigments and the (inner/outer) segment of photoreceptors contains nuclei/organelles.
+The (inner/outer) segment of the photoreceptors contains photopigments and the (inner/outer) segment of the photoreceptors contains nuclei/organelles.
 24 of 279
 
-The outer segment has photoreceptors and the inner segment has organelles.
+The outer segment has photopigments and the inner segment has organelles.
 
 ______ cells form the outer limiting membrane which separates the outer and inner segments of _______.
 25 of 279
@@ -159,7 +159,7 @@ The (midget/parasol) ganglion cells are smaller, and more numerous than the (mid
 
 Midget ganglion cells are smaller and more numerous than the parasol ganglion cells.
 
-The nerve fiber layers is composed of axons of ____ cells.
+The nerve fiber layer is composed of axons of ____ cells.
 32 of 279
 
 ganglion
@@ -174,12 +174,12 @@ There are ~____ million photoreceptors and ~___ million ganglion cells in the re
 
 100 million photoreceptors and 1 million ganglion cells
 
-The optic nerve head is a comprised of ganglion cell ____.
+The optic nerve head is comprised of ganglion cell ____.
 35 of 279
 
 axons
 
-Ganglion cell axons are covered by a _____ sheath in the optic nerve head, but not in the ______.
+Ganglion cell axons are covered by a _____ sheath in the optic nerve head, but not within the ______.
 36 of 279
 
 myelin sheath, retina.
