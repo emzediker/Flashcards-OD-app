@@ -25,7 +25,7 @@ Afferent (sensory) - taking signals from the periphery and sending them to the b
 The optic nerve leaves the eye through what bone?
 5 of 75
 
-Lesser wing of the sphenoid
+Optic canal of the sphenoid bone
 
 Is the optic nerve part of the CNS (central nervous system) or PNS (peripheral nervous system)?
 6 of 75
@@ -60,7 +60,7 @@ superior orbital fissure - and then splits to superior and inferior division.
 The superior division of CN III innervates:
 12 of 75
 
-levator superioris palpebrae and superior rectus
+levator palpebrae superioris and superior rectus
 
 The inferior division of CN III innervates:
 13 of 75
@@ -117,12 +117,12 @@ Where is the head tilt in a CNIV palsy?
 
 Down and toward the unaffected eye (ie right eye palsy then the head is tilted down and to the left to try to get the right eye to intort) - “Head tilts to the healthy side”
 
-The cotton wisp test of cornea the cornea tests the following cranial nerves:
+The cotton wisp test of cornea tests the following cranial nerves:
 24 of 75
 
 The corneal reflex tests cranial nerve V as its afferent (sensory) loop and cranial nerve VII as its efferent (motor) loop.
 
-True or false?  The lacrimal nerve of the maxillary branch of trigeminal innervates the lacrimal gland to secrete tears.
+True or false?  The lacrimal nerve of the ophthalmic branch of trigeminal innervates the lacrimal gland to secrete tears.
 25 of 75
 
 False. Tears are secreted from innervation of CN VII. - CN V has a branch called lacrimal, but it does not innervate the lacrimal gland (it runs around the gland but does not innervate).
@@ -150,7 +150,7 @@ Rami orbitales innervate orbital blood vessels. Rami lacrimales innervate lacrim
 CN VII palsy can present as:
 30 of 75
 
-loss of taste, paralysis of facial muscles, dry eyes due to lack of no innervation to the lacrimal gland,  and lack of eyelid closure (Bell’s Palsy).
+loss of taste, paralysis of facial muscles, dry eyes due to lack of innervation to the lacrimal gland,  and lack of eyelid closure (Bell’s Palsy).
 
 Optic Nerve (CN II) Pathway
 31 of 75
@@ -175,7 +175,7 @@ Innervation of the superior and inferior branch of CN III is:
 The parasympathetic pathway of CN III is:
 35 of 75
 
-Starts at edinger westphal nucleus of midbrain the travels with the inferior division and synapses at the ciliary ganglion and continues to innervate the ciliary muscle and pupil sphincter/constrictor. 
+Starts at Edinger Westphal nucleus of midbrain the travels with the inferior division and synapses at the ciliary ganglion and continues to innervate the ciliary muscle and pupil sphincter/constrictor. 
 
 The sympathetic pathway that travels with CN III
 36 of 75
@@ -202,7 +202,7 @@ Name the only cranial nerve that crosses from its site of origin and innervates 
 
 CN IV - CN IV is the only CN to leave posterior to brain AND only one that crosses.
 
-Pathway if cranial nerve V:
+Pathway of cranial nerve V:
 41 of 75
 
 Pathway (back to front): exits anteriorly from the pons→ synapses at Trigeminal Ganglion and then branches in ophthalmic V1, maxillary V2, and mandibular V3
@@ -235,7 +235,7 @@ Motor and sensory functions of cranial nerve VII:
 Name the origins of the cranial nerves of the brain:
 47 of 75
 
-*Cerebrum: 1 & 2 *Midbrain: 3 & 4  *Pons: 5,6 7, & 8. *Medulla: 9, 10, 11 & 12
+*Cerebrum: 1 & 2 *Midbrain: 3 & 4  *Pons: 5,6,7, & 8. *Medulla: 9, 10, 11 & 12
 
 Mnemonic for origins of the cranial nerve from the brain:
 48 of 75
