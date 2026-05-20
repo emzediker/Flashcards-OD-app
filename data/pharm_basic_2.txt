@@ -1569,11 +1569,11 @@ tuberculosisTuberculosis is a mycobacterium
 The four drug regimen used to initially treat the mycobacterium infection tuberculosis is:
 170 of 262
 
-rifampin, isoniazid pyrazinamide, ethambutol (streptomycin sulfate) - Can be arrange in the acronym RIPE.
+rifampin, isoniazid pyrazinamide, ethambutol (streptomycin sulfate) - Can be arranged in the acronym RIPE.
 
 The mechanism of action of ethambutol is:
 
-rifampin, isoniazid pyrazinamide, ethambutol (streptomycin sulfate)Can be arrange in the acronym RIPE
+rifampin, isoniazid pyrazinamide, ethambutol (streptomycin sulfate)Can be arranged in the acronym RIPE
 
 The mechanism of action of ethambutol is:
 171 of 262
@@ -1729,11 +1729,11 @@ Fexofenadine is a medication used to treat:
 
 allergies - Systemic allergy symptoms include itchy throat, cough, sneeze & rhinitis.
 
-Fexofenadine is a _________ mediation.
+Fexofenadine is a _________ medication.
 
-allergie - Systemic allergy symptoms include itchy throat, cough, sneeze & rhinitis
+allergies - Systemic allergy symptoms include itchy throat, cough, sneeze & rhinitis
 
-Fexofenadine is a _________ mediation.
+Fexofenadine is a _________ medication.
 188 of 262
 
 antihistamine - It blocks H1 receptors.
@@ -1790,11 +1790,11 @@ moreThis is because they are able to cross the blood brain barrier
 Fluconazole is an ________ medication.
 194 of 262
 
-antifungal - Antifungals often have "conazle" in their name. Ex. ketoconazole
+antifungal - Antifungals often have "conazole" in their name. Ex. ketoconazole
 
 The mechanism of action of fluconazole is:
 
-antifungalAntifungals often have "conazle" in their name.
+antifungalAntifungals often have "conazole" in their name.
  Ex. ketoconazole
 
 The mechanism of action of fluconazole is:
@@ -1818,11 +1818,11 @@ cytochrome P450CYP450 enzymes are used in fungi but they are also in the human
 True or False: Fluconazole is an antibacterial medication that prevents synthesis of cell walls.
 197 of 262
 
-FALSE - It is an antiFUNGAL the prevents the synthesis of fungal cell MEMBRANES.
+FALSE - It is an antiFUNGAL that prevents the synthesis of fungal cell MEMBRANES.
 
 Fluconazole does not alter the boundaries of human cells, because human cells lack ____.
 
-FALSEIt is an antiFUNGAL the prevents the synthesis of fungal cell MEMBRANES
+FALSEIt is an antiFUNGAL that prevents the synthesis of fungal cell MEMBRANES
 
 Fluconazole does not alter the boundaries of human cells, because human cells lack ____.
 198 of 262
