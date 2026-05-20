@@ -20,7 +20,7 @@ Evoked potentials measure the speed of the messages along your sensory nerves to
 Describe CT vs PET scans:
 4 of 25
 
-1. CT scan is great for boney hard structures. 2. PET shows metabolism or how cells react to a radiotracer (as in cancer cells).
+1. CT scan is great for bony hard structures. 2. PET shows metabolism or how cells react to a radiotracer (as in cancer cells).
 
 An MRI measures/images:
 5 of 25
@@ -50,7 +50,7 @@ Measures the electrical changes within only the RPE layer which occur during dar
 Testing procedure for the EOG:
 10 of 25
 
-1. Skin near the corners of each eye will be cleaned with alcohol. 2. Four small electrodes will be taped at forehead and behind the ear. 3. Then each eye will watch flashing lights.
+1. Skin near the corners of each eye will be cleaned with alcohol. 2. Four small electrodes will be taped at forehead and behind the ear. 3. Then the patient will alternate between fixation targets during darl/light adaptation.
 
 Visual Evoked Potential (VEP) (aka Visual Evoked Response (VER)) purpose:
 11 of 25
@@ -65,7 +65,7 @@ TRUE
 Testing procedure of VEP:
 13 of 25
 
-The scalp cleaned with alcohol, electrodes are place on the scalp and behind  the ears, and a fixed spot is presented against a checkerboard background. - **undilated**
+The scalp cleaned with alcohol, electrodes are placed on the scalp and behind  the ears, and a fixed spot is presented against a checkerboard background. - **undilated**
 
 True or False? It is necessary to shave to the scalp or cut hair for a VEP test.
 14 of 25
@@ -87,7 +87,7 @@ Name conditions associated with the following ERG findings: normal a-wave amplit
 
 1. juvenile X-linked retinoschisis 2. congenital stationary night blindness 3. melanoma-associated retinopathy
 
-There is a problem seen OCT during Plaquenil retinopathy testing (suspicious parafoveal ellipsoid split). What electrical test should then be ordered or referred out?
+There is a problem seen on OCT during Plaquenil retinopathy testing (suspicious parafoveal ellipsoid split). What electrical test should then be ordered or referred out?
 18 of 25
 
 multifocal ERG (mfERG) - Full field is whole retina ERG. mfERG is just the macula.
@@ -110,12 +110,12 @@ Name two electrodiagnostic tests that use checkboards:
 Is the Arden ratio (dark vs light rise) of an EOG high or low in Best’s disease?
 22 of 25
 
-The Arden ratio in Best’s is lower than 1.8 - A normal Arden ratio is 1.8 or greater. 
+The Arden ratio in Best diease is lower than 1.8 - A normal Arden ratio is 1.8 or greater. 
 
 EOG tests for what disease?
 23 of 25
 
-Bests Disease
+Best Disease
 
 A VEP can show what types of problems?
 24 of 25
