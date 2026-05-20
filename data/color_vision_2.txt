@@ -946,12 +946,12 @@ melanopsin, circadian rhythm
 In the LGN, the (dorsal / ventral / interlaminar) layers are referred to as having magno cells.
 187 of 337
 
-dorsal
+ventral - This is one of the most contested flashcards. See page 293 of Stephen H Schwartz, fourth edition, Visual Perception, A Clinical Orientation book for verification.
 
 In the LGN, the (dorsal / ventral / interlaminar) layers are referred to as having parvo cells.
 188 of 337
 
-ventral
+dorsal - This is one of the most contested flashcards. See page 293 of Stephen H Schwartz, fourth edition, Visual Perception, A Clinical Orientation book for verification.
 
 In the LGN, the (dorsal / ventral / interlaminar) layers are referred to as having konio cells.
 189 of 337
@@ -961,12 +961,12 @@ interlaminar
 Midget cells synapse at the (dorsal / ventral / interlaminar) layers of the LGN with parvo cells.
 190 of 337
 
-ventral
+dorsal - This is one of the most contested flashcards. See page 293 of Stephen H Schwartz, fourth edition, Visual Perception, A Clinical Orientation book for verification.
 
 Parasol cells synapse with (dorsal/ventral/interlaminar) magnocellular cells of the LGN.
 191 of 337
 
-dorsal
+ventral - This is one of the most contested flashcards. See page 293 of Stephen H Schwartz, fourth edition, Visual Perception, A Clinical Orientation book for verification.
 
 Bistratified ganglion cells synapse at the (dorsal/ventral/interlaminar) layer of the LGN with konio cells.
 192 of 337
@@ -998,7 +998,7 @@ null
 
 rods
 
-The (magno/parvo/konio) pathway are color opponent.
+The (magno/parvo/konio) pathways are color opponent.
 198 of 337
 
 konio and parvo
@@ -1103,7 +1103,7 @@ The "what" pathway receives input mainly from the (magno/parvo) cells.
 
 parvo
 
-The striate cortex sends information to the following three areas of the brain:
+The striate cortex sends information with the following three areas of the brain:
 219 of 337
 
 extrastriate cortex, pulvinar in the thalamus, and back to the LGN.
@@ -1143,7 +1143,7 @@ _______ cells, also known as end-stop cells, are sensitive to stimulus length.
 
 Hypercomplex
 
-(Parallel / Hierarchical) processing for vision states that the receptive fields of higher neurons are created by those of proceeding neurons.
+(Parallel / Hierarchical) processing for vision states that the receptive fields of higher neurons are created by those of preceding neurons.
 227 of 337
 
 Hierarchical
