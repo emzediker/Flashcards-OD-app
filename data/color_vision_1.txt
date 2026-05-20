@@ -292,7 +292,7 @@ superior colliculus, the pulvinar region in the thalamus
 The electromagnetic spectrum (visible light) ranges in wavelength from ____ to ____.
 58 of 279
 
-380 nm to 700 nm
+380 nm to 750 nm
 
 Wavelength is (directly / inversely) proportional to frequency. Large wavelength has (high/low) frequency.
 59 of 279
@@ -324,7 +324,7 @@ Energy per quanta=Planck's constant x frequency ----OR---- Energy per quanta=(sp
 
 high
 
-6.626 x 10^-37 is:
+6.626 x 10^-34 Js is:
 65 of 279
 
 Planck's constant
@@ -382,9 +382,9 @@ duplex
 Rod synaptic endings are called (spherules/pedicles) and cone synaptic endings are called (spherules/pedicles).
 76 of 279
 
-spherules, pedicles.
+spherules, pedicles
 
-In (cones/rods), photoreceptor discs remain attached the membranes of the cells, while in (cones/rods) they are free floating.
+In (cones/rods), photoreceptor discs remain attached to the membranes of the cells, while in (cones/rods) they are free floating.
 77 of 279
 
 cones, rods
@@ -419,7 +419,7 @@ Wavelengths of ____nm are most likely to be absorbed by the photopigments of rod
 
 507
 
-When light is absorbed by rods they become ______, and it takes __ minutes for 50% of rods to recover.
+When light is absorbed by rods they become ______, and it takes __ minutes for 50% of rhodopsin regeneration.
 84 of 279
 
 bleached, 5
@@ -427,7 +427,7 @@ bleached, 5
 The principle of ________ states that once a quanta of light is absorbed all other information regarding its wavelength is lost.
 85 of 279
 
-univarience
+univariance
 
 Dark adaptation takes ___ minutes to allow for ___ regeneration.
 86 of 279
