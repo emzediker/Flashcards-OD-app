@@ -6,7 +6,7 @@ cidal - It kills bacteria rather than stopping their growth.
 The generic of Narcan is:
 2 of 210
 
-naloxone - The brand name hint that naloxone treats narcotic overdoses.
+naloxone - The brand name hints that naloxone treats narcotic overdoses.
 
 Side effects of naloxone mimic:
 3 of 210
@@ -196,7 +196,7 @@ promethazine
 Potential effects of promethazine on the eye are:
 40 of 210
 
-dilation (potential angle closure glaucoma) and dry eye
+dilation (potential angle-closure glaucoma) and dry eye
 
 The generic of Ophthaine is:
 41 of 210
@@ -258,7 +258,7 @@ The generic of Viagra is:
 
 sildenafil
 
-Ocular visual side effect of sildenafil is ____ due to spill over to ____ inhibition.
+Ocular visual side effect of sildenafil is ____ due to spillover to ____ inhibition.
 53 of 210
 
 blue vision (cyanopsia), PDE6 - Sildenafil is a PDE5 inhibitor.
@@ -286,7 +286,7 @@ spironolactone
 Spironolactone acts on the _________ of the nephrons in the kidney.
 58 of 210
 
-distal tubule
+distal tubule and collecting duct
 
 Due to its action on androgens, spironolactone is a medication used to treat:
 59 of 210
@@ -391,12 +391,12 @@ diabetes - Otherwise a patient may have dangerously low blood sugar & not know i
 dorzolamide + timolol =
 79 of 210
 
-cosopt - carbonic anhydrase inhibitor + beta blocker
+Cosopt - carbonic anhydrase inhibitor + beta blocker
 
 timolol + brimonidine =
 80 of 210
 
-combigan - beta-blocker + alpha-agonist
+Combigan - beta-blocker + alpha-agonist
 
 Timolol decreases IOP by approximately __%
 81 of 210
@@ -411,7 +411,7 @@ tobramycin
 Tobramycin and other antibiotics in its class may be ____ and ___ toxic.
 83 of 210
 
-nephrotoxic and ototoxic - Toxic to the kidney and ears.
+nephrotoxic and ototoxic - Toxic to the kidneys and ears.
 
 The generic of Topamax is:
 84 of 210
@@ -459,7 +459,7 @@ Intermediate Level Deck 2 of 5
 Cetirizine is a ____ generation _____ medication.
 91 of 210
 
-second, antihistamine - It will have less side effects as first generation Benadryl.
+second, antihistamine - It will have less side effects than first generation Benadryl.
 
 Unlike first generation antihistamines, second generation antihistamines have less of a _____ effect due to being ___________.
 92 of 210
@@ -474,7 +474,7 @@ It MAY cause restlessness instead.
 Chloramphenicol has gram ____ coverage.
 94 of 210
 
-Positive and negative
+positive and negative
 
 True or false: Chloramphenicol is safe to use in pregnant patients.
 95 of 210
@@ -521,7 +521,7 @@ The generic of Thorazine is:
 
 chlorpromazine
 
-Due to it's dopamine receptor antagonism, chlorpromazine in excess can mimic the condition _____.
+Due to its dopamine receptor antagonism, chlorpromazine in excess can mimic the condition _____.
 104 of 210
 
 Parkinson's - In Parkinson's there is low dopamine. Symptoms are tremor and mask face.
@@ -566,7 +566,7 @@ Ciprofloxacin has good gram ____ and adequate gram ___ coverage.
 
 negative, positive
 
-Ciprofloxacin is bacerti(static/cidal).
+Ciprofloxacin is bacterio(static/cidal).
 113 of 210
 
 cidal - Bactericidal means that its actions result in bacterial death.
@@ -594,7 +594,7 @@ positive and negative - Gram positive bacteria have thicker cell walls.
 Clarithromycin is bacteri(static/cidal).
 118 of 210
 
-static at a typical dose and cidal at high dose.
+static at a typical dose and cidal at high doses.
 
 Clarithromycin has a similar spectrum of treatment as ______, and therefore may be a good alternative treatment for someone allergic to ______.
 119 of 210
@@ -644,7 +644,7 @@ cromolyn sodium
 True or False: Cromolyn sodium can be used as a rescue inhaler to treat asthma.
 128 of 210
 
-False, it treats asthma but would not be used as a rescue inhaler because it take days to weeks for it to have an effect. - It is not a rescue inhaler because it can take weeks for an effect.
+False, it treats asthma but would not be used as a rescue inhaler because it takes days to weeks for it to have an effect. - It is not a rescue inhaler because it can take weeks for an effect.
 
 True or False: Due to its side effect profile, mast cell inhibitors such as cromolyn sodium are a safer alternative to steroids.
 129 of 210
@@ -679,7 +679,7 @@ cyclosporine
 It can take _____ for Restasis to work.
 135 of 210
 
-3 month - Patients will not note an effect initially.
+3 months - Patients will not note an effect initially.
 
 The delay of action of Restasis is due to the target of T cells having:
 136 of 210
@@ -709,12 +709,12 @@ PLA2 - PLA2 is a lipase and also part of the arachidonic acid pathway.
 As an unintended side effect, steroid medications decrease ___________.
 141 of 210
 
-decrease fibroblast and collagen formation which decreases wound healing. - Fibroblast are cells that make collagen.
+decrease fibroblast activity and collagen formation which decreases wound healing. - Fibroblasts are cells that make collagen.
 
 Steroids are category (A/B/C/D/X).
 142 of 210
 
-C - Category C should not be used in pregnant woman.
+C - Category C should not be used in pregnant women.
 
 The generic of Dexedrine is:
 143 of 210
@@ -756,7 +756,7 @@ The generic of Dynapen is:
 
 dicloxacillin
 
-Dicloxacillin is resistant to the bacterial enzyme ________ and therefore can be used to successful treat penicillin-resistant staph infections.
+Dicloxacillin is resistant to the bacterial enzyme ________ and therefore can be used to successfully treat penicillin-resistant staph infections.
 151 of 210
 
 penicillinase aka beta-lactamase
@@ -794,7 +794,7 @@ digoxin
 Ocular side effects unique to digoxin are:
 158 of 210
 
-Red green color vision, yellow tinged vision (xanthopsia), snow vision, flashes, retrobulbar optic neuritis
+Red-green color vision, yellow tinged vision (xanthopsia), snow vision, flashes, retrobulbar optic neuritis
 
 The generic of Cardizem is:
 159 of 210
@@ -809,7 +809,7 @@ blocking calcium channels, results in relaxation of smooth muscle causing a decr
 The specific type of calcium channel that calcium channel blocker diltiazem works on is called:
 161 of 210
 
-"L type" - These are open longer than "S type" calcium channels."
+"L type" - These are open longer than "S type" calcium channels.
 
 The generic of Benadryl is:
 162 of 210
@@ -829,12 +829,12 @@ dipyridamole
 The two enzymes inhibited by dipyridamole are ______ and ____.
 165 of 210
 
-adenosine delaminate and phosphodiesterase
+adenosine deaminase and phosphodiesterase
 
 The mechanism of action of dipyridamole is:
 166 of 210
 
-inhibition of the two enzymes responsible to maintaining low cellular levels of cAMP and adenosine.
+inhibition of the two enzymes responsible for maintaining low cellular levels of cAMP and adenosine.
 
 The direct action of dipyridamole is:The cellular response is:The systemic result is:
 167 of 210
@@ -879,12 +879,12 @@ donepezil, echothiophate - Both increase levels of acetylcholine.
 Due to its action on the iris, and resultant miosis, echothiophate is contraindicated in patients with active ____.
 175 of 210
 
-uveitis - Cycloplegia is part of uveitis treatment to stabilized the BAB.
+uveitis - Cycloplegia is part of uveitis treatment to stabilize the BAB.
 
 Echothiophate can have side effects that are ______ in nature:
 176 of 210
 
-cholinergic - Such as lacrimation, salivation, emesis, urination & defection.
+cholinergic - Such as lacrimation, salivation, emesis, urination & defecation.
 
 The generic of Emadine is:
 177 of 210
@@ -906,7 +906,7 @@ Systemic side effects unique to ACE inhibitors like enalapril or lisinopril are:
 
 cough & angioedema - ACE inhibitors treat hypertension.
 
-Unlike donepezil that works in the ____, and echothiophate which works at the level of the ____ & edrophonium is a acetylcholinesterase inhibitor that acts at the _________.
+Unlike donepezil that works in the ____, and echothiophate which works at the level of the ____ & edrophonium is an acetylcholinesterase inhibitor that acts at the _________.
 181 of 210
 
 donepezil works in the CNS, echothiophate works in the eye, edrophonium works at the skeletal neuromuscular junction. - All result in increased levels of acetylcholine in different areas.
@@ -934,7 +934,7 @@ esomeprazole
 esomeprazole is a medication used to treat:
 186 of 210
 
-GERD, heartburn, peptic ulcer disease and Zollinger Ellison syndrome - It treats gastric acid related conditions.
+GERD, heartburn, peptic ulcer disease and Zollinger-Ellison syndrome - It treats gastric acid related conditions.
 
 Proton pump inhibitors can affect the ___  of the gastric environment which can interfere with absorption of ______________.
 187 of 210
@@ -944,7 +944,7 @@ pH, can interfere with the absorption of the drugs ketoconazole, digoxin, ampici
 Which has a quicker onset of action, histamine-2 blockers such as cimetidine or proton pump inhibitors such as esomeprazole?
 188 of 210
 
-proton pump inhibitors
+H2 blockers
 
 The generic of Myambutol is:
 189 of 210
@@ -1034,7 +1034,7 @@ The generic of Levitra is:
 
 vardenafil
 
-Vardenafil may have some overflow interaction with PDE-__ in the retina resulting in interference with phototransduction.
+Vardenafil may have some spillover interaction with PDE-__ in the retina resulting in interference with phototransduction.
 205 of 210
 
 PDE-6 - Vardenafil’s intended target of inhibition is PDE-5.
