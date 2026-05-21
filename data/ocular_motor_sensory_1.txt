@@ -21,7 +21,7 @@ object ; visual
 ______ is the process that combines two sensory images into one.
 5 of 158
 
-Sensory fusion - Sensory fusion is needed to see becausewe have two eyes!
+Sensory fusion - Sensory fusion is needed to see because we have two eyes!
 
 Binocular _________ is the phenomenon that results in the visual capabilities of two eyes being greater than that of one alone.
 6 of 158
@@ -38,7 +38,7 @@ _______ is the smallest measure, or limit, of  binocular depth perception
 
 Stereoacuity - This is measured in clinic with Stereo Fly or Randot Stereograms.
 
-______ ranges are the largest depths tha can be perceived without diplopia.
+______ ranges are the largest depths that can be perceived without diplopia.
 9 of 158
 
 Panum's - Outside of Panum's ranges images are seen as double.
@@ -248,7 +248,7 @@ The difference in visual directions between points in the two eyes is called bin
 
 disparity
 
-The "first degree of fusion" is __________ of each eyes image at once.
+The "first degree of fusion" is __________ of each eye's image at once.
 51 of 158
 
 simultaneous perception - Simultaneous perception can happen with diplopia and haplopia.
@@ -286,9 +286,9 @@ sensory ; motor - They fuse points that are typically noncorresponding otherwise
 _____ disparity is a small binocular misalignment of the eyes where fusion and single vision is still achievable.
 58 of 158
 
-Fixation - The eyes may slightly slip out fixation & still maintain haplopia.
+Fixation - The eyes may slightly slip out of fixation & still maintain haplopia.
 
-The (central/peripheral) retinal has a great Panum's fusional area.
+The (central/peripheral) retina has a great Panum's fusional area.
 59 of 158
 
 peripheral - Foveal vision is not as tolerant of disparity & easily becomes diplopic.
@@ -333,7 +333,7 @@ A _______ disparity is a small error in vergence when attempting to fixate an ob
 
 fixation
 
-Unlike the cover test, clinical testing such as such as a Wesson card or AO vectographic slide measure a patient's (associated/dissociated) phoria to help characterize his or her fixation disparity.
+Unlike the cover test, clinical testing such as a Wesson card or AO vectographic slide measure a patient's (associated/dissociated) phoria to help characterize his or her fixation disparity.
 68 of 158
 
 associated - Recall fixation disparity does not result in diplopia.
@@ -343,7 +343,7 @@ The amount of prism needed to eliminate a ________ disparity is the "associated 
 
 fixation
 
-Then x-axis intercept of a forced vergence fixation disparity curve represents the __________.
+The x-axis intercept of a forced vergence fixation disparity curve represents the __________.
 70 of 158
 
 associated phoria
@@ -363,7 +363,7 @@ In measuring vergence ranges, an initial adaptation to induced prism is called t
 
 fast ; slow
 
-(Horizontal/Vertical) vergence does not have a fast (aka disparity) vergence adaptation system, it but does have a slow vergence adaptation system.
+(Horizontal/Vertical) vergence does not have a fast (aka disparity) vergence adaptation system, but it does have a slow vergence adaptation system.
 74 of 158
 
 Vertical
@@ -438,7 +438,7 @@ The __________ is the difference between subjective and objective strabismus mea
 
 angle of anomaly - Cover test is an objective test and Maddox Rod is a subjective test.
 
-In patient with harmonious anomalous retinal correspondence, the angle of anatomy is _______.
+In patient with harmonious anomalous retinal correspondence, the angle of anomaly is _______.
 89 of 158
 
 equal to the objective angle of strabismus - This is because the subjective angle of strabismus is equal to zero.
@@ -468,7 +468,7 @@ Positive fusion vergence is associated to the (convergence / divergence) of the 
 
 convergence
 
-(Plus/Minus) lenses decrease the amount off accommodative convergence required for clear vision and can decrease (eso/exo) fixation disparity.
+(Plus/Minus) lenses decrease the amount of accommodative convergence required for clear vision and can decrease (eso/exo) fixation disparity.
 95 of 158
 
 Plus ; eso
@@ -493,7 +493,7 @@ The horopter represents the (start / midpoint / end) of crossed and uncrossed di
 
 midpoint
 
-Images outside of the phoropter that are on noncorresponding points, but are not diplopic, are within  _____.
+Images outside of the horopter that are on noncorresponding points, but are not diplopic, are within  _____.
 100 of 158
 
 Panum's fusional area
@@ -507,7 +507,7 @@ An eso fixation disparity will displace the horopter (inward/outward).
 
 inward
 
-An exo fixation disparity will displace the phoropter (inward/outward).
+An exo fixation disparity will displace the horopter (inward/outward).
 102 of 158
 
 outward
@@ -542,7 +542,7 @@ In __________ there is an avoidance of fusion and it is thought that the patient
 
 horror fusionis
 
-(Optical/Neural) aniseikonia maybe axial, refractive or induced.
+(Optical/Neural) aniseikonia may be axial, refractive or induced.
 109 of 158
 
 Optical
@@ -622,7 +622,7 @@ For each diopter of refractive difference between two eyes there is about ____% 
 
 1.4
 
-Binocular vision is disrupted about about ___% aniseikonia difference between the two eyes.
+Binocular vision is disrupted about ___% aniseikonia difference between the two eyes.
 125 of 158
 
 7
@@ -650,7 +650,7 @@ minification ; magnification
 Photoreceptors in (axial/refractive) myopes may have reduced anatomical density.
 130 of 158
 
-axisl
+axial
 
 Axial myope should be corrected with ____ and refractive myopes should be corrected with _____ to avoid aniseikonia.
 131 of 158
@@ -687,7 +687,7 @@ Base in prism causes the horopter to bend (in / out) and causes visual space to 
 
 in; out
 
-The apparent fronto parallel plane is a(n) (exact image / mirror image) a patient's horopter.
+The apparent fronto parallel plane is a(n) (exact image / mirror image) of a patient's horopter.
 138 of 158
 
 mirror image
@@ -753,7 +753,7 @@ True or False: After effects, such as that seen in motion after effects or tilt 
 
 FALSE - The after image will travel to the fellow eye by way of the brain.
 
-Stimulus to the (temporal/nasal) retina tend to be dominant to stimulus presented to the (temporal/nasal) retina of the follow eye.
+Stimulus to the (temporal/nasal) retina tend to be dominant to stimulus presented to the (temporal/nasal) retina of the fellow eye.
 151 of 158
 
 nasal ; temporal
