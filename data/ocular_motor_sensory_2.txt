@@ -16,7 +16,7 @@ The view through a Bagolini lens with striations at 045 degrees will be seen as 
 The depth of suppression using a Bagolini lens can be measured by placing a neutral density filter in front of the (suppressing/nonsuppressing) eye.
 4 of 157
 
-suppressing - If the checkerboard pattern is not seen, one of the eyes is suppressing.
+nonsuppressing - If the checkerboard pattern is not seen, one of the eyes is suppressing.
 
 __________ occurs when the information from each individual eye is combined resulting in a greater visual performance that when one eye is used alone.
 5 of 157
@@ -33,7 +33,7 @@ There is a ___ improvement, or ___% improvement in binocular viewing activities 
 
 1.4 ; 40%
 
-(Probability / Neural) summation is the the degree of improvement expected by using two eyes without considering a binocular combination of information. This type of summation depends on statistical information to explain binocular summation.
+(Probability / Neural) summation is the degree of improvement expected by using two eyes without considering a binocular combination of information. This type of summation depends on statistical information to explain binocular summation.
 8 of 157
 
 Probability
@@ -48,7 +48,7 @@ A test of (neural/probability) summation requires stimulation of corresponding p
 
 neural ; probability - Corresponding points activate the same cortical binocular neuron.
 
-In Fetchner's paradox, under binocular conditions where one eye has a neutral density filter, the image appears (darker/brighter) than under monocular unfiltered conditions alone.
+In Fechner's paradox, under binocular conditions where one eye has a neutral density filter, the image appears (darker/brighter) than under monocular unfiltered conditions alone.
 11 of 157
 
 darker - Even though one eye is penalized, it still looks brighter binocularly.
@@ -83,12 +83,12 @@ _______ is the only direct means of seeing depth and occurs under binocular cond
 
 Stereopsis
 
-In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is becoming (smaller/larger).
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that an object is becoming (smaller/larger).
 18 of 157
 
 smaller
 
-In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that's an object is moving (closer/further away).
+In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that an object is moving (closer/further away).
 19 of 157
 
 closer
@@ -98,7 +98,7 @@ In a normal binocular vision system, when base in prism is increasingly introduc
 
 larger
 
-In a normal binocular vision system, when base out prism is increasingly introduced, a patient will perceive that an object is moving (closer/further away).
+In a normal binocular vision system, when base in prism is increasingly introduced, a patient will perceive that an object is moving (closer/further away).
 21 of 157
 
 further away
@@ -123,12 +123,12 @@ If an object is behind a point of fixation, its image will fall on the (nasal/te
 
 nasal; uncrossed
 
-(Absolute/Relative) depth is the distance between an object and an observer and (absolute/relative) depth is the distance between two objects from an observer.
+(Absolute/Relative) depth is the distance between an object and an observer and (absolute/relative) depth is the distance between two objects.
 26 of 157
 
 Absolute ; relative
 
-The diffrequency effect (where two gratings of different spatial frequencies are presented to a single eye each) has a similar effect to the tiled effects noted in _______.
+The diffrequency effect (where two gratings of different spatial frequencies are presented to a single eye each) has a similar effect to the tilt effects noted in _______.
 27 of 157
 
 aniseikonia
@@ -138,7 +138,7 @@ Placing a neutral density filter in front of one eye while viewing a moving obje
 
 temporal
 
-In the Pulfrich phenomenon where an neutral density filter is placed in front of the right eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise).
+In the Pulfrich phenomenon where a neutral density filter is placed in front of the right eye, a swinging pendulum will be perceived as moving (clockwise / counterclockwise).
 29 of 157
 
 counterclockwise
@@ -173,7 +173,7 @@ True or false: a color blind patient can experience chromostereopsis.
 
 TRUE
 
-_____ acuity is the smaller depth difference a patient can see.
+_____ acuity is the smallest depth difference a patient can see.
 36 of 157
 
 Stereo
@@ -203,7 +203,7 @@ fovea ; peripheral retina
 
 Blue ; poorer
 
-(Monocular/Binocular) blur has a greater effect on stereoacuity.
+(Monocular/Binocular) blur has a greater affect on stereoacuity.
 42 of 157
 
 monocular - A difference in perceived image effects stereoacuity greatly.
@@ -237,12 +237,12 @@ Fine stereopsis is mediated by the (parvo/magno) system and coarse stereopsis is
 
 parvo ; magno
 
-The first structure in the visual pathway that contributes to the COMBINATION of binocular information is the ___________.
+The first structure in the visual pathway that contributes to the COMBINATION (note: not perception) of binocular information is the ___________.
 48 of 157
 
 optic chiasm
 
-In hemiducussation of the optic nerves, the (nasal/temporal) optic nerve fibers cross at the optic ______ to the contralateral LGN.
+In hemidecussation of the optic nerves, the (nasal/temporal) optic nerve fibers cross at the optic ______ to the contralateral LGN.
 49 of 157
 
 nasal ; chiasm
@@ -287,7 +287,7 @@ Magnocellular neurons respond to (high/low) spatial frequencies, (high/low) temp
 
 low ; high ; fast
 
-The ventral layers of the LGN consist of ___ layers and is made of (magnocellular / parvo cellular) neurons.
+The ventral layers of the LGN consist of ___ layers and is made of (magnocellular / parvocellular) neurons.
 58 of 157
 
 2 ; magnocellular
@@ -297,7 +297,7 @@ Magnocellular neurons are (chromatic/achromatic).
 
 achromatic - They do not see color.
 
-Parvocellular neurons have (faster/slower) conduction velocities that magnocellular neurons.
+Parvocellular neurons have (faster/slower) conduction velocities than magnocellular neurons.
 60 of 157
 
 slower
@@ -367,7 +367,7 @@ The optic _____ travel from the LGN to the cortex.
 
 radiations
 
-__________ points are line up across layers of the LGN in projection columns.
+__________ points are lined up across layers of the LGN in projection columns.
 74 of 157
 
 Corresponding retinal
@@ -422,7 +422,7 @@ The cells of the striate cortex are called _____ or ____ cells.
 
 simple or complex
 
-When a binocular cell in the striate cortex has a response that is greater than two times of either eyes individual response, this is called binocular __________.
+When a binocular cell in the striate cortex has a response that is greater than two times of either eye's individual response, this is called binocular __________.
 85 of 157
 
 facilitation - Facilitation is "two eyes are better than two."
@@ -442,12 +442,12 @@ A VEP with a response equal under binocular and monocular conditions may be due 
 
 disruption of fusion - Such as suppression
 
-In a binocular beat VEP the stimulus to the eye vary in _________ frequency.
+In a binocular beat VEP the stimulus to the eye varies in _________ frequency.
 89 of 157
 
 temporal
 
-Ocular ______ occurs in the monocular cells of layer 4 of the LGN, as a group of cells on one column may receive more input from one eye than the other.
+Ocular ______ occurs in the monocular cells of layer 4 of the cortex, as a group of cells on one column may receive more input from one eye than the other.
 90 of 157
 
 dominance - Dominance columns can be very unevenly distributed in amblyopia.
@@ -475,14 +475,14 @@ many
 The four types of binocular disparity processing cells in the visual cortex are:
 95 of 157
 
-tuned excitatory cells, tune inhibitory cells, near cells, far cells
+tuned excitatory cells, tuned inhibitory cells, near cells, far cells
 
 _________ cells in the visual cortex respond to zero disparity.
 96 of 157
 
-tune excitatory
+tuned excitatory
 
-____ disparity means that an object is the same distance as a point your a fixating.
+____ disparity means that an object is the same distance as a point you are fixating.
 97 of 157
 
 Zero - Zero disparity means two objects are exactly side by side.
@@ -490,7 +490,7 @@ Zero - Zero disparity means two objects are exactly side by side.
 _______ cells in the visual cortex respond to an object that is not directly next to a point of fixation.
 98 of 157
 
-Tuned inhibitory cells - An object may be slightly behind of in front of a fixation point.
+Tuned inhibitory cells - An object may be slightly behind or in front of a fixation point.
 
 _____ cells of the striate cortex respond to one single particular disparity.
 99 of 157
@@ -532,7 +532,7 @@ The thin stripes and interstripes of V2 respond well to (high/low) spatial frequ
 
 high ; low; chromatic
 
-The thick stripes of V2 receive information form (simple/complex) cells of the (parvo/magno) pathway.
+The thick stripes of V2 receive information from (simple/complex) cells of the (parvo/magno) pathway.
 107 of 157
 
 complex ; magno
@@ -650,7 +650,7 @@ unilateral and constant
 A patient who develops strabismus at the age of 3 is more likely to experience (diplopia/suppression) than a patient who develops strabismus at the age of 30.
 130 of 157
 
-suppression - Suppression is the minds adaptation to the strabismus.
+suppression - Suppression is the mind's adaptation to the strabismus.
 
 A patient who develops strabismus at the age of 30 is more likely to experience (diplopia/suppression) than a patient who develops strabismus at the age of 3.
 131 of 157
@@ -662,7 +662,7 @@ Amblyopia that results from unequal refractive errors between the two eyes is re
 
 anisometropic - The anisometropic amblyogenic factors are +1.00DS -3.00DS and -1.50 cyl.
 
-In a patient with anisometropic amblyopia one eye has an blurry image relative to the other due to consensual _________.
+In a patient with anisometropic amblyopia one eye has a blurry image relative to the other due to consensual _________.
 133 of 157
 
 accommodation - Both eyes accommodate the same amount.
