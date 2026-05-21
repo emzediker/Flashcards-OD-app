@@ -35,7 +35,7 @@ The peak absorption of rhodopsin is at _____.
 The peak absorption of the cones is at ___.
 7 of 28
 
-one of three different visual pigments - 1. long (red) at 5642. medium (green) at 5333. short (blue) at 437
+one of three different visual pigments - 1. long (red) at 564 2. medium (green) at 533 3. short (blue) at 437
 
 Mnemonic to remember wavelengths of cones:
 8 of 28
@@ -60,7 +60,7 @@ The rods are HYPERpolarized in light. - Rods are hyperpolarized in the light and
 Explain the "HYPER" vs "DE"-polarized states in phototransduction.
 12 of 28
 
-1. Dark= Rods are DEpolarized (around -40 mV) because Na+ and Ca++ ions continuously enter the cell through open cyclic GMP (cGMP)-gated channels. This allows for the constant release of the neurotransmitter glutamate. 2. Light: CLosure of cGMP-gated channels, reducing Na+ and Ca++ influx. This causes the membrane potential to become more negative (hyperpolarized, around -70 mV)-- reducing glutamate release.
+1. Dark= Rods are DEpolarized (around -40 mV) because Na+ and Ca++ ions continuously enter the cell through open cyclic GMP (cGMP)-gated channels. This allows for the constant release of the neurotransmitter glutamate. 2. Light: Closure of cGMP-gated channels, reducing Na+ and Ca++ influx. This causes the membrane potential to become more negative (hyperpolarized, around -70 mV)-- reducing glutamate release.
 
 What is the voltage of membrane potential for depolarized VS hyperpolarized photoreceptors?
 13 of 28
@@ -77,7 +77,7 @@ Inside rods, there is rhodopsin. Inside the rhodopsin, there is a molecule calle
 
 ALL TRANS RETINAL
 
-When light hits the retinal inside the rhodopsin, the retinal become unbent and the rhodopsin changes shape.  When rhodopsin changes shape, it activates what molecule that is usually attached to rhodopsin?
+When light hits the retinal inside the rhodopsin, the retinal becomes unbent and the rhodopsin changes shape.  When rhodopsin changes shape, it activates what molecule that is usually attached to rhodopsin?
 16 of 28
 
 transducin
@@ -104,7 +104,7 @@ When rods hyperpolarize in light rods turn off– but what happens to the on-cen
 
 On-center bipolar cells turn ON in light.
 
-Rods vs Cones: Which have disc CONNECTED to them?
+Rods vs Cones: Which have discs CONNECTED to their plasma membrane?
 21 of 28
 
 CONes are CONnected! - Both start with CON.
