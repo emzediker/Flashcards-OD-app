@@ -6,7 +6,7 @@ adenylate kinase
 Glucose produces ____ ATP molecules.
 2 of 211
 
-36
+36 - Some resources will estimate 30-32 ATP
 
 Glycerol, from the break down of a fat molecule, produces ___ ATP molecules.
 3 of 211
@@ -196,7 +196,7 @@ oxidase
 NADH can create ___ ATP and FADH2 can create ___ATP on the electron transport chain.
 40 of 211
 
-3 ; 2
+3 ; 2 - Some resources will list 2.5 and 1.5 instead
 
 The ___ gradient created by the electron transport chain serves as a primary potential energy source for the creation of ATP.
 41 of 211
@@ -271,7 +271,7 @@ Humans can synthesize __ of the ___ amino acids. The rest must be taken in in th
 Alanine, Asparagine, aspartate, glutamine, proline and serine can all be derived from the amino acid:
 55 of 211
 
-glutamate
+glutamate - Alhough aspartate and asparagine derive primarily from oxaloacetate pathways.
 
 Excess phenylalanine can be converte into the amino acid:
 56 of 211
@@ -323,7 +323,7 @@ Iron in the body is stored as _____.
 
 ferritin
 
-Free heme in the body is stored in the __________ as _______.
+Free heme in the body is stored in its broken down form in the __________ as _______.
 66 of 211
 
 gallbladder ; bilirubin
@@ -435,7 +435,7 @@ Nucleotides always get added to the (3'/5') end of the growing DNA strand.
 _______ generates the RNA primer needed for DNA polymerase to begin DNA replication.
 87 of 211
 
-RNA polymerase
+RNA polymerase - It is technically a specialized RNA polymerease called Primase.
 
 Proofreading of DNA by DNA polymerase is done in the (3' to 5' /5' to 3') direction.
 88 of 211
