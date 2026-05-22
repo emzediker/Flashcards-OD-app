@@ -33,12 +33,12 @@ _______ are cellular organelles that contain digestive enzymes.
 
 Lysosomes
 
-Mitochondria use ______ to create ATP.
+In cellular respiration, cells use ______ to create ATP.
 8 of 212
 
 glucose
 
-The three types of RNA produced in the nucleus of a cell are :
+The three types of RNA produced in the nucleus of a cell are:
 9 of 212
 
 tRNA, mRNA and rRNA - transfer, messenger and ribosomal RNA
@@ -113,7 +113,7 @@ Gastric acid in the stomach has a hydrogen ion concentration of 1x10^-1. What is
 
 pH = -log[hydrogen ion concentration] = 1
 
-According to the Branstad-Lowry theory, acids are proton (acceptors/donors) and bases are proton (acceptors/donors).
+According to the Brønsted-Lowry theory, acids are proton (acceptors/donors) and bases are proton (acceptors/donors).
 24 of 212
 
 donors ; acceptors
@@ -163,7 +163,7 @@ __________ are substances such as amino acids that are overall neutral but have 
 
 Zwitterions
 
-A buffer solution containers a conjugate acid-base pair of a (strong/weak) acid or base.
+A buffer solution contains a conjugate acid-base pair of a (strong/weak) acid or base.
 34 of 212
 
 weak
@@ -173,12 +173,12 @@ A buffer solution is (resistant/susceptible) to pH change when small amount of e
 
 resistant
 
-If blood pH decreases, it can result in _____ and if blood pH increase it can result in ______.
+If blood pH decreases, it can result in _____ and if blood pH increases it can result in ______.
 36 of 212
 
 acidosis ; alkalosis
 
-In respiratory acidosis, impaired respiration such as an pneumonia, causes increased blood (carbon dioxide / oxygen) levels and decreased (carbon dioxide / oxygen) levels. This over causes an increase concentration of _______.
+In respiratory acidosis, impaired respiration such as in pneumonia, causes increased blood (carbon dioxide / oxygen) levels and decreased (carbon dioxide / oxygen) levels. This causes an increase concentration of _______.
 37 of 212
 
 increased carbon dioxide ; decreased oxygen ; increased carbonic acid
@@ -243,7 +243,7 @@ The Van der Waals force known as ______ forces are weak and short lived. They oc
 
 London dispersion; nonpolar
 
-The Van der Waals force known as _____ forces occurs when oppositely charged partial charges attract, or like charges repel in a dipole.
+The Van der Waals force known as "_____ forces" occurs when oppositely charged partial charges attract, or like charges repel in a dipole.
 50 of 212
 
 dipole-dipole
@@ -258,10 +258,10 @@ Hydrogen bonding, as seen in water, is an example of a very strong _________ for
 
 dipole-dipole
 
-The cation ammonium in an amino group binding to an anion of a carboxylic acid group is an example of an ____ interaction. This forms an amino acid.
+The cation ammonium in an amino group binding to an anion of a carboxylic acid group is an example of an ____ interaction. 
 53 of 212
 
-ionic
+ionic - This type of interaction forms an amino acid.
 
 The presence of carbon and hydrogen alone generally makes a substance (nonpolar/polar) and the addition of another group or element makes the substance (nonpolar/polar).
 54 of 212
@@ -293,7 +293,7 @@ The building blocks of proteins are __________.
 
 amino acids
 
-An amino acid is a composed of a central carbon, called the alpha carbon, that is bound to the following 4 structures:
+An amino acid is composed of a central carbon, called the alpha carbon, that is bound to the following 4 structures:
 60 of 212
 
 Amine group (NH2), a carboxylic acid group (COOH), a hydrogen atom, and an "R" group which identifies the amino acid.
@@ -301,14 +301,14 @@ Amine group (NH2), a carboxylic acid group (COOH), a hydrogen atom, and an "R" g
 In an amino acid, the amine group is (positively/negatively) charged and the carboxyl group is (positively/negatively) charged
 61 of 212
 
-negatively ; positively
+positively ; negatively
 
 Nonpolar amino acids are (hydrophobic/hydrophilic) and (charged/uncharged).
 62 of 212
 
 hydrophobic ; uncharged
 
-Polar amino acids are (hydrophobic/hydrophilic) and (charged/uncharged).
+Polar amino acids are (hydrophobic/hydrophilic) and typically (charged/uncharged).
 63 of 212
 
 hydrophilic ; charged
@@ -443,7 +443,7 @@ Collagen is an example of a (fibrous/globular) protein.
 
 fibrous
 
-_______ is the protein that transports oxygen in cells.
+_______ is the protein that transports oxygen in red blood cells.
 90 of 212
 
 Hemoglobin
@@ -517,7 +517,7 @@ A alpha-helix or a beta-pleated sheet are examples of _______ protein structure.
 
 secondary
 
-A ________ secondary protein structure is coiled every 3.6 amino acid residues.
+An ________ secondary protein structure is coiled every 3.6 amino acid residues.
 104 of 212
 
 alpha-helix
@@ -530,9 +530,9 @@ Keratin
 Keratin consists of ___ right handed ____ wrapped around ___ left handed supercoil.
 106 of 212
 
-3 ; alpha-helixes ; 1
+2 ; alpha-helices ; 1
 
-The amino acid _____ causes kinks in a alpha helix, destabilizing it.
+The amino acid _____ causes kinks in a alpha-helix, destabilizing it.
 107 of 212
 
 proline - Proline is the only amino acid that lacks NH for hydrogen bonding.
@@ -562,7 +562,7 @@ In a (parallel/anti-parallel) beta pleated-sheet polypeptide strands align along
 
 parallel
 
-In (parallel/anti-parallel) beta-pleated sheets, one polypeptide strand is lined from N to C terminal and the other is in the opposite direction, from C to N terminal.
+In (parallel/anti-parallel) beta-pleated sheets, one polypeptide strand is aligned from N to C terminal and the other is in the opposite direction, from C to N terminal.
 113 of 212
 
 anti-parallel
@@ -597,17 +597,17 @@ The human body produces an (antibody/antigen) in response to a foreign (antibody
 
 antibody ; antigen
 
-Antigens collect on the surface of ______ cells.
+Antigens collect on the surface of cell _________.
 120 of 212
 
-red blood
+membranes
 
 (Ultracentrifugation/Ultrafiltration/Size exclusion chromatography) is a method used to separate proteins using the ability of certain sized molecules to diffuse through a semipermeable membrane with pressure.
 121 of 212
 
 Ultrafiltration
 
-(Ultracentrifugation/Ultrafiltration/Size exclusion tomography) is a method used to separate proteins and to determine the mass of a protein by spinning a solution quick enough to separate lighter molecules to the top of the solution and heavier to the bottom.
+(Ultracentrifugation/Ultrafiltration/Size exclusion chromatography) is a method used to separate proteins and to determine the mass of a protein by spinning a solution quick enough to separate lighter molecules to the top of the solution and heavier to the bottom.
 122 of 212
 
 Ultracentrifugation
@@ -652,7 +652,7 @@ In (ion exchange chromatography/electrophoresis) the greater the magnitude of a 
 
 ion exchange chromatography
 
-In (ion exchange chromatography/electrophoresis) species with a positive charge move toward the negative end of a electrostatic field, and visa versa.
+In (ion exchange chromatography/electrophoresis) species with a positive charge move toward the negative end of a electrostatic field, and vice versa.
 131 of 212
 
 electrophoresis
@@ -822,7 +822,7 @@ At the saturation point of an enzyme the rate of the reaction is at its (maximum
 
 maximum
 
-In (zero/first) order kinetics of an enzyme-substrate reaction, the rate of the reaction depends on the concentration of one reactant. This occurs when there are is a lower level of reactants.
+In (zero/first) order kinetics of an enzyme-substrate reaction, the rate of the reaction depends on the concentration of one reactant. This occurs when there is a lower level of reactants.
 165 of 212
 
 first
@@ -847,7 +847,7 @@ Km is the ______ concentration when enzyme-reactant reaction is at 1/2Vmax.
 
 substrate
 
-1/2Vmax is where a _____ rate is at half of its' maximum velocity.
+1/2Vmax is where a _____ rate is at half of its maximum velocity.
 170 of 212
 
 reaction
@@ -957,7 +957,7 @@ An ________ enzyme has a regulatory site that a regulator binds to resulting in 
 
 allosteric
 
-____ or ____ are the different forms of the same enzyme that may have different kinematic and velocity values.
+____ or ____ are the different forms of the same enzyme that may have different kinetic and velocity values.
 192 of 212
 
 isozyme ; isoenzymes
@@ -1044,7 +1044,7 @@ carbohydrates; nucleic acids
 _____ linkages hold monomers of a polysaccharide together.
 208 of 212
 
-Glycoside
+Glycosidic
 
 Sucrose =
 209 of 212
