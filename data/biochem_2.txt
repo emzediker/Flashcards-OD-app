@@ -28,7 +28,7 @@ Lipids are (soluble/insoluble) in water and are (soluble/insoluble) in nonpolar 
 
 insoluble; soluble
 
-Lipid have a (polar/nonpolar) nature.
+Lipids have a (polar/nonpolar) nature.
 7 of 212
 
 nonpolar
@@ -53,7 +53,7 @@ Arachidonic acid, fatty acids and steroids are all (protein/carbohydrate/lipid) 
 
 lipid
 
-Lipids can form a micelle, a membrane like structure where the (polar/nonpolar)(fatty acid tail/head) form the outside of the membrane which is adjacent to water, and the (polar/nonpolar)(fatty acid tail/head) forms the inside of the membrane unexposed to water.
+Lipids can form a micelle, a membrane-like structure where the (polar/nonpolar)(fatty acid tail/head) form the outside of the membrane which is adjacent to water, and the (polar/nonpolar)(fatty acid tail/head) forms the inside of the membrane unexposed to water.
 12 of 212
 
 polar head; nonpolar fatty acid tail
@@ -173,7 +173,7 @@ In a lipid bilayer, the phospholipid head is typically (charged/uncharged) (pola
 
 charged ; polar ; hydrophilic
 
-In a lipid bilayer, the inner phospholipid fatty acids are typically (charge/uncharged)(polar/nonpolar) and (hydrophobic/hydrophilic).
+In a lipid bilayer, the inner phospholipid fatty acids are typically (charged/uncharged)(polar/nonpolar) and (hydrophobic/hydrophilic).
 36 of 212
 
 uncharged ; nonpolar ; hydrophobic
@@ -193,7 +193,7 @@ In a cell membrane, the head of a phospholipid prevents (hydrophobic/hydrophilic
 
 hydrophobic; hydrophilic - Small lipid hydrophobic molecules may still pass through.
 
-A (peripheral/integral) protein is on the membranes surface and a (peripheral/integral) protein extends into the lipid bilayer or completely though it.
+A (peripheral/integral) protein is on the membranes surface and a (peripheral/integral) protein extends into the lipid bilayer or completely through it.
 40 of 212
 
 peripheral ; integral
@@ -256,7 +256,7 @@ potassium; sodium
 The _____ pump maintains normal levels of sodium and potassium levels in a cell by actively transporting potassium ions (into/out of) the cell and sodium ions (into/out of) the cell.
 52 of 212
 
-Na+/K+ ATPAse ; into ; out of
+Na+/K+ ATPase ; into ; out of
 
 A Na+/K+ ATPase moves __ Na+ out of the cell and __ K+ into the cell to maintain electrolyte homeostasis.
 53 of 212
@@ -288,7 +288,7 @@ A ____ gated channel is regulated by the binding of a chemical regulator.
 
 ligand
 
-A acetylcholine receptor is an example of a (ligand/voltage) gated channel.
+An acetylcholine receptor is an example of a (ligand/voltage) gated channel.
 59 of 212
 
 ligand
@@ -298,7 +298,7 @@ Acetylcholine is involved in ___ impulses.
 
 nerve
 
-Acetylcholine is released a neuron junctions called a ____.
+Acetylcholine is released at neuron junctions called a ____.
 61 of 212
 
 synapse
@@ -411,7 +411,7 @@ nucleotides
 A Nucleotide =
 83 of 212
 
-Nitrogen base + 5-carbon sugar + phosphoric acid
+Nitrogenous base + 5-carbon sugar + phosphoric acid
 
 The two categories of nucleotide nitrogenous bases are:
 84 of 212
@@ -770,7 +770,7 @@ A mixture of D2 and D3.
 Vitamin D is needed for absorption of __________.
 154 of 212
 
-calcium and phosphorous
+calcium and phosphorus
 
 The disease associated with vitamin D deficiency is _________.
 155 of 212
@@ -785,7 +785,7 @@ Tocopherols
 Vitamin K is needed to produce the coenzyme ______, which helps_____.
 157 of 212
 
-prothrombin, clot blood
+prothrombin, blood clot
 
 The two sources of vitamin K are :
 158 of 212
@@ -827,7 +827,7 @@ Protein hormones are (hydrophobic/hydrophilic), amine hormones are (hydrophobic/
 
 hydrophilic ; hydrophilic ; hydrophobic
 
-(Hydrophobic/Hydrophilic) hormones interact with membrane receptors and active them to produce ________.
+(Hydrophobic/Hydrophilic) hormones interact with membrane receptors and activate them to produce ________.
 166 of 212
 
 Hydrophilic ; second messengers
@@ -882,7 +882,7 @@ Epinephrine and norepinephrine are (lipid/amine/protein) hormones produced by th
 
 amine ; adrenal
 
-Thyroxine is an (lipid/amine/protein) hormone produced by the ______gland.
+Thyroxine is a (lipid/amine/protein) hormone produced by the ______gland.
 177 of 212
 
 amine ; thyroid
