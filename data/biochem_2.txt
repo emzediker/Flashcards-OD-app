@@ -11,7 +11,7 @@ disaccharide
 Heparin binds to _____ proteins to increase their efficiency.
 3 of 212
 
-anticlotting
+anticlotting - Specifically, it enhance antithrombin III.
 
 Proteins with a carbohydrate attached are called ______.
 4 of 212
@@ -121,7 +121,7 @@ complex
 Plasmalogens and phosphatides are examples of ______lipids.
 25 of 212
 
-phospholipids - Specifically phosphoglycerides known as glycophospholipids
+phospholipids - specifically phosphoglycerides. 
 
 Glycosphingolipids and sphingophospholipids are examples of _____lipids.
 26 of 212
@@ -156,7 +156,7 @@ lipid bilayer
 Phosphatidylethanolamine and phosphatidylcholine  are examples of  _______.
 32 of 212
 
-phosphatidates
+phosphoglycerides / phospholipids
 
 On a glycolipid the (carbohydrate/lipid) group is hydrophilic and the (carbohydrate/lipid) group is hydrophobic.
 33 of 212
@@ -351,7 +351,7 @@ local
 True or False: Prostaglandins , thromboxanes and leukotrienes are transported in the blood.
 71 of 212
 
-FALSE
+FALSE (mostly) - These usually work locally.
 
 Prostaglandins, thromboxanes, and leukotrienes are all ____ that act as local hormones.
 72 of 212
@@ -406,14 +406,14 @@ transcription ; translation
 DNA and RNA are polymers of _____.
 82 of 212
 
-nucleic acids
+nucleotides
 
 A Nucleotide =
 83 of 212
 
 Nitrogen base + 5-carbon sugar + phosphoric acid
 
-The two categories of nucleotide nitrogen bases are:
+The two categories of nucleotide nitrogenous bases are:
 84 of 212
 
 purines and pyrimidines
@@ -682,7 +682,7 @@ Vitamins B12 / cyanocobalamin deficiency results in _____.
 
 pernicious anemia
 
-______  is the digestive enzyme necessary to absorb vitamin B12.
+______  is the digestive glycoprotein necessary to absorb vitamin B12.
 137 of 212
 
 Intrinsic factor
@@ -959,7 +959,7 @@ oxytocin and vasopressin
 The hormone responsible for lactation is _____ from the _____.
 191 of 212
 
-Prolactin from the anterior pituitary is responsible for lactation.
+Prolactin from the anterior pituitary is responsible for lactation. - Oxytocin is responsible for milk ejection.
 
 The pituitary hormone responsible for water regulation is _____ from the _____.
 192 of 212
