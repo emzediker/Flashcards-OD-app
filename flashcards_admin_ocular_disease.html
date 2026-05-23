@@ -139,7 +139,9 @@ let MAP={}, CURRENT_SIDE='back';
 
 /* Load images list from /images/<deckId>/_files.json (optional) */
 async function loadImageList(deckId){
-  const base=`images/${deckId}/`;
+  const base=`${window.location.pathname.includes('/Flashcards-OD-app')
+  ? '/Flashcards-OD-app'
+  : ''}/images/${deckId}/`;
   els.frontFolder.textContent = `images/${deckId}/`;
   els.mapName.textContent = `${deckId}_image_map.json`;
   const url=`${base}_files.json?cachebust=${Date.now()}`;
