@@ -402,7 +402,7 @@ DNA synthesis occurs from the (5'/3') end to the (5'/3') end.
 
 5' ; 3'
 
-The discontinuous fragments called ____________ are discontinuous copies of DNA that form during replication of the antiparallel 3 to 5 DNA strand.
+The discontinuous fragments called ____________ are discontinuous copies of DNA that form during replication of the antiparallel 3' to 5' DNA strand.
 81 of 211
 
 Okazaki fragments
@@ -569,7 +569,7 @@ A genetic defect resulting in defective enzyme iodotyrosine dehalogenase occurs 
 
 goiter
 
-The genetic disease hemochromatosis results from the defective  ______ protein resulting in a impaired ability to absorb iron from food.
+The genetic disease hemochromatosis results from the defective  ______ protein resulting in an impaired ability to absorb iron from food.
 114 of 211
 
 HFE
@@ -779,7 +779,7 @@ mRNA carries information from the ____ to the ______.
 
 nucleus ; ribosomes in the cytosol
 
-_____ RNA slices together components of mRNA.
+_____ RNA splices together components of mRNA.
 156 of 211
 
 Small nuclear (snRNA)
@@ -849,7 +849,7 @@ Before RNA polymerase can bind to its promotor region a _________binds to it to 
 
 transcription factor
 
-At the 3' end of an mRNA molecule that enzyme poly(A) polymerase adds about 250 ________ residues.
+At the 3' end of an mRNA molecule the enzyme poly(A) polymerase adds about 250 ________ residues.
 170 of 211
 
 adenylate
