@@ -8,10 +8,10 @@ List the normal MRD measurement.
 
 +2. Meaning the lid is at least 2 mm above the pupil center. Negative numbers indicate the lid is  past the pupil center.
 
-Most lid-induced problems are related to lid laxity. Name one common lid-induced condition that arise from TOO MUCH LID TENSION/ FRICTION.
+Most lid-induced problems are related to lid laxity. Name one common lid-induced condition that arises from TOO MUCH LID TENSION/ FRICTION.
 3 of 107
 
-superior limbal keratitis (SLK)
+superior limbal keratoconjunctivitis (SLK)
 
 Differentiate trichiasis vs madarosis.
 4 of 107
@@ -31,7 +31,7 @@ The junction between keratinized skin to non-keratinized conjunctiva at the lid 
 Differentiate sclerotic scatter vs specular reflection slit lamp techniques.
 7 of 107
 
-1. Sclerotic scatter: The lighthouse is at an angle and shined on the SCLERA. Here, internal reflection allows a diffuse view of the  cornea to be viewed. 2. Specular reflection: A PURKINJE image is shown on the cornea. In the shadows next to the image is the endothelium to allow for viewing of guttae.
+1. Sclerotic scatter: The lighthouse is directed at an angle and shone on the SCLERA. Here, internal reflection allows a diffuse view of the  cornea to be viewed. 2. Specular reflection: A PURKINJE image is shown on the cornea. In the shadows next to the image is the endothelium to allow for viewing of guttae.
 
 Most biomicroscopes / slit lamps  consist of a parallel ____ telescope design.
 8 of 107
@@ -61,7 +61,7 @@ Both L. Green and R. Bengal are used to stain conjunctiva and soft tissues. R. B
 Values below ____mm of wetting are diagnostic of aqueous tear deficiency in Schirmer testing.
 13 of 107
 
-5.5mm
+5.5mm after 5 minutes - some literature lists <5mm after 5 minutes
 
 Schirmer II IS ??WITH OR WITHOUT?? ANESTHESIA  ?
 14 of 107
@@ -116,7 +116,7 @@ TRUE
 Floppy lid syndrome is common in:
 24 of 107
 
-obese males, who face down sleeping or use a CPAP for sleep apnea.
+obese males, who seelp face-down or use a CPAP for sleep apnea.
 
 Describe lagophthalmos.
 25 of 107
@@ -156,7 +156,7 @@ Small, raised, round, white, sharp cystic lesions of the eyelids. They are super
 Describe keratoacanthoma.
 32 of 107
 
-A dome-shaped nodule, with a central, keratin-filled crater and elevated, rolled margins. - ASSOCIATED WITH IMMUNOSUPPRESSED HIV PATIENTS. Can be precursor to squamous cell carcinoma.
+A dome-shaped nodule, with a central, keratin-filled crater and elevated, rolled margins. - ASSOCIATED WITH IMMUNOSUPPRESSED HIV PATIENTS. Can be a precursor to squamous cell carcinoma.
 
 Identify the lesion: These lesions have a yellow-brown or erythematous color, an oval shape, and are white and scaly. They arise from SUN EXPOSURE.
 33 of 107
@@ -233,7 +233,7 @@ Name the finding: - Rash on unilateral face and forehead from herpes zoster viru
 
 vesicles (or varicella virus)
 
-Name the finding: - When herpes zoster virus rash affects the tip of nose and lip.
+Name the finding: - When herpes zoster virus rash affects the tip of nose.
 48 of 107
 
 Hutchinson sign
@@ -258,7 +258,7 @@ Differentiate between internal vs external hordeolum: styes
 Differentiate hordeolum vs chalazion.
 52 of 107
 
-Hordeolum is soft, painful & tender. Topical medications can attack it! - Chalazion is hard encapsulated, past the point of tenderness, topical meds usually doesn't attack it well, needs surgical incision and drainage.
+Hordeolum is soft, painful & tender. Topical medications can attack it! - Chalazion is hard encapsulated, past the point of tenderness, topical meds usually don't attack it well, needs surgical incision and drainage.
 
 True or False? Impetigo is a form OF VIRAL infection that presents with small diffuse painful nodules on face lips and lids.
 53 of 107
@@ -268,12 +268,12 @@ False - IMPETIGO IS BACTERIAL but looks viral. Common causes are staph or strep 
 Chronic canaliculitis, usually caused by the bacteria  _____.
 54 of 107
 
-Actinomyces Israelii 
+Actinomyces israelii 
 
 Actinomyces israelii are gram-positive bacteria and are antibiotic resistant because they actively make a biofilm in the puncta and canals. They are sensitive to what oral antibiotics?
 55 of 107
 
-penicillin, cefazolin, fluoroquinolones, chloramphenicol, doxycycline, and erythromycin. - Antibiotic therapy should last for a long period due to the ability that A. israelii has to form biofilms, which are more difficult to penetrate by antibiotic. 
+penicillin (mostly), cefazolin, fluoroquinolones, chloramphenicol, doxycycline, and erythromycin. - Antibiotic therapy should last for a long period due to the ability that A. israelii has to form biofilms, which are more difficult to penetrate by antibiotic. 
 
 Describe phthiriasis palpebrarum.
 56 of 107
@@ -283,7 +283,7 @@ THERE HE IS: CRAB (pubic louse)
 Describe the treatment of phthiriasis palpebrarum.
 57 of 107
 
-plucking off or cutting lashes, using anti-pubic lice shampoo and suffocating the lice with with a thick ointment like erythromycin or vaseline.
+plucking off or cutting lashes, using anti-pubic lice shampoo and suffocating the lice with a thick ointment like erythromycin or vaseline.
 
 Differentiate dacryoadenitis vs dacryocystitis.
 58 of 107
@@ -298,7 +298,7 @@ yellow is found at the nose, so the punctal path is open. - *POSITIVE IS PATENT*
 Differentiate Jones I vs Jones II techniques.
 60 of 107
 
-Jones I: NO SALINE wash, just fluress strip on palpebral conjunctiva and/or qtip and observed at the nose. - Jones II: Uses a syringe needle to push saline down.
+Jones I: NO SALINE wash, just Fluress strip on palpebral conjunctiva and/or qtip and observed at the nose. - Jones II: Uses a syringe needle to push saline down.
 
 Name the infestation of lashes: microscopic mite on lashes, that shows cylindrical dandruff on the base of lashes resulting in redness and foreign body sensation.
 61 of 107
@@ -328,10 +328,9 @@ Orbital cellulitis is much more serious and will show orbital congestion.
 Describe orbital compartment syndrome (aka orbital congestion).
 66 of 107
 
-*caused by orbital cellulitis *elevated intraocular pressure (IOP) *with or without a decrease in the visual acuity *proptosis *a tight orbit *a relative afferent pupillary defect *intraocular vascular changes *slow extraocular movements
-*possible diplopia
+*caused by orbital cellulitis *elevated intraocular pressure (IOP) *with or without a decrease in the visual acuity *proptosis *a tight orbit *a relative afferent pupillary defect *intraocular vascular changes *slow extraocular movements *possible diplopia
 
-Orbical cellulitis is an infection posterior to orbital septum. Name which sinus infection is a common cause.
+Orbital cellulitis is an infection posterior to orbital septum. Name which sinus infection is a common cause.
 67 of 107
 
 ethmoid sinus - The infection spreads through the thin lamina papyracea.
@@ -354,7 +353,7 @@ A FUNGAL infection (from orbital cellulitis) that CAUSES BLACK NECROTIC TISSUE I
 An orbital fracture causing entrapment can disrupt what muscle and nerve?
 71 of 107
 
-Inferior rectus (can't look up), V2 (infraorbital/ zygomatic nerve): causing hypothesia of the cheek
+Inferior rectus (can't look up), V2 (infraorbital/ zygomatic nerve): causing hypoesthesia of the cheek
 
 The weakest bone in the orbit is the floor. Commonly, this is broken in a "blowout fracture.” Name the bone that forms the floor of the orbit that is prone to breaking in this case.
 72 of 107
@@ -379,9 +378,9 @@ bruising
 Thyroid eye disease (TED)is a common cause of proptosis. HYPERthyroidism can be a result of the autoimmune condition:
 76 of 107
 
-Grave's Disease
+Graves Disease
 
-Name something increases the risk of proptosis associated with Thyroid Eye Disease by 2-9x's.
+Name something that increases the risk of proptosis associated with Thyroid Eye Disease by 2-9x's.
 77 of 107
 
 Smoking cigarettes, especially in females.
@@ -416,7 +415,7 @@ Describe Dalrymple's sign.
 
 lid retraction giving the patient a STARING appearance
 
-Describe the pathognomonic MRI finding on for Thyroid Eye Disease.
+Describe the pathognomonic MRI finding for Thyroid Eye Disease.
 84 of 107
 
 TENDONS are spared in swelling, only EOMS are swollen.
@@ -426,7 +425,7 @@ Differentiate blood work in HYPER vs HYPO thyroidism. Is TSH vs T3/T4 is high or
 
 Hyperthyroid: High T3/T4 but LOW TSH  Hypothyroidism: Low T3/T4 but HIGH TSH - TSH LEVELS ARE THE OPPOSITE OF THE DIAGNOSIS. HYPO SHOWS HIGH TSH VS HYPER SHOWS LOW TSH. T3/T4 level matches diagnosis.
 
-List Hertel exophthalmometry norms for for Asian, Caucasian, and African American populations.
+List Hertel exophthalmometry norms for Asian, Caucasian, and African American populations.
 86 of 107
 
 12-18mm Asians, 12-22mm Caucasians, 12-24mm African Americans
@@ -498,7 +497,7 @@ Name the severe conjunctival disease:
 Marked by mucus membranes / soft tissues becoming scarred and fibrotic with very painful, bilateral symblepharon. Often uniquely associated to SULFA OR OTHER MEDICATION ALLERGY.
 99 of 107
 
-Steven Johnson Syndrome
+Steven-Johnson Syndrome
 
 Differentiate ptosis vs dermatochalasis.
 100 of 107
@@ -522,7 +521,7 @@ Benign Essential Blepharospasm (BEB) plus lower facial abnormalities (chewing is
 The condition ______ which is associated with lid closure muscle spasms, can be treated with injectable botulinum toxin (botox).
 103 of 107
 
-Benign Essential Blrpharospasm - Avoid using botox in a patient with a history of myasthenia gravis. 
+Benign Essential Blepharospasm - Avoid using botox in a patient with a history of myasthenia gravis. 
 
 Rarely recurrent chalazion that will not resolve can be a result of:
 104 of 107
