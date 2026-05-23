@@ -28,7 +28,7 @@ Conjunctival intraepithelial neoplasia (CIN) is caused by a mutation in what gen
 
 p53
 
-If conjunctival intraepithelial neoplasia(CIN) is non-invasive, why is worrisome?
+If conjunctival intraepithelial neoplasia (CIN) is non-invasive, why is it still worrisome?
 6 of 75
 
 CIN can be a precursor to invasive squamous cell carcinoma.
@@ -66,17 +66,17 @@ A yellow cyst located superior nasal; placoid tumors that arise from the outer t
 A choristoma is a…
 13 of 75
 
-Delopmental tumor-like growth of microscopically normal tissue in an abnormal location.
+Developmental tumor-like growth of microscopically normal tissue in an abnormal location.
 
 Differentiate pinguecula vs pterygium.
 14 of 75
 
-Pinguiculas do not cross corneal limbus and pterygium crossover the corneal limbus.
+Pingueculas do not cross the corneal limbus and pterygium cross over the corneal limbus.
 
 Describe a phlyctenule.
 15 of 75
 
-A small, yellow-gray, raised bump that appears at the limbus. These painful bumps last for several days to 2 weeks. On the conjunctiva, these bumps become open sores (ulcers) but heal without a scar.
+A small, yellow-gray, raised bump that appears at the limbus. These painful bumps last for several days to two weeks. On the conjunctiva, these bumps become open sores (ulcers) but heal without a scar.
 
 Describe the treatment for phlyctenules.
 16 of 75
@@ -98,7 +98,7 @@ If you read: HYPERACUTE purulent mucus discharge - “it started last night, all
 
 Neisseria Gonorrhoeae
 
-If you read: non-hyperacute (white or green color) purulent mucus discharge. Think: this is this cause...
+If you read: non-hyperacute (white or green color) purulent mucus discharge. Think: this is the cause...
 20 of 75
 
 aerobic or anaerobic BACTERIAL (staph, strep, etc) conjunctivitis
@@ -131,7 +131,7 @@ False - VKC (and AKC) is purely inflammatory.
 Giant Papillary Conjunctivitis (GPC) is normally associated with VKC (vernal) or AKC (atopic). If VKC and AKC have been ruled out, what is the other cause to GPC?
 26 of 75
 
-GPC caused by secondary rubbing (contact lenses, prostheses, sutures)
+GPC can be caused by secondary rubbing (contact lenses, prostheses, sutures)
 
 Differentiate palpebral vernal keratoconjunctivitis (VKC) vs Limbal VKC.
 27 of 75
@@ -153,7 +153,7 @@ Horner's trantas dots in vernal keratoconjunctivitis (VKC) are filled with what 
 
 eosinophils
 
-Name the keratoconjunctivitis: NO evidence of infection. ISOLATED INFLAMMATION  ONLY AT THE UPPER tarsal and superior bulbar conjunctiva. Presence of fluorescein/rose bengal/ or lissamine green staining of the cornea  and superior conjunctiva. A VELVETY APPEARANCE SUPERIORLY.
+Name the keratoconjunctivitis: NO evidence of infection. ISOLATED INFLAMMATION ONLY AT THE UPPER tarsal and superior bulbar conjunctiva. Presence of fluorescein/rose bengal/ or lissamine green staining of the cornea  and superior conjunctiva. A VELVETY APPEARANCE SUPERIORLY.
 31 of 75
 
 Superior Limbal Keratoconjunctivitis (SLK)
@@ -173,7 +173,7 @@ ____ is the leading INFECTIOUS cause of blindness worldwide.
 
 Chlamydia Trachoma
 
-Name the only TWO bacteria that cause a follicular reaction.
+Name the TWO main bacteria that cause a follicular reaction.
 35 of 75
 
 Chlamydia and Moraxella
@@ -181,12 +181,12 @@ Chlamydia and Moraxella
 What type of bacteria is chlamydia?
 36 of 75
 
-gram-negative, anaerobic, intracellular obligates
+gram-negative intracellular obligates
 
 Differentiate Trachoma vs Inclusion Chlamydial ocular infections.
 37 of 75
 
-Trachoma- more common in kids (A-C Serotypes) from mother usually or flies (in third world countries) - Inclusion- more common in adults, passed from genital chlamydia (D-K serotypes)
+Trachoma- more common in kids (A-C Serotypes) from mothers usually or flies (in third world countries) - Inclusion- more common in adults, passed from genital chlamydia (D-K serotypes)
 
 Name two types of granulomatous conjunctivitis.
 38 of 75
@@ -196,14 +196,14 @@ Parinaud's and Sarcoidosis
 Differentiate conjunctival membrane vs pseudomembrane.
 39 of 75
 
-1. A True membrane causes bleeding when peeled off. - 2. A pseudomembrane comes off without bleeding.
+1. A True membrane causes bleeding when peeled off. - 2. A pseudomembrane comes off with very minimal bleeding or none at all.
 
 Name the keratoconjunctivitis: Usually induced by an allergy to SULFA or other antibiotic. Starts with flu-like symptoms, then leads to melting of all mucus membranes throughout the body.
 40 of 75
 
 Steven Johnsons Syndrome
 
-Name the ocular sign typically associated with Steven Johnsons Syndrome.
+Name the ocular sign typically associated with Steven-Johnson Syndrome.
 41 of 75
 
 Conjunctival membranes (painful) with scarring and adhesions.
@@ -248,7 +248,7 @@ Toxic papillary conjunctivitis presents as:
 
 diffuse superficial punctate keratitis on the cornea and papillary conjunctivitis
 
-Differentiate Herbert's Pits vs Horners Trantas dots.
+Differentiate Herbert's Pits vs Horner-Trantas dots.
 50 of 75
 
 Herbert's pits are associated with TRACHOMA and are dark residual pits. - Horners trantas dots are white gel-like elevations from vernal keratoconjunctivitis.
@@ -256,7 +256,7 @@ Herbert's pits are associated with TRACHOMA and are dark residual pits. - Horner
 List the treatment for adult gonococcal conjunctivitis.
 51 of 75
 
-a single-dose intramuscular (IM) regimen of 1g of ceftriaxone.
+a single-dose intramuscular (IM) regimen of 1g of ceftriaxone. - Current treatment also includes treating a presumed chlamydia co-infection with 1 gram azithromycin or 100mg doxycycline BID x 7 days.
 
 Is adenoviral conjunctivitis caused by a DNA or RNA virus?
 52 of 75
@@ -271,7 +271,7 @@ Enterovirus and coxsackievirus
 List common lab tests for chlamydial conjunctivitis.
 54 of 75
 
-Because chlamydia is an intracellular obligate organism, it is important to sample epithelial cells and send cells for a Giemsa staining. Testing shows dark purple inclusion bodies in the cytoplasm of infected cells.
+Because chlamydia is an obligate intracellular organism, it is important to sample epithelial cells and send cells for a Giemsa staining. Testing shows dark purple inclusion bodies in the cytoplasm of infected cells. - NAAT/PCR is a more modern lab test.
 
 Name the scar across the upper eyelid from trachoma follicles (the scarring then leads to entropion, trichiasis, and the cornea scarring from the lashes rubbing the cornea).
 55 of 75
@@ -298,7 +298,7 @@ Name two less common causes of Parinaud’s.
 
 Tuberculosis and Syphilis
 
-What mibrobe in implicated in tuberculosis?
+What microbe in implicated in tuberculosis?
 60 of 75
 
 Mycobacterium tuberculosis
@@ -311,7 +311,7 @@ Treponema pallidum
 True or False? Allergic conjunctivitis is characterized by itching, redness, clear watery SEROUS STICKY discharge, and puffy eyelids.
 62 of 75
 
-False -  Allergic conjunctivitis is only clear discharge but not serous or sticky.
+False -  Allergic conjunctivitis is only clear discharge but not serous or sticky.It can also include mucous. 
 
 Does allergic conjunctivitis present with papillae or follicles?
 63 of 75
@@ -356,7 +356,7 @@ Allergies Are Being Krazy Obnoxious
 Differentiate ketorolac vs ketotifen in allergic conjunctivitis treatment.
 71 of 75
 
-Ketorolac is an NSAID rarely used in the treatment of allergies that stops the cyclooxygenase pathway of prostaglandin production, thus inhibiting some of the mediators that mast cells release. - Ketotifen is true mast cell and anti histamine blocker and is commonly used.
+Ketorolac is an NSAID rarely used in the treatment of allergies that stops the cyclooxygenase pathway of prostaglandin production, thus inhibiting some of the mediators that mast cells release. - Ketotifen is a true mast cell and anti histamine blocker and is commonly used.
 
 Describe conjunctivochalasis.
 72 of 75
