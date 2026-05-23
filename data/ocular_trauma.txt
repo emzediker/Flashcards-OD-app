@@ -16,12 +16,12 @@ False - Always evert lids to remove extra foreign bodies that can exude toxins.
 Why is phenylephrine avoided in a patient with limbal ischemia after chemical trauma?
 3 of 24
 
-Because of its vasoconstrictive properties phenylephrine can worsen ischemia.
+Because of its vasoconstrictive properties, phenylephrine can worsen ischemia.
 
-Which dilation drop is preferred for patients with  limbal ischemia after chemical trauma?
+Which dilation drop is preferred for patients with limbal ischemia after chemical trauma?
 4 of 24
 
-cycloplegic (scopolamine)
+cycloplegic (scopolamine) - Definitely do NOT use phenylephrine, it constricts blood vessels and worsens ischemia!
 
 Name a medication preferred for mild chemical burns.
 5 of 24
@@ -33,7 +33,7 @@ Should you use topical IOP drops if a chemical burn elevates IOP?
 
 Try to avoid more chemicals on the surface of the eye, so avoid topical drops and skip straight to acetazolamide tablets by mouth.
 
-True or False? Oral tetracyclines have been shown in research to reduce collagenolysis and contribute to stromal melting after chemical burns.
+True or False? Oral tetracyclines have been shown in research to reduce collagenolysis and prevent to stromal melting after chemical burns.
 7 of 24
 
 TRUE
@@ -53,25 +53,25 @@ True or False? You can cover an abrasion with an extended wear bandage contact l
 
 True - It helps the epithelium to heal by avoiding the friction of the upper lid that occurs with blinking.
 
-Should erythromycin be used in corneal abrasions, conjunctival abrasions, or foreign bodies?
+Would erythromycin provide the best coverage in corneal abrasions, conjunctival abrasions, or foreign bodies?
 11 of 24
 
-No, this needs something with more coverage. - Consider polymixin B / bacitracin ointment.
+No, this needs something with more coverage. - Consider polymyxin B / bacitracin ointment.
 
 How is the cycloplegic agent CYCLOPENTOLATE 2% vs SCOPOLAMINE 0.25% vs atropine 1% prescribed/dosed in the treatment of traumatic iritis?
 12 of 24
 
-*CYCLOPENTOLATE 2%: TID one week * SCOPOLAMINE 0.25%: BID one week  *ATROPINE 1%: QD one week - With severe photophobia during traumatic iritis a steroid drop is typically prescribed in a taper  (ex QID one week, TID one week, BID one week, then QAM then stop).
+*CYCLOPENTOLATE 2%: TID one week * SCOPOLAMINE 0.25%: BID one week  *ATROPINE 1%: QD-BID one week - With severe photophobia during traumatic iritis a steroid drop is typically prescribed in a taper  (ex QID one week, TID one week, BID one week, then QAM then stop).
 
-**WHEN SHOULD YOU NOT USE A STEROID?**
+**WHEN SHOULD YOU NOT USE A STEROID ALONE?**
 13 of 24
 
-Any infiltrate present - due to bacteria from a foreign body for example
+Any abrasion with an infiltrate present - due to bacteria from a foreign body, for example
 
 If a patient has hyphema in the anterior chamber but does NOT HAVE A HISTORY OF TRAUMA or blood thinner use, suspect:
 14 of 24
 
-sickle cell anemia if African American
+sickle cell anemia - especially in African American patients
 
 What is the best pain medication for hyphema after trauma?
 15 of 24
@@ -86,24 +86,24 @@ Try beta-blockers first. - Avoid alpha-agonist due to vasoconstrictive propertie
 Describe iridodialysis.
 17 of 24
 
-The iris torn from scleral spur (iris root).
+The iris is torn from scleral spur (iris root).
 
 Describe cyclodialysis.
 18 of 24
 
-Ciliary body is torn from scleral spur. - WORRY ABOUT ANGLE RECESSION GLAUCOMA.
+Ciliary body is torn from the scleral spur. - WORRY ABOUT ANGLE RECESSION GLAUCOMA.
 
 A new APD after trauma in the absence of pallor or swelling of the nerve could indicate:
 19 of 24
 
 retro (behind) bulbar optic nerve head issue - like impingement of optic nerve from bone.
 
-Describe a optic nerve sheath hematoma.
+Describe an optic nerve sheath hematoma.
 20 of 24
 
 A collection of blood causing compression to the optic nerve after trauma, corrected with optic nerve sheath fenestration.
 
-True or False? Never remove an INTRAORBITAL Foreign BODY at slit lamp.
+True or False? Never remove an INTRAOCULAR Foreign BODY at slit lamp.
 21 of 24
 
 True - Pulling an object out can allow aqueous or vitreous prolapse, or even intracranial bleeding due to pressure change (send to ER with Styrofoam cup or fox shield around area).
@@ -121,4 +121,4 @@ Traumatic retinopathy linked to MILITARY SHRAPNEL OR MISSILE HIGH VELOCITY due t
 True or False? Tylenol is contraindicated in kids after a corneal abrasion due to risk of Reye syndrome.
 24 of 24
 
-FALSE - Aspirin carries a risk in kids for REYE (increased ammonia levels build up in the brain that can cause swelling)
+FALSE - Aspirin carries a risk in kids for REYE syndrome (increased ammonia levels build up in the brain that can cause swelling)
