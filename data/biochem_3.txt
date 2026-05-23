@@ -101,7 +101,7 @@ ethanol
 The aerobic processes of carbohydrate metabolism are the _______ & _______.
 21 of 211
 
-Kreb's cycle and oxidative phosphorylation
+Krebs cycle and oxidative phosphorylation
 
 The other names of the Kreb's cycle are:
 22 of 211
@@ -228,7 +228,7 @@ Fatty _____ needs to be activated by the use of ATP for beta-oxidation to occur.
 
 Acyl-coA
 
-Each cycle of beta-oxidation creates ____ ATP, __NADP, and ___FADH2.
+Each cycle of beta-oxidation creates ____ ATP, __NADH, and ___FADH2.
 47 of 211
 
 10;1;1
@@ -368,7 +368,7 @@ Albinism is a (recessive/dominant) trait that occurs due to an error in _____ me
 
 recessive ; tyrosine
 
-The precursor to the pigmen melanin is the amino acid _______.
+The precursor to the pigment melanin is the amino acid _______.
 75 of 211
 
 tyrosine
@@ -440,7 +440,7 @@ RNA polymerase - It is technically a specialized RNA polymerease called Primase.
 Proofreading of DNA by DNA polymerase is done in the (3' to 5' /5' to 3') direction.
 88 of 211
 
-3'to5'
+3'to 5'
 
 _____ is the name given to the RNA polymerase that creates the RNA primer needed for DNA replication.
 89 of 211
@@ -477,7 +477,7 @@ The leading strand requires (one/many) RNA primers and the lagging strand requir
 
 one ; many
 
-DNA polymerase (I / II / III) makes DNA on the lagging and leading steands and DNA polymerase (I / II / III) makes DNA between Okazaki fragments and processes primers.
+DNA polymerase (I / II / III) makes DNA on the lagging and leading strands and DNA polymerase (I / II / III) makes DNA between Okazaki fragments and processes primers.
 96 of 211
 
 III ; I
@@ -529,7 +529,7 @@ A (transition/transversion) substitution mutation occurs when one purine is repl
 
 transition
 
-A (transition/transversion) substitution mutation occurs when one purine is replaced with an pyrimidine or vise versa.
+A (transition/transversion) substitution mutation occurs when one purine is replaced with an pyrimidine or vice versa.
 106 of 211
 
 transversion
@@ -774,7 +774,7 @@ Which is more stable, RNA or DNA?
 
 DNA
 
-mRNA carries informatio from the ____ to the ______.
+mRNA carries information from the ____ to the ______.
 155 of 211
 
 nucleus ; ribosomes in the cytosol
@@ -837,7 +837,7 @@ exons
 (Promoters/Enhancers) are segments of DNA where RNA polymerase binds to start transcription and (promoters/enhancers) are segments of DNA that increase the effectiveness of RNA polymerase.
 167 of 211
 
-Promotors; enhancers
+Promoters; enhancers
 
 Promoters are (cis/trans) acting elements and enhancers are (cis/trans) acting elements.
 168 of 211
