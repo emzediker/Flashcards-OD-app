@@ -336,7 +336,7 @@ glutamine
 The urea cycle is the conversion of ___ to ___ for elimination.
 68 of 211
 
-nitrogen ; urea
+ammonium nitrogen ; urea
 
 ______ is a condition that occurs from the overproduction of uric acid.
 69 of 211
@@ -507,7 +507,7 @@ degrade
 Cancer cells tend to have (shortened/extended) telomeres.
 101 of 211
 
-extended
+extended - Cancer cells maintain telomeres via the enzyme telomerase. 
 
 Thymine dimers, an error of DNA where two pyrimidines are joined together rather than joining a pyrimidine to a  purine, are repaired by the enzyme _____.
 102 of 211
@@ -602,7 +602,7 @@ Phenylketonuria
 An alpha1-antitrypsin deficiency results in the in the genetic disease ______.
 120 of 211
 
-pulmonary emphysema
+pulmonary emphysema as well as liver disease
 
 Sickle cell anemia is a genetic condition that occurs due to a defect in _____ proteins.
 121 of 211
@@ -687,7 +687,7 @@ restriction endonuclease ; gel electrophoresis
 In STR (short tandem repeat) analysis, a DNA sample is examined for ___ specific regions.
 137 of 211
 
-13
+13 - more advanced technology allows for analysis for 20 loci.
 
 ______ is used to treat heritable conditions through DNA modifications.
 138 of 211
@@ -794,7 +794,7 @@ A  structural gene is a gene that codes for a _____.
 
 protein
 
-In eukaryotic cells the promoter sequence of DNA is located at the _____ box, the _____bo or the _____ box.
+In eukaryotic cells the promoter sequence of DNA is located at the _____ box, the _____box or the _____ box.
 159 of 211
 
 TATA ;  CAAT ; GC
@@ -842,7 +842,7 @@ Promotors; enhancers
 Promoters are (cis/trans) acting elements and enhancers are (cis/trans) acting elements.
 168 of 211
 
-cis ; trans
+cis ; cis
 
 Before RNA polymerase can bind to its promotor region a _________binds to it to allow for DNA unwinding.
 169 of 211
@@ -906,7 +906,7 @@ AUG
 An mRNA that is able to code for more than one protein is called ______.
 180 of 211
 
-polygenic
+polygenic or polycistronic
 
 An ______ is a series of genes and enzymes that coordinate the expression of a particular protein only when it is needed.
 181 of 211
