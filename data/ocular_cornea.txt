@@ -171,7 +171,7 @@ Marilyn Monroe Gets High In LA
 Describe a dermoid cyst on the cornea:
 35 of 204
 
-A dermoid is fleshy skin-like cyst on the cornea. - It is nonpathogenic tissue that just randomly grows where it isn't suppose to be (...skin isn't suppose to be on the cornea).
+A dermoid is fleshy skin-like cyst on the cornea. - It is nonpathogenic tissue that just randomly grows where it isn't supposed to be (...skin isn't supposed to be on the cornea).
 
 If you hear "congenital defect on Descemet's" (invagination of Descemet's) automatically think of which condition?
 36 of 204
@@ -530,7 +530,7 @@ Name the term given to iron deposits that may be seen at the advancing edge of a
 
 Stocker's line
 
-The swiss cheese holey appearance of band keratopathy caused by…
+The swiss cheese holey appearance of band keratopathy is caused by…
 105 of 204
 
 Characteristic small, dark, round holes are seen within the band and are thought to represent corneal nerves passing through Bowman's layer.
@@ -562,7 +562,7 @@ False - Terrien's marginal degeneration is an uncommon, noninflammatory marginal
 Describe the difference between Peripheral Ulcerative Keratitis (PUK) and Terrien's Marginal Degeneration:
 110 of 204
 
-PUK is large open ulcer (epithelium is broken) and unilateral. - Terrien's is a dip down with thinning of cornea superiorly The epithelium remains INTACT. Typically bilateral.
+PUK is large open ulcer (epithelium is broken) and unilateral. - Terrien's is a "dip down" with thinning of cornea superiorly but the epithelium remains INTACT. Typically bilateral.
 
 What is the major concern for Terrien's Marginal Degeneration?
 111 of 204
@@ -725,7 +725,7 @@ fungal keratitis
 Describe a "hyphate" ulcer plus FEATHERY borders.
 142 of 204
 
-This mean the ulcer is branching (think: fungal).
+This means the ulcer is branching (think: fungal).
 
 Name three common corneal fungal ulcer treatments.
 143 of 204
@@ -1019,7 +1019,7 @@ INFLAMMATORY, NONINFECTIOUS, fine granular sand-like infiltrates at LASIK FLAP i
 Describe Axenfeld Rieger vs Peters Anomaly.
 200 of 204
 
-Both are anterior segment congenital malformations - Axenfeld: posterior embryotoxon, with IRIS STRANDS stuck to cornea and TM causing glaucoma. PETERS: IS CENTRAL OPACITY of cornea with dense edema.
+Both are anterior segment congenital malformations - Axenfeld: posterior embryotoxon, with IRIS STRANDS stuck to cornea and TM causing glaucoma. PETERS: IS CENTRAL OPACITY of the cornea with dense edema.
 
 Overall, corneal pumps move _____ into the stroma and ___ out into the aqueous. This maintains a gradient so the cornea won't stay swollen with too much edema (aka deturgescence).
 201 of 204
