@@ -21,7 +21,7 @@ Coloboma is a condition where some tissue is missing in a part of the eye. (ex: 
 Differentiate recurrent vs chronic uveitis.
 4 of 109
 
-3 months is the rule for both. - Recurrent waxes and wanes for three months. Chronic has been going on longer than three months straight.
+3 months is the rule for both. - Recurrent waxes and wanes with episodes separated by three months of inactivity while off of treatment. Chronic has been going on longer than three months straight.
 
 Everyone only thinks of “cells and flare” for active uveitis, but name two other signs that could cause blurred vision in active uveitis.
 5 of 109
@@ -151,7 +151,7 @@ TRUE
 Differentiate Kawasaki disease vs Vogt-Koyanagi-Harada (VKH).
 30 of 109
 
-Kawasaki disease causes swelling, called inflammation, in the walls of small to medium-sized blood vessels. Vogt-Koyanagi-Harada disease (VKH) is a central nervous system condition that specifically affects vision and hearing. - BOTH can cause uveitis.
+Kawasaki disease causes swelling, called inflammation, in the walls of small to medium-sized blood vessels. Vogt-Koyanagi-Harada disease (VKH) is a melanocyte targeting disease that also affects vision and hearing. - BOTH can cause uveitis.
 
 Name the uveitis associated with diffuse stellate keratic precipitates.
 31 of 109
@@ -221,7 +221,7 @@ PCR
 Another name for reactive arthritis (HLA-B27):
 44 of 109
 
-Reiter’s Reactive
+Reiter’s disease / Reactive arthritis
 
 Mnemonic for Reiter’s Reactive:
 45 of 109
@@ -246,7 +246,7 @@ sarcoidosis
 Describe bilateral hilar adenopathy.
 49 of 109
 
-Bilateral lung granulomas in sarcoidosis localized to the root of the lung.
+Bilateral lung granulomas in sarcoidosis with enlarged lymphnodes localized to the root of the lung.
 
 True or False? Sarcoid can ONLY affect lacrimal sacs, NOT lacrimal glands.
 50 of 109
@@ -291,7 +291,7 @@ Vossius Ring
 If you read: - no trauma, but a patient has a hyphema. Start to think:
 58 of 109
 
-Sickle cell (more common in African American patients) or partial thromboplastin time (PTT)
+Sickle cell (more common in African American patients) or  testing partial thromboplastin time (PTT) for blood clotting disorders.
 
 True or False? One should ORDER AN MRI if there is a suspected metallic intraocular foreign body (from penetrating trauma).
 59 of 109
@@ -346,7 +346,7 @@ retinal vasculitis - sarcoid presents with “candle wax periphlebitis"
 Describe periphlebitis.
 69 of 109
 
-Inflammatory blood vessel diseases. Here, the small and medium-sized arteries become swollen and damaged. This produces painful, erythematous nodules.
+Inflammatory blood vessel diseases. -  For example, in the condition polyarteritis nodosa, the small and medium-sized arteries become swollen and damaged. This produces painful, erythematous nodules. Periphlebitis can also be seen in the retinal blood vessels.
 
 Does syphilis typically causes anterior, intermediate, or posterior uveitis?
 70 of 109
@@ -431,12 +431,12 @@ Equatorial crystalline lens epithelial cells migrate to the posterior capsule, t
 Describe Elschnig pearls.
 86 of 109
 
-It is another name for posterior capsular opacification (PCO), but it looks like a pearl-strand.
+It is the name for a distinctive style of posterior capsular opacification (PCO), but it looks like a pearl-strand.
 
 Cystoid macular edema after cataract surgery is called____ and happens typically _____weeks after the procedure.
 87 of 109
 
-Irving Gas Syndrome happens at 6-10 weeks after cataract surgery.
+Irvine-Gass Syndrome happens at 6-10 weeks after cataract surgery.
 
 Describe Biometry.
 88 of 109
@@ -456,7 +456,7 @@ b-scan ultrasound
 Name four systemic disease that can make a cataract appear at an age younger than 65 (think 40 years old).
 91 of 109
 
-Down Syndrome, Dystrophia Myotonica, Lowes syndrome, atopic dermatitis
+Down Syndrome, Dystrophia Myotonica, Lowe syndrome, atopic dermatitis
 
 Describe Lowe's Syndrome, which is associated to earlier cataracts.
 92 of 109
@@ -466,7 +466,7 @@ Describe Lowe's Syndrome, which is associated to earlier cataracts.
 During cataract surgery, if the capsule is broken and a PCIOL (posterior capsule intraocular implant) cannot be placed, what type of cataract implant can be inserted instead?
 93 of 109
 
-Anterior Chamber Implantable Ocular Lens (ACIOL) - ACIOLs can bump the trabecular meshwork, cornea, and ciliary body and are typically avoided for surgery when allowable.
+Anterior Chamber Intraocular Lens (ACIOL) - ACIOLs can bump the trabecular meshwork, cornea, and ciliary body and are typically avoided for surgery when allowable.
 
 Name some complications associated to ACIOLs.
 94 of 109
@@ -503,7 +503,7 @@ Differentiate Acute retinal necrosis (ARN) from progressive outer necrosis (PORN
 
 ARN is usually in semi-healthy (non-immunocompromised) and associated to a vitritis. CMV and PORN do not have vitritis.
 
-Name the condition: Bilateral decreased vision, DEPIGMENTATION OF ORBIT (whitening),  photophobia, pain, headache, stiff neck, MUTTON FAT keratic precipitates, nausea, and hearing loss/ tinnitus. Could have exudative retinal detachments. 
+Name the condition: Bilateral decreased vision, DEPIGMENTATION OF ORBITAL SKIN (whitening),  photophobia, pain, headache, stiff neck, MUTTON FAT keratic precipitates, nausea, and hearing loss/ tinnitus. Could have exudative retinal detachments. 
 101 of 109
 
 VOGT KOYANAGI HARADA SYNDROME (VKH)
