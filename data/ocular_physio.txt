@@ -45,9 +45,9 @@ List the nerves involved in the menace blink reflex.
 How are fibrils arranged in the cornea to allow for a clear appearance.
 9 of 70
 
-They are uniformly spaced 35um apart, in lattice uniform stacked.
+They are uniformly spaced 35um apart, in lattice uniformly stacked.
 
-How does the cornea appear when it is collecting fluid and  edema to separates collagen fibrils non-uniformly?
+How does the cornea appear when it is collecting fluid, and edema separates collagen fibrils non-uniformly?
 10 of 70
 
 The cornea becomes less clear and the patient has cloudy vision.
@@ -75,7 +75,7 @@ Aqueous vs tear layer: Which houses more glucose, and which houses more oxygen?
 Glucose transporters on the corneal epithelium are on which side of the cell? Apical or Basal?
 15 of 70
 
-There are no glucose transporters on the apical side (meaning out towards the tears). The glucose transporters of the epithelium are ONLY ON BASAL SIDE (more posterior). SO GLUCOSE TO THE EPITHELIUM IS ONLY FROM THE AQUEOUS.
+There are no glucose transporters on the apical side (meaning out towards the tears). The glucose transporters of the epithelium are ONLY ON THE BASAL SIDE (more posterior) SO GLUCOSE TO THE EPITHELIUM IS ONLY FROM THE AQUEOUS.
 
 In diabetes, sorbitol can be elevated in the cornea. When glucose is too high in cornea, what can result?
 16 of 70
@@ -115,7 +115,7 @@ lactic acid
 Name a common buffer in the cornea that decreases levels of lactic acid.
 23 of 70
 
-C02 bicarbonate
+C02 / bicarbonate
 
 If there is too much hypoxia in the cornea, the lactic acid goes up, decreasing the pH. If the C02 bicarbonate cannot keep up with the demand, the pH becomes more acidic. What equation shows the resultant pH?
 24 of 70
@@ -152,10 +152,10 @@ The corneal stroma is happy when it is filled with the perfect amount of H2O. Wh
 
 deturgescence
 
-Why does the corneal swell 4% after sleeping?
+Why does the cornea swell 4% after sleeping?
 31 of 70
 
-Edema occurs due to corneal hypoxia AND the tears are salty (hypertonic 305 mOsm) and pulls out water through the epithelium. - There are no salty tears while closed so 4% remains in the cornea.
+Edema occurs due to corneal hypoxia to the endothelial cell pumps AND the tears are salty (hypertonic 305 mOsm) which normally pulls out water through the epithelium. - There are no salty tears or surplus of oxygen while closed so 4% remains in the cornea.
 
 The corneal epithelium has a voltage of 15-20 due to:
 32 of 70
@@ -165,12 +165,12 @@ Cl- efflux out of the epithelium
 The X, Y, Z theory states epithelial corneal cells increase at night due to:
 33 of 70
 
-Higher levels of CO2 when the eyes are close results in higher acidity. This pH change desquamates (kills) weaker cells so newer cells migrate from bottom to replenish them.
+Higher levels of CO2 when the eyes are closed results in higher acidity. This pH change desquamates (kills) weaker cells so newer cells migrate from bottom to replenish them.
 
 Differentiate tensile strength of the cornea vs shear strength of the cornea.
 34 of 70
 
-TENSILE: how much OUTER force ALONG AXIS the cornea can take before ripping apart. - SHEAR: TANGENTIAL FORCE
+TENSILE: how much OUTER force ALONG THE AXIS the cornea can take before ripping apart. - SHEAR: TANGENTIAL FORCE
 
 Name an important pump at the corneal endothelium that keeps the corneal stroma from swelling.
 35 of 70
@@ -206,7 +206,7 @@ ADHESIVE strength within the cornea IS HIGHER at: ?? ANTERIOR or POSTERIOR ?? st
 
 41 of 70
 
-The anterior stroma has higher adhesive strength. Lamellae closer together so harder to separate.
+The anterior stroma has higher adhesive strength. The lamellae are closer together so they are also harder to separate.
 
 The corneal epithelium is the barrier to the environment. It has tight junctions that do not allow many chemicals across. How do chemicals / ophthalmic drops get into the eye?
 42 of 70
@@ -236,7 +236,7 @@ nasociliary branch of the trigeminal nerve
 At what level of the cornea do corneal nerves lose their Schwann cells.
 47 of 70
 
-posterior to Bowman's layer
+posterior to Bowman's layer - corneal nerves lose Schwann cells after intering the cornea near the limbus. 
 
 List two big changes to the cornea as humans age (after 60 years old).
 48 of 70
@@ -271,12 +271,12 @@ aldose reductase
 Describe the function on alpha-crystallin protein in the lens.
 54 of 70
 
-Maintains the refractive index and fights stress to reduce cataract formation with the help of chaperones proteins. - It is 40% of the entire lens composition.
+Maintains the refractive index and fights stress to reduce cataract formation with the help of chaperone proteins. - It is 40% of the entire lens composition.
 
-Describe the function of beta gamma crystallin protein function in the lens.
+Describe the function of beta gamma crystallin protein in the lens.
 55 of 70
 
-lens development. - 30% of lens composition
+lens development - 30% of lens composition
 
 Glucose and oxygen are sucked into the crystalline lens. What metabolite is shunted out of the lens to prevent cataract formation?
 56 of 70
@@ -303,10 +303,10 @@ Mitosis at the crystalline lens epithelium happens only at which zone?
 
 equator germination zone
 
-Differentiate normal tear electrolytes vs a dry/sick tear layer
+Differentiate normal tear electrolytes vs those in a dry/sick tear layer.
 61 of 70
 
-Normal= LOWER: Na+,K+, Cl-, Ca++ , IgG HIGHER: lysozymes, cytokines, mucins, IgA - SICK= HIGHER: SALT OSMOLARITY Na+, cytokines, mucin, IgG LOWER:  lysozymes, mucins, IgA
+Normal= LOWER: Na+,K+, Cl-, Ca++ , IgG HIGHER: lysozymes, cytokines, mucins, IgA - SICK= HIGHER: SALT OSMOLARITY Na+, cytokines, IgG LOWER:  lysozymes, mucins, IgA
 
 List the 11 amino acids in tears (LOW MOLECULAR WEIGHT PARTICLES IN TEARS).
 62 of 70
