@@ -171,7 +171,7 @@ Marilyn Monroe Gets High In LA
 Describe a dermoid cyst on the cornea:
 35 of 204
 
-A dermoid is fleshy skin-like cyst on the cornea. - It is nonpathogenic tissue that just randomly grows where it isn't supposed to be (...skin isn't suppose to be on the cornea).
+A dermoid is fleshy skin-like cyst on the cornea. - It is nonpathogenic tissue that just randomly grows where it isn't suppose to be (...skin isn't suppose to be on the cornea).
 
 If you hear "congenital defect on Descemet's" (invagination of Descemet's) automatically think of which condition?
 36 of 204
@@ -579,7 +579,7 @@ LASIK complications:
 Inflammatory cells that build up at the flap interface are called _____  VS non-inflammatory PUTTY-LIKE cells are called ___________.
 113 of 204
 
-INFLAMMATORY= DIFFUSE LAMELLAR KERATITIS (DLK- treat with steroid drops) - NON-INFLAMMATORY= Epi- INGROWTH (steroid cannot treat epi in growth because it is non-inflammatory.
+INFLAMMATORY= DIFFUSE LAMELLAR KERATITIS (DLK- treat with steroid drops) - NON-INFLAMMATORY= Epithelial- INGROWTH (steroid cannot treat epi-ingrowth because it is non-inflammatory.
 
 ___ are the most common contact lens-associated pathogen in bacterial keratitis.
 114 of 204
@@ -594,7 +594,7 @@ gram-negative (treated with fortified tobramycin)
 Describe a unique characteristic of acanthamoeba keratitis.
 116 of 204
 
-Starting off: Pain is out of proportion to small pinpoint signs. Then: A ring ulcer forms. - Histology: SHOWS CELLED OFF DOUBLE WALLED CYSTS UNDER CONFOCAL MICROSCOPY CALLED TROPHOZIOTES.
+Starting off: Pain is out of proportion to small pinpoint signs. Then: A ring ulcer forms. - Histology: SHOWS CELLED OFF DOUBLE WALLED CYSTS UNDER CONFOCAL MICROSCOPY CALLED TROPHOZOITES.
 
 Treatment: acanthamoeba
 117 of 204
@@ -722,7 +722,7 @@ Mycotic keratitis is also known as:
 
 fungal keratitis
 
-Describe a "hyphenate" ulcer plus FEATHERY borders.
+Describe a "hyphate" ulcer plus FEATHERY borders.
 142 of 204
 
 This mean the ulcer is branching (think: fungal).
@@ -792,7 +792,7 @@ Name the corneal disease: A disease characterized by the attachment of balled-up
 
 Filamentary Keratitis
 
-Treating the underlying dry eye is a first-line therapy in filamentary keratitis (ie cyclosporine in Restasis or serum tears). Name treat other common treatments in filamentary keratitis.
+Treating the underlying dry eye is a first-line therapy in filamentary keratitis (ie cyclosporine in Restasis or serum tears). Name two other common treatments in filamentary keratitis.
 156 of 204
 
 Bandage contact lens and N- Acetylcysteine (Mucomist)
@@ -961,7 +961,7 @@ Which procedure requires a bandage contact lens after surgery: LASIK or PRK
 
 PRK (no flap)
 
-The cornea has a penetrated wound due to trauma. What is the name of the dark fluid leakage sign visualized with with fluress?
+The cornea has a penetrated wound due to trauma. What is the name of the dark fluid leakage sign visualized with with Fluress?
 189 of 204
 
 Seidel
@@ -1021,7 +1021,7 @@ Describe Axenfeld Rieger vs Peters Anomaly.
 
 Both are anterior segment congenital malformations - Axenfeld: posterior embryotoxon, with IRIS STRANDS stuck to cornea and TM causing glaucoma. PETERS: IS CENTRAL OPACITY of cornea with dense edema.
 
-Overall, corneal pumps move _____ into the stroma and ___ out into the aqueous. This maintains a gradient so the corneal won't stay swollen with too much edema (aka deturgescence).
+Overall, corneal pumps move _____ into the stroma and ___ out into the aqueous. This maintains a gradient so the cornea won't stay swollen with too much edema (aka deturgescence).
 201 of 204
 
 Na+ into stroma, K+ out to aqueous and HCO3-(bicarbonate) out to aqueous
