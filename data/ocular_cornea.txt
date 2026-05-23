@@ -11,7 +11,7 @@ guttae
 Fuchs dystrophy shows signs that the endothelial pumping cells have died off. This results from:
 3 of 204
 
-VIII collagen atypically built up on the endothelium.
+Type VIII collagen atypically built up on the endothelium.
 
 The term given to corneal endothelial cells with varying cell area is:
 4 of 204
@@ -106,7 +106,7 @@ cytotoxic T lymphocytes
 Corneal epithelial deposits are most commonly  an iron ring, called:
 22 of 204
 
-Hudson Stahli line
+Hudson-Stähli line
 
 Name the iron ring at bottom of a keratoconus cone:
 23 of 204
@@ -123,7 +123,7 @@ The most common cause of drug induced corneal whorl keratopathy is:
 
 amiodarone
 
-White "stuck on" lesions on the corean that start at Bowmans and rise up are called:
+White "stuck on" lesions on the corea that start at Bowmans and rise up are called:
 26 of 204
 
 Salzmann's Nodules - consisting of hyaline and basement membrane
@@ -148,7 +148,7 @@ The immune hypersensitivity term that is used to describe an edematous corneal s
 
 Wessely ring
 
-Stromal deposits of cholesterol (senile arcus) are common after age 50- if seen before to years old, worry about:
+Stromal deposits of cholesterol (senile arcus) are common after age 50- if seen before 40 years old, worry about:
 31 of 204
 
 hyperlipidemia or hyperlipoproteinemia
@@ -245,7 +245,7 @@ Acanthamoeba grows on plates plated with ________ to use as food.
 
 E.coli & Enterobacter aerogenes
 
-True or False:  Acanthamoeba and Viral DNA can both be cultured in PCR.
+True or False:  Acanthamoeba and Viral DNA can both be identified via PCR.
 50 of 204
 
 TRUE
@@ -272,7 +272,7 @@ Four interchangeable names for Anterior Basement Membrane Dystrophy:
 What is the gene implicated in Meesmann Dystrophy?
 54 of 204
 
-keratin gene (KRT3)
+keratin gene (KRT3) - and KRT12 as well
 
 Describe gelatinous drop like corneal dystrophy description as well as its inheritance pattern.
 55 of 204
@@ -499,7 +499,7 @@ keratoconus
 True or False? DSEK keratoplasty is appropriate for the keratoconus patients without deep stromal scarring and has the advantage of eliminating the potential for endothelial rejection.
 99 of 204
 
-False - Surgeons choose Deep Anterior Lamellar Keratoplasties (DALKS) for KCN as scarring is anterior. A DSEK is posterior.
+False - Surgeons choose Deep Anterior Lamellar Keratoplasties (DALK) for KCN as scarring is anterior. A DSEK is posterior.
 
 Name the corneal disease associated with corneal protrusion above a band of inferior corneal thinning as well as a crab claw pattern on inferior topography.
 100 of 204
@@ -615,7 +615,7 @@ Riboflavin is used with light to strengthen the cornea and halt keratoconus prog
 True or False? Herpes Simplex has only one KNOWN HOST-humans.
 120 of 204
 
-True - Attempts have been made to replicate HSV  in mice and pigs and the virus did not grow.
+True - Attempts have been made to replicate HSV in mice and pigs and the virus did not grow.
 
 Which neural ganglia is infected in herpes simplex keratitis (to show a true dendrite).
 121 of 204
@@ -685,7 +685,7 @@ HZV only affects one side of the body due to dermatome mapping. - A dermatome is
 Describe a maculopapular rash.
 134 of 204
 
-A maculopapular rash is characterized by a mix of a flat, discolored area of skin (macule) and raised bumps (papules). - ASSOCIATED WITH VESICLES ON FOREHEAD FOR HZV.
+A maculopapular rash is characterized by a mix of a flat, discolored area of skin (macule) and raised bumps (papules). - ASSOCIATED WITH VESICLES ON FOREHEAD FOR HZV/VZV.
 
 Describe pseudodendrites vs true dendrites.
 135 of 204
@@ -700,7 +700,7 @@ Signs a virus is coming: itchy eyebrows, tingling forehead.
 Mycobacteria is specifically associated with:
 137 of 204
 
-Tubercuolosis - It has very thick, waxy, lipid-rich hydrophobic cell walls. Isoniazid, rifampin, pyrazinamide, and ethambutol are the only drugs proven to break thick cell walls. Less common mycobacteria is leprosy.
+Tuberculosis - It has very thick, waxy, lipid-rich hydrophobic cell walls. Isoniazid, rifampin, pyrazinamide, and ethambutol are the only drugs proven to break thick cell walls. Less common mycobacteria is leprosy.
 
 Fungi are eukaryotic (have a nucleus and other organelles). Unicellular fungi are called___and multicellular are called ____ microorganisms.
 138 of 204
@@ -994,7 +994,7 @@ LASEK makes the flap with alcohol.
 Can conductive keratoplasty (CK) be used for myopia?
 195 of 204
 
-No. CK is only used for low hyperopia (+0. 75DS to +3.00 and presbyopia). Here, radioactive burning shrinks peripheral collagen fibers.
+No. CK is only used for low hyperopia (+0. 75DS to +3.00 and presbyopia). Here, burning using radiofrequency energy shrinks peripheral collagen fibers.
 
 PMMA rings inserted into peripheral stroma to flatten cornea in keratoconus treatment are referred to as:
 196 of 204
@@ -1029,7 +1029,7 @@ Na+ into stroma, K+ out to aqueous and HCO3-(bicarbonate) out to aqueous
 Name the anterior segment disease: _____ is a disorder of the corneal endothelium manifested by abnormal endothelial cell formation and a STICKY proliferating membrane of the  endothelium, chamber angle, and iris.
 202 of 204
 
-Iridocorneal Syndrome (ICE)
+Iridocorneal Endothelial Syndrome (ICE)
 
 True or False? ICE syndrome is hereditary.
 203 of 204
