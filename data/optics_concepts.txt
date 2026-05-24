@@ -21,12 +21,12 @@ radii
 Why is curvature of a lens important?
 5 of 239
 
-A combination lens curvature and refractive index can allow a lens to bend light to a necessary specific point.
+A combination of lens curvature and refractive index can allow a lens to bend light to a necessary specific point.
 
 Difference between focal length of convex lens vs concave lens
 6 of 239
 
-CONVEX lens converges light: focal length is the distance between the center of lens to where the rays converge. - CONCAVE lenses diverge light and light rays originate from a point specific to the locations of the center of a lens.
+CONVEX lens converges light: focal length is the distance between the center of lens to where the rays converge. - CONCAVE lenses diverge light as if they originate from a virtual focal point.
 
 Learn the focal length approximation formula! It is an easy way to skip to a "close to" correct answer on multiple choice or to quickly double check your work.
 7 of 239
@@ -41,7 +41,7 @@ Distance from exact center of an arc to center of the lens base.
 Why is sag important in making optical lenses?
 9 of 239
 
-Locating the center of the radius of curvature (ie the center of the lens for the pupil line of sight).
+Locating the center of the radius of curvature (ie the center of the lens for the pupil line of sight)
 
 Describe rectilinear propagation.
 10 of 239
@@ -56,7 +56,7 @@ When light hits a medium with a refractive index, then light will bend. The stre
 Differentiate nodal point and nodal ray.
 12 of 239
 
-Light wants to stay straight. The nodal point is usually the very center of the lens that allows light to continue traveling straight (aka the nodal straight ray).
+Light wants to stay straight. The nodal point is usually the very center of the lens that allows light to continue traveling straight the same angle which it entered (aka the nodal straight ray).
 
 Define apparent depth.
 13 of 239
@@ -83,7 +83,7 @@ If you move a lens away from the eye (toward the tip of the nose), what effectiv
 
 A lens that moves away BECOMES MORE POWERFUL in PLUS. Ex 1.) +4.00 at eye = +4.25 at tip of nose Ex 2.) -4.00 at eye = -3.75 at tip of nose - WHERE THE LENS SITS CHANGES HOW POWERFUL IT ACTS.
 
-If you move a lens closer in towards the eye (or up the bridge of the nose) towards, what effective power are you inducing?
+If you move a lens closer in towards the eye (or up the bridge of the nose), what effective power are you inducing?
 18 of 239
 
 A lens that moves towards BECOMES MORE POWERFUL in MINUS. Ex 1.) +7.00 at eye = +6.75 at bridge of nose
@@ -107,14 +107,14 @@ If a spectacle prescription is higher than +4 or -4 GO MORE PLUS IN THE CONTACT 
 Explain vertex and effective power in terms of glasses and contact lens wear.
 22 of 239
 
-Changing corrective lenses from spectacles to contact lenses decreases the vertex distance between the lenses and the eye.The movement of that prescription alone makes the lens (effectively)a bit more minus…You don't have to include all that induced minus, so adjust the prescription.
+Changing corrective lenses from spectacles to contact lenses decreases the vertex distance between the lenses and the eye.The movement of that prescription alone makes the lens (effectively) a bit more minus…You don't have to include all that induced minus, so adjust the prescription.
 
 Quick math: Between 4 D to 6 D (either sign + or -), about how much difference in spectacle to contact lens power adjustments need to be made?
 23 of 239
 
 GO MORE PLUS BY 0.50D. - A -5.00 D spectacle prescription will need to be adjusted to a -4.50 for the correct contact lens prescription.
 
-Quick math: At 6 D ore greater (either sign + or -) how much does a contact lens prescription need to be adjusted from the glasses prescription in order to account for effective power?
+Quick math: At 6 D or greater (either sign + or -) how much does a contact lens prescription need to be adjusted from the glasses prescription in order to account for effective power?
 24 of 239
 
 The contact lens prescription needs to be MORE PLUS BY 1.00D. - Ex. A +6.00 spectacle prescription will need be a +7.00 contact lens prescription.
@@ -157,7 +157,7 @@ Color scatters so the wavelengths that don't focus on the retina show shadows of
 Depth of field vs depth of focus
 32 of 239
 
-Field: keep the LENS STILL, MOVE OBJECT IN AND OUT. How long can it stay clear? - FOCUS: TILT THE LENS AND KEEP THE OBJECT STILL. How long can it stay clear?
+Field: keep the LENS STILL, MOVE OBJECT IN AND OUT. How long can it stay clear? - FOCUS: MOVE THE LENS AND KEEP THE OBJECT STILL. How long can it stay clear?
 
 Define total internal reflection.
 33 of 239
