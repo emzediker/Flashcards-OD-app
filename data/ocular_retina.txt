@@ -18,7 +18,7 @@ Describe Purtscher's Retinopathy.
 
 CHEST COMPRESSING TRAUMA (think steering wheel into the chest) associated to diffuse retinal hemorrhage, exudates, and cotton wool spots.
 
-Test yourself: Differentiate between commotio retinae, Putscher's, and choroidal rupture.
+Test yourself: Differentiate between commotio retinae, Purtscher's, and choroidal rupture.
 4 of 103
 
 See info below.
@@ -61,7 +61,7 @@ A rare condition where cholesterol crystals collect in the vitreous after chroni
 List the areas where the vitreous is attached to the retina from strongest to weakest.
 12 of 103
 
-1. strongest: at ora serrata 2. posterior to lens capsule 3. optic nerve 4. weakest: macula
+1. strongest: at ora serrata 2. posterior lens capsule 3. optic nerve 4. weakest: macula
 
 Describe Shafer's sign.
 13 of 103
@@ -86,12 +86,12 @@ the duration of having diabetes. - After 10-15 years: 25-50% will get DMR. After
 What physically happens at the vessels in diabetes to cause dot blot hemes?
 17 of 103
 
-loss of pericyte cells that seal the vessels causes them to become leaky from damage to retinal capillary basement membrane.
+Loss of pericyte cells that seal the vessels causes them to become leaky from damage to the retinal capillary basement membrane.
 
 Name the three stages of NONPROLIFERATIVE diabetic retinopathy.
 18 of 103
 
-1. MILD (dot blot hemes only in one quad) 2. MODERATE (more than one quad of dot blots or exudates) 3. SEVERE (meets one of 4:2:1 rule)
+1. MILD (dot blot hemes only in one quadrant) 2. MODERATE (more than one quadrant of dot blots or exudates) 3. SEVERE (meets one of 4:2:1 rule)
 
 Describe the 4:2:1 rule of severe nonproliferative retinopathy. Remember, if a patient meets at LEAST ONE of the 4:2:1 rule it qualifies as “severe.”
 19 of 103
@@ -116,7 +116,7 @@ Name 2 high risk characteristics of vision loss in proliferative diabetic retino
 Define clinically significant macular edema (CSME).
 23 of 103
 
-At LEAST ONE of these is present: 1. retinal thickening within 500 um of fovea 2. hard exudates within 500 um with adjacent retinal thickening fluid 3. retinal thickening 1DD in SIZE within 1DD to fovea
+At LEAST ONE of these is present: 1. retinal thickening within 500 um of fovea 2. hard exudates within 500 um with adjacent retinal thickening 3. retinal thickening 1DD in SIZE within 1DD to fovea
 
 What is the definition of ESSENTIAL hypertension?
 24 of 103
@@ -151,7 +151,7 @@ ruptured retinal aneurysm called retinal artery MACROANEURYSM
 If you read: "symptoms of gradual unilateral peripheral loss to central loss of vision and signs of hemorrhages in  the MID-PERIPHERY of retina…" Think:
 30 of 103
 
-Ocular Ischemic Syndrome (OIS) (aka venous stasis). Here the IPSILATERAL INTERNAL CAROTID is blocked. Send the patient for a carotid doppler of the neck.
+Ocular Ischemic Syndrome (OIS) (aka venous stasis). Here the IPSILATERAL INTERNAL CAROTID is blocked. Send the patient for a carotid Doppler of the neck.
 
 Describe amaurosis fugax.
 31 of 103
@@ -166,7 +166,7 @@ Bilateral retinal yellow hyper-reflective spots, that can block retinal capillar
 Describe periphlebitis.
 33 of 103
 
-vascular sheathing as the outer coat of the vessel is trying to shed
+vascular sheathing as the outer coat of the vessel is trying to shed due to vascular inflammation
 
 Name 3 causes of periphlebitis.
 34 of 103
@@ -196,7 +196,7 @@ less than 1500 g (or 3.307lbs)
 What happens to the vessels in retinopathy of prematurity (ROP)?
 39 of 103
 
-Immature blood vessels vasoconstrict and stop developing in response to high level of supplemental oxygen given at birth. - This can cause a tractional retinal detachment.
+Immature blood vessels vasoconstrict and stop developing in response to high levels of supplemental oxygen given at birth. - This can cause a tractional retinal detachment.
 
 Describe leukocoria.
 40 of 103
@@ -206,7 +206,7 @@ The pupil appears white on retroillumination (ex. camera flash) due to light ref
 The 3 most common causes of leukocoria in children are:
 41 of 103
 
-* retinoblastoma * coats * retinopathy of prematurity
+* retinoblastoma * Coats * retinopathy of prematurity
 
 The last area of the retina to develop retinal blood vessels, and the therefore the first area impacted in retinopathy of prematurity is:
 42 of 103
@@ -216,7 +216,7 @@ temporal retina near the ora serrata
 If you read: "tumor in the retina in children..." Think:
 43 of 103
 
-retinoblastoma - overgrowth of retinoblast due to a mutation in the tumor suppressor gene Rb
+retinoblastoma - overgrowth of retinoblasts due to a mutation in the tumor suppressor gene Rb
 
 Differentiate heritable vs non-heritable retinoblastoma.
 44 of 103
@@ -231,7 +231,7 @@ CHRPE is much darker and can have lacuna. It does not usually disappear on red-f
 List the rules of thumb for choroidal nevi changing to melanoma.
 46 of 103
 
-To Find Small Ocular Melanomas - Thickness, Fluid, Symptoms, Orange pigment, Margins
+To Find Small Ocular Melanomas - Thickness, Fluid, Symptoms, Orange pigment, Margins near disc
 
 True or False? Along with smoking cigarettes, HYPEROPES have a 2x increased risk of developing exudative AMD.
 47 of 103
@@ -251,7 +251,7 @@ According to the Macular Photocoagulation Study, name 4 risk factors of progress
 Describe a Pigment Epithelial Detachment (PED).
 50 of 103
 
-plasma under the retinal pigment epithelium (RPE)
+plasma/fluid under the retinal pigment epithelium (RPE)
 
 If you read: "40yo high-strung / stressed out male with lots of stress (cortisol), with symptoms of acute metamorphopsia." Think:
 51 of 103
@@ -286,7 +286,7 @@ posterior staphyloma
 Differentiate lacquer cracks vs angioid streaks.
 57 of 103
 
-Lacquer cracks: In high myopes, yellow lines show breaks in Bruch's in the retina. - Angioid streaks: Deep cuts through to Bruchs that radiate from the optic nerve (in diseases like Ehlers Danlos and Paget's).
+Lacquer cracks: In high myopes, yellow lines show breaks in Bruchs in the retina. - Angioid streaks: Deep cuts through to Bruchs that radiate from the optic nerve (in diseases like Ehlers-Danlos and Paget's).
 
 List the PEPSI mnemonic for angioid streaks.
 58 of 103
@@ -306,7 +306,7 @@ glial cell proliferation on the internal limiting membrane
 Posterior vitreous detachments and ______ are the most common causes of macular holes.
 61 of 103
 
-vitreomacular adhesion
+vitreomacular adhesion/traction
 
 Describe a operculum.
 62 of 103
@@ -318,10 +318,10 @@ Describe positive Watzke-Allen:
 
 This method confirms a full thickness hole. Here the slit beam over the macula will appear with a hole in the center to break up the straight line, from a patient's perspective.
 
-Describe  the macular photostress test:
+Describe the macular photostress test:
 64 of 103
 
-This test how long it takes the macula to regain vision after a bright light is hed to the eye for 10 seconds. - If the patient takes longer than 60 seconds to regain vision then macula is in distress.
+This test how long it takes the macula to regain vision after a bright light is held to the eye for 10 seconds. - If the patient takes longer than 60 seconds to regain vision then then macula is in distress.
 
 Name 2 conditions associated to choroidal folds.
 65 of 103
@@ -333,7 +333,7 @@ What is characteristic of albinism specifically at the fovea?
 
 There is hypoplasia of the fovea (resulting in nystagmus) in addition to a depigmented retina.
 
-Most cases of retinitis pigmentosa (RP) is autosomal dominant. Name the syndrome that is autosomal recessive condition with RP and associated hearing loss.
+Most cases of retinitis pigmentosa (RP) are autosomal dominant. Name the syndrome that is autosomal recessive condition with RP and associated hearing loss.
 67 of 103
 
 Usher’s syndrome
@@ -356,7 +356,7 @@ posterior subcapsular cataract (PSC)
 Name the electrodiagnostic test most appropriate to evaluate retinitis pigmentosa?
 71 of 103
 
-ERG - Here the scotopic ERG is reduced, but the photopic ERG is normal.
+ERG - Here the scotopic ERG is reduced, but the photopic ERG is normal. Late in the disease thr photopic ERG is also reduced.
 
 If Retinitis Pigmentosa attacks RODS, name a disease that attacks CONES.
 72 of 103
@@ -373,7 +373,7 @@ Name a sister disease to Stargardt that does not involve the macula.
 
 Fundus Flavimaculatus
 
-How does Stargarts appear?
+How does Stargardt disease appear?
 75 of 103
 
 fleck lesions at the macula with late stages appearing “beaten bronze.” There is decreased vision out of proportion to fundus appearance.
@@ -381,7 +381,7 @@ fleck lesions at the macula with late stages appearing “beaten bronze.” Ther
 Describe choroideremia.
 76 of 103
 
-It is a progressive bilateral disease that eats away RPE and choriocapillaris causing exposure of the underlying scleral through through the overlying retina. - X LINKED RECESSIVE (males require only 1 defective allele to have the condition, and females are carriers unless they have 2 defective alleles.)
+It is a progressive bilateral disease that eats away RPE and choriocapillaris causing exposure of the underlying scleral through the overlying retina. - X LINKED RECESSIVE (males require only 1 defective allele to have the condition, and females are carriers unless they have 2 defective alleles.)
 
 Best disease is also known as…
 77 of 103
@@ -393,7 +393,7 @@ Best Disease presents as:
 
 an egg yolk appearance at the fovea due to build up of lipofuscin.
 
-Specific electrodiagnostic test for BEST disease(hint: looks like an egg)
+Specific electrodiagnostic test for BEST disease (hint: looks like an egg)
 79 of 103
 
 EOG
@@ -431,7 +431,7 @@ superior temporal - Superior is more scary because gravity can pull it down and 
 Patients with elastin or collagen diseases like ______, ______, or ______ can present with atypical lattice degeneration that can lead to rhegmatogenous retinal detachments.
 86 of 103
 
-Marfans, Ehlers-Danlos, and Sticklers
+Marfan, Ehlers-Danlos, and Stickler
 
 Mnemonic for common causes of NEOVASCULARIZATION (weak new blood vessels, made in response to ischemia that can cause tractional retinal detachments)
 87 of 103
@@ -441,12 +441,12 @@ CHAP LIPS
 Describe a retinoschisis.
 88 of 103
 
-A split of the retina between the of outer plexiform (OPL) and inner nuclear (INL) layers.
+A split of the retina between the outer plexiform (OPL) and inner nuclear (INL) layers.
 
 Describe toxocariasis.
 89 of 103
 
-If is an infection due to a NEMATODE in the retina originating from dog/ cat intestines. It appears as a long strand in the retina with bulb its end. It can cause retinal detachment or optic nerve edema.
+It is an infection due to a NEMATODE in the retina originating from dog/ cat intestines. It appears as a long strand in the retina with a bulb its end. It can cause retinal detachment or optic nerve edema.
 
 Define the zones of retinopathy of prematurity.
 90 of 103
@@ -471,12 +471,12 @@ Toxo sounds like proto (protozoan) + toxic cleaning cat litter - Histo: Hallowee
 Describe retinal astrocytoma.
 94 of 103
 
-A congenital retinal neoplasm (tumor) built as a CALCIUM MASS  and glial cells. Appears similar to optic nerve drusen only but elsewhere on the retina.
+A congenital retinal neoplasm (tumor) built froma CALCIUM MASS and glial cells. Appears similar to optic nerve drusen only but elsewhere on the retina.
 
 Describe rubella retinopathy.
 95 of 103
 
-Congenital *mottled pigmentation* at the macula referred to as called salt and pepper retinopathy.
+Congenital *mottled pigmentation* at the macula referred to as salt and pepper retinopathy.
 
 If you read: "SEAFAN neovascular" formation. Think:
 96 of 103
@@ -491,7 +491,7 @@ Eales presents with peripheral vascular retinal issues leading to retinal detach
 Hydroxychloroquine (Plaquenil) maculopathy affects which areas of the retina?
 98 of 103
 
-The outer retinal and photoreceptor degenerate resulting in a bullseye retinopathy appearance. - On OCT it looks like parafoveal ellipsoid split with “flying saucer” sign.
+The outer retinal and photoreceptors degenerate resulting in a bullseye retinopathy appearance. - On OCT it looks like parafoveal ellipsoid split with “flying saucer” sign.
 
 Name the electrodiagnostic test most appropriate for Plaquenil testing:
 99 of 103
@@ -516,4 +516,4 @@ tamoxifen
 Solar retinopathy affects what layer of the retina?
 103 of 103
 
-junction of the inner and outer segments of the photoreceptors. Damage can appear to as macular hole with sealed overlying inner limiting membrane,
+junction of the inner and outer segments of the photoreceptors. Damage can appear as macular hole with sealed overlying inner limiting membrane,
