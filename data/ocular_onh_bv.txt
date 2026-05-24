@@ -31,12 +31,12 @@ CRVO has blood in all 4 quadrants, cotton wool spots, and dilated tortuous retin
 Describe collateral veins.
 6 of 63
 
-Thicker veins (typically on disc) that develop weeks to months after a buildup of fluid (like CRVO) to help accelerate drainage of excessive fluid.
+Thicker veins (typically on disc) that develop weeks to months after a buildup of fluid (like CRVO) to help accelerate drainage of excessive fluid. - In short, they occur as a result of venous congestion. 
 
 Describe VEGF.
 7 of 63
 
-Vascular endothelial growth factor (VEGF), initiates growth of new poor vessels called neovascular vessels. It acts as a angiogenic factor growth factor for vascular endothelial cells.
+Vascular endothelial growth factor (VEGF), initiates growth of new poor-quality vessels called neovascular vessels. It acts as an angiogenic growth factor for vascular endothelial cells.
 
 What is the timeline a central retinal vein occlusion (CRVO) can result in neovascular glaucoma (NVG)?
 8 of 63
@@ -101,7 +101,7 @@ aka bean potting, it means the vessel dips down way low and then pops up on the 
 List some characteristic visual fields (4) associated to glaucoma.
 20 of 63
 
-1. nasal step 2. paracentral scotoma 3. arcuate scotoma starting at blindspot to nasa 4. altitudinal defect
+1. nasal step 2. paracentral scotoma 3. arcuate scotoma starting at blindspot to nasal 4. altitudinal defect
 
 Describe the associations of visual fields that respect vertical vs horizontal lines (raphes) respectively. 
 21 of 63
@@ -121,7 +121,7 @@ Name 9 different types of SECONDARY glaucomas (caused by something else happenin
 What is “lens induced glaucoma” called?
 24 of 63
 
-Phacomorphic glaucoma. - The lens gets so dense and big due to cataract formation is shifts forward and closes the trabecular meshwork causing a secondary narrow angle glaucoma.
+Phacomorphic glaucoma. - The lens gets so dense and big due to cataract formation it shifts forward and closes the trabecular meshwork causing a secondary narrow angle glaucoma.
 
 Name an inflammatory secondary glaucoma.
 25 of 63
@@ -131,7 +131,7 @@ uveitic glaucoma - think: pigment and inflammatory cells from the iris clog the 
 Describe exfoliative glaucoma:
 26 of 63
 
-Pseudoexfoliation (PXE) glaucoma presents with pseudoexfoliative material built-up on the anterior lens capsule as wells as PXE material on lens zonules making them weak, and PXE material deposited like salt and pepper in the clogging the trabecular meshwork (seen on gonioscopy).
+Pseudoexfoliation (PXE) glaucoma presents with pseudoexfoliative material built-up on the anterior lens capsule as well as PXE material on lens zonules making them weak, and PXE material deposited like salt and pepper clogging the trabecular meshwork (seen on gonioscopy).
 
 Differentiate Pigmentary Glaucoma vs Pseudoexfoliation (PXE) Glaucoma.
 27 of 63
@@ -151,7 +151,7 @@ A congenital defect presenting with a PORT WINE STAIN BIRTHMARK on the child's f
 Describe ghost cell glaucoma.
 30 of 63
 
-Degenerated red blood cells from a vitreous hemorrhage clog the trabecular meshwork. - So named “ghost cells” because the khaki colored blood cell they look like ghost of their formerly red form.
+Degenerated red blood cells from a vitreous hemorrhage clog the trabecular meshwork. - So named “ghost cells” because the khaki colored blood cell look like ghost of their formerly red form.
 
 Describe optic atrophy.
 31 of 63
@@ -161,7 +161,7 @@ more pallor (whitening) than cupping
 Differentiate optic nerve pit vs coloboma.
 32 of 63
 
-1. Pit is a collagen lined pocket extending posteriorly. Seen as a tiny spot on the optic nerve but can be associated development of retinoschisis up to the macula. - 2. Coloboma is a malformation of embryonic tissue that appears as a like a keyhole due to incomplete closure. Usually larger, but typically *does not lead to fluid or retinoschisis to the macula.*
+1. Pit is a collagen lined pocket extending posteriorly. Seen as a tiny spot on the optic nerve but can be associated with development of retinoschisis up to the macula. - 2. Coloboma is a malformation of embryonic tissue that appears as like a keyhole due to incomplete closure. Usually larger, but typically *does not lead to fluid or retinoschisis to the macula.*
 
 A patient reports headaches, nausea, and has an IOP 50 mmHg. Think:
 33 of 63
@@ -172,7 +172,7 @@ Acute narrow-angle closure - If you see cupping and synechia think chronic or in
 Race and refractive error most common to have an acute narrow-angle closure attack.
 34 of 63
 
-Race: Asian decent / Refractive error: Hyperopes - Think: both have anatomical narrow angles to begin with making them predisposed to closure.
+Race: Asian descent / Refractive error: Hyperopes - Think: both have anatomical narrow angles to begin with making them predisposed to closure.
 
 True or False? A blown nerve in severe POAG can present with an afferent pupillary defect (APD).
 35 of 63
@@ -187,7 +187,7 @@ Thin CCT is more risk for POAG. - Mnemonic: thin cornea = thinning optic nerve
 Does a thin central corneal thickness underestimate or overestimate IOP measurements with applanation?
 37 of 63
 
-Thin CCT will underestimate of IOP as measured with applanation.
+Thin CCT will underestimate IOP as measured with applanation.
 
 ______ color loss may occur in early POAG vs _______ color loss may occur in late stage POAG.
 38 of 63
@@ -207,7 +207,7 @@ NOT MACULAR DISEASE (I KNOW!!!!) TESTING IS FOR OPTIC NERVE DISEASE - ex. If a p
 To reduce the progression of primary open angle glaucoma, the target IOP should be _____% less than TMAX.
 41 of 63
 
-20-30% off TMAX (highest tonometry IOP ever read for the patient). - Prostaglandin drops can take 2-4 weeks to reach maximum efficacy. 
+20-30% below TMAX (highest tonometry IOP ever read for the patient). - Prostaglandin drops can take 2-4 weeks to reach maximum efficacy. 
 
 What is typical maximum efficacy % drop for PGA drop?
 42 of 63
@@ -217,7 +217,7 @@ What is typical maximum efficacy % drop for PGA drop?
 When should you avoid the use of prostaglandin drops?
 43 of 63
 
-*History of inflammation like cystoid macular edema (CME) *History of herpetic eye infection *Recent cataract surgery (can induce CME called Irvine-Gas) *Pregnancy (PGA’s induce labor) *Monocular glaucoma (due to prominent ocular side effects)
+*History of inflammation like cystoid macular edema (CME) *History of herpetic eye infection *Recent cataract surgery (can induce CME called Irvine-Gass) *Pregnancy (PGA’s induce labor) *Monocular glaucoma (due to prominent ocular side effects)
 
 We all know you cannot prescribe beta-blocker glaucoma drop with lung issues like asthma or COPD. What is another contraindication to prescribing timolol?
 44 of 63
@@ -227,14 +227,14 @@ myasthenia gravis
 Alpha-agonist glaucoma drops (like brimonidine) cannot be taken with what oral medication due to cross-reactivity that could induce a HYPERTENSIVE CRISIS?
 45 of 63
 
-MOAIs (monoamine oxidase inhibitors) - Think: antidepressants and Parkinson's (ex Nardil)
+MAOIs (monoamine oxidase inhibitors) - Think: antidepressants and Parkinson's (ex Nardil)
 
 Topical carbonic anhydrase inhibitor (CAI) drops cannot be prescribed in patients with with a ______ allergy.
 46 of 63
 
-sulfa allergy - could cause metabolic acidosis
+sulfa allergy - Also CAIs could cause metabolic acidosis.
 
-True or False? Carbonic anhydrase inhibitor drops  can induce more corneal edema patients who have Fuch’s endothelial dystrophy.
+True or False? Carbonic anhydrase inhibitor drops can induce more corneal edema patients who have Fuch’s endothelial dystrophy.
 47 of 63
 
 True - Remember carbonic anhydrase is what brings fluid out of the cornea– so inhibiting it can trap more fluid in the cornea.
@@ -262,7 +262,7 @@ Topiramate
 Describe aqueous misdirection.
 52 of 63
 
-This condition usually follows intraocular surgery WITH A VERY SHALLOW AC. It is very rare, but aqueous no longer follows the  convection current causing IOP to spike. - It is also called malignant glaucoma because rapid intervention is needed to prevent blindness.
+This condition usually follows intraocular surgery WITH A VERY SHALLOW AC. It is very rare, but aqueous no longer follows the convection current causing IOP to spike. - It is also called malignant glaucoma because rapid intervention is needed to prevent blindness.
 
 In angle recession glaucoma, what treatments may be the LEAST useful in lowering IOP?
 53 of 63
@@ -272,7 +272,7 @@ Pilocarpine and selective laser trabeculoplasty (SLT)
 Describe Posner Schlossman syndrome.
 54 of 63
 
-Also known as glaucomatocyclitic crisis. This condition may occur as a virus (like herpes) attacks the trabecular meshwork. Classic symptoms are waxing and waning of unilateral mild pain and halos, with IOP varying 40 some visits and 10 some visits.
+Also known as glaucomatocyclitic crisis. This condition may occur as a virus (like herpes) attacks the trabecular meshwork. Classic symptoms are waxing and waning of unilateral mild pain and halos, with IOP varying 40 on some visits and 10 on others.
 
 Describe the etiology of steroid-induced glaucoma.
 55 of 63
@@ -292,7 +292,7 @@ lytic: leakage of lens material through intact capsule to clog the trabecular me
 Describe plateau iris syndrome.
 58 of 63
 
-Anatomically the iris is flat then in the mid-periphery it bows forward and in far periphery it goes back to flat. This can lead to angle closure if the iris bunches up in trabecular meshwork.
+Anatomically the iris is flat then in the mid-periphery it bows forward and in the far periphery it goes back to flat. This can lead to angle closure if the iris bunches up in trabecular meshwork.
 
 Differentiate plateau iris angle closure vs pupil block IOP spike.
 59 of 63
@@ -317,4 +317,4 @@ A malpositioned intraocular lens (IOL) rubbing the ciliary body or iris causing 
 How do steroid drops increase IOP?
 63 of 63
 
-Steroids affects the trabecular meshwork (TM) by:	a. Increasing in surface area and size to clog the TM	b. Slowing phagocytic activity of the TM cells c. Inducing the TM to accumulate extracellular matrix proteins (fibronectin and elastin) d. Decreasing the synthesis of natural prostaglandins
+Steroids affect the trabecular meshwork (TM) by:	a. Increasing the surface area and size to clog the TM	b. Slowing phagocytic activity of the TM cells c. Inducing the TM to accumulate extracellular matrix proteins (fibronectin and elastin) d. Decreasing the synthesis of natural prostaglandins
