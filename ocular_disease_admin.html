@@ -167,7 +167,7 @@ async function loadImageMap(deckId){
 async function loadImageList(deckId){
   IMAGE_LIST = ['(none)'];
   const base = `images/${deckId}/`;
-  const url  = `${base}_files.json?cachebust=${Date.now()}`;
+  const url  = `${base}files.json?cachebust=${Date.now()}`;
   try{
     const r = await fetch(url,{cache:'no-store'});
     if(r.ok){
