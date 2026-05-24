@@ -84,18 +84,20 @@ const DECKS = [
 let IMAGE_MAP = {};
 async function fetchImageMap(deckId){
   try{
-    const r = await fetch(`images/${deckId}_image_map.json`, {cache:'no-store'});
-    console.log(url);
+    const r = await fetch(`images/${deckId}_image_map.json`, {
+      cache:'no-store'
+    });
 
-if(r.ok){
-  list = await r.json();
-}else{
-  console.log("FAILED", r.status);
-}
+    if(r.ok){
+      return await r.json();
+    }else{
+      console.log("FAILED", r.status);
+    }
+
   }catch(e){
-  console.log(e);
-  alert(e);
-}
+    console.log(e);
+  }
+
   return {};
 }
 const imgTag = (src) => src ? `<img src="${src}" alt="">` : '';
