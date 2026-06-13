@@ -341,7 +341,7 @@ Fenestrated is holey, leaky (liquid can leak through the slots in the fence). No
 What areas are nonfenestrated in the blood aqueous VS blood retina barrier?
 67 of 69
 
-Blood-Aqueous: in the iris (blood cannot leak inside the iris) - Blood-Retina: in the inner Retina (blood cannot leak to inner retina)
+1. Blood-Aqueous: in the iris (blood cannot leak inside the iris). 2. Blood-Retina: in the inner Retina (blood cannot leak to inner retina)
 
 What areas adjacent to the blood-aqueous and blood-retina barrier are fenestrated?
 68 of 69
